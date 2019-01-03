@@ -12,6 +12,6 @@ We will check all the servers once per hour, you can subscribe on demand:
 
 ## Supported clients:
 
-- **Shadowrocket** on iOS
-- **SSR/SSRR** on Android
-- **ShadowsocksR** on windows
+- **[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)** on iOS
+- **SSR/[SSRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)** on Android
+- **[ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)** on windows
