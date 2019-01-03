@@ -6,9 +6,9 @@ Telegram Channel: https://t.me/autossr
 
 We will check all the server once per hour, you can subscribe on demand:
 
-- `https://git.io/autossr-online`  **ONLINE**<br>All the online servers, available more than one hour.
-- `https://git.io/autossr-stable`  **STABLE**<br>Available more the 12 hours, seems they are stable.
-- `https://git.io/autossr-recent`  **RECENT**<br>Recent servers, active in 6 hours.
+- `https://git.io/autossr-online`  **ONLINE:** All the online servers, available more than one hour.
+- `https://git.io/autossr-stable`  **STABLE:** Available more the 12 hours, seems they are stable.
+- `https://git.io/autossr-recent`  **RECENT:** Recent servers, active in 6 hours.
 
 ## Supported clients:
 
