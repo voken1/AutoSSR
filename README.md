@@ -2,8 +2,16 @@
 
 Telegram Channel: https://t.me/autossr
 
-## Subscribe by short link
+## Use these URLs to subscribe
 
-- ONLINE:<br>https://git.io/autossr-online
-- STABLE:<br>https://git.io/autossr-stable
-- RECENT:<br>https://git.io/autossr-recent
+We will check all the server once per hour, you can subscribe on demand:
+
+- **ONLINE**:<br>https://git.io/autossr-online<br>All the online servers, available more than one hour.
+- **STABLE**:<br>https://git.io/autossr-stable<br>Available more the 12 hours, seems they are stable.
+- **RECENT**:<br>https://git.io/autossr-recent<br>Recent servers, active in 6 hours.
+
+## Supported clients:
+
+- **Shadowrocket** on iOS
+- **SSR/SSRR** on Android
+- **ShadowsocksR** on windows
