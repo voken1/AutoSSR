@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Thu Jan 10 14:40:44 UTC 2019
+Latest update at: Fri Jan 11 04:10:12 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -10,7 +10,7 @@ Latest update at: Thu Jan 10 14:40:44 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.45C4 | AS9009 | United States | 30 hrs |
+| #.45C4 | AS9009 | United States | 32 hrs |
 | #.EAE2 | AS9009 | United States | 34 hrs |
 | #.C24C | AS24940 | Germany | 18 hrs |
 | #.CAF1 | AS36352 | United States | 151 hrs |
@@ -28,7 +28,7 @@ Latest update at: Thu Jan 10 14:40:44 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.45C4 | AS9009 | United States | 30 hrs |
+| #.45C4 | AS9009 | United States | 32 hrs |
 | #.1C9A | AS51659 | Russia | 8 hrs |
 | #.EAE2 | AS9009 | United States | 34 hrs |
 | #.C24C | AS24940 | Germany | 18 hrs |
@@ -56,12 +56,12 @@ Latest update at: Thu Jan 10 14:40:44 UTC 2019
 | #.B5B4 | AS199524 | Russia | 5 hrs |
 | #.285E | AS14061 | Singapore | 1 hrs |
 
-## 40 recent servers:
+## 46 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
 | #.C9F0 | AS46844 | United States | 1 hrs offline |
-| #.45C4 | AS9009 | United States | 30 hrs |
+| #.45C4 | AS9009 | United States | 32 hrs |
 | #.C51C | AS57494 | Russia | 2 hrs offline |
 | #.70EF | AS57673 | Romania | 2 hrs offline |
 | #.98F1 | AS50056 | United Kingdom | 9 hrs offline |
@@ -100,5 +100,11 @@ Latest update at: Thu Jan 10 14:40:44 UTC 2019
 | #.B5B4 | AS199524 | Russia | 5 hrs |
 | #.285E | AS14061 | Singapore | 1 hrs |
 | #.B337 | AS14061 | United Kingdom | 1 hrs offline |
+| #.E8C0 | N/A | N/A | 2 hrs offline |
+| #.FF4D | AS4760 | Hong Kong | |
+| #.2D6C | AS4760 | Hong Kong | |
+| #.389B | AS133365 | Taiwan | |
+| #.E223 | AS63949 | Singapore | |
+| #.0874 | AS14061 | United States | |
 
 
