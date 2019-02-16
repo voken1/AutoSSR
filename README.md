@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sat Feb 16 10:24:22 UTC 2019
+Latest update at: Sat Feb 16 11:11:10 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -82,7 +82,7 @@ Latest update at: Sat Feb 16 10:24:22 UTC 2019
 | #.58E4 | AS35916 | United States | 4 hrs |
 | #.3CEF | AS4760 | Hong Kong | 3 hrs |
 
-## 100 recent servers:
+## 102 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -186,5 +186,7 @@ Latest update at: Sat Feb 16 10:24:22 UTC 2019
 | #.D93E | AS6167 | United States | |
 | #.54A3 | N/A | N/A | |
 | #.FE7E | AS33363 | United States | |
+| #.DF6D | AS16509 | Singapore | |
+| #.9908 | AS16509 | Singapore | |
 
 
