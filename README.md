@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sat Feb 16 17:37:30 UTC 2019
+Latest update at: Sat Feb 16 19:58:32 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -10,13 +10,13 @@ Latest update at: Sat Feb 16 17:37:30 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.CAF1 | AS36352 | United States | 327 hrs |
-| #.A96B | AS25369 | United Kingdom | 305 hrs |
-| #.F387 | AS8100 | United States | 154 hrs |
-| #.5E38 | AS40676 | United States | 125 hrs |
-| #.A86C | AS40676 | United States | 100 hrs |
-| #.F29C | AS20473 | United States | 26 hrs |
-| #.5574 | AS25820 | United States | 183 hrs |
+| #.CAF1 | AS36352 | United States | 328 hrs |
+| #.A96B | AS25369 | United Kingdom | 306 hrs |
+| #.F387 | AS8100 | United States | 155 hrs |
+| #.5E38 | AS40676 | United States | 126 hrs |
+| #.A86C | AS40676 | United States | 101 hrs |
+| #.F29C | AS20473 | United States | 27 hrs |
+| #.5574 | AS25820 | United States | 184 hrs |
 | #.1EFA | AS40676 | United States | 61 hrs |
 | #.847C | AS35913 | United States | 97 hrs |
 | #.3B3D | AS40676 | India | 56 hrs |
@@ -31,21 +31,21 @@ Latest update at: Sat Feb 16 17:37:30 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.70EF | AS57673 | Romania | 1 hrs |
-| #.F90F | AS57494 | Russia | 1 hrs |
-| #.CAF1 | AS36352 | United States | 327 hrs |
-| #.A96B | AS25369 | United Kingdom | 305 hrs |
-| #.7380 | AS16509 | Singapore | 1 hrs |
-| #.298F | AS14061 | Singapore | 2 hrs |
-| #.97E8 | AS16509 | Republic of Korea | 3 hrs |
-| #.F387 | AS8100 | United States | 154 hrs |
-| #.5E38 | AS40676 | United States | 125 hrs |
-| #.A86C | AS40676 | United States | 100 hrs |
-| #.F29C | AS20473 | United States | 26 hrs |
-| #.5574 | AS25820 | United States | 183 hrs |
-| #.B428 | AS51659 | Russia | 7 hrs |
-| #.0FF8 | AS51659 | Russia | 4 hrs |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.70EF | AS57673 | Romania | 2 hrs |
+| #.F90F | AS57494 | Russia | 2 hrs |
+| #.CAF1 | AS36352 | United States | 328 hrs |
+| #.A96B | AS25369 | United Kingdom | 306 hrs |
+| #.7380 | AS16509 | Singapore | 2 hrs |
+| #.298F | AS14061 | Singapore | 3 hrs |
+| #.97E8 | AS16509 | Republic of Korea | 4 hrs |
+| #.F387 | AS8100 | United States | 155 hrs |
+| #.5E38 | AS40676 | United States | 126 hrs |
+| #.A86C | AS40676 | United States | 101 hrs |
+| #.F29C | AS20473 | United States | 27 hrs |
+| #.A733 | AS16509 | Singapore | 1 hrs |
+| #.6766 | AS16509 | United States | 1 hrs |
+| #.5574 | AS25820 | United States | 184 hrs |
 | #.1EFA | AS40676 | United States | 61 hrs |
 | #.847C | AS35913 | United States | 97 hrs |
 | #.19B6 | AS31798 | Canada | 1 hrs |
@@ -74,30 +74,29 @@ Latest update at: Sat Feb 16 17:37:30 UTC 2019
 | #.7B13 | AS35913 | United States | 1 hrs |
 | #.9348 | AS51659 | Russia | 1 hrs |
 
-## 110 recent servers:
+## 109 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.70EF | AS57673 | Romania | 1 hrs |
-| #.A8BA | AS54600 | China | 11 hrs offline |
-| #.555D | AS6939 | United States | 7 hrs offline |
-| #.F90F | AS57494 | Russia | 1 hrs |
-| #.CAF1 | AS36352 | United States | 327 hrs |
-| #.A96B | AS25369 | United Kingdom | 305 hrs |
-| #.7380 | AS16509 | Singapore | 1 hrs |
-| #.298F | AS14061 | Singapore | 2 hrs |
-| #.97E8 | AS16509 | Republic of Korea | 3 hrs |
-| #.F387 | AS8100 | United States | 154 hrs |
-| #.5E38 | AS40676 | United States | 125 hrs |
-| #.A86C | AS40676 | United States | 100 hrs |
-| #.F29C | AS20473 | United States | 26 hrs |
-| #.A733 | AS16509 | Singapore | 1 hrs offline |
-| #.6766 | AS16509 | United States | 1 hrs offline |
-| #.5574 | AS25820 | United States | 183 hrs |
-| #.B428 | AS51659 | Russia | 7 hrs |
-| #.2F37 | AS51659 | Russia | 1 hrs offline |
-| #.0FF8 | AS51659 | Russia | 4 hrs |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.70EF | AS57673 | Romania | 2 hrs |
+| #.555D | AS6939 | United States | 8 hrs offline |
+| #.F90F | AS57494 | Russia | 2 hrs |
+| #.CAF1 | AS36352 | United States | 328 hrs |
+| #.A96B | AS25369 | United Kingdom | 306 hrs |
+| #.7380 | AS16509 | Singapore | 2 hrs |
+| #.298F | AS14061 | Singapore | 3 hrs |
+| #.97E8 | AS16509 | Republic of Korea | 4 hrs |
+| #.F387 | AS8100 | United States | 155 hrs |
+| #.5E38 | AS40676 | United States | 126 hrs |
+| #.A86C | AS40676 | United States | 101 hrs |
+| #.F29C | AS20473 | United States | 27 hrs |
+| #.A733 | AS16509 | Singapore | 1 hrs |
+| #.6766 | AS16509 | United States | 1 hrs |
+| #.5574 | AS25820 | United States | 184 hrs |
+| #.B428 | AS51659 | Russia | 1 hrs offline |
+| #.2F37 | AS51659 | Russia | 2 hrs offline |
+| #.0FF8 | AS51659 | Russia | 1 hrs offline |
 | #.1EFA | AS40676 | United States | 61 hrs |
 | #.F7E9 | AS16509 | Republic of Korea | 9 hrs offline |
 | #.8C23 | AS36352 | United States | 8 hrs offline |
