@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri Feb 22 20:18:57 UTC 2019
+Latest update at: Fri Feb 22 20:19:48 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -15,9 +15,9 @@ Latest update at: Fri Feb 22 20:18:57 UTC 2019
 | #.3B3D | AS40676 | India | 111 hrs |
 | #.9246 | AS20473 | United States | 116 hrs |
 | #.1579 | AS63949 | United States | 92 hrs |
-| #.DB57 | AS4713 | Japan | 48 hrs |
+| #.DB57 | AS4713 | Japan | 49 hrs |
 
-## 45 online servers:
+## 46 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -63,9 +63,10 @@ Latest update at: Fri Feb 22 20:18:57 UTC 2019
 | #.20B5 | AS174 | United States | 4 hrs |
 | #.58C5 | AS35913 | United States | 3 hrs |
 | #.5055 | AS35913 | United States | 4 hrs |
-| #.456A | AS57494 | Russia | 3 hrs |
-| #.7FEC | AS174 | United States | 2 hrs |
-| #.DB57 | AS4713 | Japan | 48 hrs |
+| #.456A |  | Russian Federation | 4 hrs |
+| #.F4DD | AS51659 | Russia | 1 hrs |
+| #.7FEC | AS174 | United States | 3 hrs |
+| #.DB57 | AS4713 | Japan | 49 hrs |
 
 ## 64 recent servers:
 
@@ -131,9 +132,9 @@ Latest update at: Fri Feb 22 20:18:57 UTC 2019
 | #.7CCE | AS174 | United States | 1 hrs offline |
 | #.58C5 | AS35913 | United States | 3 hrs |
 | #.5055 | AS35913 | United States | 4 hrs |
-| #.456A | AS57494 | Russia | 3 hrs |
-| #.F4DD | AS51659 | Russia | 1 hrs offline |
-| #.7FEC | AS174 | United States | 2 hrs |
-| #.DB57 | AS4713 | Japan | 48 hrs |
+| #.456A |  | Russian Federation | 4 hrs |
+| #.F4DD | AS51659 | Russia | 1 hrs |
+| #.7FEC | AS174 | United States | 3 hrs |
+| #.DB57 | AS4713 | Japan | 49 hrs |
 
 
