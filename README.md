@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Tue Feb 26 17:20:46 UTC 2019
+Latest update at: Tue Feb 26 20:01:11 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -10,10 +10,10 @@ Latest update at: Tue Feb 26 17:20:46 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.F90F | AS57494 | Russia | 24 hrs |
-| #.F387 | AS8100 | United States | 17 hrs |
-| #.A86C | AS40676 | United States | 38 hrs |
-| #.5574 | AS25820 | United States | 55 hrs |
+| #.F90F | AS57494 | Russia | 25 hrs |
+| #.F387 | AS8100 | United States | 18 hrs |
+| #.A86C | AS40676 | United States | 39 hrs |
+| #.5574 | AS25820 | United States | 56 hrs |
 | #.6214 | AS16509 | United States | 23 hrs |
 | #.DA0D | AS63949 | Singapore | 54 hrs |
 | #.1C1D |  | United States | 55 hrs |
@@ -40,14 +40,14 @@ Latest update at: Tue Feb 26 17:20:46 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.D3D9 | AS3462 | Taiwan | 3 hrs |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.70EF | AS57673 | Romania | 4 hrs |
-| #.F90F | AS57494 | Russia | 24 hrs |
-| #.A96B | AS25369 | United Kingdom | 9 hrs |
-| #.F387 | AS8100 | United States | 17 hrs |
-| #.A86C | AS40676 | United States | 38 hrs |
-| #.5574 | AS25820 | United States | 55 hrs |
+| #.D3D9 | AS3462 | Taiwan | 4 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.70EF | AS57673 | Romania | 5 hrs |
+| #.F90F | AS57494 | Russia | 25 hrs |
+| #.A96B | AS25369 | United Kingdom | 10 hrs |
+| #.F387 | AS8100 | United States | 18 hrs |
+| #.A86C | AS40676 | United States | 39 hrs |
+| #.5574 | AS25820 | United States | 56 hrs |
 | #.1EFA | AS40676 | United States | 3 hrs |
 | #.6214 | AS16509 | United States | 23 hrs |
 | #.2A9D | AS16276 | Canada | 3 hrs |
@@ -95,14 +95,14 @@ Latest update at: Tue Feb 26 17:20:46 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.D3D9 | AS3462 | Taiwan | 3 hrs |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.70EF | AS57673 | Romania | 4 hrs |
-| #.F90F | AS57494 | Russia | 24 hrs |
-| #.A96B | AS25369 | United Kingdom | 9 hrs |
-| #.F387 | AS8100 | United States | 17 hrs |
-| #.A86C | AS40676 | United States | 38 hrs |
-| #.5574 | AS25820 | United States | 55 hrs |
+| #.D3D9 | AS3462 | Taiwan | 4 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.70EF | AS57673 | Romania | 5 hrs |
+| #.F90F | AS57494 | Russia | 25 hrs |
+| #.A96B | AS25369 | United Kingdom | 10 hrs |
+| #.F387 | AS8100 | United States | 18 hrs |
+| #.A86C | AS40676 | United States | 39 hrs |
+| #.5574 | AS25820 | United States | 56 hrs |
 | #.1EFA | AS40676 | United States | 3 hrs |
 | #.6214 | AS16509 | United States | 23 hrs |
 | #.A430 | AS16509 | Japan | 1 hrs offline |
