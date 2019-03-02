@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sat Mar 02 17:25:26 UTC 2019
+Latest update at: Sat Mar 02 20:02:23 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/autossr/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/autossr/autossr.html)
@@ -10,12 +10,12 @@ Latest update at: Sat Mar 02 17:25:26 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.432A | AS36352 | United States | 23 hrs |
-| #.CAF1 | AS36352 | United States | 23 hrs |
-| #.A96B | AS25369 | United Kingdom | 101 hrs |
-| #.F387 | AS8100 | United States | 109 hrs |
-| #.A86C | AS40676 | United States | 130 hrs |
-| #.5574 | AS25820 | United States | 147 hrs |
+| #.432A | AS36352 | United States | 24 hrs |
+| #.CAF1 | AS36352 | United States | 24 hrs |
+| #.A96B | AS25369 | United Kingdom | 102 hrs |
+| #.F387 | AS8100 | United States | 110 hrs |
+| #.A86C | AS40676 | United States | 131 hrs |
+| #.5574 | AS25820 | United States | 148 hrs |
 | #.9246 | AS20473 | United States | 38 hrs |
 | #.9AC4 | AS53889 | United States | 142 hrs |
 | #.B914 | AS63949 | United States | 45 hrs |
@@ -32,19 +32,18 @@ Latest update at: Sat Mar 02 17:25:26 UTC 2019
 | #.2AC2 | AS20473 | Japan | 25 hrs |
 | #.B20B | AS20473 | Singapore | 12 hrs |
 
-## 43 online servers:
+## 42 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.D3D9 | AS3462 | Taiwan | 2 hrs |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.70EF | AS57673 | Romania | 8 hrs |
-| #.432A | AS36352 | United States | 23 hrs |
-| #.CAF1 | AS36352 | United States | 23 hrs |
-| #.A96B | AS25369 | United Kingdom | 101 hrs |
-| #.F387 | AS8100 | United States | 109 hrs |
-| #.A86C | AS40676 | United States | 130 hrs |
-| #.5574 | AS25820 | United States | 147 hrs |
+| #.D3D9 | AS3462 | Taiwan | 3 hrs |
+| #.70EF | AS57673 | Romania | 9 hrs |
+| #.432A | AS36352 | United States | 24 hrs |
+| #.CAF1 | AS36352 | United States | 24 hrs |
+| #.A96B | AS25369 | United Kingdom | 102 hrs |
+| #.F387 | AS8100 | United States | 110 hrs |
+| #.A86C | AS40676 | United States | 131 hrs |
+| #.5574 | AS25820 | United States | 148 hrs |
 | #.2A9D | AS16276 | Canada | 2 hrs |
 | #.9079 | AS63997 | China | 2 hrs |
 | #.9246 | AS20473 | United States | 38 hrs |
@@ -84,17 +83,17 @@ Latest update at: Sat Mar 02 17:25:26 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.D3D9 | AS3462 | Taiwan | 2 hrs |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.70EF | AS57673 | Romania | 8 hrs |
-| #.A8BA | AS54600 | China | 3 hrs offline |
-| #.432A | AS36352 | United States | 23 hrs |
-| #.CAF1 | AS36352 | United States | 23 hrs |
-| #.A96B | AS25369 | United Kingdom | 101 hrs |
-| #.F387 | AS8100 | United States | 109 hrs |
-| #.A86C | AS40676 | United States | 130 hrs |
-| #.08C5 | AS51659 | Russia | 6 hrs offline |
-| #.5574 | AS25820 | United States | 147 hrs |
+| #.D3D9 | AS3462 | Taiwan | 3 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs offline |
+| #.70EF | AS57673 | Romania | 9 hrs |
+| #.A8BA | AS54600 | China | 4 hrs offline |
+| #.432A | AS36352 | United States | 24 hrs |
+| #.CAF1 | AS36352 | United States | 24 hrs |
+| #.A96B | AS25369 | United Kingdom | 102 hrs |
+| #.F387 | AS8100 | United States | 110 hrs |
+| #.A86C | AS40676 | United States | 131 hrs |
+| #.08C5 | AS51659 | Russia | 7 hrs offline |
+| #.5574 | AS25820 | United States | 148 hrs |
 | #.6214 | AS16509 | United States | 1 hrs offline |
 | #.A430 | AS16509 | Japan | 3 hrs offline |
 | #.2A9D | AS16276 | Canada | 2 hrs |
