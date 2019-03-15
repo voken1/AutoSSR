@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri Mar 15 17:12:55 UTC 2019
+Latest update at: Fri Mar 15 20:03:34 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,19 +10,19 @@ Latest update at: Fri Mar 15 17:12:55 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.432A | AS36352 | United States | 25 hrs |
-| #.CAF1 | AS36352 | United States | 322 hrs |
-| #.5574 | AS25820 | United States | 446 hrs |
+| #.432A | AS36352 | United States | 26 hrs |
+| #.CAF1 | AS36352 | United States | 323 hrs |
+| #.5574 | AS25820 | United States | 447 hrs |
 
 ## 10 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 5 hrs |
-| #.A8BA | AS54600 | China | 2 hrs |
-| #.432A | AS36352 | United States | 25 hrs |
-| #.CAF1 | AS36352 | United States | 322 hrs |
-| #.5574 | AS25820 | United States | 446 hrs |
+| #.70EF | AS57673 | Romania | 6 hrs |
+| #.A8BA | AS54600 | China | 3 hrs |
+| #.432A | AS36352 | United States | 26 hrs |
+| #.CAF1 | AS36352 | United States | 323 hrs |
+| #.5574 | AS25820 | United States | 447 hrs |
 | #.6214 | AS16509 | United States | 2 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.2A9D | AS16276 | Canada | 1 hrs |
@@ -33,12 +33,12 @@ Latest update at: Fri Mar 15 17:12:55 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 5 hrs |
-| #.A8BA | AS54600 | China | 2 hrs |
-| #.432A | AS36352 | United States | 25 hrs |
-| #.CAF1 | AS36352 | United States | 322 hrs |
-| #.08C5 | AS51659 | Russia | 9 hrs offline |
-| #.5574 | AS25820 | United States | 446 hrs |
+| #.70EF | AS57673 | Romania | 6 hrs |
+| #.A8BA | AS54600 | China | 3 hrs |
+| #.432A | AS36352 | United States | 26 hrs |
+| #.CAF1 | AS36352 | United States | 323 hrs |
+| #.08C5 | AS51659 | Russia | 10 hrs offline |
+| #.5574 | AS25820 | United States | 447 hrs |
 | #.6214 | AS16509 | United States | 2 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.2A9D | AS16276 | Canada | 1 hrs |
