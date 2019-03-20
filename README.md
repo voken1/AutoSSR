@@ -1,18 +1,17 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Wed Mar 20 17:20:46 UTC 2019
+Latest update at: Wed Mar 20 20:02:53 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
 
 
-## 60 online servers:
+## 59 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 2 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.08C5 | AS51659 | Russia | 5 hrs |
+| #.70EF | AS57673 | Romania | 3 hrs |
+| #.08C5 | AS51659 | Russia | 6 hrs |
 | #.6214 | AS16509 | United States | 5 hrs |
 | #.A430 | AS16509 | Japan | 4 hrs |
 | #.9079 | AS63997 | China | 1 hrs |
@@ -71,13 +70,13 @@ Latest update at: Wed Mar 20 17:20:46 UTC 2019
 | #.861D | AS63949 | Japan | 1 hrs |
 | #.3E31 | AS16509 | Singapore | 1 hrs |
 
-## 71 recent servers:
+## 90 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 2 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.08C5 | AS51659 | Russia | 5 hrs |
+| #.70EF | AS57673 | Romania | 3 hrs |
+| #.A8BA | AS54600 | China | 1 hrs offline |
+| #.08C5 | AS51659 | Russia | 6 hrs |
 | #.6214 | AS16509 | United States | 5 hrs |
 | #.A430 | AS16509 | Japan | 4 hrs |
 | #.2A9D | AS16276 | Canada | 2 hrs offline |
@@ -146,5 +145,24 @@ Latest update at: Wed Mar 20 17:20:46 UTC 2019
 | #.BCC0 | AS14061 | United Kingdom | 1 hrs |
 | #.861D | AS63949 | Japan | 1 hrs |
 | #.3E31 | AS16509 | Singapore | 1 hrs |
+| #.8B0D | AS63949 | Japan | |
+| #.EE83 | AS14061 | Singapore | |
+| #.AF47 | AS16509 | Singapore | |
+| #.B8C2 | AS50340 | Russia | |
+| #.980E | AS4658 | Hong Kong | |
+| #.C268 | AS14061 | Singapore | |
+| #.83AD | AS14061 | United Kingdom | |
+| #.8D33 | AS16509 | Japan | |
+| #.FB50 | AS14061 | United Kingdom | |
+| #.CF9A | AS14061 | Singapore | |
+| #.A9BE | AS16509 | Singapore | |
+| #.9683 | AS16509 | Japan | |
+| #.EFFC | AS50340 | Russia | |
+| #.CF1F | AS16509 | Singapore | |
+| #.6A58 | AS63949 | Japan | |
+| #.A223 | AS63949 | Japan | |
+| #.6C1D | AS61431 | Russia | |
+| #.0E3A | AS63949 | Japan | |
+| #.D1EE | AS63949 | Japan | |
 
 
