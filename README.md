@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sat Mar 23 17:26:26 UTC 2019
+Latest update at: Sat Mar 23 19:44:24 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -30,8 +30,8 @@ Latest update at: Sat Mar 23 17:26:26 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 1 hrs |
-| #.08C5 | AS51659 | Russia | 1 hrs |
+| #.70EF | AS57673 | Romania | 2 hrs |
+| #.08C5 | AS51659 | Russia | 2 hrs |
 | #.A430 | AS16509 | Japan | 1 hrs |
 | #.9079 | AS63997 | Japan | 2 hrs |
 | #.03F5 | AS20473 | United States | 10 hrs |
@@ -82,13 +82,13 @@ Latest update at: Sat Mar 23 17:26:26 UTC 2019
 | #.F69E | AS20473 | Japan | 24 hrs |
 | #.6786 | AS63949 | Japan | 2 hrs |
 
-## 84 recent servers:
+## 99 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.70EF | AS57673 | Romania | 1 hrs |
-| #.A8BA | AS54600 | China | 5 hrs offline |
-| #.08C5 | AS51659 | Russia | 1 hrs |
+| #.70EF | AS57673 | Romania | 2 hrs |
+| #.A8BA | AS54600 | China | 6 hrs offline |
+| #.08C5 | AS51659 | Russia | 2 hrs |
 | #.6214 | AS16509 | United States | 1 hrs offline |
 | #.A430 | AS16509 | Japan | 1 hrs |
 | #.2A9D | AS16276 | Canada | 1 hrs offline |
@@ -170,5 +170,20 @@ Latest update at: Sat Mar 23 17:26:26 UTC 2019
 | #.C5CC | AS25820 | United States | 5 hrs offline |
 | #.80A8 | AS14061 | India | 5 hrs offline |
 | #.6786 | AS63949 | Japan | 2 hrs |
+| #.536A | AS63949 | Japan | |
+| #.3BBF | AS14061 | Singapore | |
+| #.0A1B | AS63949 | Japan | |
+| #.5E76 | AS61431 | Russia | |
+| #.01D8 | AS16509 | Singapore | |
+| #.4DCA | AS63949 | Japan | |
+| #.1ABB | N/A | N/A | |
+| #.0704 | AS63949 | Japan | |
+| #.9515 | AS16509 | Singapore | |
+| #.AD71 | AS63949 | Japan | |
+| #.FE70 | AS16509 | Singapore | |
+| #.C913 | AS63949 | Japan | |
+| #.372D | AS16509 | Singapore | |
+| #.6D9C | AS63949 | United States | |
+| #.0245 | AS15169 | United States | |
 
 
