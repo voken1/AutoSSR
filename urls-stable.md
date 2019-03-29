@@ -1,6 +1,4 @@
-# SSR Links (1 stable)
+# SSR Links (0 stable)
 
 ```
-// #5B8A/AS36352: United States
-ssr://MjMuOTUuNzAuMTg5OjU5NjA4Om9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOmMzVndaWEp0ZVhOemNnPT0vP3JlbWFya3M9SXpWQ09FRXZRVk16TmpNMU1qb2dWVzVwZEdWa0lGTjBZWFJsY3c9PSZncm91cD01WVdONkxTNUlGTlRVaURwb3BIcGdaTWdkQzV0WlM5aGRYUnZjM055
 ```
