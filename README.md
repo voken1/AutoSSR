@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sun Mar 31 17:16:43 UTC 2019
+Latest update at: Sun Mar 31 19:44:17 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -15,14 +15,15 @@ Latest update at: Sun Mar 31 17:16:43 UTC 2019
 | #.30C8 | AS40676 | United States | 25 hrs |
 | #.5646 | AS40676 | United States | 25 hrs |
 
-## 25 online servers:
+## 26 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 8 hrs |
-| #.A8BA | AS54600 | China | 2 hrs |
-| #.5B8A | AS36352 | United States | 2 hrs |
-| #.08C5 | AS51659 | Russia | 6 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 9 hrs |
+| #.A8BA | AS54600 | China | 3 hrs |
+| #.5B8A | AS36352 | United States | 3 hrs |
+| #.08C5 | AS51659 | Russia | 7 hrs |
 | #.6214 | AS16509 | United States | 2 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.A9EB | AS31798 | Canada | 1 hrs |
@@ -45,14 +46,15 @@ Latest update at: Sun Mar 31 17:16:43 UTC 2019
 | #.5607 | AS63949 | Japan | 7 hrs |
 | #.D1A6 | AS35916 | United States | 4 hrs |
 
-## 29 recent servers:
+## 30 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 8 hrs |
-| #.A8BA | AS54600 | China | 2 hrs |
-| #.5B8A | AS36352 | United States | 2 hrs |
-| #.08C5 | AS51659 | Russia | 6 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 9 hrs |
+| #.A8BA | AS54600 | China | 3 hrs |
+| #.5B8A | AS36352 | United States | 3 hrs |
+| #.08C5 | AS51659 | Russia | 7 hrs |
 | #.6214 | AS16509 | United States | 2 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.9079 | AS63997 | Japan | 3 hrs offline |
