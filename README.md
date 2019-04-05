@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri Apr 05 17:14:50 UTC 2019
+Latest update at: Fri Apr 05 19:41:17 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,7 +10,7 @@ Latest update at: Fri Apr 05 17:14:50 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3FE9 | AS36352 | United States | 92 hrs |
+| #.3FE9 | AS36352 | United States | 93 hrs |
 | #.D389 | AS31798 | Canada | 24 hrs |
 | #.B3BA | AS31798 | Canada | 33 hrs |
 | #.A907 | AS31798 | Canada | 23 hrs |
@@ -22,10 +22,10 @@ Latest update at: Fri Apr 05 17:14:50 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 2 hrs |
-| #.3FE9 | AS36352 | United States | 92 hrs |
-| #.432A | AS36352 | United States | 3 hrs |
-| #.08C5 | AS51659 | Russia | 3 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3FE9 | AS36352 | United States | 93 hrs |
+| #.432A | AS36352 | United States | 4 hrs |
+| #.08C5 | AS51659 | Russia | 4 hrs |
 | #.A9EB | AS31798 | Canada | 4 hrs |
 | #.D389 | AS31798 | Canada | 24 hrs |
 | #.B3BA | AS31798 | Canada | 33 hrs |
@@ -41,13 +41,13 @@ Latest update at: Fri Apr 05 17:14:50 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 6 hrs offline |
-| #.3769 | AS46844 | United States | 2 hrs |
-| #.A8BA | AS54600 | China | 1 hrs offline |
-| #.3FE9 | AS36352 | United States | 92 hrs |
-| #.5B8A | AS36352 | United States | 3 hrs offline |
-| #.432A | AS36352 | United States | 3 hrs |
-| #.08C5 | AS51659 | Russia | 3 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 1 hrs offline |
+| #.A8BA | AS54600 | China | 2 hrs offline |
+| #.3FE9 | AS36352 | United States | 93 hrs |
+| #.5B8A | AS36352 | United States | 4 hrs offline |
+| #.432A | AS36352 | United States | 4 hrs |
+| #.08C5 | AS51659 | Russia | 4 hrs |
 | #.6214 | AS16509 | United States | 1 hrs offline |
 | #.A9EB | AS31798 | Canada | 4 hrs |
 | #.D389 | AS31798 | Canada | 24 hrs |
