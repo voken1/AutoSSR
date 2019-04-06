@@ -1,9 +1,6 @@
-# SSR Links (10 stable)
+# SSR Links (9 stable)
 
 ```
-// #3FE9/AS36352: United States
-ssr://MjMuOTUuNzEuMTcyOjY1MzczOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOmMzbHdhbVpsZVdacS8_cmVtYXJrcz1Jek5HUlRrdlFWTXpOak0xTWpvZ1ZXNXBkR1ZrSUZOMFlYUmxjdz09Jmdyb3VwPTVZV042TFM1SUZOVFVpRHBvcEhwZ1pNZ2RDNXRaUzloZFhSdmMzTnk=
-
 // #432A/AS36352: United States
 ssr://MTA3LjE3Mi4xNTYuMTMwOjYwMjcyOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM1Z3WlhKemMzSXVibVYwLz9yZW1hcmtzPUl6UXpNa0V2UVZNek5qTTFNam9nVlc1cGRHVmtJRk4wWVhSbGN3PT0mZ3JvdXA9NVlXTjZMUzVJRk5UVWlEcG9wSHBnWk1nZEM1dFpTOWhkWFJ2YzNOeQ==
 
