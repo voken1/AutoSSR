@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Tue Apr 09 17:18:35 UTC 2019
+Latest update at: Tue Apr 09 19:41:08 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,17 +10,19 @@ Latest update at: Tue Apr 09 17:18:35 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 26 hrs |
-| #.3FE9 | AS36352 | United States | 23 hrs |
+| #.3769 | AS46844 | United States | 27 hrs |
+| #.3FE9 | AS36352 | United States | 24 hrs |
 
-## 48 online servers:
+## 50 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 26 hrs |
-| #.3FE9 | AS36352 | United States | 23 hrs |
-| #.432A | AS36352 | United States | 2 hrs |
-| #.08C5 | AS51659 | Russia | 1 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 27 hrs |
+| #.A8BA | AS54600 | China | 1 hrs |
+| #.3FE9 | AS36352 | United States | 24 hrs |
+| #.432A | AS36352 | United States | 3 hrs |
+| #.08C5 | AS51659 | Russia | 2 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.A9EB | AS31798 | Canada | 1 hrs |
 | #.D389 | AS31798 | Canada | 2 hrs |
@@ -70,12 +72,12 @@ Latest update at: Tue Apr 09 17:18:35 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs offline |
-| #.3769 | AS46844 | United States | 26 hrs |
-| #.A8BA | AS54600 | China | 2 hrs offline |
-| #.3FE9 | AS36352 | United States | 23 hrs |
-| #.432A | AS36352 | United States | 2 hrs |
-| #.08C5 | AS51659 | Russia | 1 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 27 hrs |
+| #.A8BA | AS54600 | China | 1 hrs |
+| #.3FE9 | AS36352 | United States | 24 hrs |
+| #.432A | AS36352 | United States | 3 hrs |
+| #.08C5 | AS51659 | Russia | 2 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.A430 | AS16509 | Japan | 1 hrs offline |
 | #.A9EB | AS31798 | Canada | 1 hrs |
