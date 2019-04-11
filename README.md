@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Thu Apr 11 17:29:32 UTC 2019
+Latest update at: Thu Apr 11 19:40:39 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,7 +10,7 @@ Latest update at: Thu Apr 11 17:29:32 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.432A | AS36352 | United States | 40 hrs |
+| #.432A | AS36352 | United States | 41 hrs |
 | #.D389 | AS31798 | Canada | 27 hrs |
 | #.A907 | AS31798 | Canada | 13 hrs |
 | #.2C89 | AS57494 | Russia | 53 hrs |
@@ -38,11 +38,11 @@ Latest update at: Thu Apr 11 17:29:32 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 5 hrs |
-| #.3FE9 | AS36352 | United States | 3 hrs |
-| #.432A | AS36352 | United States | 40 hrs |
-| #.08C5 | AS51659 | Russia | 5 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 6 hrs |
+| #.3FE9 | AS36352 | United States | 4 hrs |
+| #.432A | AS36352 | United States | 41 hrs |
+| #.08C5 | AS51659 | Russia | 6 hrs |
 | #.A9EB | AS31798 | Canada | 3 hrs |
 | #.D389 | AS31798 | Canada | 27 hrs |
 | #.B3BA | AS31798 | Canada | 2 hrs |
@@ -97,16 +97,16 @@ Latest update at: Thu Apr 11 17:29:32 UTC 2019
 | #.C0D0 | AS14061 | Singapore | 1 hrs |
 | #.70EC | AS14061 | United Kingdom | 1 hrs |
 
-## 77 recent servers:
+## 81 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 5 hrs |
-| #.A8BA | AS54600 | China | 1 hrs offline |
-| #.3FE9 | AS36352 | United States | 3 hrs |
-| #.432A | AS36352 | United States | 40 hrs |
-| #.08C5 | AS51659 | Russia | 5 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 6 hrs |
+| #.A8BA | AS54600 | China | 2 hrs offline |
+| #.3FE9 | AS36352 | United States | 4 hrs |
+| #.432A | AS36352 | United States | 41 hrs |
+| #.08C5 | AS51659 | Russia | 6 hrs |
 | #.6214 | AS16509 | United States | 7 hrs offline |
 | #.A430 | AS16509 | Japan | 5 hrs offline |
 | #.A9EB | AS31798 | Canada | 3 hrs |
@@ -178,5 +178,9 @@ Latest update at: Thu Apr 11 17:29:32 UTC 2019
 | #.C449 | AS51659 | Russia | 2 hrs |
 | #.C0D0 | AS14061 | Singapore | 1 hrs |
 | #.70EC | AS14061 | United Kingdom | 1 hrs |
+| #.84C6 | AS63949 | Japan | |
+| #.752D | AS14061 | Singapore | |
+| #.54F5 | AS14061 | Singapore | |
+| #.B3B4 | AS63949 | Singapore | |
 
 
