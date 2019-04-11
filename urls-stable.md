@@ -1,4 +1,4 @@
-# SSR Links (26 stable)
+# SSR Links (27 stable)
 
 ```
 // #432A/AS36352: United States
@@ -78,4 +78,7 @@ ssr://MTQyLjkzLjMyLjgyOjE1MzEwOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjplVVY1WTJWU09GZ3
 
 // #8513/AS14061: United Kingdom
 ssr://NjguMTgzLjM4LjgwOjQ1ODk0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpabGMxUjFCRE9ESmFPVGRILz9yZW1hcmtzPUl6ZzFNVE12UVZNeE5EQTJNVG9nVlc1cGRHVmtJRXRwYm1ka2IyMD0mZ3JvdXA9NVlXTjZMUzVJRk5UVWlEcG9wSHBnWk1nZEM1dFpTOWhkWFJ2YzNOeQ==
+
+// #AB2B
+ssr://NS4xODAuNzcuMTIyOjgwOmF1dGhfY2hhaW5fYTpub25lOmh0dHBfc2ltcGxlOk5UZzRORGczTnpBPS8_cmVtYXJrcz1JMEZDTWtJPSZncm91cD01WVdONkxTNUlGTlRVaURwb3BIcGdaTWdkQzV0WlM5aGRYUnZjM055
 ```
