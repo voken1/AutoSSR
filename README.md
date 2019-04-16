@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Tue Apr 16 17:32:49 UTC 2019
+Latest update at: Tue Apr 16 19:40:37 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,10 +10,10 @@ Latest update at: Tue Apr 16 17:32:49 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 12 hrs |
-| #.3FE9 | AS36352 | United States | 49 hrs |
-| #.432A | AS36352 | United States | 35 hrs |
-| #.CAF1 | AS36352 | United States | 76 hrs |
+| #.3769 | AS46844 | United States | 13 hrs |
+| #.3FE9 | AS36352 | United States | 50 hrs |
+| #.432A | AS36352 | United States | 36 hrs |
+| #.CAF1 | AS36352 | United States | 77 hrs |
 | #.7437 | AS37963 | China | 157 hrs |
 | #.973A | AS63949 | Japan | 95 hrs |
 | #.BE3E | AS63949 | United States | 163 hrs |
@@ -41,11 +41,11 @@ Latest update at: Tue Apr 16 17:32:49 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 12 hrs |
-| #.3FE9 | AS36352 | United States | 49 hrs |
-| #.432A | AS36352 | United States | 35 hrs |
-| #.CAF1 | AS36352 | United States | 76 hrs |
+| #.3769 | AS46844 | United States | 13 hrs |
+| #.F90F | AS57494 | Russia | 1 hrs |
+| #.3FE9 | AS36352 | United States | 50 hrs |
+| #.432A | AS36352 | United States | 36 hrs |
+| #.CAF1 | AS36352 | United States | 77 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
@@ -111,15 +111,16 @@ Latest update at: Tue Apr 16 17:32:49 UTC 2019
 | #.DE03 | AS14061 | Singapore | 1 hrs |
 | #.7CA5 | AS50340 | Russia | 1 hrs |
 
-## 87 recent servers:
+## 90 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 12 hrs |
-| #.3FE9 | AS36352 | United States | 49 hrs |
-| #.432A | AS36352 | United States | 35 hrs |
-| #.CAF1 | AS36352 | United States | 76 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs offline |
+| #.3769 | AS46844 | United States | 13 hrs |
+| #.F90F | AS57494 | Russia | 1 hrs |
+| #.3FE9 | AS36352 | United States | 50 hrs |
+| #.432A | AS36352 | United States | 36 hrs |
+| #.CAF1 | AS36352 | United States | 77 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.A430 | AS16509 | Japan | 2 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
@@ -202,5 +203,7 @@ Latest update at: Tue Apr 16 17:32:49 UTC 2019
 | #.1F71 | AS9009 | Japan | 1 hrs |
 | #.DE03 | AS14061 | Singapore | 1 hrs |
 | #.7CA5 | AS50340 | Russia | 1 hrs |
+| #.36AC | AS63949 | Japan | |
+| #.03E7 | AS63949 | Japan | |
 
 
