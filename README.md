@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sat Apr 20 17:37:03 UTC 2019
+Latest update at: Sat Apr 20 19:41:11 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,8 +10,8 @@ Latest update at: Sat Apr 20 17:37:03 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.CAF1 | AS36352 | United States | 12 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.CAF1 | AS36352 | United States | 13 hrs |
 | #.7437 | AS37963 | China | 220 hrs |
 | #.973A | AS63949 | Japan | 158 hrs |
 | #.442C | AS40676 | United States | 155 hrs |
@@ -31,15 +31,14 @@ Latest update at: Sat Apr 20 17:37:03 UTC 2019
 | #.A088 | AS14061 | United Kingdom | 12 hrs |
 | #.4D6B | AS14061 | Singapore | 14 hrs |
 
-## 73 online servers:
+## 72 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 4 hrs |
-| #.CAF1 | AS36352 | United States | 12 hrs |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.F90F | AS57494 | Russia | 5 hrs |
+| #.CAF1 | AS36352 | United States | 13 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.1C65 | AS57494 | Russia | 5 hrs |
 | #.E1D5 | AS57494 | Russia | 4 hrs |
@@ -113,11 +112,11 @@ Latest update at: Sat Apr 20 17:37:03 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 4 hrs |
-| #.CAF1 | AS36352 | United States | 12 hrs |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.A8BA | AS54600 | China | 1 hrs offline |
+| #.F90F | AS57494 | Russia | 5 hrs |
+| #.CAF1 | AS36352 | United States | 13 hrs |
 | #.6214 | AS16509 | United States | 1 hrs |
 | #.A430 | AS16509 | Japan | 1 hrs offline |
 | #.1C65 | AS57494 | Russia | 5 hrs |
