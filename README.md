@@ -1,17 +1,18 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sun Apr 21 17:38:48 UTC 2019
+Latest update at: Sun Apr 21 19:41:36 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
 
 
-## 16 stable servers:
+## 17 stable servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.F90F | AS57494 | Russia | 27 hrs |
-| #.CAF1 | AS36352 | United States | 35 hrs |
+| #.3769 | AS46844 | United States | 12 hrs |
+| #.F90F | AS57494 | Russia | 28 hrs |
+| #.CAF1 | AS36352 | United States | 36 hrs |
 | #.7437 | AS37963 | China | 242 hrs |
 | #.973A | AS63949 | Japan | 14 hrs |
 | #.BE3E | AS63949 | United States | 26 hrs |
@@ -31,10 +32,10 @@ Latest update at: Sun Apr 21 17:38:48 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 3 hrs |
-| #.3769 | AS46844 | United States | 11 hrs |
-| #.F90F | AS57494 | Russia | 27 hrs |
-| #.CAF1 | AS36352 | United States | 35 hrs |
+| #.C51C | AS57494 | Russia | 4 hrs |
+| #.3769 | AS46844 | United States | 12 hrs |
+| #.F90F | AS57494 | Russia | 28 hrs |
+| #.CAF1 | AS36352 | United States | 36 hrs |
 | #.1C65 | AS57494 | Russia | 1 hrs |
 | #.2DE5 | AS57494 | Russia | 1 hrs |
 | #.E1D5 | AS57494 | Russia | 6 hrs |
@@ -109,11 +110,11 @@ Latest update at: Sun Apr 21 17:38:48 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 3 hrs |
-| #.3769 | AS46844 | United States | 11 hrs |
-| #.A8BA | AS54600 | China | 3 hrs offline |
-| #.F90F | AS57494 | Russia | 27 hrs |
-| #.CAF1 | AS36352 | United States | 35 hrs |
+| #.C51C | AS57494 | Russia | 4 hrs |
+| #.3769 | AS46844 | United States | 12 hrs |
+| #.A8BA | AS54600 | China | 4 hrs offline |
+| #.F90F | AS57494 | Russia | 28 hrs |
+| #.CAF1 | AS36352 | United States | 36 hrs |
 | #.A430 | AS16509 | Japan | 4 hrs offline |
 | #.1C65 | AS57494 | Russia | 1 hrs |
 | #.2DE5 | AS57494 | Russia | 1 hrs |
