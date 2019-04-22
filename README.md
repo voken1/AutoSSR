@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Mon Apr 22 17:37:19 UTC 2019
+Latest update at: Mon Apr 22 19:41:20 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -31,9 +31,9 @@ Latest update at: Mon Apr 22 17:37:19 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 5 hrs |
-| #.3769 | AS46844 | United States | 10 hrs |
-| #.CAF1 | AS36352 | United States | 5 hrs |
+| #.C51C | AS57494 | Russia | 6 hrs |
+| #.3769 | AS46844 | United States | 11 hrs |
+| #.CAF1 | AS36352 | United States | 6 hrs |
 | #.1C65 | AS57494 | Russia | 3 hrs |
 | #.2DE5 | AS57494 | Russia | 5 hrs |
 | #.E1D5 | AS57494 | Russia | 3 hrs |
@@ -94,11 +94,11 @@ Latest update at: Mon Apr 22 17:37:19 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 5 hrs |
-| #.3769 | AS46844 | United States | 10 hrs |
-| #.A8BA | AS54600 | China | 9 hrs offline |
-| #.F90F | AS57494 | Russia | 1 hrs offline |
-| #.CAF1 | AS36352 | United States | 5 hrs |
+| #.C51C | AS57494 | Russia | 6 hrs |
+| #.3769 | AS46844 | United States | 11 hrs |
+| #.A8BA | AS54600 | China | 10 hrs offline |
+| #.F90F | AS57494 | Russia | 2 hrs offline |
+| #.CAF1 | AS36352 | United States | 6 hrs |
 | #.1C65 | AS57494 | Russia | 3 hrs |
 | #.2DE5 | AS57494 | Russia | 5 hrs |
 | #.E1D5 | AS57494 | Russia | 3 hrs |
