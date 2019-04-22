@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Mon Apr 22 08:38:36 UTC 2019
+Latest update at: Mon Apr 22 09:10:59 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
