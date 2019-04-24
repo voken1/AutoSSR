@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Wed Apr 24 17:24:58 UTC 2019
+Latest update at: Wed Apr 24 19:42:02 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,8 +10,8 @@ Latest update at: Wed Apr 24 17:24:58 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 17 hrs |
-| #.CAF1 | AS36352 | United States | 51 hrs |
+| #.3769 | AS46844 | United States | 18 hrs |
+| #.CAF1 | AS36352 | United States | 52 hrs |
 | #.5607 | AS63949 | Japan | 56 hrs |
 | #.7437 | AS37963 | China | 28 hrs |
 | #.973A | AS63949 | Japan | 30 hrs |
@@ -34,14 +34,13 @@ Latest update at: Wed Apr 24 17:24:58 UTC 2019
 | #.1090 | AS14061 | United Kingdom | 19 hrs |
 | #.DF1F | AS16509 | South Korea | 14 hrs |
 
-## 48 online servers:
+## 47 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 17 hrs |
-| #.F90F | AS57494 | Russia | 5 hrs |
-| #.CAF1 | AS36352 | United States | 51 hrs |
+| #.3769 | AS46844 | United States | 18 hrs |
+| #.F90F | AS57494 | Russia | 6 hrs |
+| #.CAF1 | AS36352 | United States | 52 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 2 hrs |
@@ -87,15 +86,15 @@ Latest update at: Wed Apr 24 17:24:58 UTC 2019
 | #.A07C | AS16509 | South Korea | 9 hrs |
 | #.D5E2 | AS38843 | United States | 6 hrs |
 
-## 64 recent servers:
+## 65 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 17 hrs |
-| #.A8BA | AS54600 | China | 6 hrs offline |
-| #.F90F | AS57494 | Russia | 5 hrs |
-| #.CAF1 | AS36352 | United States | 51 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs offline |
+| #.3769 | AS46844 | United States | 18 hrs |
+| #.A8BA | AS54600 | China | 7 hrs offline |
+| #.F90F | AS57494 | Russia | 6 hrs |
+| #.CAF1 | AS36352 | United States | 52 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 2 hrs |
@@ -155,5 +154,6 @@ Latest update at: Wed Apr 24 17:24:58 UTC 2019
 | #.6354 | AS16509 | United States | 1 hrs offline |
 | #.CE6C | AS16509 | India | 1 hrs offline |
 | #.3865 | AS9009 | Japan | 1 hrs offline |
+| #.C2BA | AS14061 | United Kingdom | |
 
 
