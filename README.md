@@ -1,58 +1,45 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri Apr 26 14:25:33 UTC 2019
+Latest update at: Fri Apr 26 15:16:00 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
 
 
-## 17 stable servers:
+## 13 stable servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 22 hrs |
-| #.3769 | AS46844 | United States | 20 hrs |
-| #.F90F | AS57494 | Russia | 48 hrs |
-| #.CAF1 | AS36352 | United States | 94 hrs |
-| #.5607 | AS63949 | Japan | 97 hrs |
-| #.7437 | AS37963 | China | 69 hrs |
-| #.973A | AS63949 | Japan | 21 hrs |
-| #.BE3E | AS63949 | United States | 132 hrs |
-| #.207F | AS63949 | United States | 133 hrs |
-| #.B147 | AS63949 | Singapore | 71 hrs |
-| #.442C | AS40676 | United States | 23 hrs |
-| #.B3BB | AS8075 | United States | 28 hrs |
-| #.ECD6 | AS40676 | United States | 23 hrs |
+| #.3769 | AS46844 | United States | 21 hrs |
+| #.CAF1 | AS36352 | United States | 95 hrs |
+| #.5607 | AS63949 | Japan | 98 hrs |
+| #.973A | AS63949 | Japan | 22 hrs |
+| #.BE3E | AS63949 | United States | 133 hrs |
+| #.207F | AS63949 | United States | 134 hrs |
+| #.442C | AS40676 | United States | 24 hrs |
+| #.B3BB | AS8075 | United States | 29 hrs |
+| #.ECD6 | AS40676 | United States | 24 hrs |
 | #.1F71 | AS9009 | Japan | 15 hrs |
 | #.4C14 | AS16509 | Japan | 21 hrs |
 | #.716E | AS14061 | United Kingdom | 14 hrs |
 | #.8053 | AS14061 | Singapore | 12 hrs |
 
-## 38 online servers:
+## 29 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 22 hrs |
-| #.3769 | AS46844 | United States | 20 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 48 hrs |
-| #.CAF1 | AS36352 | United States | 94 hrs |
-| #.1C65 | AS57494 | Russia | 1 hrs |
-| #.2DE5 | AS57494 | Russia | 1 hrs |
-| #.5607 | AS63949 | Japan | 97 hrs |
-| #.7437 | AS37963 | China | 69 hrs |
-| #.973A | AS63949 | Japan | 21 hrs |
-| #.BE3E | AS63949 | United States | 132 hrs |
-| #.207F | AS63949 | United States | 133 hrs |
-| #.B147 | AS63949 | Singapore | 71 hrs |
-| #.418E | AS16509 | Singapore | 3 hrs |
-| #.442C | AS40676 | United States | 23 hrs |
-| #.B3BB | AS8075 | United States | 28 hrs |
-| #.DB95 | AS40676 | United States | 2 hrs |
-| #.ECD6 | AS40676 | United States | 23 hrs |
-| #.D254 | AS40676 | United States | 9 hrs |
-| #.17C3 | AS137571 | China | 1 hrs |
-| #.82CA | AS16509 | Singapore | 1 hrs |
+| #.3769 | AS46844 | United States | 21 hrs |
+| #.CAF1 | AS36352 | United States | 95 hrs |
+| #.5607 | AS63949 | Japan | 98 hrs |
+| #.D1A6 | AS35916 | United States | 1 hrs |
+| #.973A | AS63949 | Japan | 22 hrs |
+| #.BE3E | AS63949 | United States | 133 hrs |
+| #.207F | AS63949 | United States | 134 hrs |
+| #.442C | AS40676 | United States | 24 hrs |
+| #.B3BB | AS8075 | United States | 29 hrs |
+| #.DB95 | AS40676 | United States | 3 hrs |
+| #.ECD6 | AS40676 | United States | 24 hrs |
+| #.D254 | AS40676 | United States | 10 hrs |
 | #.1F71 | AS9009 | Japan | 15 hrs |
 | #.4C14 | AS16509 | Japan | 21 hrs |
 | #.8988 | AS16509 | Singapore | 4 hrs |
@@ -75,29 +62,29 @@ Latest update at: Fri Apr 26 14:25:33 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 22 hrs |
-| #.3769 | AS46844 | United States | 20 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 48 hrs |
-| #.CAF1 | AS36352 | United States | 94 hrs |
-| #.1C65 | AS57494 | Russia | 1 hrs |
-| #.2DE5 | AS57494 | Russia | 1 hrs |
-| #.E1D5 | AS57494 | Russia | 1 hrs offline |
-| #.5607 | AS63949 | Japan | 97 hrs |
-| #.D1A6 | AS35916 | United States | 1 hrs offline |
-| #.7437 | AS37963 | China | 69 hrs |
-| #.973A | AS63949 | Japan | 21 hrs |
-| #.BE3E | AS63949 | United States | 132 hrs |
-| #.207F | AS63949 | United States | 133 hrs |
-| #.B147 | AS63949 | Singapore | 71 hrs |
-| #.418E | AS16509 | Singapore | 3 hrs |
-| #.442C | AS40676 | United States | 23 hrs |
-| #.B3BB | AS8075 | United States | 28 hrs |
-| #.DB95 | AS40676 | United States | 2 hrs |
-| #.ECD6 | AS40676 | United States | 23 hrs |
-| #.D254 | AS40676 | United States | 9 hrs |
-| #.17C3 | AS137571 | China | 1 hrs |
-| #.82CA | AS16509 | Singapore | 1 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs offline |
+| #.3769 | AS46844 | United States | 21 hrs |
+| #.A8BA | AS54600 | China | 1 hrs offline |
+| #.F90F | AS57494 | Russia | 1 hrs offline |
+| #.CAF1 | AS36352 | United States | 95 hrs |
+| #.1C65 | AS57494 | Russia | 1 hrs offline |
+| #.2DE5 | AS57494 | Russia | 1 hrs offline |
+| #.E1D5 | AS57494 | Russia | 2 hrs offline |
+| #.5607 | AS63949 | Japan | 98 hrs |
+| #.D1A6 | AS35916 | United States | 1 hrs |
+| #.7437 | AS37963 | China | 1 hrs offline |
+| #.973A | AS63949 | Japan | 22 hrs |
+| #.BE3E | AS63949 | United States | 133 hrs |
+| #.207F | AS63949 | United States | 134 hrs |
+| #.B147 | AS63949 | Singapore | 1 hrs offline |
+| #.418E | AS16509 | Singapore | 1 hrs offline |
+| #.442C | AS40676 | United States | 24 hrs |
+| #.B3BB | AS8075 | United States | 29 hrs |
+| #.DB95 | AS40676 | United States | 3 hrs |
+| #.ECD6 | AS40676 | United States | 24 hrs |
+| #.D254 | AS40676 | United States | 10 hrs |
+| #.17C3 | AS137571 | China | 1 hrs offline |
+| #.82CA | AS16509 | Singapore | 1 hrs offline |
 | #.1F71 | AS9009 | Japan | 15 hrs |
 | #.7B7A |  | Japan | 4 hrs offline |
 | #.4C14 | AS16509 | Japan | 21 hrs |
