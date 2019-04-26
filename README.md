@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri Apr 26 17:30:16 UTC 2019
+Latest update at: Fri Apr 26 19:42:33 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,8 +10,8 @@ Latest update at: Fri Apr 26 17:30:16 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 23 hrs |
-| #.CAF1 | AS36352 | United States | 97 hrs |
+| #.3769 | AS46844 | United States | 24 hrs |
+| #.CAF1 | AS36352 | United States | 98 hrs |
 | #.5607 | AS63949 | Japan | 100 hrs |
 | #.973A | AS63949 | Japan | 24 hrs |
 | #.BE3E | AS63949 | United States | 135 hrs |
@@ -27,10 +27,10 @@ Latest update at: Fri Apr 26 17:30:16 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 23 hrs |
-| #.F90F | AS57494 | Russia | 2 hrs |
-| #.CAF1 | AS36352 | United States | 97 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 24 hrs |
+| #.F90F | AS57494 | Russia | 3 hrs |
+| #.CAF1 | AS36352 | United States | 98 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 2 hrs |
@@ -80,11 +80,11 @@ Latest update at: Fri Apr 26 17:30:16 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 23 hrs |
-| #.A8BA | AS54600 | China | 3 hrs offline |
-| #.F90F | AS57494 | Russia | 2 hrs |
-| #.CAF1 | AS36352 | United States | 97 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 24 hrs |
+| #.A8BA | AS54600 | China | 4 hrs offline |
+| #.F90F | AS57494 | Russia | 3 hrs |
+| #.CAF1 | AS36352 | United States | 98 hrs |
 | #.1C65 | AS57494 | Russia | 2 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 2 hrs |
