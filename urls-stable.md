@@ -1,4 +1,4 @@
-# SSR Links (33 stable)
+# SSR Links (34 stable)
 
 ```
 // #3769/AS46844: United States
@@ -99,4 +99,7 @@ ssr://MTU5LjIwMy4yNC41OjQ1MjM1OmF1dGhfc2hhMV92NDpjaGFjaGEyMDpodHRwX3NpbXBsZTpTWG
 
 // #3F53/AS16509: Singapore
 ssr://NTIuNzcuMjE2Ljk2OjQ3OTg2Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpZM2N3WlROVGVtRXpkSFpMLz9yZW1hcmtzPUl6TkdOVE12UVZNeE5qVXdPVG9nVTJsdVoyRndiM0psJmdyb3VwPTVZV042TFM1SUZOVFVpRHBvcEhwZ1pNZ2RDNXRaUzloZFhSdmMzTnk=
+
+// #EA20: Japan
+ssr://NS4xODEuNS4xMDU6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpia2hJY0dkbS8_cmVtYXJrcz1JMFZCTWpBNklFcGhjR0Z1Jmdyb3VwPTVZV042TFM1SUZOVFVpRHBvcEhwZ1pNZ2RDNXRaUzloZFhSdmMzTnk=
 ```
