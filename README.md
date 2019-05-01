@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Wed May 01 17:26:43 UTC 2019
+Latest update at: Wed May 01 19:40:15 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,7 +10,7 @@ Latest update at: Wed May 01 17:26:43 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.F90F | AS57494 | Russia | 30 hrs |
+| #.F90F | AS57494 | Russia | 31 hrs |
 | #.E1D5 | AS57494 | Russia | 26 hrs |
 | #.973A | AS63949 | Japan | 24 hrs |
 | #.B147 | AS63949 | Singapore | 30 hrs |
@@ -48,13 +48,15 @@ Latest update at: Wed May 01 17:26:43 UTC 2019
 | #.E139 | AS9009 | Japan | 21 hrs |
 | #.AF5D | AS4609 | Macao | 13 hrs |
 
-## 63 online servers:
+## 65 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 3 hrs |
-| #.F90F | AS57494 | Russia | 30 hrs |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.3769 | AS46844 | United States | 4 hrs |
+| #.F90F | AS57494 | Russia | 31 hrs |
+| #.432A | AS36352 | United States | 1 hrs |
+| #.CAF1 | AS36352 | United States | 1 hrs |
 | #.1C65 | AS57494 | Russia | 7 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 26 hrs |
@@ -116,14 +118,16 @@ Latest update at: Wed May 01 17:26:43 UTC 2019
 | #.D165 | AS63949 | Japan | 2 hrs |
 | #.0FE4 | AS63949 | Japan | 1 hrs |
 
-## 82 recent servers:
+## 84 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 2 hrs |
-| #.3769 | AS46844 | United States | 3 hrs |
-| #.F90F | AS57494 | Russia | 30 hrs |
-| #.08C5 | AS51659 | Russia | 10 hrs offline |
+| #.C51C | AS57494 | Russia | 3 hrs |
+| #.3769 | AS46844 | United States | 4 hrs |
+| #.F90F | AS57494 | Russia | 31 hrs |
+| #.432A | AS36352 | United States | 1 hrs |
+| #.CAF1 | AS36352 | United States | 1 hrs |
+| #.08C5 | AS51659 | Russia | 11 hrs offline |
 | #.1C65 | AS57494 | Russia | 7 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 26 hrs |
