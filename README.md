@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sun May 05 17:22:13 UTC 2019
+Latest update at: Sun May 05 19:40:15 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
@@ -10,10 +10,10 @@ Latest update at: Sun May 05 17:22:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 25 hrs |
-| #.F90F | AS57494 | Russia | 23 hrs |
-| #.3FE9 | AS36352 | United States | 25 hrs |
-| #.5B8A | AS36352 | United States | 25 hrs |
+| #.3769 | AS46844 | United States | 26 hrs |
+| #.F90F | AS57494 | Russia | 24 hrs |
+| #.3FE9 | AS36352 | United States | 26 hrs |
+| #.5B8A | AS36352 | United States | 26 hrs |
 | #.E1D5 | AS57494 | Russia | 12 hrs |
 | #.973A | AS63949 | Japan | 79 hrs |
 | #.F3E5 | AS20473 | Singapore | 133 hrs |
@@ -40,12 +40,12 @@ Latest update at: Sun May 05 17:22:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 25 hrs |
-| #.F90F | AS57494 | Russia | 23 hrs |
-| #.3FE9 | AS36352 | United States | 25 hrs |
-| #.5B8A | AS36352 | United States | 25 hrs |
-| #.ED26 | AS203380 | United Kingdom | 10 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 26 hrs |
+| #.F90F | AS57494 | Russia | 24 hrs |
+| #.3FE9 | AS36352 | United States | 26 hrs |
+| #.5B8A | AS36352 | United States | 26 hrs |
+| #.ED26 | AS203380 | United Kingdom | 11 hrs |
 | #.1C65 | AS57494 | Russia | 5 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 12 hrs |
@@ -109,13 +109,13 @@ Latest update at: Sun May 05 17:22:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 1 hrs |
-| #.3769 | AS46844 | United States | 25 hrs |
-| #.A8BA | AS54600 | China | 3 hrs offline |
-| #.F90F | AS57494 | Russia | 23 hrs |
-| #.3FE9 | AS36352 | United States | 25 hrs |
-| #.5B8A | AS36352 | United States | 25 hrs |
-| #.ED26 | AS203380 | United Kingdom | 10 hrs |
+| #.C51C | AS57494 | Russia | 2 hrs |
+| #.3769 | AS46844 | United States | 26 hrs |
+| #.A8BA | AS54600 | China | 4 hrs offline |
+| #.F90F | AS57494 | Russia | 24 hrs |
+| #.3FE9 | AS36352 | United States | 26 hrs |
+| #.5B8A | AS36352 | United States | 26 hrs |
+| #.ED26 | AS203380 | United Kingdom | 11 hrs |
 | #.1C65 | AS57494 | Russia | 5 hrs |
 | #.2DE5 | AS57494 | Russia | 2 hrs |
 | #.E1D5 | AS57494 | Russia | 12 hrs |
