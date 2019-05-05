@@ -1,26 +1,24 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Sun May 05 03:21:52 UTC 2019
+Latest update at: Sun May 05 04:16:42 UTC 2019
 
 - [Introduction (English)](https://vision-network.readthedocs.io/en/latest/services/autossr.html)
 - [中文说明](https://vision-network.readthedocs.io/zh_CN/latest/services/autossr.html)
 
 
-## 32 stable servers:
+## 30 stable servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 35 hrs |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.3FE9 | AS36352 | United States | 13 hrs |
-| #.5B8A | AS36352 | United States | 13 hrs |
-| #.ED26 | AS203380 | United Kingdom | 12 hrs |
-| #.973A | AS63949 | Japan | 67 hrs |
-| #.BE3E | AS63949 | United States | 17 hrs |
-| #.B147 | AS63949 | Singapore | 28 hrs |
-| #.B3BB | AS8075 | United States | 41 hrs |
-| #.DB95 | AS40676 | United States | 121 hrs |
-| #.D254 | AS40676 | United States | 13 hrs |
+| #.C51C | AS57494 | Russia | 36 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.F90F | AS57494 | Russia | 12 hrs |
+| #.3FE9 | AS36352 | United States | 14 hrs |
+| #.5B8A | AS36352 | United States | 14 hrs |
+| #.ED26 | AS203380 | United Kingdom | 13 hrs |
+| #.1C65 | AS57494 | Russia | 12 hrs |
+| #.973A | AS63949 | Japan | 68 hrs |
+| #.BE3E | AS63949 | United States | 18 hrs |
 | #.F3E5 | AS20473 | Singapore | 122 hrs |
 | #.4AEC | AS31798 | Canada | 66 hrs |
 | #.F3D9 | AS36352 | United States | 16 hrs |
@@ -43,33 +41,22 @@ Latest update at: Sun May 05 03:21:52 UTC 2019
 | #.07A9 | AS36352 | United States | 17 hrs |
 | #.CF05 | AS44220 | Romania | 15 hrs |
 
-## 61 online servers:
+## 50 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 35 hrs |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.F90F | AS57494 | Russia | 11 hrs |
-| #.3FE9 | AS36352 | United States | 13 hrs |
-| #.5B8A | AS36352 | United States | 13 hrs |
-| #.ED26 | AS203380 | United Kingdom | 12 hrs |
-| #.1C65 | AS57494 | Russia | 11 hrs |
-| #.2DE5 | AS57494 | Russia | 2 hrs |
-| #.5607 | AS63949 | Japan | 10 hrs |
-| #.D1A6 | AS35916 | United States | 9 hrs |
-| #.973A | AS63949 | Japan | 67 hrs |
-| #.BE3E | AS63949 | United States | 17 hrs |
-| #.207F | AS63949 | United States | 11 hrs |
-| #.B147 | AS63949 | Singapore | 28 hrs |
-| #.418E | AS16509 | Singapore | 8 hrs |
-| #.442C | AS40676 | United States | 7 hrs |
-| #.B3BB | AS8075 | United States | 41 hrs |
-| #.DB95 | AS40676 | United States | 121 hrs |
-| #.ECD6 | AS40676 | United States | 11 hrs |
-| #.D254 | AS40676 | United States | 13 hrs |
-| #.17C3 | AS137571 | China | 1 hrs |
-| #.8988 | AS16509 | Singapore | 11 hrs |
-| #.D833 | AS16509 | Japan | 11 hrs |
+| #.C51C | AS57494 | Russia | 36 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.F90F | AS57494 | Russia | 12 hrs |
+| #.3FE9 | AS36352 | United States | 14 hrs |
+| #.5B8A | AS36352 | United States | 14 hrs |
+| #.ED26 | AS203380 | United Kingdom | 13 hrs |
+| #.1C65 | AS57494 | Russia | 12 hrs |
+| #.E1D5 | AS57494 | Russia | 1 hrs |
+| #.5607 | AS63949 | Japan | 11 hrs |
+| #.D1A6 | AS35916 | United States | 10 hrs |
+| #.973A | AS63949 | Japan | 68 hrs |
+| #.BE3E | AS63949 | United States | 18 hrs |
 | #.F3E5 | AS20473 | Singapore | 122 hrs |
 | #.6F49 | AS63949 | Japan | 11 hrs |
 | #.B2AB |  | Japan | 2 hrs |
@@ -113,33 +100,33 @@ Latest update at: Sun May 05 03:21:52 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 35 hrs |
-| #.3769 | AS46844 | United States | 13 hrs |
-| #.A8BA | AS54600 | China | 2 hrs offline |
-| #.F90F | AS57494 | Russia | 11 hrs |
-| #.3FE9 | AS36352 | United States | 13 hrs |
-| #.5B8A | AS36352 | United States | 13 hrs |
-| #.ED26 | AS203380 | United Kingdom | 12 hrs |
-| #.1C65 | AS57494 | Russia | 11 hrs |
-| #.2DE5 | AS57494 | Russia | 2 hrs |
-| #.E1D5 | AS57494 | Russia | 1 hrs offline |
-| #.5607 | AS63949 | Japan | 10 hrs |
-| #.D1A6 | AS35916 | United States | 9 hrs |
-| #.973A | AS63949 | Japan | 67 hrs |
-| #.BE3E | AS63949 | United States | 17 hrs |
-| #.207F | AS63949 | United States | 11 hrs |
-| #.B147 | AS63949 | Singapore | 28 hrs |
-| #.418E | AS16509 | Singapore | 8 hrs |
-| #.442C | AS40676 | United States | 7 hrs |
-| #.B3BB | AS8075 | United States | 41 hrs |
-| #.DB95 | AS40676 | United States | 121 hrs |
-| #.ECD6 | AS40676 | United States | 11 hrs |
-| #.D254 | AS40676 | United States | 13 hrs |
-| #.17C3 | AS137571 | China | 1 hrs |
-| #.7B7A |  | Japan | 4 hrs offline |
-| #.4C14 | AS16509 | Japan | 1 hrs offline |
-| #.8988 | AS16509 | Singapore | 11 hrs |
-| #.D833 | AS16509 | Japan | 11 hrs |
+| #.C51C | AS57494 | Russia | 36 hrs |
+| #.3769 | AS46844 | United States | 14 hrs |
+| #.A8BA | AS54600 | China | 3 hrs offline |
+| #.F90F | AS57494 | Russia | 12 hrs |
+| #.3FE9 | AS36352 | United States | 14 hrs |
+| #.5B8A | AS36352 | United States | 14 hrs |
+| #.ED26 | AS203380 | United Kingdom | 13 hrs |
+| #.1C65 | AS57494 | Russia | 12 hrs |
+| #.2DE5 | AS57494 | Russia | 1 hrs offline |
+| #.E1D5 | AS57494 | Russia | 1 hrs |
+| #.5607 | AS63949 | Japan | 11 hrs |
+| #.D1A6 | AS35916 | United States | 10 hrs |
+| #.973A | AS63949 | Japan | 68 hrs |
+| #.BE3E | AS63949 | United States | 18 hrs |
+| #.207F | AS63949 | United States | 1 hrs offline |
+| #.B147 | AS63949 | Singapore | 1 hrs offline |
+| #.418E | AS16509 | Singapore | 1 hrs offline |
+| #.442C | AS40676 | United States | 1 hrs offline |
+| #.B3BB | AS8075 | United States | 1 hrs offline |
+| #.DB95 | AS40676 | United States | 1 hrs offline |
+| #.ECD6 | AS40676 | United States | 1 hrs offline |
+| #.D254 | AS40676 | United States | 1 hrs offline |
+| #.17C3 | AS137571 | China | 1 hrs offline |
+| #.7B7A |  | Japan | 5 hrs offline |
+| #.4C14 | AS16509 | Japan | 2 hrs offline |
+| #.8988 | AS16509 | Singapore | 1 hrs offline |
+| #.D833 | AS16509 | Japan | 1 hrs offline |
 | #.F3E5 | AS20473 | Singapore | 122 hrs |
 | #.6F49 | AS63949 | Japan | 11 hrs |
 | #.F80F | AS51659 | Russia | 1 hrs offline |
