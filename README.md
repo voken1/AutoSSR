@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri May 10 17:19:28 UTC 2019
+Latest update at: Fri May 10 19:39:22 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -10,19 +10,23 @@ Latest update at: Fri May 10 17:19:28 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.F90F | AS57494 | Russia | 135 hrs |
-| #.3FE9 | AS36352 | United States | 39 hrs |
+| #.F90F | AS57494 | Russia | 136 hrs |
+| #.3FE9 | AS36352 | United States | 40 hrs |
 | #.D254 | AS40676 | United States | 14 hrs |
 | #.F3D9 | AS36352 | United States | 17 hrs |
 | #.9ED9 | AS36352 | United States | 84 hrs |
 | #.CF05 | AS44220 | Romania | 31 hrs |
 
-## 32 online servers:
+## 36 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.F90F | AS57494 | Russia | 135 hrs |
-| #.3FE9 | AS36352 | United States | 39 hrs |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 1 hrs |
+| #.F90F | AS57494 | Russia | 136 hrs |
+| #.3FE9 | AS36352 | United States | 40 hrs |
+| #.5B8A | AS36352 | United States | 1 hrs |
+| #.ED26 | AS203380 | United Kingdom | 1 hrs |
 | #.B147 | AS63949 | Singapore | 3 hrs |
 | #.418E | AS16509 | Singapore | 2 hrs |
 | #.442C | AS40676 | United States | 2 hrs |
@@ -58,13 +62,13 @@ Latest update at: Fri May 10 17:19:28 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 3 hrs offline |
-| #.3769 | AS46844 | United States | 4 hrs offline |
-| #.A8BA | AS54600 | China | 1 hrs offline |
-| #.F90F | AS57494 | Russia | 135 hrs |
-| #.3FE9 | AS36352 | United States | 39 hrs |
-| #.5B8A | AS36352 | United States | 1 hrs offline |
-| #.ED26 | AS203380 | United Kingdom | 1 hrs offline |
+| #.C51C | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 1 hrs |
+| #.A8BA | AS54600 | China | 2 hrs offline |
+| #.F90F | AS57494 | Russia | 136 hrs |
+| #.3FE9 | AS36352 | United States | 40 hrs |
+| #.5B8A | AS36352 | United States | 1 hrs |
+| #.ED26 | AS203380 | United Kingdom | 1 hrs |
 | #.1C65 | AS57494 | Russia | 1 hrs offline |
 | #.2DE5 | AS57494 | Russia | 1 hrs offline |
 | #.E1D5 | AS57494 | Russia | 1 hrs offline |
