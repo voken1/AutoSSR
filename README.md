@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Mon May 13 13:27:45 UTC 2019
+Latest update at: Mon May 13 14:10:44 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -108,7 +108,7 @@ Latest update at: Mon May 13 13:27:45 UTC 2019
 | #.8C59 |  | Japan | 5 hrs |
 | #.1680 | AS16509 | Singapore | 4 hrs |
 
-## 84 recent servers:
+## 85 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -196,5 +196,6 @@ Latest update at: Mon May 13 13:27:45 UTC 2019
 | #.5ACD | AS10032 | Hong Kong | 5 hrs offline |
 | #.1D94 | AS14061 | Singapore | 1 hrs offline |
 | #.1680 | AS16509 | Singapore | 4 hrs |
+| #.2288 | AS3462 | Taiwan | |
 
 
