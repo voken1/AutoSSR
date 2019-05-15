@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Wed May 15 09:57:58 UTC 2019
+Latest update at: Wed May 15 13:58:30 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -100,41 +100,41 @@ Latest update at: Wed May 15 09:57:58 UTC 2019
 | #.8169 | AS63949 | Japan | 1 hrs |
 | #.42FE | AS14061 | United Kingdom | 1 hrs |
 
-## 241 recent servers:
+## 259 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.C51C | AS57494 | Russia | 9 hrs offline |
-| #.3769 | AS46844 | United States | 2 hrs offline |
-| #.A8BA | AS54600 | China | 5 hrs offline |
-| #.F90F | AS57494 | Russia | 2 hrs offline |
-| #.3FE9 | AS36352 | United States | 2 hrs offline |
-| #.5B8A | AS36352 | United States | 4 hrs offline |
-| #.9C82 | AS53889 | United States | 1 hrs offline |
-| #.AE0E | AS40824 | Netherlands | 1 hrs offline |
-| #.6081 | AS174 | United States | 1 hrs offline |
-| #.19BC | AS174 | United States | 1 hrs offline |
-| #.D142 | AS35913 | United States | 1 hrs offline |
-| #.8B6D | AS20473 | Germany | 2 hrs offline |
-| #.B56A | AS25820 | United States | 2 hrs offline |
-| #.23CE | AS51659 | Russia | 2 hrs offline |
-| #.4DAA | AS11403 | United States | 2 hrs offline |
-| #.9AC4 | AS53889 | United States | 2 hrs offline |
-| #.1019 | AS40824 | Netherlands | 2 hrs offline |
-| #.20B5 | AS174 | United States | 2 hrs offline |
-| #.7CCE | AS174 | United States | 2 hrs offline |
-| #.5055 | AS35913 | United States | 2 hrs offline |
-| #.1C65 | AS57494 | Russia | 2 hrs offline |
-| #.2DE5 | AS57494 | Russia | 2 hrs offline |
-| #.E1D5 | AS57494 | Russia | 2 hrs offline |
-| #.9050 | AS40676 | United States | 2 hrs offline |
-| #.E702 | AS20473 | United States | 2 hrs offline |
-| #.14D9 | AS63949 | United States | 2 hrs offline |
-| #.602D | AS63949 | United States | 2 hrs offline |
-| #.9701 | AS63949 | United States | 2 hrs offline |
-| #.6D9C | AS63949 | United States | 2 hrs offline |
-| #.7B5B | AS63949 | United States | 2 hrs offline |
-| #.512C | AS63949 | United States | 2 hrs offline |
+| #.C51C | AS57494 | Russia | 10 hrs offline |
+| #.3769 | AS46844 | United States | 3 hrs offline |
+| #.A8BA | AS54600 | China | 6 hrs offline |
+| #.F90F | AS57494 | Russia | 3 hrs offline |
+| #.3FE9 | AS36352 | United States | 3 hrs offline |
+| #.5B8A | AS36352 | United States | 5 hrs offline |
+| #.9C82 | AS53889 | United States | 2 hrs offline |
+| #.AE0E | AS40824 | Netherlands | 2 hrs offline |
+| #.6081 | AS174 | United States | 2 hrs offline |
+| #.19BC | AS174 | United States | 2 hrs offline |
+| #.D142 | AS35913 | United States | 2 hrs offline |
+| #.8B6D | AS20473 | Germany | 3 hrs offline |
+| #.B56A | AS25820 | United States | 3 hrs offline |
+| #.23CE | AS51659 | Russia | 3 hrs offline |
+| #.4DAA | AS11403 | United States | 3 hrs offline |
+| #.9AC4 | AS53889 | United States | 3 hrs offline |
+| #.1019 | AS40824 | Netherlands | 3 hrs offline |
+| #.20B5 | AS174 | United States | 3 hrs offline |
+| #.7CCE | AS174 | United States | 3 hrs offline |
+| #.5055 | AS35913 | United States | 3 hrs offline |
+| #.1C65 | AS57494 | Russia | 3 hrs offline |
+| #.2DE5 | AS57494 | Russia | 3 hrs offline |
+| #.E1D5 | AS57494 | Russia | 3 hrs offline |
+| #.9050 | AS40676 | United States | 3 hrs offline |
+| #.E702 | AS20473 | United States | 3 hrs offline |
+| #.14D9 | AS63949 | United States | 3 hrs offline |
+| #.602D | AS63949 | United States | 3 hrs offline |
+| #.9701 | AS63949 | United States | 3 hrs offline |
+| #.6D9C | AS63949 | United States | 3 hrs offline |
+| #.7B5B | AS63949 | United States | 3 hrs offline |
+| #.512C | AS63949 | United States | 3 hrs offline |
 | #.5607 | AS63949 | Japan | 2 hrs |
 | #.D1A6 | AS35916 | United States | 1 hrs |
 | #.973A | AS63949 | Japan | 28 hrs |
@@ -345,5 +345,23 @@ Latest update at: Wed May 15 09:57:58 UTC 2019
 | #.DBBF | AS63949 | Japan | |
 | #.DC2B | AS14061 | Singapore | |
 | #.AB45 | AS16509 | Republic of Korea | |
+| #.FB4A | AS20473 | Singapore | |
+| #.0415 | AS3462 | Taiwan | |
+| #.F1B0 | AS3462 | Taiwan | |
+| #.DF0E | AS3462 | Taiwan | |
+| #.2E7C | AS3462 | Taiwan | |
+| #.220C | AS3462 | Taiwan | |
+| #.81C2 | AS3462 | Taiwan | |
+| #.825F | AS3462 | Taiwan | |
+| #.2E74 | AS4760 | Hong Kong | |
+| #.65F2 | AS4760 | Hong Kong | |
+| #.03FA | AS4760 | Hong Kong | |
+| #.5A99 | AS15169 | United States | |
+| #.DE59 | AS15169 | United States | |
+| #.65FC | AS16509 | Canada | |
+| #.BBEB | AS16509 | Ireland | |
+| #.403E | AS14061 | United Kingdom | |
+| #.B628 | AS16509 | Singapore | |
+| #.FF2C | AS20473 | United States | |
 
 
