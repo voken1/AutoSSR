@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Mon May 13 15:27:56 UTC 2019
+Latest update at: Wed May 15 00:27:43 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -110,7 +110,7 @@ Latest update at: Mon May 13 15:27:56 UTC 2019
 | #.8169 | AS63949 | Japan | 1 hrs |
 | #.42FE | AS14061 | United Kingdom | 1 hrs |
 
-## 94 recent servers:
+## 181 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -208,5 +208,92 @@ Latest update at: Mon May 13 15:27:56 UTC 2019
 | #.E6AC | AS16509 | Japan | 1 hrs offline |
 | #.42FE | AS14061 | United Kingdom | 1 hrs |
 | #.DDA0 | AS51659 | Russia | |
+| #.48C3 | AS20473 | United States | |
+| #.02F6 | AS16509 | Germany | |
+| #.852C | AS16509 | Singapore | |
+| #.2830 | AS16509 | Japan | |
+| #.C0E9 | AS16509 | United States | |
+| #.6051 | AS16509 | Republic of Korea | |
+| #.8F12 | AS9009 | Japan | |
+| #.FECF | AS40676 | United States | |
+| #.EF1E | AS40676 | United States | |
+| #.7493 | AS9009 | Singapore | |
+| #.9457 | N/A | N/A | |
+| #.5B16 | AS9009 | Japan | |
+| #.17B3 | N/A | N/A | |
+| #.309A | N/A | N/A | |
+| #.7E83 | AS3462 | Taiwan | |
+| #.EAA5 | AS16509 | Singapore | |
+| #.9242 | AS16509 | Japan | |
+| #.36E7 | AS3462 | Taiwan | |
+| #.C571 | N/A | N/A | |
+| #.EF09 | AS16509 | United States | |
+| #.FB89 | AS20473 | United Kingdom | |
+| #.743C | AS16509 | Republic of Korea | |
+| #.7876 | AS4760 | Hong Kong | |
+| #.978F | AS9269 | Hong Kong | |
+| #.18BB | AS45102 | China | |
+| #.026A | AS3462 | Taiwan | |
+| #.CE75 | AS16509 | France | |
+| #.453F | AS16509 | Singapore | |
+| #.BD70 | AS20473 | United Kingdom | |
+| #.ED57 | AS20473 | Germany | |
+| #.4EBC | AS20473 | France | |
+| #.50AB | AS20473 | Netherlands | |
+| #.32B9 | AS20473 | Australia | |
+| #.E02E | AS63949 | United States | |
+| #.6403 | AS14061 | United Kingdom | |
+| #.92F5 | AS14061 | United Kingdom | |
+| #.8806 | AS14061 | Singapore | |
+| #.A431 | AS136600 | Hong Kong | |
+| #.53C6 | N/A | N/A | |
+| #.D756 | AS45102 | China | |
+| #.339A | AS40676 | Netherlands | |
+| #.8DC5 | AS14061 | Singapore | |
+| #.321C | AS63949 | Japan | |
+| #.1175 | AS14061 | United Kingdom | |
+| #.6AED | AS14061 | United Kingdom | |
+| #.5DF0 | AS14061 | United Kingdom | |
+| #.C4F7 | AS63949 | United States | |
+| #.A3D0 | AS63949 | Japan | |
+| #.75E3 | AS63949 | Japan | |
+| #.17F9 | AS4609 | Macao | |
+| #.4017 | N/A | N/A | |
+| #.8BD3 | AS16509 | Singapore | |
+| #.CC70 | AS14061 | United States | |
+| #.06FE | AS14061 | United Kingdom | |
+| #.8E68 | AS14061 | Singapore | |
+| #.F174 | AS16509 | Republic of Korea | |
+| #.6412 | AS38843 | United States | |
+| #.E354 | AS57494 | Russia | |
+| #.4DE8 | AS56630 | Netherlands | |
+| #.8E06 | AS14061 | United Kingdom | |
+| #.8CFF | AS16509 | Singapore | |
+| #.DD17 | AS16509 | Singapore | |
+| #.E113 | AS16509 | Singapore | |
+| #.7545 | AS16509 | Singapore | |
+| #.FC03 | AS3462 | Taiwan | |
+| #.B75B | AS16509 | Singapore | |
+| #.ED27 | AS14061 | United States | |
+| #.C61F | AS63949 | United States | |
+| #.C60D | AS14061 | United Kingdom | |
+| #.06C2 | AS14061 | Singapore | |
+| #.09A5 | AS63949 | Japan | |
+| #.9A57 | AS20473 | United Kingdom | |
+| #.F21E | AS14061 | United Kingdom | |
+| #.F12F | AS14061 | United Kingdom | |
+| #.3818 | AS63949 | Japan | |
+| #.F35A | AS63949 | Japan | |
+| #.A778 | AS7506 | Japan | |
+| #.F2E4 | N/A | N/A | |
+| #.0B7E | AS9009 | Japan | |
+| #.EB06 | N/A | N/A | |
+| #.30F8 | AS63949 | Singapore | |
+| #.D8BF | AS9009 | Singapore | |
+| #.1482 | AS8100 | United States | |
+| #.0C21 | AS134520 | United States | |
+| #.217E | AS25820 | United States | |
+| #.7180 | AS134520 | United States | |
+| #.E068 | AS20473 | Germany | |
 
 
