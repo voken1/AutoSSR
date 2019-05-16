@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Wed May 15 21:57:17 UTC 2019
+Latest update at: Thu May 16 00:57:39 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -100,40 +100,40 @@ Latest update at: Wed May 15 21:57:17 UTC 2019
 | #.8169 | AS63949 | Japan | 1 hrs |
 | #.42FE | AS14061 | United Kingdom | 1 hrs |
 
-## 295 recent servers:
+## 297 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 5 hrs offline |
-| #.A8BA | AS54600 | China | 8 hrs offline |
-| #.F90F | AS57494 | Russia | 5 hrs offline |
-| #.3FE9 | AS36352 | United States | 5 hrs offline |
-| #.5B8A | AS36352 | United States | 7 hrs offline |
-| #.9C82 | AS53889 | United States | 4 hrs offline |
-| #.AE0E | AS40824 | Netherlands | 4 hrs offline |
-| #.6081 | AS174 | United States | 4 hrs offline |
-| #.19BC | AS174 | United States | 4 hrs offline |
-| #.D142 | AS35913 | United States | 4 hrs offline |
-| #.8B6D | AS20473 | Germany | 5 hrs offline |
-| #.B56A | AS25820 | United States | 5 hrs offline |
-| #.23CE | AS51659 | Russia | 5 hrs offline |
-| #.4DAA | AS11403 | United States | 5 hrs offline |
-| #.9AC4 | AS53889 | United States | 5 hrs offline |
-| #.1019 | AS40824 | Netherlands | 5 hrs offline |
-| #.20B5 | AS174 | United States | 5 hrs offline |
-| #.7CCE | AS174 | United States | 5 hrs offline |
-| #.5055 | AS35913 | United States | 5 hrs offline |
-| #.1C65 | AS57494 | Russia | 5 hrs offline |
-| #.2DE5 | AS57494 | Russia | 5 hrs offline |
-| #.E1D5 | AS57494 | Russia | 5 hrs offline |
-| #.9050 | AS40676 | United States | 5 hrs offline |
-| #.E702 | AS20473 | United States | 5 hrs offline |
-| #.14D9 | AS63949 | United States | 5 hrs offline |
-| #.602D | AS63949 | United States | 5 hrs offline |
-| #.9701 | AS63949 | United States | 5 hrs offline |
-| #.6D9C | AS63949 | United States | 5 hrs offline |
-| #.7B5B | AS63949 | United States | 5 hrs offline |
-| #.512C | AS63949 | United States | 5 hrs offline |
+| #.3769 | AS46844 | United States | 6 hrs offline |
+| #.A8BA | AS54600 | China | 9 hrs offline |
+| #.F90F | AS57494 | Russia | 6 hrs offline |
+| #.3FE9 | AS36352 | United States | 6 hrs offline |
+| #.5B8A | AS36352 | United States | 8 hrs offline |
+| #.9C82 | AS53889 | United States | 5 hrs offline |
+| #.AE0E | AS40824 | Netherlands | 5 hrs offline |
+| #.6081 | AS174 | United States | 5 hrs offline |
+| #.19BC | AS174 | United States | 5 hrs offline |
+| #.D142 | AS35913 | United States | 5 hrs offline |
+| #.8B6D | AS20473 | Germany | 6 hrs offline |
+| #.B56A | AS25820 | United States | 6 hrs offline |
+| #.23CE | AS51659 | Russia | 6 hrs offline |
+| #.4DAA | AS11403 | United States | 6 hrs offline |
+| #.9AC4 | AS53889 | United States | 6 hrs offline |
+| #.1019 | AS40824 | Netherlands | 6 hrs offline |
+| #.20B5 | AS174 | United States | 6 hrs offline |
+| #.7CCE | AS174 | United States | 6 hrs offline |
+| #.5055 | AS35913 | United States | 6 hrs offline |
+| #.1C65 | AS57494 | Russia | 6 hrs offline |
+| #.2DE5 | AS57494 | Russia | 6 hrs offline |
+| #.E1D5 | AS57494 | Russia | 6 hrs offline |
+| #.9050 | AS40676 | United States | 6 hrs offline |
+| #.E702 | AS20473 | United States | 6 hrs offline |
+| #.14D9 | AS63949 | United States | 6 hrs offline |
+| #.602D | AS63949 | United States | 6 hrs offline |
+| #.9701 | AS63949 | United States | 6 hrs offline |
+| #.6D9C | AS63949 | United States | 6 hrs offline |
+| #.7B5B | AS63949 | United States | 6 hrs offline |
+| #.512C | AS63949 | United States | 6 hrs offline |
 | #.5607 | AS63949 | Japan | 2 hrs |
 | #.D1A6 | AS35916 | United States | 1 hrs |
 | #.973A | AS63949 | Japan | 28 hrs |
@@ -399,5 +399,7 @@ Latest update at: Wed May 15 21:57:17 UTC 2019
 | #.FC19 | AS45102 | China | |
 | #.030E | AS14061 | United Kingdom | |
 | #.B2EA | AS14061 | United Kingdom | |
+| #.7F14 | N/A | N/A | |
+| #.35C5 | AS16509 | Singapore | |
 
 
