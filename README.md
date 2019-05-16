@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Thu May 16 00:57:39 UTC 2019
+Latest update at: Thu May 16 01:57:32 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -104,11 +104,11 @@ Latest update at: Thu May 16 00:57:39 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 6 hrs offline |
-| #.A8BA | AS54600 | China | 9 hrs offline |
-| #.F90F | AS57494 | Russia | 6 hrs offline |
-| #.3FE9 | AS36352 | United States | 6 hrs offline |
-| #.5B8A | AS36352 | United States | 8 hrs offline |
+| #.3769 | AS46844 | United States | 7 hrs offline |
+| #.A8BA | AS54600 | China | 10 hrs offline |
+| #.F90F | AS57494 | Russia | 7 hrs offline |
+| #.3FE9 | AS36352 | United States | 7 hrs offline |
+| #.5B8A | AS36352 | United States | 9 hrs offline |
 | #.9C82 | AS53889 | United States | 5 hrs offline |
 | #.AE0E | AS40824 | Netherlands | 5 hrs offline |
 | #.6081 | AS174 | United States | 5 hrs offline |
