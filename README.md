@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri May 17 03:20:13 UTC 2019
+Latest update at: Fri May 17 03:33:33 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -25,13 +25,12 @@ Latest update at: Fri May 17 03:20:13 UTC 2019
 | #.82CA | AS25820 | United States | 22 hrs |
 | #.1680 | AS16509 | Singapore | 7 hrs |
 
-## 85 online servers:
+## 79 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 1 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 2 hrs |
+| #.F90F | AS57494 | Russia | 2 hrs |
 | #.8B6D | AS20473 | Germany | 1 hrs |
 | #.B56A | AS25820 | United States | 1 hrs |
 | #.23CE | AS51659 | Russia | 1 hrs |
@@ -96,32 +95,27 @@ Latest update at: Fri May 17 03:20:13 UTC 2019
 | #.1680 | AS9009 | Japan | 2 hrs |
 | #.220A | AS20473 | Japan | 2 hrs |
 | #.FB4A | AS20473 | Singapore | 2 hrs |
-| #.65FC | AS16509 | Canada | 1 hrs |
-| #.BBEB | AS16509 | Ireland | 1 hrs |
-| #.C315 | AS45102 | Singapore | 1 hrs |
-| #.CDCB | AS3462 | Taiwan | 1 hrs |
-| #.22B1 | AS16509 | United States | 1 hrs |
-| #.5A45 | AS14618 | United States | 1 hrs |
-| #.531D | AS16509 | United States | 1 hrs |
-| #.868B | AS4760 | Hong Kong | 1 hrs |
-| #.1006 | AS9381 | Hong Kong | 1 hrs |
-| #.7F14 | AS14061 | Singapore | 1 hrs |
-| #.35C5 | AS16509 | Singapore | 1 hrs |
-| #.B0BE | AS14061 | United Kingdom | 2 hrs |
-| #.566A | AS14061 | Singapore | 2 hrs |
-| #.2B69 | AS16509 | South Korea | 2 hrs |
-| #.98D8 | AS3462 | Taiwan | 2 hrs |
-| #.370B | AS14061 | United Kingdom | 2 hrs |
-| #.045C | AS16509 | Singapore | 2 hrs |
-| #.1264 | AS17709 | Taiwan | 2 hrs |
+| #.2E74 | AS4760 | Hong Kong | 1 hrs |
+| #.BBEB | AS16509 | Ireland | 2 hrs |
+| #.98D8 | AS3462 | Taiwan | 3 hrs |
+| #.92BF | AS63949 | United States | 1 hrs |
+| #.F565 | AS14061 | United Kingdom | 1 hrs |
+| #.1CD1 | AS14061 | United Kingdom | 1 hrs |
+| #.4A58 | AS9269 | Hong Kong | 1 hrs |
+| #.B4A7 | AS9542 | Hong Kong | 1 hrs |
+| #.B130 | AS40065 | United States | 1 hrs |
+| #.D478 | AS63949 | Japan | 1 hrs |
+| #.2E0B | AS14061 | Singapore | 1 hrs |
+| #.D210 | AS14061 | United Kingdom | 1 hrs |
+| #.AD82 | AS3462 | Taiwan | 1 hrs |
 
 ## 330 recent servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 1 hrs |
-| #.A8BA | AS54600 | China | 1 hrs |
-| #.F90F | AS57494 | Russia | 1 hrs |
+| #.3769 | AS46844 | United States | 2 hrs |
+| #.A8BA | AS54600 | China | 1 hrs offline |
+| #.F90F | AS57494 | Russia | 2 hrs |
 | #.9C82 | AS53889 | United States | 16 hrs offline |
 | #.AE0E | AS40824 | Netherlands | 16 hrs offline |
 | #.6081 | AS174 | United States | 15 hrs offline |
@@ -358,95 +352,95 @@ Latest update at: Fri May 17 03:20:13 UTC 2019
 | #.DC2B | AS14061 | Singapore | 2 hrs offline |
 | #.AB45 | AS16509 | Republic of Korea | 4 hrs offline |
 | #.FB4A | AS20473 | Singapore | 2 hrs |
-| #.0415 | AS3462 | Taiwan | 1 hrs offline |
-| #.F1B0 | AS3462 | Taiwan | 1 hrs offline |
-| #.DF0E | AS3462 | Taiwan | 1 hrs offline |
-| #.2E7C | AS3462 | Taiwan | 1 hrs offline |
-| #.220C | AS3462 | Taiwan | 1 hrs offline |
-| #.81C2 | AS3462 | Taiwan | 1 hrs offline |
-| #.825F | AS3462 | Taiwan | 1 hrs offline |
-| #.2E74 | AS4760 | Hong Kong | 1 hrs offline |
-| #.65F2 | AS4760 | Hong Kong | 1 hrs offline |
-| #.03FA | AS4760 | Hong Kong | 1 hrs offline |
-| #.5A99 | AS15169 | United States | 1 hrs offline |
-| #.DE59 | AS15169 | United States | 1 hrs offline |
-| #.65FC | AS16509 | Canada | 1 hrs |
-| #.BBEB | AS16509 | Ireland | 1 hrs |
-| #.403E | AS14061 | United Kingdom | 1 hrs offline |
-| #.B628 | AS16509 | Singapore | 1 hrs offline |
-| #.FF2C | AS20473 | United States | 1 hrs offline |
-| #.CDD9 | AS20473 | United States | 1 hrs offline |
-| #.058D | AS45102 | China | 1 hrs offline |
-| #.AD47 | AS45102 | China | 1 hrs offline |
-| #.7AEE | AS45102 | China | 1 hrs offline |
-| #.FA2E | AS45102 | China | 1 hrs offline |
-| #.3623 | AS45102 | Singapore | 1 hrs offline |
-| #.3326 | AS45102 | China | 1 hrs offline |
-| #.C315 | AS45102 | Singapore | 1 hrs |
-| #.64A0 | AS45102 | Singapore | 1 hrs offline |
-| #.4BBD | AS45102 | Singapore | 1 hrs offline |
-| #.B1C0 | AS45102 | China | 1 hrs offline |
-| #.23FC | AS45102 | China | 1 hrs offline |
-| #.5E75 | AS15169 |  | 1 hrs offline |
-| #.B7F1 | AS15169 | United States | 1 hrs offline |
-| #.421B | AS54574 | Hong Kong | 1 hrs offline |
-| #.08F3 | AS45102 | Hong Kong | 1 hrs offline |
-| #.3614 | AS54574 | Hong Kong | 1 hrs offline |
-| #.EC1F | AS8075 | Hong Kong | 1 hrs offline |
-| #.7F7C | AS15169 | United States | 1 hrs offline |
-| #.1D49 | AS8075 | Hong Kong | 1 hrs offline |
-| #.47FD | AS45102 | Singapore | 1 hrs offline |
-| #.9FF7 | AS45102 | China | 2 hrs offline |
-| #.A461 | AS45102 | China | 1 hrs offline |
-| #.5658 | AS45102 | China | 1 hrs offline |
-| #.96F2 | AS16509 | Singapore | 1 hrs offline |
-| #.CDCB | AS3462 | Taiwan | 1 hrs |
-| #.78F7 | AS9009 | Japan | 1 hrs offline |
-| #.22B1 | AS16509 | United States | 1 hrs |
-| #.5A45 | AS14618 | United States | 1 hrs |
-| #.531D | AS16509 | United States | 1 hrs |
-| #.D371 | AS54574 | United States | 1 hrs offline |
-| #.868B | AS4760 | Hong Kong | 1 hrs |
-| #.1006 | AS9381 | Hong Kong | 1 hrs |
-| #.D37B | AS45102 | China | 1 hrs offline |
-| #.FC19 | AS45102 | China | 1 hrs offline |
-| #.030E | AS14061 | United Kingdom | 1 hrs offline |
-| #.B2EA | AS14061 | United Kingdom | 1 hrs offline |
-| #.7F14 | AS14061 | Singapore | 1 hrs |
-| #.35C5 | AS16509 | Singapore | 1 hrs |
-| #.B0BE | AS14061 | United Kingdom | 2 hrs |
-| #.566A | AS14061 | Singapore | 2 hrs |
-| #.2B69 | AS16509 | South Korea | 2 hrs |
-| #.F804 | AS21859 | Hong Kong | 2 hrs offline |
-| #.98D8 | AS3462 | Taiwan | 2 hrs |
-| #.370B | AS14061 | United Kingdom | 2 hrs |
-| #.045C | AS16509 | Singapore | 2 hrs |
-| #.F755 | AS14061 | United Kingdom | 1 hrs offline |
-| #.F499 | AS14061 | United Kingdom | 1 hrs offline |
-| #.44AC | AS14061 | United Kingdom | 3 hrs offline |
-| #.A7A3 | AS9269 | Hong Kong | 2 hrs offline |
-| #.D8E1 | AS9009 | United States | 4 hrs offline |
-| #.92BF | AS63949 | United States | |
-| #.F565 | AS14061 | United Kingdom | |
-| #.1CD1 | AS14061 | United Kingdom | |
-| #.4A58 | AS9269 | Hong Kong | |
-| #.6244 | AS16509 | Japan | |
-| #.B4A7 | AS131297 | Hong Kong | |
-| #.FD4F | AS16509 | Japan | |
-| #.B130 | AS40065 | United States | |
-| #.D478 | AS63949 | Japan | |
-| #.AE58 | AS57494 | Russia | |
-| #.6024 | AS57494 | Russia | |
-| #.CCD4 | AS3462 | Taiwan | |
-| #.AEEF | AS54600 | United States | |
-| #.5BE2 | AS24282 | Japan | |
-| #.FB3F | AS16509 | Singapore | |
-| #.2E0B | AS14061 | Singapore | |
-| #.D210 | AS14061 | United Kingdom | |
-| #.B19A | AS133365 | Taiwan | |
-| #.EC0B | AS4760 | Hong Kong | |
-| #.AD82 | AS3462 | Taiwan | |
-| #.1264 | AS17709 | Taiwan | 2 hrs |
+| #.0415 | AS3462 | Taiwan | 2 hrs offline |
+| #.F1B0 | AS3462 | Taiwan | 2 hrs offline |
+| #.DF0E | AS3462 | Taiwan | 2 hrs offline |
+| #.2E7C | AS3462 | Taiwan | 2 hrs offline |
+| #.220C | AS3462 | Taiwan | 2 hrs offline |
+| #.81C2 | AS3462 | Taiwan | 2 hrs offline |
+| #.825F | AS3462 | Taiwan | 2 hrs offline |
+| #.2E74 | AS4760 | Hong Kong | 1 hrs |
+| #.65F2 | AS4760 | Hong Kong | 2 hrs offline |
+| #.03FA | AS4760 | Hong Kong | 2 hrs offline |
+| #.5A99 | AS15169 | United States | 2 hrs offline |
+| #.DE59 | AS15169 | United States | 2 hrs offline |
+| #.65FC | AS16509 | Canada | 1 hrs offline |
+| #.BBEB | AS16509 | Ireland | 2 hrs |
+| #.403E | AS14061 | United Kingdom | 2 hrs offline |
+| #.B628 | AS16509 | Singapore | 2 hrs offline |
+| #.FF2C | AS20473 | United States | 2 hrs offline |
+| #.CDD9 | AS20473 | United States | 2 hrs offline |
+| #.058D | AS45102 | China | 2 hrs offline |
+| #.AD47 | AS45102 | China | 2 hrs offline |
+| #.7AEE | AS45102 | China | 2 hrs offline |
+| #.FA2E | AS45102 | China | 2 hrs offline |
+| #.3623 | AS45102 | Singapore | 2 hrs offline |
+| #.3326 | AS45102 | China | 2 hrs offline |
+| #.C315 | AS45102 | Singapore | 1 hrs offline |
+| #.64A0 | AS45102 | Singapore | 2 hrs offline |
+| #.4BBD | AS45102 | Singapore | 2 hrs offline |
+| #.B1C0 | AS45102 | China | 2 hrs offline |
+| #.23FC | AS45102 | China | 2 hrs offline |
+| #.5E75 | AS15169 |  | 2 hrs offline |
+| #.B7F1 | AS15169 | United States | 2 hrs offline |
+| #.421B | AS54574 | Hong Kong | 2 hrs offline |
+| #.08F3 | AS45102 | Hong Kong | 2 hrs offline |
+| #.3614 | AS54574 | Hong Kong | 2 hrs offline |
+| #.EC1F | AS8075 | Hong Kong | 2 hrs offline |
+| #.7F7C | AS15169 | United States | 2 hrs offline |
+| #.1D49 | AS8075 | Hong Kong | 2 hrs offline |
+| #.47FD | AS45102 | Singapore | 2 hrs offline |
+| #.9FF7 | AS45102 | China | 3 hrs offline |
+| #.A461 | AS45102 | China | 2 hrs offline |
+| #.5658 | AS45102 | China | 2 hrs offline |
+| #.96F2 | AS16509 | Singapore | 2 hrs offline |
+| #.CDCB | AS3462 | Taiwan | 1 hrs offline |
+| #.78F7 | AS9009 | Japan | 2 hrs offline |
+| #.22B1 | AS16509 | United States | 1 hrs offline |
+| #.5A45 | AS14618 | United States | 1 hrs offline |
+| #.531D | AS16509 | United States | 1 hrs offline |
+| #.D371 | AS54574 | United States | 2 hrs offline |
+| #.868B | AS4760 | Hong Kong | 1 hrs offline |
+| #.1006 | AS9381 | Hong Kong | 1 hrs offline |
+| #.D37B | AS45102 | China | 2 hrs offline |
+| #.FC19 | AS45102 | China | 2 hrs offline |
+| #.030E | AS14061 | United Kingdom | 2 hrs offline |
+| #.B2EA | AS14061 | United Kingdom | 2 hrs offline |
+| #.7F14 | AS14061 | Singapore | 1 hrs offline |
+| #.35C5 | AS16509 | Singapore | 1 hrs offline |
+| #.B0BE | AS14061 | United Kingdom | 1 hrs offline |
+| #.566A | AS14061 | Singapore | 1 hrs offline |
+| #.2B69 | AS16509 | South Korea | 1 hrs offline |
+| #.F804 | AS21859 | Hong Kong | 3 hrs offline |
+| #.98D8 | AS3462 | Taiwan | 3 hrs |
+| #.370B | AS14061 | United Kingdom | 1 hrs offline |
+| #.045C | AS16509 | Singapore | 1 hrs offline |
+| #.F755 | AS14061 | United Kingdom | 2 hrs offline |
+| #.F499 | AS14061 | United Kingdom | 2 hrs offline |
+| #.44AC | AS14061 | United Kingdom | 4 hrs offline |
+| #.A7A3 | AS9269 | Hong Kong | 3 hrs offline |
+| #.D8E1 | AS9009 | United States | 5 hrs offline |
+| #.92BF | AS63949 | United States | 1 hrs |
+| #.F565 | AS14061 | United Kingdom | 1 hrs |
+| #.1CD1 | AS14061 | United Kingdom | 1 hrs |
+| #.4A58 | AS9269 | Hong Kong | 1 hrs |
+| #.6244 | AS16509 | Japan | 1 hrs offline |
+| #.B4A7 | AS9542 | Hong Kong | 1 hrs |
+| #.FD4F | AS16509 | Japan | 1 hrs offline |
+| #.B130 | AS40065 | United States | 1 hrs |
+| #.D478 | AS63949 | Japan | 1 hrs |
+| #.AE58 | AS57494 | Russia | 1 hrs offline |
+| #.6024 | AS57494 | Russia | 1 hrs offline |
+| #.CCD4 | AS3462 | Taiwan | 1 hrs offline |
+| #.AEEF | AS54600 | United States | 1 hrs offline |
+| #.5BE2 | AS24282 | Japan | 1 hrs offline |
+| #.FB3F | AS16509 | Singapore | 1 hrs offline |
+| #.2E0B | AS14061 | Singapore | 1 hrs |
+| #.D210 | AS14061 | United Kingdom | 1 hrs |
+| #.B19A | AS133365 | Taiwan | 1 hrs offline |
+| #.EC0B | AS4760 | Hong Kong | 1 hrs offline |
+| #.AD82 | AS3462 | Taiwan | 1 hrs |
+| #.1264 | AS17709 | Taiwan | 1 hrs offline |
 | #.4191 | AS14061 | Singapore | |
 | #.E465 | AS16509 | Singapore | |
 
