@@ -42,9 +42,9 @@
 | #.309A | AS9009 | Japan | 9 hrs |
 | #.FB89 | AS20473 | United Kingdom | 7 hrs |
 | #.453F | AS16509 | Singapore | 6 hrs |
-| #.6412 | AS38843 | United States | 6 hrs |
-| #.9A57 | AS20473 | United Kingdom | 6 hrs |
-| #.1680 | AS9009 | Japan | 6 hrs |
+| #.6412 | AS38843 | United States | 7 hrs |
+| #.9A57 | AS20473 | United Kingdom | 7 hrs |
+| #.1680 | AS9009 | Japan | 7 hrs |
 | #.FB4A | AS20473 | Singapore | 6 hrs |
 | #.BBEB | AS16509 | Ireland | 6 hrs |
 | #.98D8 | AS3462 | Taiwan | 7 hrs |

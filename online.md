@@ -1,4 +1,4 @@
-# 80 online servers:
+# 81 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -57,9 +57,10 @@
 | #.18BB | AS45102 | China | 2 hrs |
 | #.CE75 | AS16509 | France | 3 hrs |
 | #.453F | AS16509 | Singapore | 6 hrs |
-| #.6412 | AS38843 | United States | 6 hrs |
-| #.9A57 | AS20473 | United Kingdom | 6 hrs |
-| #.1680 | AS9009 | Japan | 6 hrs |
+| #.6412 | AS38843 | United States | 7 hrs |
+| #.9A57 | AS20473 | United Kingdom | 7 hrs |
+| #.1680 | AS9009 | Japan | 7 hrs |
+| #.220A | AS20473 | Japan | 1 hrs |
 | #.FB4A | AS20473 | Singapore | 6 hrs |
 | #.2E74 | AS4760 | Hong Kong | 1 hrs |
 | #.BBEB | AS16509 | Ireland | 6 hrs |
