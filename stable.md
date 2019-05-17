@@ -35,13 +35,13 @@
 | #.8C1B | AS63949 | United States | 11 hrs |
 | #.6EF8 | AS63949 | United States | 31 hrs |
 | #.9407 | AS20473 | Japan | 32 hrs |
-| #.48C3 | AS20473 | United States | 9 hrs |
-| #.FECF | AS40676 | United States | 8 hrs |
-| #.EF1E | AS40676 | United States | 8 hrs |
-| #.5B16 | AS9009 | Japan | 8 hrs |
-| #.17B3 | AS9009 | Japan | 8 hrs |
-| #.309A | AS9009 | Japan | 8 hrs |
-| #.FB89 | AS20473 | United Kingdom | 6 hrs |
+| #.48C3 | AS20473 | United States | 10 hrs |
+| #.FECF | AS40676 | United States | 9 hrs |
+| #.EF1E | AS40676 | United States | 9 hrs |
+| #.17B3 | AS9009 | Japan | 9 hrs |
+| #.309A | AS9009 | Japan | 9 hrs |
+| #.FB89 | AS20473 | United Kingdom | 7 hrs |
+| #.453F | AS16509 | Singapore | 6 hrs |
 | #.6412 | AS38843 | United States | 6 hrs |
 | #.9A57 | AS20473 | United Kingdom | 6 hrs |
 | #.1680 | AS9009 | Japan | 6 hrs |

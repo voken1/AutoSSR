@@ -43,20 +43,20 @@
 | #.9407 | AS20473 | Japan | 32 hrs |
 | #.82CA | AS25820 | United States | 2 hrs |
 | #.0E4A | AS16509 | Japan | 1 hrs |
-| #.48C3 | AS20473 | United States | 9 hrs |
-| #.FECF | AS40676 | United States | 8 hrs |
-| #.EF1E | AS40676 | United States | 8 hrs |
-| #.5B16 | AS9009 | Japan | 8 hrs |
-| #.17B3 | AS9009 | Japan | 8 hrs |
-| #.309A | AS9009 | Japan | 8 hrs |
-| #.9242 | AS16509 | Japan | 1 hrs |
-| #.C571 | AS9009 | Japan | 3 hrs |
-| #.EF09 | AS16509 | United States | 4 hrs |
-| #.FB89 | AS20473 | United Kingdom | 6 hrs |
-| #.743C | AS16509 | South Korea | 4 hrs |
-| #.18BB | AS45102 | China | 1 hrs |
-| #.CE75 | AS16509 | France | 2 hrs |
-| #.453F | AS16509 | Singapore | 5 hrs |
+| #.48C3 | AS20473 | United States | 10 hrs |
+| #.FECF | AS40676 | United States | 9 hrs |
+| #.EF1E | AS40676 | United States | 9 hrs |
+| #.17B3 | AS9009 | Japan | 9 hrs |
+| #.309A | AS9009 | Japan | 9 hrs |
+| #.9242 | AS16509 | Japan | 2 hrs |
+| #.C571 | AS9009 | Japan | 4 hrs |
+| #.EF09 | AS16509 | United States | 5 hrs |
+| #.FB89 | AS20473 | United Kingdom | 7 hrs |
+| #.743C | AS16509 | South Korea | 5 hrs |
+| #.7876 | AS4760 | Hong Kong | 1 hrs |
+| #.18BB | AS45102 | China | 2 hrs |
+| #.CE75 | AS16509 | France | 3 hrs |
+| #.453F | AS16509 | Singapore | 6 hrs |
 | #.6412 | AS38843 | United States | 6 hrs |
 | #.9A57 | AS20473 | United Kingdom | 6 hrs |
 | #.1680 | AS9009 | Japan | 6 hrs |
