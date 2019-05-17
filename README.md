@@ -1,6 +1,6 @@
 # Free ShadowsocksR<br>免费 ShadowsocksR 服务
 
-Latest update at: Fri May 17 03:12:52 UTC 2019
+Latest update at: Fri May 17 03:20:13 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -25,7 +25,7 @@ Latest update at: Fri May 17 03:12:52 UTC 2019
 | #.82CA | AS25820 | United States | 22 hrs |
 | #.1680 | AS16509 | Singapore | 7 hrs |
 
-## 88 online servers:
+## 85 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
@@ -94,11 +94,8 @@ Latest update at: Fri May 17 03:12:52 UTC 2019
 | #.E354 | AS57494 | Russia | 2 hrs |
 | #.9A57 | AS20473 | United Kingdom | 2 hrs |
 | #.1680 | AS9009 | Japan | 2 hrs |
-| #.220A | AS20473 | Japan | 1 hrs |
-| #.8420 | AS20473 | Germany | 1 hrs |
-| #.7C4B | AS20473 | Australia | 1 hrs |
-| #.3A08 | AS50340 | Russia | 1 hrs |
-| #.FB4A | AS20473 | Singapore | 1 hrs |
+| #.220A | AS20473 | Japan | 2 hrs |
+| #.FB4A | AS20473 | Singapore | 2 hrs |
 | #.65FC | AS16509 | Canada | 1 hrs |
 | #.BBEB | AS16509 | Ireland | 1 hrs |
 | #.C315 | AS45102 | Singapore | 1 hrs |
@@ -326,41 +323,41 @@ Latest update at: Fri May 17 03:12:52 UTC 2019
 | #.18AD | AS63949 | United States | 2 hrs offline |
 | #.358A | AS8075 | Republic of Korea | 2 hrs offline |
 | #.1B98 | AS40676 | Singapore | 2 hrs offline |
-| #.2417 | AS8075 | Japan | 1 hrs offline |
-| #.98B4 | AS57494 | Russia | 1 hrs offline |
-| #.908A | AS199524 | Russia | 1 hrs offline |
-| #.DAAA | AS8075 | Hong Kong | 1 hrs offline |
-| #.E727 | AS25820 | Canada | 1 hrs offline |
-| #.1102 | AS40065 | United States | 1 hrs offline |
-| #.7EDC | AS9009 | Japan | 1 hrs offline |
-| #.5AC8 | AS4760 | Hong Kong | 1 hrs offline |
-| #.0BED | AS9009 | Japan | 1 hrs offline |
-| #.028E | AS16276 | Canada | 1 hrs offline |
-| #.F8DA | AS134520 | United States | 1 hrs offline |
-| #.0E90 | AS20473 | Japan | 1 hrs offline |
-| #.88FE | AS20473 | Japan | 1 hrs offline |
-| #.A834 | AS20473 | Australia | 1 hrs offline |
-| #.A8AA | AS9269 | Hong Kong | 1 hrs offline |
-| #.D89A | AS9009 | Japan | 1 hrs offline |
-| #.E97C | AS4785 | United States | 1 hrs offline |
-| #.94AE | AS63949 | Japan | 1 hrs offline |
-| #.9813 | AS63949 | Japan | 1 hrs offline |
-| #.220A | AS20473 | Japan | 1 hrs |
-| #.DCDA | AS63949 | Japan | 1 hrs offline |
-| #.F15E | AS16509 | Singapore | 1 hrs offline |
-| #.8420 | AS20473 | Germany | 1 hrs |
-| #.7C4B | AS20473 | Australia | 1 hrs |
-| #.41AB | AS16509 | Japan | 1 hrs offline |
-| #.3A08 | AS50340 | Russia | 1 hrs |
-| #.573E | AS14061 | Singapore | 1 hrs offline |
-| #.B38E | AS14061 | Singapore | 1 hrs offline |
-| #.577F | AS16509 | Singapore | 1 hrs offline |
-| #.F618 | AS4609 | Macao | 1 hrs offline |
-| #.CF9B | AS14061 | United Kingdom | 1 hrs offline |
-| #.DBBF | AS63949 | Japan | 1 hrs offline |
-| #.DC2B | AS14061 | Singapore | 1 hrs offline |
-| #.AB45 | AS16509 | Republic of Korea | 3 hrs offline |
-| #.FB4A | AS20473 | Singapore | 1 hrs |
+| #.2417 | AS8075 | Japan | 2 hrs offline |
+| #.98B4 | AS57494 | Russia | 2 hrs offline |
+| #.908A | AS199524 | Russia | 2 hrs offline |
+| #.DAAA | AS8075 | Hong Kong | 2 hrs offline |
+| #.E727 | AS25820 | Canada | 2 hrs offline |
+| #.1102 | AS40065 | United States | 2 hrs offline |
+| #.7EDC | AS9009 | Japan | 2 hrs offline |
+| #.5AC8 | AS4760 | Hong Kong | 2 hrs offline |
+| #.0BED | AS9009 | Japan | 2 hrs offline |
+| #.028E | AS16276 | Canada | 2 hrs offline |
+| #.F8DA | AS134520 | United States | 2 hrs offline |
+| #.0E90 | AS20473 | Japan | 2 hrs offline |
+| #.88FE | AS20473 | Japan | 2 hrs offline |
+| #.A834 | AS20473 | Australia | 2 hrs offline |
+| #.A8AA | AS9269 | Hong Kong | 2 hrs offline |
+| #.D89A | AS9009 | Japan | 2 hrs offline |
+| #.E97C | AS4785 | United States | 2 hrs offline |
+| #.94AE | AS63949 | Japan | 2 hrs offline |
+| #.9813 | AS63949 | Japan | 2 hrs offline |
+| #.220A | AS20473 | Japan | 2 hrs |
+| #.DCDA | AS63949 | Japan | 2 hrs offline |
+| #.F15E | AS16509 | Singapore | 2 hrs offline |
+| #.8420 | AS20473 | Germany | 1 hrs offline |
+| #.7C4B | AS20473 | Australia | 1 hrs offline |
+| #.41AB | AS16509 | Japan | 2 hrs offline |
+| #.3A08 | AS50340 | Russia | 1 hrs offline |
+| #.573E | AS14061 | Singapore | 2 hrs offline |
+| #.B38E | AS14061 | Singapore | 2 hrs offline |
+| #.577F | AS16509 | Singapore | 2 hrs offline |
+| #.F618 | AS4609 | Macao | 2 hrs offline |
+| #.CF9B | AS14061 | United Kingdom | 2 hrs offline |
+| #.DBBF | AS63949 | Japan | 2 hrs offline |
+| #.DC2B | AS14061 | Singapore | 2 hrs offline |
+| #.AB45 | AS16509 | Republic of Korea | 4 hrs offline |
+| #.FB4A | AS20473 | Singapore | 2 hrs |
 | #.0415 | AS3462 | Taiwan | 1 hrs offline |
 | #.F1B0 | AS3462 | Taiwan | 1 hrs offline |
 | #.DF0E | AS3462 | Taiwan | 1 hrs offline |
