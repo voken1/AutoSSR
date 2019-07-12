@@ -1,66 +1,58 @@
-# 61 online servers:
+# 53 online servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.3769 | AS46844 | United States | 120 hrs |
-| #.9AC4 | AS53889 | United States | 3172 hrs |
-| #.7CCE | AS174 | United States | 55 hrs |
-| #.6EF8 | AS63949 | United States | 313 hrs |
-| #.4F1F | AS174 | United States | 1807 hrs |
-| #.D363 | AS63949 | United States | 5417 hrs |
-| #.BA95 | AS63949 | United States | 83 hrs |
-| #.8051 | AS63949 | United States | 125 hrs |
-| #.3EB4 | AS63949 | United States | 72 hrs |
-| #.F507 | AS63949 | Japan | 6180 hrs |
-| #.7066 | AS63949 | Japan | 2089 hrs |
-| #.A495 | AS63949 | United States | 1699 hrs |
-| #.1449 | AS63949 | United States | 70 hrs |
-| #.D2CD | AS31798 | Canada | 68 hrs |
-| #.CA79 | AS31798 | Canada | 82 hrs |
-| #.A36B | AS31798 | Canada | 69 hrs |
-| #.75DF | AS63949 | United States | 6 hrs |
-| #.39CD | AS63949 | United States | 65 hrs |
-| #.B445 | AS63949 | United States | 731 hrs |
-| #.07F7 | AS63949 | United States | 119 hrs |
-| #.0E7E | AS63949 | United States | 75 hrs |
-| #.165A | AS63949 | United States | 63 hrs |
-| #.DDA9 | AS63949 | United States | 4 hrs |
-| #.285D | AS63949 | United States | 56 hrs |
-| #.91D0 | AS47196 | Russia | 81 hrs |
-| #.F6D9 | AS57494 | Russia | 62 hrs |
-| #.643D | AS63949 | United States | 1808 hrs |
-| #.E846 | AS4760 | Hong Kong | 74 hrs |
-| #.CAA2 | AS4760 | Hong Kong | 57 hrs |
-| #.5B97 | AS63949 | United States | 1396 hrs |
-| #.1209 | AS57494 | Russia | 69 hrs |
-| #.758B | AS47196 | Russia | 1220 hrs |
-| #.09BA | AS31798 | Canada | 108 hrs |
-| #.13D6 | AS40676 | United States | 907 hrs |
-| #.FD9D | AS20473 | United States | 1332 hrs |
-| #.4F11 | AS47196 | Russia | 81 hrs |
-| #.21CE | AS3462 | Taiwan | 59 hrs |
-| #.8DCF | AS45102 | China | 52 hrs |
-| #.9649 | AS51659 | Russia | 1624 hrs |
-| #.4175 | AS397270 | United States | 60 hrs |
-| #.1BF5 | AS16276 | France | 68 hrs |
-| #.455C | AS63949 | Japan | 1537 hrs |
-| #.DF53 | AS63949 | Singapore | 1256 hrs |
-| #.9052 | AS9009 | Japan | 1536 hrs |
-| #.F7EF | AS4134 | China | 84 hrs |
-| #.5101 | AS57494 | Russia | 79 hrs |
-| #.1338 | AS57494 | Russia | 1216 hrs |
-| #.9DEE | AS57494 | Russia | 76 hrs |
-| #.BDBC | AS47196 | Russia | 84 hrs |
-| #.2BF5 | AS16509 | United Kingdom | 2 hrs |
-| #.1DA5 | AS16509 | United Kingdom | 2 hrs |
-| #.DC22 | AS4760 | Hong Kong | 2 hrs |
-| #.65A9 | AS16509 | Singapore | 1 hrs |
-| #.FC8F | AS16509 | Ireland | 1 hrs |
-| #.12CE | AS16509 | Singapore | 1 hrs |
-| #.D71F | AS16509 | Singapore | 1 hrs |
-| #.5438 | AS58073 | Netherlands | 263 hrs |
-| #.1A34 | AS57494 | Russia | 75 hrs |
-| #.A425 | AS8075 | Japan | 2 hrs |
-| #.C678 | AS16509 | Singapore | 53 hrs |
-| #.E7D1 | AS16509 | United States | 61 hrs |
+| #.3769 | AS46844 | United States | 129 hrs |
+| #.9AC4 | AS53889 | United States | 3181 hrs |
+| #.7CCE | AS174 | United States | 64 hrs |
+| #.6EF8 | AS63949 | United States | 322 hrs |
+| #.4F1F | AS174 | United States | 1816 hrs |
+| #.D363 | AS63949 | United States | 5426 hrs |
+| #.BA95 | AS63949 | United States | 92 hrs |
+| #.8051 | AS63949 | United States | 134 hrs |
+| #.3EB4 | AS63949 | United States | 81 hrs |
+| #.F507 | AS63949 | Japan | 6189 hrs |
+| #.7066 | AS63949 | Japan | 2098 hrs |
+| #.A495 | AS63949 | United States | 1708 hrs |
+| #.1449 | AS63949 | United States | 79 hrs |
+| #.D2CD | AS31798 | Canada | 2 hrs |
+| #.CA79 | AS31798 | Canada | 4 hrs |
+| #.A36B | AS31798 | Canada | 78 hrs |
+| #.75DF | AS63949 | United States | 15 hrs |
+| #.39CD | AS63949 | United States | 74 hrs |
+| #.B445 | AS63949 | United States | 740 hrs |
+| #.07F7 | AS63949 | United States | 2 hrs |
+| #.0E7E | AS63949 | United States | 84 hrs |
+| #.165A | AS63949 | United States | 72 hrs |
+| #.DDA9 | AS63949 | United States | 6 hrs |
+| #.285D | AS63949 | United States | 65 hrs |
+| #.91D0 | AS47196 | Russia | 90 hrs |
+| #.F6D9 | AS57494 | Russia | 71 hrs |
+| #.643D | AS63949 | United States | 1817 hrs |
+| #.E846 | AS4760 | Hong Kong | 83 hrs |
+| #.CAA2 | AS4760 | Hong Kong | 66 hrs |
+| #.5B97 | AS63949 | United States | 1405 hrs |
+| #.1209 | AS57494 | Russia | 78 hrs |
+| #.758B | AS47196 | Russia | 1229 hrs |
+| #.09BA | AS31798 | Canada | 117 hrs |
+| #.13D6 | AS40676 | United States | 916 hrs |
+| #.FD9D | AS20473 | United States | 1341 hrs |
+| #.4F11 | AS47196 | Russia | 90 hrs |
+| #.21CE | AS3462 | Taiwan | 68 hrs |
+| #.8DCF | AS45102 | China | 61 hrs |
+| #.9649 | AS51659 | Russia | 1633 hrs |
+| #.4175 | AS397270 | United States | 69 hrs |
+| #.1BF5 | AS16276 | France | 77 hrs |
+| #.455C | AS63949 | Japan | 1546 hrs |
+| #.DF53 | AS63949 | Singapore | 1265 hrs |
+| #.9052 | AS9009 | Japan | 1545 hrs |
+| #.F7EF | AS4134 | China | 93 hrs |
+| #.22CF | AS16509 | Japan | 2 hrs |
+| #.5101 | AS57494 | Russia | 88 hrs |
+| #.1338 | AS57494 | Russia | 1225 hrs |
+| #.9DEE | AS57494 | Russia | 85 hrs |
+| #.BDBC | AS47196 | Russia | 5 hrs |
+| #.5438 | AS58073 | Netherlands | 272 hrs |
+| #.1A34 | AS57494 | Russia | 84 hrs |
+| #.A425 | AS8075 | Japan | 11 hrs |
 
