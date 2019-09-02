@@ -2,44 +2,44 @@
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.9AC4 | AS53889 | United States | 18436 hrs |
-| #.6EF8 | AS63949 | United States | 2 hrs |
-| #.D363 | AS63949 | United States | 18 hrs |
-| #.BA95 | AS63949 | United States | 1 hrs offline |
-| #.8051 | AS63949 | United States | 27 hrs |
-| #.3EB4 | AS63949 | United States | 13 hrs |
-| #.F507 | AS63949 | Japan | 5630 hrs |
-| #.7066 | AS63949 | Japan | 1825 hrs |
-| #.A495 | AS63949 | United States | 818 hrs |
-| #.1449 | AS63949 | United States | 2 hrs |
-| #.75DF | AS63949 | United States | 23 hrs |
-| #.39CD | AS63949 | United States | 7 hrs |
-| #.B445 | AS63949 | United States | 23 hrs |
-| #.07F7 | AS63949 | United States | 14 hrs |
-| #.0E7E | AS63949 | United States | 19 hrs |
-| #.165A | AS63949 | United States | 35 hrs |
-| #.DDA9 | AS63949 | United States | 4 hrs |
-| #.285D | AS63949 | United States | 7 hrs |
-| #.643D | AS63949 | United States | 1694 hrs |
-| #.5B97 | AS63949 | United States | 4037 hrs |
-| #.FD9D | AS20473 | United States | 3494 hrs |
-| #.21CE | AS3462 | Taiwan | 1 hrs offline |
-| #.455C | AS63949 | Japan | 408 hrs |
-| #.DF53 | AS63949 | Singapore | 992 hrs |
-| #.DCF9 | AS63949 | United States | 2 hrs |
-| #.3EAE | AS9009 | Japan | 10189 hrs |
-| #.8C5E | AS9009 | Japan | 10189 hrs |
-| #.C36B | AS174 | United States | 246 hrs |
-| #.48C0 | AS174 | United States | 13 hrs |
-| #.6ADB | AS53889 | United States | 387 hrs |
-| #.4FF3 | AS56630 | Russia | 11 hrs |
-| #.18A4 | AS63949 | United States | 4 hrs |
-| #.0C4A | AS133752 | Hong Kong | 5630 hrs |
+| #.9AC4 | AS53889 | United States | 18450 hrs |
+| #.6EF8 | AS63949 | United States | 1 hrs offline |
+| #.D363 | AS63949 | United States | 1 hrs |
+| #.BA95 | AS63949 | United States | 3 hrs offline |
+| #.8051 | AS63949 | United States | 5 hrs |
+| #.3EB4 | AS63949 | United States | 27 hrs |
+| #.F507 | AS63949 | Japan | 5644 hrs |
+| #.7066 | AS63949 | Japan | 1839 hrs |
+| #.A495 | AS63949 | United States | 832 hrs |
+| #.1449 | AS63949 | United States | 4 hrs |
+| #.75DF | AS63949 | United States | 37 hrs |
+| #.39CD | AS63949 | United States | 10 hrs |
+| #.B445 | AS63949 | United States | 37 hrs |
+| #.07F7 | AS63949 | United States | 29 hrs |
+| #.0E7E | AS63949 | United States | 5 hrs |
+| #.165A | AS63949 | United States | 1 hrs offline |
+| #.DDA9 | AS63949 | United States | 5 hrs |
+| #.285D | AS63949 | United States | 22 hrs |
+| #.643D | AS63949 | United States | 1709 hrs |
+| #.5B97 | AS63949 | United States | 4052 hrs |
+| #.FD9D | AS20473 | United States | 3509 hrs |
+| #.21CE | AS3462 | Taiwan | 3 hrs offline |
+| #.455C | AS63949 | Japan | 423 hrs |
+| #.DF53 | AS63949 | Singapore | 1007 hrs |
+| #.DCF9 | AS63949 | United States | 14 hrs |
+| #.3EAE | AS9009 | Japan | 10204 hrs |
+| #.8C5E | AS9009 | Japan | 10204 hrs |
+| #.C36B | AS174 | United States | 261 hrs |
+| #.48C0 | AS174 | United States | 5 hrs |
+| #.6ADB | AS53889 | United States | 402 hrs |
+| #.4FF3 | AS56630 | Russia | 1 hrs |
+| #.18A4 | AS63949 | United States | 19 hrs |
+| #.0C4A | AS133752 | Hong Kong | 5645 hrs |
 | #.0224 | AS63949 | Japan | 1 hrs offline |
-| #.06F7 | AS63949 | United States | 33 hrs |
-| #.E7E8 | AS32097 | United States | 8408 hrs |
-| #.79E7 | AS63949 | Germany | 8319 hrs |
-| #.427E | AS20860 | United Kingdom | 35 hrs |
-| #.6E61 | AS60781 | Netherlands | 31 hrs |
-| #.DB09 | AS63949 | Singapore | 416 hrs |
+| #.06F7 | AS63949 | United States | 48 hrs |
+| #.E7E8 | AS32097 | United States | 8423 hrs |
+| #.79E7 | AS63949 | Germany | 8334 hrs |
+| #.427E | AS20860 | United Kingdom | 1 hrs |
+| #.6E61 | AS60781 | Netherlands | 46 hrs |
+| #.DB09 | AS63949 | Singapore | 431 hrs |
 
