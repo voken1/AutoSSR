@@ -1,52 +1,51 @@
-# 47 stable servers:
+# 46 stable servers:
 
 | ID | ASN | Server Country | Online |
 | ------ | ------ | ------ | ------ |
-| #.D363 | AS63949 | United States | 11 hrs |
-| #.BA95 | AS63949 | United States | 24 hrs |
-| #.F507 | AS63949 | Japan | 7709 hrs |
-| #.75DF | AS63949 | United States | 8 hrs |
-| #.39CD | AS63949 | United States | 12 hrs |
-| #.DDA9 | AS63949 | United States | 8 hrs |
-| #.5B97 | AS63949 | United States | 1381 hrs |
-| #.DF53 | AS63949 | Singapore | 99 hrs |
-| #.6ADB | AS53889 | United States | 1341 hrs |
-| #.18A4 | AS63949 | United States | 36 hrs |
-| #.E7E8 | AS32097 | United States | 10481 hrs |
-| #.3418 | AS63949 | Singapore | 2021 hrs |
-| #.F6A4 | AS63949 | Singapore | 8 hrs |
-| #.4F16 | AS63949 | Japan | 2021 hrs |
-| #.D80B | AS63949 | Singapore | 2021 hrs |
-| #.2F3B | AS63949 | Singapore | 127 hrs |
-| #.8CEA | AS63949 | Japan | 109 hrs |
-| #.47E3 | AS63949 | Germany | 1188 hrs |
-| #.04FC | AS63949 | Singapore | 2020 hrs |
-| #.1521 | AS31798 | United States | 12 hrs |
-| #.6FBD | AS63949 | United States | 1767 hrs |
-| #.69F6 | AS20473 | Australia | 996 hrs |
-| #.5EF9 | AS63949 | United States | 113 hrs |
-| #.C931 | AS58073 | Netherlands | 2017 hrs |
-| #.7177 | AS58073 | Netherlands | 2016 hrs |
-| #.8F1F | AS58073 | Netherlands | 2013 hrs |
-| #.4A30 | AS58073 | Netherlands | 1901 hrs |
-| #.876E | AS58073 | Netherlands | 270 hrs |
-| #.2DFE | AS58073 | Netherlands | 1778 hrs |
-| #.265E | AS58073 | Netherlands | 1778 hrs |
-| #.A6DA | AS58073 | Netherlands | 267 hrs |
-| #.3B8C | AS51659 | Russia | 6 hrs |
-| #.EB30 |  |  | 7 hrs |
-| #.AAB1 | AS47196 | Russia | 27 hrs |
-| #.1F50 | AS47196 | Russia | 7 hrs |
-| #.75F2 | AS58073 | Netherlands | 1349 hrs |
-| #.A713 | AS58073 | Netherlands | 850 hrs |
-| #.6332 | AS63949 | Japan | 419 hrs |
-| #.CE05 | AS63949 | Japan | 7 hrs |
-| #.5DBC | AS58073 | Netherlands | 495 hrs |
-| #.46CD | AS58073 | Netherlands | 495 hrs |
-| #.B105 | AS58073 | Netherlands | 494 hrs |
-| #.C1A3 | AS58073 | Netherlands | 413 hrs |
-| #.F461 | AS58073 | Netherlands | 413 hrs |
-| #.9061 | AS20473 | Japan | 48 hrs |
-| #.B62D | AS20473 | Japan | 47 hrs |
-| #.CF98 | AS31798 | United States | 7 hrs |
+| #.BA95 | AS63949 | United States | 32 hrs |
+| #.8051 | AS63949 | United States | 10 hrs |
+| #.F507 | AS63949 | Japan | 7717 hrs |
+| #.75DF | AS63949 | United States | 16 hrs |
+| #.B445 | AS63949 | United States | 7 hrs |
+| #.07F7 | AS63949 | United States | 11 hrs |
+| #.0E7E | AS63949 | United States | 12 hrs |
+| #.DDA9 | AS63949 | United States | 6 hrs |
+| #.5B97 | AS63949 | United States | 1389 hrs |
+| #.DF53 | AS63949 | Singapore | 108 hrs |
+| #.6ADB | AS53889 | United States | 1350 hrs |
+| #.E7E8 | AS32097 | United States | 10490 hrs |
+| #.3418 | AS63949 | Singapore | 2030 hrs |
+| #.4F16 | AS63949 | Japan | 2030 hrs |
+| #.D80B | AS63949 | Singapore | 2030 hrs |
+| #.2F3B | AS63949 | Singapore | 136 hrs |
+| #.8CEA | AS63949 | Japan | 118 hrs |
+| #.47E3 | AS63949 | Germany | 1197 hrs |
+| #.04FC | AS63949 | Singapore | 2029 hrs |
+| #.1521 | AS31798 | United States | 21 hrs |
+| #.0EBB | AS4760 | Hong Kong | 12 hrs |
+| #.6FBD | AS63949 | United States | 1776 hrs |
+| #.69F6 | AS20473 | Australia | 1005 hrs |
+| #.5EF9 | AS63949 | United States | 122 hrs |
+| #.C931 | AS58073 | Netherlands | 2026 hrs |
+| #.7177 | AS58073 | Netherlands | 2025 hrs |
+| #.8F1F | AS58073 | Netherlands | 2022 hrs |
+| #.4A30 | AS58073 | Netherlands | 1910 hrs |
+| #.876E | AS58073 | Netherlands | 279 hrs |
+| #.2DFE | AS58073 | Netherlands | 1787 hrs |
+| #.265E | AS58073 | Netherlands | 1787 hrs |
+| #.A6DA | AS58073 | Netherlands | 276 hrs |
+| #.AAB1 | AS47196 | Russia | 7 hrs |
+| #.9161 | AS47196 | Russia | 13 hrs |
+| #.75F2 | AS58073 | Netherlands | 1357 hrs |
+| #.A713 | AS58073 | Netherlands | 858 hrs |
+| #.6332 | AS63949 | Japan | 427 hrs |
+| #.CE05 | AS63949 | Japan | 15 hrs |
+| #.5DBC | AS58073 | Netherlands | 503 hrs |
+| #.46CD | AS58073 | Netherlands | 503 hrs |
+| #.B105 | AS58073 | Netherlands | 502 hrs |
+| #.C1A3 | AS58073 | Netherlands | 421 hrs |
+| #.F461 | AS58073 | Netherlands | 421 hrs |
+| #.9061 | AS20473 | Japan | 56 hrs |
+| #.B62D | AS20473 | Japan | 55 hrs |
+| #.CF98 | AS174 | United States | 15 hrs |
 
