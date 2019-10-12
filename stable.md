@@ -1,6 +1,6 @@
 # 102 stable servers:
 
-Latest update at: Sat Oct 12 17:07:42 UTC 2019
+Latest update at: Sat Oct 12 17:17:45 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -8,25 +8,25 @@ Latest update at: Sat Oct 12 17:07:42 UTC 2019
 | #.C81E | AS63949 | Singapore | 15 hrs |
 | #.02E7 | AS58073 | Netherlands | 15 hrs |
 | #.1C38 | AS21409 | France | 15 hrs |
-| #.B73C | AS9009 | United Kingdom | 15 hrs |
-| #.140F | AS63949 | United Kingdom | 15 hrs |
-| #.BD4C | AS63949 | United Kingdom | 15 hrs |
-| #.82AA | AS16276 | Canada | 15 hrs |
-| #.0777 | AS202422 | Turkey | 15 hrs |
-| #.FA7C | AS138576 | United States | 15 hrs |
-| #.642E | AS63949 | United States | 15 hrs |
-| #.44F6 | AS54600 | United States | 16 hrs |
+| #.BD4C | AS63949 | United Kingdom | 16 hrs |
+| #.B73C | AS9009 | United Kingdom | 16 hrs |
+| #.82AA | AS16276 | Canada | 16 hrs |
+| #.0777 | AS202422 | Turkey | 16 hrs |
+| #.FA7C | AS138576 | United States | 16 hrs |
+| #.642E | AS63949 | United States | 16 hrs |
+| #.44F6 | AS54600 | United States | 17 hrs |
 | #.735B | AS49392 | Russia | 16 hrs |
 | #.EA5D | AS63949 | United States | 15 hrs |
 | #.3EF8 | AS63949 | United States | 15 hrs |
 | #.7CBB | AS51659 | Russia | 16 hrs |
 | #.32BB | AS51659 | Russia | 16 hrs |
 | #.AD61 | AS51659 | Russia | 16 hrs |
-| #.2A79 | AS63949 | United Kingdom | 15 hrs |
-| #.1C9A | AS63949 | United Kingdom | 15 hrs |
-| #.6C4B | AS63949 | United Kingdom | 15 hrs |
-| #.0640 | AS63949 | United Kingdom | 15 hrs |
-| #.76DC | AS35913 | United States | 15 hrs |
+| #.2A79 | AS63949 | United Kingdom | 16 hrs |
+| #.1C9A | AS63949 | United Kingdom | 16 hrs |
+| #.6C4B | AS63949 | United Kingdom | 16 hrs |
+| #.0640 | AS63949 | United Kingdom | 16 hrs |
+| #.140F | AS63949 | United Kingdom | 16 hrs |
+| #.76DC | AS35913 | United States | 16 hrs |
 | #.68D3 | AS4694 | Japan | 15 hrs |
 | #.92CC | AS35913 | United States | 16 hrs |
 | #.F4B9 | AS14745 | United States | 16 hrs |
@@ -82,28 +82,28 @@ Latest update at: Sat Oct 12 17:07:42 UTC 2019
 | #.903C | AS63949 | United States | 16 hrs |
 | #.698D | AS4760 | Hong Kong | 13 hrs |
 | #.9766 | AS138576 | United States | 14 hrs |
-| #.07E1 | AS17511 | Japan | 15 hrs |
-| #.C8FF | AS35913 | United States | 15 hrs |
-| #.0690 | AS9009 | United States | 15 hrs |
-| #.D1F4 | AS54600 | United States | 15 hrs |
-| #.65DE | AS35913 | United States | 15 hrs |
-| #.9FC3 | AS9009 | United States | 15 hrs |
-| #.0252 | AS9009 | United States | 15 hrs |
-| #.7F1D | AS54600 | United States | 15 hrs |
-| #.42A0 | AS54600 | United States | 15 hrs |
-| #.3988 | AS35916 | United States | 15 hrs |
-| #.013D | AS35916 | United States | 15 hrs |
-| #.1385 | AS63949 | United States | 15 hrs |
-| #.0F28 | AS63949 | United States | 15 hrs |
-| #.A8BA | AS63949 | United States | 15 hrs |
-| #.7EF6 | AS63949 | United Kingdom | 15 hrs |
-| #.A8F1 | AS63949 | United Kingdom | 15 hrs |
-| #.37A7 | AS63949 | United Kingdom | 15 hrs |
-| #.B3E3 | AS63949 | United Kingdom | 15 hrs |
-| #.1D7F | AS63949 | United Kingdom | 15 hrs |
-| #.0A09 | AS63949 | United States | 15 hrs |
-| #.2B24 | AS63949 | United States | 15 hrs |
-| #.A5E0 | AS63949 | United States | 15 hrs |
-| #.8D5E | AS63949 | United States | 15 hrs |
-| #.F221 | AS45102 | China | 15 hrs |
+| #.07E1 | AS17511 | Japan | 16 hrs |
+| #.C8FF | AS35913 | United States | 16 hrs |
+| #.0690 | AS9009 | United States | 16 hrs |
+| #.D1F4 | AS54600 | United States | 16 hrs |
+| #.65DE | AS35913 | United States | 16 hrs |
+| #.9FC3 | AS9009 | United States | 16 hrs |
+| #.0252 | AS9009 | United States | 16 hrs |
+| #.7F1D | AS54600 | United States | 16 hrs |
+| #.42A0 | AS54600 | United States | 16 hrs |
+| #.3988 | AS35916 | United States | 16 hrs |
+| #.013D | AS35916 | United States | 16 hrs |
+| #.1385 | AS63949 | United States | 16 hrs |
+| #.0A09 | AS63949 | United States | 16 hrs |
+| #.2B24 | AS63949 | United States | 16 hrs |
+| #.A5E0 | AS63949 | United States | 16 hrs |
+| #.8D5E | AS63949 | United States | 16 hrs |
+| #.F221 | AS45102 | China | 16 hrs |
+| #.B3E3 | AS63949 | United Kingdom | 16 hrs |
+| #.1D7F | AS63949 | United Kingdom | 16 hrs |
+| #.0F28 | AS63949 | United States | 16 hrs |
+| #.7EF6 | AS63949 | United Kingdom | 16 hrs |
+| #.A8BA | AS63949 | United States | 16 hrs |
+| #.A8F1 | AS63949 | United Kingdom | 16 hrs |
+| #.37A7 | AS63949 | United Kingdom | 16 hrs |
 
