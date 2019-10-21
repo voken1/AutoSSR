@@ -1,33 +1,33 @@
 # 104 stable servers:
 
-Latest update at: Mon Oct 21 15:10:10 UTC 2019
+Latest update at: Mon Oct 21 16:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.1AFA | AS63949 | United States | 367 hrs |
-| #.B6D7 | AS58073 | Netherlands | 366 hrs |
+| #.B6D7 | AS58073 | Netherlands | 367 hrs |
 | #.D09B | AS174 | United States | 300 hrs |
-| #.3769 | AS21409 | France | 366 hrs |
-| #.0613 | AS9009 | United States | 34 hrs |
+| #.3769 | AS21409 | France | 367 hrs |
+| #.0613 | AS9009 | United States | 35 hrs |
 | #.72B3 | AS63949 | United States | 367 hrs |
 | #.3C59 | AS63949 | Singapore | 367 hrs |
 | #.0E01 | AS53667 | United States | 13 hrs |
 | #.903C | AS58073 | Netherlands | 367 hrs |
 | #.A8BA | AS58073 | Netherlands | 367 hrs |
+| #.0A09 | AS31798 | United States | 17 hrs |
 | #.BC6D | AS23033 | United States | 266 hrs |
-| #.2A79 | AS63949 | Japan | 366 hrs |
-| #.F221 | AS58073 | Netherlands | 366 hrs |
-| #.0A09 | AS31798 | United States | 16 hrs |
-| #.2B24 | AS58073 | Netherlands | 366 hrs |
-| #.8D5E | AS58073 | Netherlands | 366 hrs |
-| #.B3E3 | AS58073 | Netherlands | 366 hrs |
-| #.F7E6 | AS35913 | United States | 16 hrs |
-| #.5878 | AS58073 | Netherlands | 366 hrs |
-| #.149E | AS58073 | Netherlands | 366 hrs |
-| #.8216 | AS35913 | United States | 42 hrs |
-| #.140F | AS9009 | Japan | 368 hrs |
+| #.2B24 | AS58073 | Netherlands | 367 hrs |
+| #.B3E3 | AS58073 | Netherlands | 367 hrs |
+| #.8D5E | AS58073 | Netherlands | 367 hrs |
+| #.F221 | AS58073 | Netherlands | 367 hrs |
+| #.2A79 | AS63949 | Japan | 367 hrs |
+| #.149E | AS58073 | Netherlands | 367 hrs |
+| #.82AA | AS35913 | United States | 33 hrs |
 | #.7E77 | AS49392 | Russia | 15 hrs |
-| #.82AA | AS35913 | United States | 32 hrs |
+| #.140F | AS9009 | Japan | 369 hrs |
+| #.8216 | AS35913 | United States | 43 hrs |
+| #.5878 | AS58073 | Netherlands | 367 hrs |
+| #.F7E6 | AS35913 | United States | 17 hrs |
 | #.EECC | AS63949 | United States | 366 hrs |
 | #.9872 | AS51659 | Russia | 43 hrs |
 | #.4C5B | AS63949 | United States | 366 hrs |
@@ -46,22 +46,22 @@ Latest update at: Mon Oct 21 15:10:10 UTC 2019
 | #.9B86 | AS63949 | United States | 367 hrs |
 | #.0F28 | AS58073 | Netherlands | 367 hrs |
 | #.A577 | AS63949 | United States | 367 hrs |
-| #.3988 | AS63949 | Germany | 366 hrs |
 | #.D1F4 | AS63949 | United States | 367 hrs |
 | #.0690 | AS63949 | United States | 367 hrs |
 | #.E00D | AS58073 | Netherlands | 367 hrs |
 | #.42A0 | AS63949 | Japan | 367 hrs |
-| #.7F1D | AS63949 | Singapore | 366 hrs |
+| #.7F1D | AS63949 | Singapore | 367 hrs |
+| #.3988 | AS63949 | Germany | 367 hrs |
 | #.EC5D | AS63949 | United States | 114 hrs |
 | #.0252 | AS63949 | United States | 367 hrs |
 | #.76DC | AS63949 | United States | 367 hrs |
 | #.C3C5 | AS23033 | United States | 248 hrs |
 | #.884D | AS58073 | Netherlands | 176 hrs |
 | #.55B3 | AS58073 | Netherlands | 176 hrs |
-| #.8FEC | AS53667 | United States | 110 hrs |
-| #.6826 | AS49392 | Russia | 75 hrs |
+| #.8FEC | AS53667 | United States | 111 hrs |
+| #.6826 | AS49392 | Russia | 76 hrs |
 | #.C06D | AS63949 | United States | 117 hrs |
-| #.B7EE | AS58073 | Netherlands | 67 hrs |
+| #.B7EE | AS58073 | Netherlands | 68 hrs |
 | #.DF7F | AS9009 | Japan | 16 hrs |
 | #.F0AD | AS16509 | Singapore | 17 hrs |
 | #.3B5D | AS16509 | Japan | 17 hrs |
