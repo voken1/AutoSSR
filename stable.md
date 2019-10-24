@@ -1,6 +1,6 @@
 # 116 stable servers:
 
-Latest update at: Thu Oct 24 20:10:11 UTC 2019
+Latest update at: Thu Oct 24 21:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -93,13 +93,13 @@ Latest update at: Thu Oct 24 20:10:11 UTC 2019
 | #.4E0C | AS16509 | Japan | 83 hrs |
 | #.9C01 | AS16509 | Japan | 83 hrs |
 | #.B55E | AS63949 | Japan | 83 hrs |
-| #.D93E | AS16509 | Japan | 82 hrs |
 | #.8603 | AS63949 | United States | 82 hrs |
 | #.9348 | AS63949 | United States | 82 hrs |
 | #.FBA9 | AS63949 | United Kingdom | 82 hrs |
 | #.6422 | AS63949 | Japan | 83 hrs |
 | #.58E4 | AS63949 | Japan | 83 hrs |
 | #.A3D6 | AS16509 | Japan | 83 hrs |
+| #.D93E | AS16509 | Japan | 83 hrs |
 | #.2BA5 | AS16509 | Japan | 83 hrs |
 | #.D240 | AS16509 | Japan | 83 hrs |
 | #.437D | AS16509 | Japan | 83 hrs |
@@ -107,6 +107,7 @@ Latest update at: Thu Oct 24 20:10:11 UTC 2019
 | #.A9B7 | AS63949 | United States | 82 hrs |
 | #.9AB0 | AS63949 | United States | 82 hrs |
 | #.F33B | AS63949 | United Kingdom | 82 hrs |
+| #.4FAC | AS63949 | United States | 83 hrs |
 | #.9246 | AS63949 | United Kingdom | 82 hrs |
 | #.1587 | AS63949 | United Kingdom | 82 hrs |
 | #.08FE | AS63949 | United Kingdom | 82 hrs |
@@ -114,7 +115,6 @@ Latest update at: Thu Oct 24 20:10:11 UTC 2019
 | #.1E48 | AS63949 | United Kingdom | 82 hrs |
 | #.5055 | AS20473 | France | 60 hrs |
 | #.C8C4 | AS63949 | Japan | 83 hrs |
-| #.4FAC | AS63949 | United States | 82 hrs |
 | #.0B8A | AS63949 | United States | 82 hrs |
 | #.65CC | AS63949 | United Kingdom | 82 hrs |
 | #.EF50 | AS63949 | United Kingdom | 82 hrs |
