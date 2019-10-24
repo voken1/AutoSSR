@@ -1,6 +1,6 @@
 # 133 stable servers:
 
-Latest update at: Thu Oct 24 02:10:10 UTC 2019
+Latest update at: Thu Oct 24 03:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -48,11 +48,11 @@ Latest update at: Thu Oct 24 02:10:10 UTC 2019
 | #.7F1D | AS63949 | Singapore | 472 hrs |
 | #.1385 | AS58073 | Netherlands | 472 hrs |
 | #.42A0 | AS63949 | Japan | 472 hrs |
-| #.3988 | AS63949 | Germany | 23 hrs |
 | #.E00D | AS58073 | Netherlands | 472 hrs |
 | #.0252 | AS63949 | United States | 472 hrs |
 | #.76DC | AS63949 | United States | 472 hrs |
 | #.D1F4 | AS63949 | United States | 39 hrs |
+| #.3988 | AS63949 | Germany | 24 hrs |
 | #.0F28 | AS58073 | Netherlands | 472 hrs |
 | #.EC5D | AS63949 | United States | 219 hrs |
 | #.9B86 | AS63949 | United States | 472 hrs |
@@ -78,42 +78,42 @@ Latest update at: Thu Oct 24 02:10:10 UTC 2019
 | #.6D70 | AS58073 | Netherlands | 30 hrs |
 | #.8C67 | AS51659 | Russia | 33 hrs |
 | #.B7EE | AS58073 | Netherlands | 173 hrs |
-| #.537D | AS58073 | Netherlands | 23 hrs |
-| #.D736 | AS58073 | Netherlands | 23 hrs |
-| #.B914 | AS58073 | Netherlands | 23 hrs |
-| #.9AC4 | AS58073 | Netherlands | 23 hrs |
+| #.D736 | AS58073 | Netherlands | 24 hrs |
+| #.537D | AS58073 | Netherlands | 24 hrs |
+| #.9AC4 | AS58073 | Netherlands | 24 hrs |
+| #.B914 | AS58073 | Netherlands | 24 hrs |
 | #.F0AD | AS16509 | Singapore | 21 hrs |
-| #.1019 | AS58073 | Netherlands | 23 hrs |
 | #.E0CF | AS63949 | Germany | 138 hrs |
-| #.A0E2 | AS58073 | Netherlands | 23 hrs |
+| #.1019 | AS58073 | Netherlands | 24 hrs |
+| #.A0E2 | AS58073 | Netherlands | 24 hrs |
 | #.AEB3 | AS17511 | Japan | 113 hrs |
 | #.43FE | AS17511 | Japan | 21 hrs |
+| #.1579 | AS58073 | Netherlands | 24 hrs |
 | #.49C9 | AS24282 | Japan | 21 hrs |
 | #.3524 | AS54600 | United States | 113 hrs |
 | #.DD8E | AS54600 | United States | 113 hrs |
-| #.1579 | AS58073 | Netherlands | 23 hrs |
-| #.7CCE | AS20473 | Australia | 23 hrs |
-| #.74BB | AS16509 | Japan | 19 hrs |
-| #.8D6D | AS63949 | Japan | 46 hrs |
+| #.7CCE | AS20473 | Australia | 24 hrs |
+| #.74BB | AS16509 | Japan | 20 hrs |
+| #.8D6D | AS63949 | Japan | 47 hrs |
 | #.766D | AS63949 | United Kingdom | 46 hrs |
-| #.437D | AS16509 | Japan | 46 hrs |
+| #.5C93 | AS16509 | Japan | 47 hrs |
+| #.B55E | AS63949 | Japan | 47 hrs |
 | #.FBA9 | AS63949 | United Kingdom | 46 hrs |
-| #.B55E | AS63949 | Japan | 46 hrs |
-| #.6422 | AS63949 | Japan | 46 hrs |
+| #.6422 | AS63949 | Japan | 47 hrs |
+| #.58E4 | AS63949 | Japan | 47 hrs |
 | #.FED3 | AS63949 | United Kingdom | 46 hrs |
-| #.58E4 | AS63949 | Japan | 46 hrs |
-| #.A3D6 | AS16509 | Japan | 46 hrs |
-| #.5C93 | AS16509 | Japan | 46 hrs |
-| #.E6CB | AS16509 | Japan | 46 hrs |
-| #.6395 | AS16509 | Japan | 46 hrs |
-| #.1689 | AS16509 | Japan | 46 hrs |
-| #.2BA5 | AS16509 | Japan | 46 hrs |
-| #.D240 | AS16509 | Japan | 46 hrs |
-| #.8065 | AS16509 | Japan | 46 hrs |
-| #.4E0C | AS16509 | Japan | 46 hrs |
-| #.89FC | AS16509 | Japan | 46 hrs |
-| #.4311 | AS63949 | United States | 46 hrs |
-| #.9C01 | AS16509 | Japan | 46 hrs |
+| #.A3D6 | AS16509 | Japan | 47 hrs |
+| #.E6CB | AS16509 | Japan | 47 hrs |
+| #.8065 | AS16509 | Japan | 47 hrs |
+| #.6395 | AS16509 | Japan | 47 hrs |
+| #.1689 | AS16509 | Japan | 47 hrs |
+| #.2BA5 | AS16509 | Japan | 47 hrs |
+| #.D240 | AS16509 | Japan | 47 hrs |
+| #.437D | AS16509 | Japan | 47 hrs |
+| #.4E0C | AS16509 | Japan | 47 hrs |
+| #.89FC | AS16509 | Japan | 47 hrs |
+| #.4311 | AS63949 | United States | 47 hrs |
+| #.9C01 | AS16509 | Japan | 47 hrs |
 | #.D93E | AS16509 | Japan | 46 hrs |
 | #.9908 | AS16509 | Japan | 46 hrs |
 | #.8603 | AS63949 | United States | 46 hrs |
@@ -127,13 +127,13 @@ Latest update at: Thu Oct 24 02:10:10 UTC 2019
 | #.FE7E | AS16509 | Japan | 46 hrs |
 | #.08FE | AS63949 | United Kingdom | 46 hrs |
 | #.EF50 | AS63949 | United Kingdom | 46 hrs |
-| #.5055 | AS20473 | France | 23 hrs |
+| #.C8C4 | AS63949 | Japan | 47 hrs |
 | #.4FAC | AS63949 | United States | 46 hrs |
 | #.0B8A | AS63949 | United States | 46 hrs |
 | #.9246 | AS63949 | United Kingdom | 46 hrs |
 | #.1587 | AS63949 | United Kingdom | 46 hrs |
-| #.C8C4 | AS63949 | Japan | 46 hrs |
-| #.D870 | AS20473 | Germany | 23 hrs |
+| #.5055 | AS20473 | France | 24 hrs |
+| #.D870 | AS20473 | Germany | 24 hrs |
 | #.021B | AS63949 | United Kingdom | 46 hrs |
 | #.2414 | AS63949 | United Kingdom | 46 hrs |
 | #.67D1 | AS54600 | United States | 113 hrs |
