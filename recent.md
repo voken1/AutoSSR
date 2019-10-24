@@ -1,179 +1,179 @@
 # 172 recent servers:
 
-Latest update at: Thu Oct 24 18:10:12 UTC 2019
+Latest update at: Thu Oct 24 19:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 436 hrs |
-| #.B6D7 | AS58073 | Netherlands | 503 hrs |
-| #.1F0E | AS53667 | United States | 3 hrs |
-| #.819F | AS51659 | Russia | 6 hrs offline |
-| #.3769 | AS21409 | France | 503 hrs |
-| #.7F39 | AS53667 | United States | 3 hrs |
-| #.8F12 | AS9009 | United States | 2 hrs |
-| #.0613 | AS9009 | United States | 94 hrs |
-| #.3C59 | AS63949 | Singapore | 47 hrs |
-| #.72B3 | AS63949 | United States | 503 hrs |
-| #.0E01 | AS53667 | United States | 26 hrs |
-| #.2B24 | AS58073 | Netherlands | 503 hrs |
-| #.A8BA | AS58073 | Netherlands | 503 hrs |
-| #.8D5E | AS58073 | Netherlands | 503 hrs |
-| #.903C | AS58073 | Netherlands | 503 hrs |
-| #.B396 | AS199524 | Russia | 6 hrs |
-| #.B3E3 | AS58073 | Netherlands | 503 hrs |
-| #.2A79 | AS63949 | Japan | 3 hrs |
-| #.F221 | AS58073 | Netherlands | 503 hrs |
-| #.0A09 | AS31798 | United States | 3 hrs |
-| #.149E | AS58073 | Netherlands | 22 hrs offline |
-| #.BF82 | AS31798 | United States | 3 hrs |
-| #.140F | AS9009 | Japan | 505 hrs |
-| #.8216 | AS35913 | United States | 23 hrs |
-| #.7E77 | AS49392 | Russia | 8 hrs |
-| #.E515 | AS16276 | France | 64 hrs |
-| #.5878 | AS58073 | Netherlands | 22 hrs offline |
-| #.82AA | AS35913 | United States | 28 hrs |
-| #.1FF8 | AS31798 | United States | 3 hrs |
-| #.F7E6 | AS35913 | United States | 10 hrs |
-| #.9872 | AS51659 | Russia | 12 hrs |
-| #.EECC | AS63949 | United States | 115 hrs |
-| #.4C5B | AS63949 | United States | 502 hrs |
-| #.AFDE | AS35913 | United States | 64 hrs |
-| #.995E | AS35913 | United States | 64 hrs |
-| #.E4DA | AS63949 | United States | 17 hrs |
-| #.6DA9 | AS63949 | United States | 13 hrs |
-| #.02E7 | AS58073 | Netherlands | 458 hrs |
-| #.D645 | AS58073 | Netherlands | 458 hrs |
-| #.8E29 | AS58073 | Netherlands | 458 hrs |
-| #.19CA | AS58073 | Netherlands | 458 hrs |
-| #.6364 | AS58073 | Netherlands | 458 hrs |
-| #.A5BF | AS58073 | Netherlands | 458 hrs |
-| #.98DC | AS49392 | Russia | 7 hrs |
-| #.92CC | AS49392 | Russia | 9 hrs |
-| #.7647 | AS63949 | United States | 26 hrs |
-| #.AC62 | AS63949 | United States | 61 hrs |
-| #.07E1 | AS199524 | Russia | 45 hrs |
-| #.9FC3 | AS53889 | United States | 503 hrs |
-| #.76DC | AS63949 | United States | 20 hrs |
-| #.EC5D | AS63949 | United States | 250 hrs |
-| #.E00D | AS58073 | Netherlands | 503 hrs |
-| #.42A0 | AS63949 | Japan | 503 hrs |
-| #.0690 | AS63949 | United States | 46 hrs |
-| #.0252 | AS63949 | United States | 2 hrs |
-| #.65DE | AS63949 | United States | 33 hrs |
-| #.3988 | AS63949 | Germany | 54 hrs |
-| #.0F28 | AS58073 | Netherlands | 503 hrs |
-| #.013D | AS58073 | Netherlands | 503 hrs |
-| #.1385 | AS58073 | Netherlands | 503 hrs |
-| #.D1F4 | AS63949 | United States | 9 hrs |
-| #.7F1D | AS63949 | Singapore | 503 hrs |
-| #.9B86 | AS63949 | United States | 503 hrs |
-| #.A577 | AS63949 | United States | 503 hrs |
-| #.A01A | AS16509 | Japan | 1 hrs |
-| #.A151 | AS14061 | United States | 3 hrs offline |
-| #.1AFA | AS63949 | United States | 503 hrs |
-| #.D1F2 | AS9009 | United States | 12 hrs |
-| #.E171 | AS35913 | United States | 64 hrs |
-| #.3806 | AS202422 | Turkey | 64 hrs |
-| #.83FA | AS40065 | United States | 64 hrs |
-| #.A34B | AS14745 | United States | 64 hrs |
-| #.8FE0 | AS49392 | Russia | 6 hrs |
-| #.EDDB | AS9009 | United Kingdom | 64 hrs |
-| #.43DD | AS51659 | Russia | 21 hrs |
-| #.F770 | AS16509 | Japan | 3 hrs |
-| #.DF7F | AS9009 | Japan | 6 hrs |
-| #.55B3 | AS58073 | Netherlands | 312 hrs |
-| #.1B01 | AS14061 | United States | 7 hrs offline |
-| #.884D | AS58073 | Netherlands | 21 hrs offline |
-| #.B4D1 | AS14061 | Singapore | 29 hrs offline |
-| #.84D2 | AS24282 | Japan | 17 hrs |
-| #.5C04 | AS35913 | United States | 9 hrs |
-| #.456A | AS14061 | United States | 53 hrs offline |
-| #.BDB1 | AS35913 | United States | 64 hrs |
+| #.819F | AS51659 | Russia | 10 hrs offline |
+| #.D09B | AS174 | United States | 439 hrs |
+| #.B6D7 | AS58073 | Netherlands | 506 hrs |
+| #.1F0E | AS53667 | United States | 6 hrs |
+| #.3769 | AS21409 | France | 506 hrs |
+| #.7F39 | AS53667 | United States | 6 hrs |
+| #.8F12 | AS9009 | United States | 5 hrs |
+| #.0613 | AS9009 | United States | 97 hrs |
+| #.72B3 | AS63949 | United States | 506 hrs |
+| #.0E01 | AS53667 | United States | 29 hrs |
+| #.3C59 | AS63949 | Singapore | 50 hrs |
+| #.A8BA | AS58073 | Netherlands | 506 hrs |
+| #.8D5E | AS58073 | Netherlands | 506 hrs |
+| #.2A79 | AS63949 | Japan | 6 hrs |
+| #.F221 | AS58073 | Netherlands | 506 hrs |
+| #.0A09 | AS31798 | United States | 6 hrs |
+| #.B396 | AS199524 | Russia | 10 hrs |
+| #.2B24 | AS58073 | Netherlands | 506 hrs |
+| #.B3E3 | AS58073 | Netherlands | 506 hrs |
+| #.903C | AS58073 | Netherlands | 506 hrs |
+| #.BF82 | AS31798 | United States | 6 hrs |
+| #.82AA | AS35913 | United States | 31 hrs |
+| #.E515 | AS16276 | France | 68 hrs |
+| #.1FF8 | AS31798 | United States | 6 hrs |
+| #.149E | AS58073 | Netherlands | 25 hrs offline |
+| #.F7E6 | AS35913 | United States | 13 hrs |
+| #.7E77 | AS49392 | Russia | 11 hrs |
+| #.8216 | AS35913 | United States | 26 hrs |
+| #.5878 | AS58073 | Netherlands | 25 hrs offline |
+| #.140F | AS9009 | Japan | 508 hrs |
+| #.EECC | AS63949 | United States | 118 hrs |
+| #.4C5B | AS63949 | United States | 505 hrs |
+| #.9872 | AS51659 | Russia | 15 hrs |
+| #.AFDE | AS35913 | United States | 68 hrs |
+| #.995E | AS35913 | United States | 68 hrs |
+| #.E4DA | AS63949 | United States | 20 hrs |
+| #.19CA | AS58073 | Netherlands | 461 hrs |
+| #.D645 | AS58073 | Netherlands | 461 hrs |
+| #.8E29 | AS58073 | Netherlands | 461 hrs |
+| #.A5BF | AS58073 | Netherlands | 461 hrs |
+| #.6DA9 | AS63949 | United States | 16 hrs |
+| #.6364 | AS58073 | Netherlands | 461 hrs |
+| #.02E7 | AS58073 | Netherlands | 461 hrs |
+| #.07E1 | AS199524 | Russia | 48 hrs |
+| #.AC62 | AS63949 | United States | 64 hrs |
+| #.98DC | AS49392 | Russia | 10 hrs |
+| #.7647 | AS63949 | United States | 29 hrs |
+| #.92CC | AS49392 | Russia | 12 hrs |
+| #.013D | AS58073 | Netherlands | 506 hrs |
+| #.65DE | AS63949 | United States | 36 hrs |
+| #.9B86 | AS63949 | United States | 506 hrs |
+| #.7F1D | AS63949 | Singapore | 506 hrs |
+| #.1385 | AS58073 | Netherlands | 506 hrs |
+| #.D1F4 | AS63949 | United States | 12 hrs |
+| #.E00D | AS58073 | Netherlands | 506 hrs |
+| #.0252 | AS63949 | United States | 5 hrs |
+| #.76DC | AS63949 | United States | 23 hrs |
+| #.3988 | AS63949 | Germany | 57 hrs |
+| #.0F28 | AS58073 | Netherlands | 506 hrs |
+| #.EC5D | AS63949 | United States | 253 hrs |
+| #.A577 | AS63949 | United States | 506 hrs |
+| #.0690 | AS63949 | United States | 49 hrs |
+| #.9FC3 | AS53889 | United States | 506 hrs |
+| #.42A0 | AS63949 | Japan | 506 hrs |
+| #.A01A | AS16509 | Japan | 5 hrs |
+| #.A151 | AS14061 | United States | 6 hrs offline |
+| #.1AFA | AS63949 | United States | 506 hrs |
+| #.D1F2 | AS9009 | United States | 15 hrs |
+| #.3806 | AS202422 | Turkey | 68 hrs |
+| #.E171 | AS35913 | United States | 68 hrs |
+| #.A34B | AS14745 | United States | 68 hrs |
+| #.83FA | AS40065 | United States | 68 hrs |
+| #.55B3 | AS58073 | Netherlands | 315 hrs |
+| #.F770 | AS16509 | Japan | 6 hrs |
+| #.8FE0 | AS49392 | Russia | 10 hrs |
+| #.1B01 | AS14061 | United States | 10 hrs offline |
+| #.DF7F | AS9009 | Japan | 9 hrs |
+| #.43DD | AS51659 | Russia | 24 hrs |
+| #.EDDB | AS9009 | United Kingdom | 68 hrs |
+| #.884D | AS58073 | Netherlands | 24 hrs offline |
+| #.B4D1 | AS14061 | Singapore | 32 hrs offline |
+| #.456A | AS14061 | United States | 56 hrs offline |
+| #.8FEC | AS53667 | United States | 74 hrs |
+| #.84D2 | AS24282 | Japan | 21 hrs |
 | #.6826 | AS49392 | Russia | 1 hrs offline |
-| #.8FEC | AS53667 | United States | 71 hrs |
-| #.6D70 | AS58073 | Netherlands | 60 hrs |
-| #.27ED | AS20473 | United States | 56 hrs offline |
-| #.8C67 | AS51659 | Russia | 19 hrs |
-| #.D736 | AS58073 | Netherlands | 54 hrs |
-| #.537D | AS58073 | Netherlands | 54 hrs |
-| #.B7EE | AS58073 | Netherlands | 204 hrs |
-| #.9AC4 | AS58073 | Netherlands | 54 hrs |
-| #.B914 | AS58073 | Netherlands | 54 hrs |
-| #.1019 | AS58073 | Netherlands | 54 hrs |
-| #.F0AD | AS16509 | Singapore | 2 hrs |
-| #.E0CF | AS63949 | Germany | 168 hrs |
-| #.A0E2 | AS58073 | Netherlands | 54 hrs |
-| #.AEB3 | AS17511 | Japan | 25 hrs |
-| #.3524 | AS54600 | United States | 144 hrs |
-| #.DD8E | AS54600 | United States | 144 hrs |
-| #.43FE | AS17511 | Japan | 8 hrs |
-| #.20B5 | AS14061 | Singapore | 52 hrs offline |
-| #.49C9 | AS24282 | Japan | 1 hrs offline |
-| #.1579 | AS58073 | Netherlands | 54 hrs |
-| #.98D6 | AS4694 | Japan | 7 hrs |
-| #.7CCE | AS20473 | Australia | 54 hrs |
-| #.8D6D | AS63949 | Japan | 77 hrs |
-| #.74BB | AS16509 | Japan | 2 hrs |
-| #.766D | AS63949 | United Kingdom | 77 hrs |
-| #.D93E | AS16509 | Japan | 77 hrs |
-| #.6395 | AS16509 | Japan | 77 hrs |
-| #.2BA5 | AS16509 | Japan | 77 hrs |
-| #.D240 | AS16509 | Japan | 77 hrs |
-| #.1689 | AS16509 | Japan | 3 hrs |
-| #.437D | AS16509 | Japan | 77 hrs |
-| #.5C93 | AS16509 | Japan | 77 hrs |
-| #.9908 | AS16509 | Japan | 3 hrs |
-| #.8065 | AS16509 | Japan | 77 hrs |
-| #.4E0C | AS16509 | Japan | 77 hrs |
-| #.89FC | AS16509 | Japan | 2 hrs |
-| #.4311 | AS63949 | United States | 77 hrs |
-| #.9C01 | AS16509 | Japan | 77 hrs |
-| #.8603 | AS63949 | United States | 77 hrs |
-| #.9348 | AS63949 | United States | 77 hrs |
-| #.FBA9 | AS63949 | United Kingdom | 77 hrs |
-| #.FED3 | AS63949 | United Kingdom | 77 hrs |
-| #.B55E | AS63949 | Japan | 77 hrs |
-| #.6422 | AS63949 | Japan | 77 hrs |
-| #.58E4 | AS63949 | Japan | 77 hrs |
-| #.A3D6 | AS16509 | Japan | 77 hrs |
-| #.E6CB | AS16509 | Japan | 4 hrs |
-| #.93D6 | AS63949 | United Kingdom | 77 hrs |
-| #.C8C4 | AS63949 | Japan | 77 hrs |
-| #.5055 | AS20473 | France | 54 hrs |
-| #.9AB0 | AS63949 | United States | 77 hrs |
-| #.08FE | AS63949 | United Kingdom | 77 hrs |
-| #.FE7E | AS16509 | Japan | 2 hrs |
-| #.4FAC | AS63949 | United States | 77 hrs |
-| #.A9B7 | AS63949 | United States | 77 hrs |
-| #.1E48 | AS63949 | United Kingdom | 77 hrs |
-| #.0B8A | AS63949 | United States | 77 hrs |
-| #.EF50 | AS63949 | United Kingdom | 77 hrs |
-| #.65CC | AS63949 | United Kingdom | 77 hrs |
-| #.FE73 | AS49392 | Russia | 5 hrs |
-| #.F4DD | N/A | N/A | 54 hrs offline |
-| #.58C5 | AS14061 | Singapore | 52 hrs offline |
-| #.1587 | AS63949 | United Kingdom | 77 hrs |
-| #.F33B | AS63949 | United Kingdom | 77 hrs |
-| #.9246 | AS63949 | United Kingdom | 77 hrs |
-| #.53AD | AS14061 | Singapore | 3 hrs offline |
-| #.299A | AS14061 | United States | 30 hrs offline |
-| #.FC2C | AS14061 | United States | 4 hrs offline |
-| #.CD89 | AS14061 | United States | 30 hrs offline |
-| #.2290 | AS14061 | United States | 29 hrs offline |
-| #.53C0 | AS14061 | United States | 52 hrs offline |
-| #.67D1 | AS54600 | United States | 4 hrs |
-| #.021B | AS63949 | United Kingdom | 77 hrs |
-| #.D870 | AS20473 | Germany | 28 hrs offline |
-| #.6C34 | AS14061 | United States | 29 hrs offline |
-| #.A89C | N/A | N/A | 31 hrs offline |
-| #.A213 | AS14061 | United States | 29 hrs offline |
-| #.3185 | AS14061 | Singapore | 3 hrs offline |
-| #.4A08 | AS14061 | Singapore | 29 hrs offline |
-| #.DC58 | N/A | N/A | 7 hrs offline |
-| #.2414 | AS63949 | United Kingdom | 77 hrs |
-| #.DB57 | AS14061 | United States | 52 hrs offline |
-| #.4CA8 | AS14061 | United States | 52 hrs offline |
-| #.7FEC | AS14061 | United States | 53 hrs offline |
-| #.390E | AS14061 | United States | 3 hrs offline |
-| #.708F | AS14061 | United States | 4 hrs offline |
+| #.BDB1 | AS35913 | United States | 68 hrs |
+| #.5C04 | AS35913 | United States | 13 hrs |
+| #.6D70 | AS58073 | Netherlands | 64 hrs |
+| #.27ED | AS20473 | United States | 59 hrs offline |
+| #.B7EE | AS58073 | Netherlands | 207 hrs |
+| #.D736 | AS58073 | Netherlands | 57 hrs |
+| #.8C67 | AS51659 | Russia | 22 hrs |
+| #.537D | AS58073 | Netherlands | 57 hrs |
+| #.9AC4 | AS58073 | Netherlands | 57 hrs |
+| #.B914 | AS58073 | Netherlands | 57 hrs |
+| #.1019 | AS58073 | Netherlands | 57 hrs |
+| #.F0AD | AS16509 | Singapore | 5 hrs |
+| #.E0CF | AS63949 | Germany | 171 hrs |
+| #.A0E2 | AS58073 | Netherlands | 57 hrs |
+| #.3524 | AS54600 | United States | 147 hrs |
+| #.1579 | AS58073 | Netherlands | 57 hrs |
+| #.20B5 | AS14061 | Singapore | 55 hrs offline |
+| #.49C9 | AS24282 | Japan | 3 hrs |
+| #.DD8E | AS54600 | United States | 147 hrs |
+| #.43FE | AS17511 | Japan | 11 hrs |
+| #.98D6 | AS4694 | Japan | 10 hrs |
+| #.AEB3 | AS17511 | Japan | 28 hrs |
+| #.7CCE | AS20473 | Australia | 57 hrs |
+| #.74BB | AS16509 | Japan | 5 hrs |
+| #.8D6D | AS63949 | Japan | 80 hrs |
+| #.766D | AS63949 | United Kingdom | 80 hrs |
+| #.9348 | AS63949 | United States | 80 hrs |
+| #.58E4 | AS63949 | Japan | 80 hrs |
+| #.D240 | AS16509 | Japan | 80 hrs |
+| #.5C93 | AS16509 | Japan | 80 hrs |
+| #.8065 | AS16509 | Japan | 80 hrs |
+| #.437D | AS16509 | Japan | 80 hrs |
+| #.4E0C | AS16509 | Japan | 80 hrs |
+| #.89FC | AS16509 | Japan | 5 hrs |
+| #.FBA9 | AS63949 | United Kingdom | 80 hrs |
+| #.4311 | AS63949 | United States | 80 hrs |
+| #.9C01 | AS16509 | Japan | 80 hrs |
+| #.D93E | AS16509 | Japan | 80 hrs |
+| #.9908 | AS16509 | Japan | 6 hrs |
+| #.8603 | AS63949 | United States | 80 hrs |
+| #.FED3 | AS63949 | United Kingdom | 80 hrs |
+| #.B55E | AS63949 | Japan | 80 hrs |
+| #.6422 | AS63949 | Japan | 80 hrs |
+| #.A3D6 | AS16509 | Japan | 80 hrs |
+| #.E6CB | AS16509 | Japan | 7 hrs |
+| #.6395 | AS16509 | Japan | 80 hrs |
+| #.1689 | AS16509 | Japan | 6 hrs |
+| #.2BA5 | AS16509 | Japan | 80 hrs |
+| #.58C5 | AS14061 | Singapore | 55 hrs offline |
+| #.0B8A | AS63949 | United States | 80 hrs |
+| #.4FAC | AS63949 | United States | 80 hrs |
+| #.1587 | AS63949 | United Kingdom | 80 hrs |
+| #.93D6 | AS63949 | United Kingdom | 80 hrs |
+| #.5055 | AS20473 | France | 57 hrs |
+| #.9AB0 | AS63949 | United States | 80 hrs |
+| #.A9B7 | AS63949 | United States | 80 hrs |
+| #.1E48 | AS63949 | United Kingdom | 80 hrs |
+| #.EF50 | AS63949 | United Kingdom | 80 hrs |
+| #.9246 | AS63949 | United Kingdom | 80 hrs |
+| #.FE73 | AS49392 | Russia | 1 hrs |
+| #.C8C4 | AS63949 | Japan | 80 hrs |
+| #.F4DD | N/A | N/A | 57 hrs offline |
+| #.FE7E | AS16509 | Japan | 5 hrs |
+| #.08FE | AS63949 | United Kingdom | 80 hrs |
+| #.65CC | AS63949 | United Kingdom | 80 hrs |
+| #.F33B | AS63949 | United Kingdom | 80 hrs |
+| #.2414 | AS63949 | United Kingdom | 80 hrs |
+| #.2290 | AS14061 | United States | 32 hrs offline |
+| #.67D1 | AS54600 | United States | 7 hrs |
+| #.A213 | AS14061 | United States | 32 hrs offline |
+| #.53AD | AS14061 | Singapore | 6 hrs offline |
+| #.4A08 | AS14061 | Singapore | 32 hrs offline |
+| #.53C0 | AS14061 | United States | 55 hrs offline |
+| #.4CA8 | AS14061 | United States | 55 hrs offline |
+| #.CD89 | AS14061 | United States | 33 hrs offline |
+| #.3185 | AS14061 | Singapore | 6 hrs offline |
+| #.A89C | N/A | N/A | 34 hrs offline |
+| #.FC2C | AS14061 | United States | 7 hrs offline |
+| #.021B | AS63949 | United Kingdom | 80 hrs |
+| #.6C34 | AS14061 | United States | 32 hrs offline |
+| #.DC58 | N/A | N/A | 10 hrs offline |
+| #.DB57 | AS14061 | United States | 55 hrs offline |
+| #.D870 | AS20473 | Germany | 31 hrs offline |
+| #.299A | AS14061 | United States | 33 hrs offline |
+| #.7FEC | AS14061 | United States | 56 hrs offline |
+| #.390E | AS14061 | United States | 6 hrs offline |
+| #.708F | AS14061 | United States | 7 hrs offline |
 
