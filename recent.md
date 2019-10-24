@@ -1,6 +1,6 @@
-# 182 recent servers:
+# 172 recent servers:
 
-Latest update at: Thu Oct 24 14:10:12 UTC 2019
+Latest update at: Thu Oct 24 15:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -111,16 +111,11 @@ Latest update at: Thu Oct 24 14:10:12 UTC 2019
 | #.AEB3 | AS17511 | Japan | 18 hrs |
 | #.49C9 | AS24282 | Japan | 1 hrs offline |
 | #.DD8E | AS54600 | United States | 137 hrs |
-| #.22FB | AS24282 | Japan | 60 hrs offline |
 | #.7CCE | AS20473 | Australia | 48 hrs |
-| #.043C | AS14061 | Singapore | 60 hrs offline |
 | #.766D | AS63949 | United Kingdom | 70 hrs |
 | #.74BB | AS16509 | Japan | 3 hrs |
-| #.4DAA | AS14061 | Singapore | 60 hrs offline |
 | #.8D6D | AS63949 | Japan | 71 hrs |
-| #.9079 | AS14061 | Singapore | 60 hrs offline |
 | #.5C93 | AS16509 | Japan | 71 hrs |
-| #.CA75 | AS14061 | United States | 60 hrs offline |
 | #.FED3 | AS63949 | United Kingdom | 70 hrs |
 | #.6422 | AS63949 | Japan | 71 hrs |
 | #.58E4 | AS63949 | Japan | 71 hrs |
@@ -143,8 +138,6 @@ Latest update at: Thu Oct 24 14:10:12 UTC 2019
 | #.9348 | AS63949 | United States | 70 hrs |
 | #.FBA9 | AS63949 | United Kingdom | 70 hrs |
 | #.9246 | AS63949 | United Kingdom | 70 hrs |
-| #.8F46 | AS14061 | United States | 60 hrs offline |
-| #.D79A | AS14061 | United States | 60 hrs offline |
 | #.08FE | AS63949 | United Kingdom | 70 hrs |
 | #.EF50 | AS63949 | United Kingdom | 70 hrs |
 | #.58C5 | AS14061 | Singapore | 46 hrs offline |
@@ -154,14 +147,12 @@ Latest update at: Thu Oct 24 14:10:12 UTC 2019
 | #.93D6 | AS63949 | United Kingdom | 70 hrs |
 | #.5055 | AS20473 | France | 48 hrs |
 | #.FE7E | AS16509 | Japan | 70 hrs |
-| #.F4DD | N/A | N/A | 48 hrs offline |
+| #.FE73 | AS49392 | Russia | 1 hrs offline |
 | #.9AB0 | AS63949 | United States | 70 hrs |
 | #.A9B7 | AS63949 | United States | 70 hrs |
 | #.1E48 | AS63949 | United Kingdom | 70 hrs |
-| #.2AB5 | AS14061 | United States | 60 hrs offline |
-| #.FEC8 | AS14061 | United States | 60 hrs offline |
+| #.F4DD | N/A | N/A | 48 hrs offline |
 | #.F33B | AS63949 | United Kingdom | 70 hrs |
-| #.FE73 | AS49392 | Russia | 1 hrs offline |
 | #.4FAC | AS63949 | United States | 70 hrs |
 | #.C8C4 | AS63949 | Japan | 71 hrs |
 | #.299A | AS14061 | United States | 24 hrs offline |
@@ -174,10 +165,8 @@ Latest update at: Thu Oct 24 14:10:12 UTC 2019
 | #.6C34 | AS14061 | United States | 23 hrs offline |
 | #.021B | AS63949 | United Kingdom | 70 hrs |
 | #.53C0 | AS14061 | United States | 46 hrs offline |
-| #.7FEC | AS14061 | United States | 47 hrs offline |
 | #.D870 | AS20473 | Germany | 22 hrs offline |
 | #.4A08 | AS14061 | Singapore | 23 hrs offline |
-| #.C22A | N/A | N/A | 60 hrs offline |
 | #.2414 | AS63949 | United Kingdom | 70 hrs |
 | #.A89C | N/A | N/A | 25 hrs offline |
 | #.3185 | AS14061 | Singapore | |
@@ -186,4 +175,5 @@ Latest update at: Thu Oct 24 14:10:12 UTC 2019
 | #.FC2C | AS14061 | United States | |
 | #.390E | AS14061 | United States | |
 | #.708F | AS14061 | United States | |
+| #.7FEC | AS14061 | United States | 47 hrs offline |
 
