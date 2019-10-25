@@ -1,6 +1,6 @@
-# 215 recent servers:
+# 206 recent servers:
 
-Latest update at: Fri Oct 25 20:10:09 UTC 2019
+Latest update at: Fri Oct 25 21:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -26,13 +26,11 @@ Latest update at: Fri Oct 25 20:10:09 UTC 2019
 | #.2B24 | AS58073 | Netherlands | 556 hrs |
 | #.7E77 | AS49392 | Russia | 24 hrs offline |
 | #.F7E6 | AS35913 | United States | 27 hrs offline |
-| #.5878 | AS58073 | Netherlands | 60 hrs offline |
 | #.BF82 | AS31798 | United States | 24 hrs offline |
 | #.8216 | AS35913 | United States | 27 hrs offline |
 | #.140F | AS9009 | Japan | 558 hrs |
 | #.E515 | AS16276 | France | 118 hrs |
 | #.1FF8 | AS31798 | United States | 25 hrs offline |
-| #.149E | AS58073 | Netherlands | 60 hrs offline |
 | #.82AA | AS35913 | United States | 27 hrs offline |
 | #.4C5B | AS63949 | United States | 31 hrs |
 | #.EECC | AS63949 | United States | 169 hrs |
@@ -83,8 +81,6 @@ Latest update at: Fri Oct 25 20:10:09 UTC 2019
 | #.EDDB | AS9009 | United Kingdom | 118 hrs |
 | #.DF7F | AS9009 | Japan | 14 hrs |
 | #.1B01 | AS14061 | United States | 60 hrs offline |
-| #.B4D1 | AS14061 | Singapore | 60 hrs offline |
-| #.884D | AS58073 | Netherlands | 60 hrs offline |
 | #.8FEC | AS53667 | United States | 24 hrs offline |
 | #.BDB1 | AS35913 | United States | 118 hrs |
 | #.84D2 | AS24282 | Japan | 11 hrs |
@@ -150,17 +146,12 @@ Latest update at: Fri Oct 25 20:10:09 UTC 2019
 | #.4FAC | AS63949 | United States | 47 hrs offline |
 | #.EF50 | AS63949 | United Kingdom | 47 hrs offline |
 | #.FC2C | AS14061 | United States | 58 hrs offline |
-| #.2290 | AS14061 | United States | 60 hrs offline |
-| #.A213 | AS14061 | United States | 60 hrs offline |
 | #.67D1 | AS54600 | United States | 57 hrs |
-| #.4A08 | AS14061 | Singapore | 60 hrs offline |
 | #.3185 | AS14061 | Singapore | 57 hrs offline |
-| #.D870 | AS20473 | Germany | 60 hrs offline |
 | #.021B | AS63949 | United Kingdom | 47 hrs offline |
 | #.2414 | AS63949 | United Kingdom | 130 hrs |
 | #.53AD | AS14061 | Singapore | 57 hrs offline |
 | #.DC58 | N/A | N/A | 60 hrs offline |
-| #.6C34 | AS14061 | United States | 60 hrs offline |
 | #.390E | AS14061 | United States | 57 hrs offline |
 | #.708F | AS14061 | United States | 58 hrs offline |
 | #.C667 | AS16509 | Japan | 37 hrs |
