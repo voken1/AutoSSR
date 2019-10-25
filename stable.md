@@ -1,6 +1,6 @@
 # 93 stable servers:
 
-Latest update at: Fri Oct 25 02:10:10 UTC 2019
+Latest update at: Fri Oct 25 03:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -91,7 +91,7 @@ Latest update at: Fri Oct 25 02:10:10 UTC 2019
 | #.98D6 | AS4694 | Japan | 24 hrs |
 | #.DD8E | AS54600 | United States | 161 hrs |
 | #.7CCE | AS20473 | Australia | 72 hrs |
-| #.FBA9 | AS63949 | United Kingdom | 94 hrs |
+| #.FBA9 | AS63949 | United Kingdom | 95 hrs |
 | #.5055 | AS20473 | France | 72 hrs |
 | #.67D1 | AS54600 | United States | 21 hrs |
 | #.2414 | AS63949 | United Kingdom | 94 hrs |

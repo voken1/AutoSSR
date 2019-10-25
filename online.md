@@ -1,6 +1,6 @@
-# 102 online servers:
+# 152 online servers:
 
-Latest update at: Fri Oct 25 02:10:10 UTC 2019
+Latest update at: Fri Oct 25 03:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -34,6 +34,7 @@ Latest update at: Fri Oct 25 02:10:10 UTC 2019
 | #.EECC | AS63949 | United States | 133 hrs |
 | #.4C5B | AS63949 | United States | 520 hrs |
 | #.9872 | AS51659 | Russia | 30 hrs |
+| #.818F | AS16509 | Japan | 1 hrs |
 | #.AFDE | AS35913 | United States | 82 hrs |
 | #.995E | AS35913 | United States | 82 hrs |
 | #.E4DA | AS63949 | United States | 34 hrs |
@@ -100,10 +101,59 @@ Latest update at: Fri Oct 25 02:10:10 UTC 2019
 | #.98D6 | AS4694 | Japan | 24 hrs |
 | #.DD8E | AS54600 | United States | 161 hrs |
 | #.7CCE | AS20473 | Australia | 72 hrs |
-| #.FBA9 | AS63949 | United Kingdom | 94 hrs |
+| #.FBA9 | AS63949 | United Kingdom | 95 hrs |
 | #.5055 | AS20473 | France | 72 hrs |
 | #.67D1 | AS54600 | United States | 21 hrs |
 | #.2414 | AS63949 | United Kingdom | 94 hrs |
+| #.43BA | AS14061 | Singapore | 1 hrs |
+| #.6A2F | AS63949 | Japan | 1 hrs |
+| #.9F36 | AS63949 | Japan | 1 hrs |
+| #.68B1 | AS16509 | Japan | 1 hrs |
+| #.D91D | AS63949 | Japan | 1 hrs |
+| #.B156 | AS63949 | Japan | 1 hrs |
+| #.4DA0 | AS16509 | Japan | 1 hrs |
+| #.03F5 | AS63949 | Japan | 1 hrs |
+| #.41BF | AS16509 | Japan | 1 hrs |
+| #.8B40 | AS63949 | Japan | 1 hrs |
+| #.4E25 | AS16509 | Japan | 1 hrs |
+| #.A5E0 | AS16509 | Japan | 1 hrs |
+| #.1E6E | AS16509 | Japan | 1 hrs |
+| #.C667 | AS16509 | Japan | 1 hrs |
+| #.C9F9 | AS16509 | Japan | 1 hrs |
+| #.B9D4 | AS16509 | Japan | 1 hrs |
+| #.2CBC | AS16509 | Japan | 1 hrs |
+| #.B59C | AS16509 | Japan | 1 hrs |
+| #.4607 | AS14061 | Singapore | 1 hrs |
+| #.062D | AS14061 | Singapore | 1 hrs |
 | #.FE73 | AS49392 | Russia | 15 hrs |
+| #.36A1 | AS14061 | Singapore | 1 hrs |
+| #.9C3B | AS14061 | United States | 1 hrs |
+| #.E193 | AS16509 | Japan | 1 hrs |
+| #.0EEC | AS14061 | United States | 1 hrs |
 | #.8FE0 | AS49392 | Russia | 24 hrs |
+| #.3A15 | AS16509 | Japan | 1 hrs |
+| #.69A5 | AS16509 | Japan | 1 hrs |
+| #.FEAB | AS63949 | United States | 1 hrs |
+| #.FE70 | AS16509 | Japan | 1 hrs |
+| #.FD06 | AS16509 | Japan | 1 hrs |
+| #.9DA1 | AS63949 | United Kingdom | 1 hrs |
+| #.FD2C | AS63949 | United States | 1 hrs |
+| #.A1D5 | AS63949 | United Kingdom | 1 hrs |
+| #.801C | AS63949 | United States | 1 hrs |
+| #.1842 | AS63949 | United States | 1 hrs |
+| #.F7F5 | AS63949 | United States | 1 hrs |
+| #.208E | AS63949 | United States | 1 hrs |
+| #.285F | AS63949 | United Kingdom | 1 hrs |
+| #.A824 | AS63949 | United Kingdom | 1 hrs |
+| #.2CFD | AS14061 | United States | 1 hrs |
+| #.C210 | AS14061 | United States | 1 hrs |
+| #.678A | AS14061 | United States | 1 hrs |
+| #.8597 | AS63949 | United States | 1 hrs |
+| #.09C6 | AS63949 | United Kingdom | 1 hrs |
+| #.F197 | AS63949 | United Kingdom | 1 hrs |
+| #.55B1 | AS63949 | United Kingdom | 1 hrs |
+| #.16E6 | AS63949 | United Kingdom | 1 hrs |
+| #.38CA | AS63949 | United Kingdom | 1 hrs |
+| #.6E7D | AS63949 | United Kingdom | 1 hrs |
+| #.A3FB | AS63949 | United Kingdom | 1 hrs |
 
