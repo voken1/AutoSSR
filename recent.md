@@ -1,6 +1,6 @@
-# 234 recent servers:
+# 223 recent servers:
 
-Latest update at: Mon Oct 28 21:10:19 UTC 2019
+Latest update at: Mon Oct 28 22:10:16 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -86,7 +86,6 @@ Latest update at: Mon Oct 28 21:10:19 UTC 2019
 | #.98D6 | AS4694 | Japan | 25 hrs |
 | #.1579 | AS58073 | Netherlands | 253 hrs |
 | #.3524 | AS54600 | United States | 342 hrs |
-| #.AEB3 | AS17511 | Japan | 60 hrs offline |
 | #.DD8E | AS54600 | United States | 342 hrs |
 | #.7CCE | AS20473 | Australia | 253 hrs |
 | #.FBA9 | AS63949 | United Kingdom | 45 hrs offline |
@@ -133,27 +132,17 @@ Latest update at: Mon Oct 28 21:10:19 UTC 2019
 | #.38CA | AS63949 | United Kingdom | 44 hrs offline |
 | #.A113 | AS35913 | United States | 158 hrs |
 | #.F197 | AS63949 | United Kingdom | 44 hrs offline |
-| #.0E09 | AS14061 | Singapore | 60 hrs offline |
 | #.A3FB | AS63949 | United Kingdom | 44 hrs offline |
 | #.6E7D | AS63949 | United Kingdom | 44 hrs offline |
-| #.F473 | AS14061 | Singapore | 60 hrs offline |
 | #.09C6 | AS63949 | United Kingdom | 45 hrs offline |
-| #.4F28 | AS63949 | United States | 60 hrs offline |
 | #.A42A | AS14061 | Singapore | 53 hrs offline |
-| #.5680 | AS63949 | Singapore | 60 hrs offline |
-| #.160C | AS14061 | United States | 60 hrs offline |
 | #.0188 | AS14061 | Singapore | 53 hrs offline |
-| #.C44E | AS14061 | United States | 60 hrs offline |
-| #.82C2 | AS14061 | United States | 60 hrs offline |
 | #.9ADE | AS14061 | Singapore | 53 hrs offline |
 | #.AE5E | AS63949 | Singapore | 54 hrs offline |
 | #.1477 | AS14061 | United States | 54 hrs offline |
-| #.97AF | AS14061 | Singapore | 60 hrs offline |
 | #.C54E | AS14061 | Singapore | 54 hrs offline |
 | #.9A3D | AS58879 | United States | 57 hrs offline |
-| #.5229 | AS14061 | United States | 60 hrs offline |
 | #.4D2E | AS63949 | Japan | 43 hrs offline |
-| #.B20B | AS14061 | United States | 60 hrs offline |
 | #.FE2D | AS14061 | United States | 54 hrs offline |
 | #.2B6D | AS63949 | Japan | 44 hrs offline |
 | #.4914 | AS14061 | United States | 54 hrs offline |
