@@ -1,6 +1,6 @@
-# 205 recent servers:
+# 206 recent servers:
 
-Latest update at: Tue Oct 29 21:10:08 UTC 2019
+Latest update at: Tue Oct 29 22:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -208,5 +208,6 @@ Latest update at: Tue Oct 29 21:10:08 UTC 2019
 | #.FB50 | AS63949 | Japan | 4 hrs |
 | #.CF9A | AS63949 | Japan | 8 hrs |
 | #.AF47 | AS3462 | Taiwan | 15 hrs offline |
+| #.E56B | AS36352 | United States | |
 | #.0E55 | AS45090 | China | 23 hrs |
 
