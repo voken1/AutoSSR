@@ -1,6 +1,6 @@
-# 115 online servers:
+# 114 online servers:
 
-Latest update at: Tue Oct 29 10:10:09 UTC 2019
+Latest update at: Tue Oct 29 11:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -24,11 +24,11 @@ Latest update at: Tue Oct 29 10:10:09 UTC 2019
 | #.EECC | AS63949 | United States | 31 hrs |
 | #.AFDE | AS35913 | United States | 283 hrs |
 | #.995E | AS35913 | United States | 5 hrs |
-| #.E4DA | AS63949 | United States | 1 hrs |
+| #.E4DA | AS63949 | United States | 2 hrs |
 | #.19CA | AS58073 | Netherlands | 676 hrs |
 | #.6364 | AS58073 | Netherlands | 676 hrs |
+| #.D645 | AS58073 | Netherlands | 677 hrs |
 | #.8E29 | AS58073 | Netherlands | 676 hrs |
-| #.D645 | AS58073 | Netherlands | 676 hrs |
 | #.6DA9 | AS63949 | United States | 5 hrs |
 | #.A5BF | AS58073 | Netherlands | 676 hrs |
 | #.7647 | AS63949 | United States | 76 hrs |
@@ -63,12 +63,11 @@ Latest update at: Tue Oct 29 10:10:09 UTC 2019
 | #.9AC4 | AS58073 | Netherlands | 273 hrs |
 | #.B914 | AS58073 | Netherlands | 273 hrs |
 | #.E0CF | AS63949 | Germany | 387 hrs |
-| #.43FE | AS17511 | Japan | 11 hrs |
 | #.98D6 | AS4694 | Japan | 45 hrs |
-| #.1579 | AS58073 | Netherlands | 272 hrs |
-| #.7CCE | AS20473 | Australia | 1 hrs |
-| #.5055 | AS20473 | France | 1 hrs |
-| #.FEAB | AS63949 | United States | 201 hrs |
+| #.1579 | AS58073 | Netherlands | 273 hrs |
+| #.43FE | AS17511 | Japan | 12 hrs |
+| #.5055 | AS20473 | France | 2 hrs |
+| #.FEAB | AS63949 | United States | 202 hrs |
 | #.43CC | AS63949 | Japan | 53 hrs |
 | #.3948 | AS63949 | Japan | 53 hrs |
 | #.6A61 | AS63949 | Japan | 53 hrs |
@@ -97,15 +96,15 @@ Latest update at: Tue Oct 29 10:10:09 UTC 2019
 | #.FD5C | AS21409 | France | 53 hrs |
 | #.71F6 | AS63949 | United Kingdom | 53 hrs |
 | #.A083 | AS63949 | United Kingdom | 53 hrs |
-| #.93FB | AS58073 | Netherlands | 30 hrs |
-| #.76CF | AS58073 | Netherlands | 30 hrs |
-| #.1EE3 | AS58073 | Netherlands | 30 hrs |
-| #.2A50 | AS58073 | Netherlands | 30 hrs |
-| #.F9BE | AS58073 | Netherlands | 30 hrs |
+| #.76CF | AS58073 | Netherlands | 31 hrs |
+| #.1EE3 | AS58073 | Netherlands | 31 hrs |
+| #.2A50 | AS58073 | Netherlands | 31 hrs |
+| #.F9BE | AS58073 | Netherlands | 31 hrs |
+| #.DC96 | AS58073 | Netherlands | 31 hrs |
 | #.F096 | AS58073 | Netherlands | 47 hrs |
 | #.5090 | AS58073 | Netherlands | 41 hrs |
-| #.F3F1 | AS58073 | Netherlands | 30 hrs |
-| #.DC96 | AS58073 | Netherlands | 30 hrs |
+| #.F3F1 | AS58073 | Netherlands | 31 hrs |
+| #.93FB | AS58073 | Netherlands | 31 hrs |
 | #.674B | AS202422 | Turkey | 7 hrs |
 | #.A50A | AS35916 | United States | 7 hrs |
 | #.8296 | AS199524 | South Korea | 7 hrs |
