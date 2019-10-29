@@ -1,6 +1,6 @@
 # 247 recent servers:
 
-Latest update at: Tue Oct 29 09:10:11 UTC 2019
+Latest update at: Tue Oct 29 10:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -246,9 +246,9 @@ Latest update at: Tue Oct 29 09:10:11 UTC 2019
 | #.9CB6 | AS14061 | Singapore | 9 hrs offline |
 | #.3D77 | AS63949 | United States | 9 hrs offline |
 | #.BCC0 | AS45102 | China | 7 hrs |
-| #.B8C2 | AS20473 | Japan | 4 hrs |
-| #.980E | AS4760 | Hong Kong | 1 hrs offline |
 | #.8B0D | AS45102 | China | 7 hrs |
 | #.EE83 | AS45102 | China | 1 hrs |
 | #.AF47 | AS3462 | Taiwan | 6 hrs |
+| #.B8C2 | AS20473 | Japan | 5 hrs |
+| #.980E | AS4760 | Hong Kong | 1 hrs |
 

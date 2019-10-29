@@ -1,6 +1,6 @@
-# 114 online servers:
+# 115 online servers:
 
-Latest update at: Tue Oct 29 09:10:11 UTC 2019
+Latest update at: Tue Oct 29 10:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -114,8 +114,9 @@ Latest update at: Tue Oct 29 09:10:11 UTC 2019
 | #.861D | AS45102 | China | 7 hrs |
 | #.3E31 | AS45102 | China | 7 hrs |
 | #.BCC0 | AS45102 | China | 7 hrs |
-| #.B8C2 | AS20473 | Japan | 4 hrs |
 | #.8B0D | AS45102 | China | 7 hrs |
 | #.EE83 | AS45102 | China | 1 hrs |
 | #.AF47 | AS3462 | Taiwan | 6 hrs |
+| #.B8C2 | AS20473 | Japan | 5 hrs |
+| #.980E | AS4760 | Hong Kong | 1 hrs |
 
