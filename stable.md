@@ -1,19 +1,19 @@
 # 67 stable servers:
 
-Latest update at: Wed Oct 30 22:10:12 UTC 2019
+Latest update at: Wed Oct 30 23:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 74 hrs |
-| #.3769 | AS21409 | France | 126 hrs |
-| #.0613 | AS9009 | United States | 21 hrs |
+| #.3769 | AS21409 | France | 127 hrs |
+| #.0613 | AS9009 | United States | 22 hrs |
 | #.72B3 | AS63949 | United States | 58 hrs |
 | #.3C59 | AS63949 | Singapore | 313 hrs |
-| #.2B24 | AS58073 | Netherlands | 768 hrs |
-| #.2A79 | AS63949 | Japan | 268 hrs |
-| #.903C | AS58073 | Netherlands | 768 hrs |
-| #.F221 | AS58073 | Netherlands | 768 hrs |
-| #.140F | AS9009 | Japan | 93 hrs |
+| #.F221 | AS58073 | Netherlands | 769 hrs |
+| #.2A79 | AS63949 | Japan | 269 hrs |
+| #.2B24 | AS58073 | Netherlands | 769 hrs |
+| #.903C | AS58073 | Netherlands | 769 hrs |
+| #.140F | AS9009 | Japan | 94 hrs |
 | #.EECC | AS63949 | United States | 78 hrs |
 | #.9872 | AS51659 | Russia | 76 hrs |
 | #.4C5B | AS63949 | United States | 190 hrs |
@@ -28,16 +28,16 @@ Latest update at: Wed Oct 30 22:10:12 UTC 2019
 | #.42A0 | AS63949 | Japan | 769 hrs |
 | #.A577 | AS63949 | United States | 222 hrs |
 | #.0252 | AS63949 | United States | 268 hrs |
+| #.7F1D | AS63949 | Singapore | 55 hrs |
 | #.3988 | AS63949 | Germany | 320 hrs |
-| #.7F1D | AS63949 | Singapore | 54 hrs |
 | #.1AFA | AS63949 | United States | 79 hrs |
 | #.D736 | AS58073 | Netherlands | 320 hrs |
-| #.B7EE | AS58073 | Netherlands | 469 hrs |
+| #.B7EE | AS58073 | Netherlands | 470 hrs |
 | #.B914 | AS58073 | Netherlands | 320 hrs |
 | #.9AC4 | AS58073 | Netherlands | 320 hrs |
 | #.E0CF | AS63949 | Germany | 434 hrs |
 | #.1579 | AS58073 | Netherlands | 320 hrs |
-| #.98D6 | AS4694 | Japan | 92 hrs |
+| #.98D6 | AS4694 | Japan | 93 hrs |
 | #.43FE | AS17511 | Japan | 59 hrs |
 | #.6A61 | AS63949 | Japan | 101 hrs |
 | #.FD5C | AS21409 | France | 101 hrs |
