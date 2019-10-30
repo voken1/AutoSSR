@@ -1,6 +1,6 @@
-# 239 recent servers:
+# 226 recent servers:
 
-Latest update at: Wed Oct 30 16:10:11 UTC 2019
+Latest update at: Wed Oct 30 17:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -31,7 +31,6 @@ Latest update at: Wed Oct 30 16:10:11 UTC 2019
 | #.A5BF | AS58073 | Netherlands | 13 hrs offline |
 | #.19CA | AS58073 | Netherlands | 14 hrs offline |
 | #.6364 | AS58073 | Netherlands | 13 hrs offline |
-| #.02E7 | AS58073 | Netherlands | 60 hrs offline |
 | #.8E29 | AS58073 | Netherlands | 14 hrs offline |
 | #.6DA9 | AS63949 | United States | 2 hrs |
 | #.4476 | AS16509 | Japan | 49 hrs offline |
@@ -56,7 +55,6 @@ Latest update at: Wed Oct 30 16:10:11 UTC 2019
 | #.A01A | AS16509 | Japan | 40 hrs offline |
 | #.D1F2 | AS9009 | United States | 2 hrs |
 | #.1AFA | AS63949 | United States | 71 hrs |
-| #.3806 | AS202422 | Turkey | 60 hrs offline |
 | #.E171 | AS35913 | United States | 32 hrs offline |
 | #.A34B | AS14745 | United States | 60 hrs offline |
 | #.55B3 | AS58073 | Netherlands | 13 hrs offline |
@@ -73,8 +71,6 @@ Latest update at: Wed Oct 30 16:10:11 UTC 2019
 | #.B914 | AS58073 | Netherlands | 313 hrs |
 | #.9AC4 | AS58073 | Netherlands | 313 hrs |
 | #.E0CF | AS63949 | Germany | 427 hrs |
-| #.1019 | AS58073 | Netherlands | 60 hrs offline |
-| #.A0E2 | AS58073 | Netherlands | 60 hrs offline |
 | #.3524 | AS54600 | United States | 60 hrs offline |
 | #.43FE | AS17511 | Japan | 52 hrs |
 | #.1579 | AS58073 | Netherlands | 313 hrs |
@@ -130,23 +126,15 @@ Latest update at: Wed Oct 30 16:10:11 UTC 2019
 | #.4079 | AS63949 | United Kingdom | 24 hrs offline |
 | #.A083 | AS63949 | United Kingdom | 24 hrs offline |
 | #.2DF4 | AS63949 | United Kingdom | 24 hrs offline |
-| #.FE51 | AS14061 | United States | 60 hrs offline |
 | #.76CF | AS58073 | Netherlands | 14 hrs offline |
-| #.BB79 | AS14061 | Singapore | 60 hrs offline |
 | #.5090 | AS58073 | Netherlands | 13 hrs offline |
 | #.F9BE | AS58073 | Netherlands | 13 hrs offline |
 | #.93FB | AS58073 | Netherlands | 14 hrs offline |
 | #.F3F1 | AS58073 | Netherlands | 14 hrs offline |
 | #.DC96 | AS58073 | Netherlands | 13 hrs offline |
-| #.C70D | AS14061 | United States | 60 hrs offline |
 | #.1EE3 | AS58073 | Netherlands | 13 hrs offline |
 | #.F096 | AS58073 | Netherlands | 13 hrs offline |
-| #.3546 | AS14061 | Singapore | 60 hrs offline |
 | #.2A50 | AS58073 | Netherlands | 13 hrs offline |
-| #.4671 | AS14061 | Singapore | 60 hrs offline |
-| #.17FA | AS14061 | United States | 60 hrs offline |
-| #.4C22 | AS14061 | United States | 60 hrs offline |
-| #.01E9 | AS14061 | United States | 60 hrs offline |
 | #.BCC0 | AS45102 | China | 33 hrs offline |
 | #.861D | AS45102 | China | 17 hrs |
 | #.9CB6 | AS14061 | Singapore | 50 hrs offline |
@@ -232,7 +220,6 @@ Latest update at: Wed Oct 30 16:10:11 UTC 2019
 | #.F0DD | AS14061 | Singapore | 16 hrs offline |
 | #.28FC | AS63949 | United States | 18 hrs |
 | #.512C | AS16509 | Japan | 18 hrs |
-| #.DFD7 | AS45090 | China | 60 hrs offline |
 | #.AF47 | AS3462 | Taiwan | 39 hrs offline |
 | #.9A17 | AS4594 | Hong Kong | 4 hrs |
 | #.3099 | AS14061 | United States | 2 hrs |
