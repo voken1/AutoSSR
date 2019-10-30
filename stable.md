@@ -1,13 +1,13 @@
 # 38 stable servers:
 
-Latest update at: Wed Oct 30 09:10:11 UTC 2019
+Latest update at: Wed Oct 30 10:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 59 hrs |
 | #.3769 | AS21409 | France | 111 hrs |
-| #.72B3 | AS63949 | United States | 42 hrs |
 | #.3C59 | AS63949 | Singapore | 297 hrs |
+| #.72B3 | AS63949 | United States | 43 hrs |
 | #.F221 | AS58073 | Netherlands | 753 hrs |
 | #.2A79 | AS63949 | Japan | 253 hrs |
 | #.2B24 | AS58073 | Netherlands | 753 hrs |
@@ -16,8 +16,8 @@ Latest update at: Wed Oct 30 09:10:11 UTC 2019
 | #.4C5B | AS63949 | United States | 175 hrs |
 | #.9872 | AS51659 | Russia | 61 hrs |
 | #.EECC | AS63949 | United States | 63 hrs |
+| #.7647 | AS63949 | United States | 109 hrs |
 | #.AC62 | AS63949 | United States | 104 hrs |
-| #.7647 | AS63949 | United States | 108 hrs |
 | #.EC5D | AS63949 | United States | 500 hrs |
 | #.76DC | AS63949 | United States | 65 hrs |
 | #.D1F4 | AS63949 | United States | 40 hrs |

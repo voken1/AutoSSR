@@ -1,6 +1,6 @@
-# 80 online servers:
+# 81 online servers:
 
-Latest update at: Wed Oct 30 09:10:11 UTC 2019
+Latest update at: Wed Oct 30 10:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -8,8 +8,8 @@ Latest update at: Wed Oct 30 09:10:11 UTC 2019
 | #.3769 | AS21409 | France | 111 hrs |
 | #.8F12 | AS9009 | United States | 1 hrs |
 | #.0613 | AS9009 | United States | 6 hrs |
-| #.72B3 | AS63949 | United States | 42 hrs |
 | #.3C59 | AS63949 | Singapore | 297 hrs |
+| #.72B3 | AS63949 | United States | 43 hrs |
 | #.F221 | AS58073 | Netherlands | 753 hrs |
 | #.2A79 | AS63949 | Japan | 253 hrs |
 | #.2B24 | AS58073 | Netherlands | 753 hrs |
@@ -18,9 +18,10 @@ Latest update at: Wed Oct 30 09:10:11 UTC 2019
 | #.4C5B | AS63949 | United States | 175 hrs |
 | #.9872 | AS51659 | Russia | 61 hrs |
 | #.EECC | AS63949 | United States | 63 hrs |
-| #.6DA9 | AS63949 | United States | 1 hrs |
+| #.E4DA | AS63949 | United States | 1 hrs |
+| #.6DA9 | AS63949 | United States | 2 hrs |
+| #.7647 | AS63949 | United States | 109 hrs |
 | #.AC62 | AS63949 | United States | 104 hrs |
-| #.7647 | AS63949 | United States | 108 hrs |
 | #.EC5D | AS63949 | United States | 500 hrs |
 | #.76DC | AS63949 | United States | 65 hrs |
 | #.D1F4 | AS63949 | United States | 40 hrs |
@@ -48,40 +49,40 @@ Latest update at: Wed Oct 30 09:10:11 UTC 2019
 | #.6A61 | AS63949 | Japan | 85 hrs |
 | #.D389 | AS16509 | Japan | 3 hrs |
 | #.FD5C | AS21409 | France | 85 hrs |
+| #.14D9 | AS49392 | Russia | 10 hrs |
 | #.861D | AS45102 | China | 9 hrs |
-| #.14D9 | AS49392 | Russia | 9 hrs |
-| #.0966 | AS16509 | Japan | 9 hrs |
-| #.7F53 | AS16509 | Japan | 9 hrs |
-| #.D821 | AS63949 | Japan | 9 hrs |
-| #.4E0D | AS63949 | Japan | 9 hrs |
-| #.CD0D | AS63949 | Japan | 9 hrs |
-| #.5CA3 | AS63949 | Japan | 9 hrs |
-| #.86E8 | AS63949 | Japan | 9 hrs |
-| #.3637 | AS63949 | Japan | 9 hrs |
-| #.4FA7 | AS16509 | Japan | 9 hrs |
-| #.0C0A | AS16509 | Japan | 9 hrs |
-| #.C082 | AS16509 | Japan | 9 hrs |
-| #.AD30 | AS16509 | Japan | 9 hrs |
-| #.2BD7 | AS16509 | Japan | 9 hrs |
-| #.359F | AS16509 | Japan | 9 hrs |
-| #.F016 | AS16509 | Japan | 9 hrs |
+| #.0966 | AS16509 | Japan | 10 hrs |
+| #.C082 | AS16509 | Japan | 10 hrs |
+| #.4E0D | AS63949 | Japan | 10 hrs |
+| #.CD0D | AS63949 | Japan | 10 hrs |
+| #.5CA3 | AS63949 | Japan | 10 hrs |
+| #.86E8 | AS63949 | Japan | 10 hrs |
+| #.3637 | AS63949 | Japan | 10 hrs |
+| #.4FA7 | AS16509 | Japan | 10 hrs |
+| #.0C0A | AS16509 | Japan | 10 hrs |
+| #.2BD7 | AS16509 | Japan | 10 hrs |
+| #.AD30 | AS16509 | Japan | 10 hrs |
+| #.F016 | AS16509 | Japan | 10 hrs |
+| #.359F | AS16509 | Japan | 10 hrs |
+| #.7F53 | AS16509 | Japan | 10 hrs |
 | #.0E55 | AS45090 | China | 39 hrs |
-| #.792C | AS63949 | Japan | 9 hrs |
-| #.70FE | AS63949 | Japan | 9 hrs |
-| #.79A4 | AS63949 | Japan | 9 hrs |
-| #.F523 | AS63949 | Japan | 9 hrs |
-| #.8D9A | AS63949 | Japan | 9 hrs |
-| #.BAD5 | AS63949 | Japan | 9 hrs |
-| #.EA8F | AS63949 | Japan | 9 hrs |
-| #.4677 | AS16509 | Japan | 9 hrs |
-| #.215A | AS16509 | Japan | 9 hrs |
-| #.D973 | AS16509 | Japan | 9 hrs |
-| #.28FC | AS63949 | United States | 9 hrs |
-| #.4EDA | AS16509 | Japan | 9 hrs |
-| #.186A | AS16509 | Japan | 9 hrs |
-| #.3DE2 | AS16509 | Japan | 9 hrs |
-| #.B708 | AS16509 | Japan | 9 hrs |
-| #.512C | AS16509 | Japan | 9 hrs |
-| #.5407 | AS16509 | Japan | 9 hrs |
-| #.A609 | AS20473 | United States | 6 hrs |
+| #.792C | AS63949 | Japan | 10 hrs |
+| #.70FE | AS63949 | Japan | 10 hrs |
+| #.79A4 | AS63949 | Japan | 10 hrs |
+| #.F523 | AS63949 | Japan | 10 hrs |
+| #.8D9A | AS63949 | Japan | 10 hrs |
+| #.BAD5 | AS63949 | Japan | 10 hrs |
+| #.EA8F | AS63949 | Japan | 10 hrs |
+| #.D821 | AS63949 | Japan | 10 hrs |
+| #.D973 | AS16509 | Japan | 10 hrs |
+| #.215A | AS16509 | Japan | 10 hrs |
+| #.4EDA | AS16509 | Japan | 10 hrs |
+| #.186A | AS16509 | Japan | 10 hrs |
+| #.3DE2 | AS16509 | Japan | 10 hrs |
+| #.B708 | AS16509 | Japan | 10 hrs |
+| #.4677 | AS16509 | Japan | 10 hrs |
+| #.512C | AS16509 | Japan | 10 hrs |
+| #.5407 | AS16509 | Japan | 10 hrs |
+| #.A609 | AS20473 | United States | 7 hrs |
+| #.28FC | AS63949 | United States | 10 hrs |
 
