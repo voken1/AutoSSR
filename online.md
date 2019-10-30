@@ -1,6 +1,6 @@
 # 84 online servers:
 
-Latest update at: Wed Oct 30 15:10:11 UTC 2019
+Latest update at: Wed Oct 30 16:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -49,14 +49,13 @@ Latest update at: Wed Oct 30 15:10:11 UTC 2019
 | #.6A61 | AS63949 | Japan | 93 hrs |
 | #.FD5C | AS21409 | France | 93 hrs |
 | #.861D | AS45102 | China | 17 hrs |
-| #.14D9 | AS49392 | Russia | 17 hrs |
-| #.0966 | AS16509 | Japan | 17 hrs |
+| #.14D9 | AS49392 | Russia | 18 hrs |
 | #.79A4 | AS63949 | Japan | 18 hrs |
 | #.359F | AS16509 | Japan | 18 hrs |
-| #.7F53 | AS16509 | Japan | 17 hrs |
-| #.C082 | AS16509 | Japan | 17 hrs |
-| #.AD30 | AS16509 | Japan | 17 hrs |
-| #.F016 | AS16509 | Japan | 17 hrs |
+| #.7F53 | AS16509 | Japan | 18 hrs |
+| #.C082 | AS16509 | Japan | 18 hrs |
+| #.AD30 | AS16509 | Japan | 18 hrs |
+| #.F016 | AS16509 | Japan | 18 hrs |
 | #.F523 | AS63949 | Japan | 18 hrs |
 | #.8D9A | AS63949 | Japan | 18 hrs |
 | #.792C | AS63949 | Japan | 18 hrs |
@@ -71,21 +70,22 @@ Latest update at: Wed Oct 30 15:10:11 UTC 2019
 | #.3637 | AS63949 | Japan | 18 hrs |
 | #.4FA7 | AS16509 | Japan | 18 hrs |
 | #.2BD7 | AS16509 | Japan | 18 hrs |
-| #.28FC | AS63949 | United States | 17 hrs |
-| #.4EDA | AS16509 | Japan | 17 hrs |
-| #.3DE2 | AS16509 | Japan | 17 hrs |
-| #.4677 | AS16509 | Japan | 17 hrs |
-| #.186A | AS16509 | Japan | 17 hrs |
-| #.B708 | AS16509 | Japan | 17 hrs |
-| #.512C | AS16509 | Japan | 17 hrs |
-| #.5407 | AS16509 | Japan | 17 hrs |
-| #.215A | AS16509 | Japan | 17 hrs |
-| #.D973 | AS16509 | Japan | 17 hrs |
-| #.489D | AS14061 | United States | 1 hrs |
-| #.A424 | AS14061 | Singapore | 1 hrs |
-| #.9A17 | AS4594 | Hong Kong | 3 hrs |
-| #.3099 | AS14061 | United States | 1 hrs |
-| #.30C8 | AS14061 | Singapore | 1 hrs |
-| #.90DB | AS14061 | Singapore | 1 hrs |
-| #.9AA4 | AS63949 | Singapore | 1 hrs |
+| #.4EDA | AS16509 | Japan | 18 hrs |
+| #.186A | AS16509 | Japan | 18 hrs |
+| #.B708 | AS16509 | Japan | 18 hrs |
+| #.3DE2 | AS16509 | Japan | 18 hrs |
+| #.4677 | AS16509 | Japan | 18 hrs |
+| #.5407 | AS16509 | Japan | 18 hrs |
+| #.215A | AS16509 | Japan | 18 hrs |
+| #.D973 | AS16509 | Japan | 18 hrs |
+| #.28FC | AS63949 | United States | 18 hrs |
+| #.512C | AS16509 | Japan | 18 hrs |
+| #.9A17 | AS4594 | Hong Kong | 4 hrs |
+| #.3099 | AS14061 | United States | 2 hrs |
+| #.30C8 | AS14061 | Singapore | 2 hrs |
+| #.856F | AS14061 | United States | 1 hrs |
+| #.90DB | AS14061 | Singapore | 2 hrs |
+| #.489D | AS14061 | United States | 2 hrs |
+| #.A424 | AS14061 | Singapore | 2 hrs |
+| #.0ED9 | AS14061 | United States | 1 hrs |
 
