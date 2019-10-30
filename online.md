@@ -1,6 +1,6 @@
 # 84 online servers:
 
-Latest update at: Wed Oct 30 21:10:10 UTC 2019
+Latest update at: Wed Oct 30 22:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -9,7 +9,7 @@ Latest update at: Wed Oct 30 21:10:10 UTC 2019
 | #.0613 | AS9009 | United States | 21 hrs |
 | #.8F12 | AS9009 | United States | 8 hrs |
 | #.72B3 | AS63949 | United States | 58 hrs |
-| #.3C59 | AS63949 | Singapore | 312 hrs |
+| #.3C59 | AS63949 | Singapore | 313 hrs |
 | #.2B24 | AS58073 | Netherlands | 768 hrs |
 | #.2A79 | AS63949 | Japan | 268 hrs |
 | #.903C | AS58073 | Netherlands | 768 hrs |
@@ -24,18 +24,18 @@ Latest update at: Wed Oct 30 21:10:10 UTC 2019
 | #.AC62 | AS63949 | United States | 120 hrs |
 | #.0690 | AS63949 | United States | 90 hrs |
 | #.EC5D | AS63949 | United States | 516 hrs |
-| #.76DC | AS63949 | United States | 80 hrs |
-| #.A577 | AS63949 | United States | 221 hrs |
-| #.42A0 | AS63949 | Japan | 768 hrs |
-| #.9B86 | AS63949 | United States | 83 hrs |
-| #.1385 | AS58073 | Netherlands | 768 hrs |
-| #.D1F4 | AS63949 | United States | 55 hrs |
-| #.0252 | AS63949 | United States | 267 hrs |
-| #.65DE | AS63949 | United States | 9 hrs |
-| #.9FC3 | AS53889 | United States | 2 hrs |
+| #.76DC | AS63949 | United States | 81 hrs |
+| #.D1F4 | AS63949 | United States | 56 hrs |
+| #.9FC3 | AS53889 | United States | 3 hrs |
+| #.65DE | AS63949 | United States | 10 hrs |
+| #.1385 | AS58073 | Netherlands | 769 hrs |
+| #.9B86 | AS63949 | United States | 84 hrs |
+| #.42A0 | AS63949 | Japan | 769 hrs |
+| #.A577 | AS63949 | United States | 222 hrs |
+| #.0252 | AS63949 | United States | 268 hrs |
 | #.3988 | AS63949 | Germany | 320 hrs |
 | #.7F1D | AS63949 | Singapore | 54 hrs |
-| #.1AFA | AS63949 | United States | 78 hrs |
+| #.1AFA | AS63949 | United States | 79 hrs |
 | #.D1F2 | AS9009 | United States | 3 hrs |
 | #.D736 | AS58073 | Netherlands | 320 hrs |
 | #.B7EE | AS58073 | Netherlands | 469 hrs |
@@ -49,9 +49,9 @@ Latest update at: Wed Oct 30 21:10:10 UTC 2019
 | #.7CCE | AS20473 | Australia | 4 hrs |
 | #.5055 | AS20473 | France | 7 hrs |
 | #.8FE0 | AS49392 | Russia | 7 hrs |
-| #.D389 | AS16509 | Japan | 9 hrs |
+| #.D389 | AS16509 | Japan | 10 hrs |
 | #.6A61 | AS63949 | Japan | 101 hrs |
-| #.FD5C | AS21409 | France | 100 hrs |
+| #.FD5C | AS21409 | France | 101 hrs |
 | #.14D9 | AS49392 | Russia | 25 hrs |
 | #.861D | AS45102 | China | 24 hrs |
 | #.0966 | AS16509 | Japan | 7 hrs |
@@ -87,5 +87,5 @@ Latest update at: Wed Oct 30 21:10:10 UTC 2019
 | #.3DE2 | AS16509 | Japan | 25 hrs |
 | #.B708 | AS16509 | Japan | 25 hrs |
 | #.4677 | AS16509 | Japan | 6 hrs |
-| #.299F | AS4760 | Hong Kong | 4 hrs |
+| #.299F | AS4760 | Hong Kong | 5 hrs |
 
