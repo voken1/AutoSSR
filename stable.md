@@ -1,6 +1,6 @@
 # 39 stable servers:
 
-Latest update at: Thu Oct 31 20:10:10 UTC 2019
+Latest update at: Thu Oct 31 21:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,11 +17,11 @@ Latest update at: Thu Oct 31 20:10:10 UTC 2019
 | #.4C5B | AS63949 | United States | 223 hrs |
 | #.EECC | AS63949 | United States | 111 hrs |
 | #.7647 | AS63949 | United States | 157 hrs |
-| #.AC62 | AS63949 | United States | 152 hrs |
+| #.AC62 | AS63949 | United States | 153 hrs |
 | #.3988 | AS63949 | Germany | 353 hrs |
-| #.0690 | AS63949 | United States | 122 hrs |
+| #.0690 | AS63949 | United States | 123 hrs |
+| #.EC5D | AS63949 | United States | 549 hrs |
 | #.42A0 | AS63949 | Japan | 801 hrs |
-| #.EC5D | AS63949 | United States | 548 hrs |
 | #.0252 | AS63949 | United States | 300 hrs |
 | #.D1F4 | AS63949 | United States | 88 hrs |
 | #.9FC3 | AS53889 | United States | 35 hrs |
@@ -41,6 +41,6 @@ Latest update at: Thu Oct 31 20:10:10 UTC 2019
 | #.98D6 | AS4694 | Japan | 125 hrs |
 | #.FD5C | AS21409 | France | 133 hrs |
 | #.861D | AS45102 | China | 57 hrs |
-| #.EAA3 | AS63949 | Japan | 23 hrs |
-| #.A8F8 | AS63949 | Japan | 23 hrs |
+| #.EAA3 | AS63949 | Japan | 24 hrs |
+| #.A8F8 | AS63949 | Japan | 24 hrs |
 

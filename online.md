@@ -1,6 +1,6 @@
 # 65 online servers:
 
-Latest update at: Thu Oct 31 20:10:10 UTC 2019
+Latest update at: Thu Oct 31 21:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -21,11 +21,11 @@ Latest update at: Thu Oct 31 20:10:10 UTC 2019
 | #.E4DA | AS63949 | United States | 7 hrs |
 | #.6DA9 | AS63949 | United States | 4 hrs |
 | #.7647 | AS63949 | United States | 157 hrs |
-| #.AC62 | AS63949 | United States | 152 hrs |
+| #.AC62 | AS63949 | United States | 153 hrs |
 | #.3988 | AS63949 | Germany | 353 hrs |
-| #.0690 | AS63949 | United States | 122 hrs |
+| #.0690 | AS63949 | United States | 123 hrs |
+| #.EC5D | AS63949 | United States | 549 hrs |
 | #.42A0 | AS63949 | Japan | 801 hrs |
-| #.EC5D | AS63949 | United States | 548 hrs |
 | #.65DE | AS63949 | United States | 6 hrs |
 | #.0252 | AS63949 | United States | 300 hrs |
 | #.D1F4 | AS63949 | United States | 88 hrs |
@@ -50,20 +50,20 @@ Latest update at: Thu Oct 31 20:10:10 UTC 2019
 | #.5055 | AS20473 | France | 10 hrs |
 | #.8FE0 | AS49392 | Russia | 8 hrs |
 | #.819F | AS51659 | Russia | 11 hrs |
-| #.D389 | AS16509 | Japan | 4 hrs |
+| #.D389 | AS16509 | Japan | 5 hrs |
 | #.FD5C | AS21409 | France | 133 hrs |
 | #.861D | AS45102 | China | 57 hrs |
-| #.3BBF | AS50340 | Russia | 9 hrs |
 | #.8FB5 | AS63949 | Japan | 10 hrs |
 | #.AFE4 | AS63949 | Japan | 10 hrs |
 | #.B265 | AS63949 | Japan | 10 hrs |
 | #.8FB2 | AS63949 | Japan | 10 hrs |
+| #.2DFF | AS16509 | Japan | 10 hrs |
 | #.C930 | AS16509 | Japan | 10 hrs |
-| #.2DFF | AS16509 | Japan | 9 hrs |
-| #.C5CC | AS16509 | Japan | 9 hrs |
-| #.80A8 | AS16509 | Japan | 9 hrs |
-| #.EAA3 | AS63949 | Japan | 23 hrs |
-| #.A8F8 | AS63949 | Japan | 23 hrs |
+| #.C5CC | AS16509 | Japan | 10 hrs |
+| #.EAA3 | AS63949 | Japan | 24 hrs |
+| #.80A8 | AS16509 | Japan | 10 hrs |
+| #.A8F8 | AS63949 | Japan | 24 hrs |
+| #.3BBF | AS50340 | Russia | 10 hrs |
 | #.540A | AS4760 | Hong Kong | 10 hrs |
 | #.F4A3 | AS63949 | Japan | 10 hrs |
 | #.B197 | AS63949 | Japan | 10 hrs |
