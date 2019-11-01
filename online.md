@@ -1,6 +1,6 @@
 # 61 online servers:
 
-Latest update at: Fri Nov 01 08:10:10 UTC 2019
+Latest update at: Fri Nov 01 09:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -36,8 +36,8 @@ Latest update at: Fri Nov 01 08:10:10 UTC 2019
 | #.A577 | AS63949 | United States | 277 hrs |
 | #.1AFA | AS63949 | United States | 134 hrs |
 | #.B7EE | AS58073 | Netherlands | 525 hrs |
-| #.8C67 | AS51659 | Russia | 1 hrs |
 | #.D736 | AS58073 | Netherlands | 376 hrs |
+| #.8C67 | AS51659 | Russia | 1 hrs |
 | #.9AC4 | AS58073 | Netherlands | 376 hrs |
 | #.B914 | AS58073 | Netherlands | 376 hrs |
 | #.E0CF | AS63949 | Germany | 490 hrs |
