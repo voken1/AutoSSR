@@ -1,6 +1,6 @@
 # 78 recent servers:
 
-Latest update at: Sat Nov 02 10:10:19 UTC 2019
+Latest update at: Sat Nov 02 11:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -38,8 +38,8 @@ Latest update at: Sat Nov 02 10:10:19 UTC 2019
 | #.1AFA | AS63949 | United States | 189 hrs |
 | #.D1F2 | AS9009 | United States | 1 hrs |
 | #.B7EE | AS58073 | Netherlands | 580 hrs |
-| #.8C67 | AS51659 | Russia | 3 hrs |
 | #.D736 | AS58073 | Netherlands | 430 hrs |
+| #.8C67 | AS51659 | Russia | 3 hrs |
 | #.9AC4 | AS58073 | Netherlands | 430 hrs |
 | #.B914 | AS58073 | Netherlands | 430 hrs |
 | #.E0CF | AS63949 | Germany | 545 hrs |
