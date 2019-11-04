@@ -1,19 +1,19 @@
 # 78 online servers:
 
-Latest update at: Mon Nov 04 20:10:11 UTC 2019
+Latest update at: Mon Nov 04 21:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 315 hrs |
 | #.8F12 | AS9009 | United States | 7 hrs |
 | #.0613 | AS9009 | United States | 13 hrs |
-| #.3C59 | AS63949 | Singapore | 553 hrs |
+| #.3C59 | AS63949 | Singapore | 554 hrs |
 | #.72B3 | AS63949 | United States | 10 hrs |
-| #.903C | AS58073 | Netherlands | 1009 hrs |
-| #.F221 | AS58073 | Netherlands | 1009 hrs |
+| #.F221 | AS58073 | Netherlands | 1010 hrs |
+| #.2A79 | AS63949 | Japan | 510 hrs |
 | #.2B24 | AS58073 | Netherlands | 1009 hrs |
-| #.2A79 | AS63949 | Japan | 509 hrs |
-| #.140F | AS9009 | Japan | 334 hrs |
+| #.903C | AS58073 | Netherlands | 1010 hrs |
+| #.140F | AS9009 | Japan | 335 hrs |
 | #.EECC | AS63949 | United States | 9 hrs |
 | #.4C5B | AS63949 | United States | 29 hrs |
 | #.9872 | AS51659 | Russia | 7 hrs |
@@ -26,25 +26,25 @@ Latest update at: Mon Nov 04 20:10:11 UTC 2019
 | #.7F1D | AS63949 | Singapore | 295 hrs |
 | #.0690 | AS63949 | United States | 331 hrs |
 | #.76DC | AS63949 | United States | 322 hrs |
+| #.42A0 | AS63949 | Japan | 1010 hrs |
 | #.EC5D | AS63949 | United States | 757 hrs |
-| #.1385 | AS58073 | Netherlands | 1009 hrs |
 | #.65DE | AS63949 | United States | 28 hrs |
-| #.42A0 | AS63949 | Japan | 1009 hrs |
+| #.1385 | AS58073 | Netherlands | 1010 hrs |
 | #.D1F4 | AS63949 | United States | 12 hrs |
 | #.3988 | AS63949 | Germany | 8 hrs |
 | #.0252 | AS63949 | United States | 509 hrs |
 | #.9B86 | AS63949 | United States | 325 hrs |
 | #.1AFA | AS63949 | United States | 320 hrs |
 | #.D1F2 | AS9009 | United States | 10 hrs |
+| #.B7EE | AS58073 | Netherlands | 711 hrs |
 | #.D736 | AS58073 | Netherlands | 561 hrs |
 | #.8C67 | AS51659 | Russia | 1 hrs |
-| #.B7EE | AS58073 | Netherlands | 710 hrs |
 | #.9AC4 | AS58073 | Netherlands | 561 hrs |
 | #.B914 | AS58073 | Netherlands | 561 hrs |
 | #.E0CF | AS63949 | Germany | 34 hrs |
+| #.98D6 | AS4694 | Japan | 7 hrs |
 | #.1579 | AS58073 | Netherlands | 561 hrs |
 | #.43FE | AS17511 | Japan | 58 hrs |
-| #.98D6 | AS4694 | Japan | 6 hrs |
 | #.819F | AS51659 | Russia | 37 hrs |
 | #.861D | AS45102 | China | 265 hrs |
 | #.14D9 | AS49392 | Russia | 2 hrs |
