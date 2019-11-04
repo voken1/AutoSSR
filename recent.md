@@ -1,6 +1,6 @@
-# 72 recent servers:
+# 113 recent servers:
 
-Latest update at: Mon Nov 04 01:10:13 UTC 2019
+Latest update at: Mon Nov 04 02:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -34,8 +34,8 @@ Latest update at: Mon Nov 04 01:10:13 UTC 2019
 | #.0690 | AS63949 | United States | 294 hrs |
 | #.3988 | AS63949 | Germany | 100 hrs |
 | #.42A0 | AS63949 | Japan | 973 hrs |
-| #.1AFA | AS63949 | United States | 283 hrs |
 | #.D1F2 | AS9009 | United States | 20 hrs |
+| #.1AFA | AS63949 | United States | 283 hrs |
 | #.D736 | AS58073 | Netherlands | 524 hrs |
 | #.8C67 | AS51659 | Russia | 1 hrs |
 | #.B7EE | AS58073 | Netherlands | 674 hrs |
@@ -49,6 +49,8 @@ Latest update at: Mon Nov 04 01:10:13 UTC 2019
 | #.819F | AS51659 | Russia | 18 hrs offline |
 | #.861D | AS45102 | China | 228 hrs |
 | #.14D9 | AS49392 | Russia | 1 hrs offline |
+| #.CFA5 | AS50340 | Russia | |
+| #.8C00 | AS63949 | Japan | |
 | #.540A | AS4760 | Hong Kong | 3 hrs |
 | #.571D | AS16509 | Japan | 10 hrs offline |
 | #.AD71 | AS16509 | Japan | 10 hrs offline |
@@ -65,6 +67,7 @@ Latest update at: Mon Nov 04 01:10:13 UTC 2019
 | #.F187 | AS14061 | United States | 53 hrs offline |
 | #.226D | AS63949 | United States | 53 hrs offline |
 | #.7FB8 | AS63949 | Japan | 12 hrs offline |
+| #.55C5 | AS31798 | United States | 25 hrs |
 | #.CED5 | AS40676 | United States | 21 hrs offline |
 | #.1415 | AS3462 | Taiwan | 16 hrs offline |
 | #.1714 | AS16509 | Japan | 10 hrs offline |
@@ -74,6 +77,44 @@ Latest update at: Mon Nov 04 01:10:13 UTC 2019
 | #.6490 | AS131642 | Taiwan | 3 hrs offline |
 | #.FCDF | AS14061 | United States | 24 hrs offline |
 | #.FA1E | AS63949 | Singapore | 24 hrs offline |
-| #.55C5 | AS31798 | United States | 25 hrs |
 | #.E655 | AS12876 | Netherlands | 31 hrs |
+| #.5CBD | AS48347 | Russia | |
+| #.77F9 | AS14061 | Singapore | |
+| #.0C8C | AS14061 | Singapore | |
+| #.49B8 | AS63949 | Singapore | |
+| #.0C9E | AS14061 | Singapore | |
+| #.BC73 | AS63949 | Japan | |
+| #.4DCF | AS16509 | Singapore | |
+| #.EBD6 | AS63949 | Japan | |
+| #.1CD3 | AS63949 | Japan | |
+| #.41A6 | AS63949 | Japan | |
+| #.EBB7 | AS16509 | Japan | |
+| #.0F3D | AS63949 | Japan | |
+| #.2B3B | AS63949 | Japan | |
+| #.83F2 | AS63949 | Japan | |
+| #.4906 | AS63949 | Japan | |
+| #.81C8 | AS63949 | Japan | |
+| #.42D6 | AS63949 | Japan | |
+| #.5607 | AS63949 | Japan | |
+| #.DB19 | AS63949 | Japan | |
+| #.253F | AS63949 | Japan | |
+| #.3FB4 | AS63949 | Japan | |
+| #.DF12 | AS63949 | Japan | |
+| #.471C | AS63949 | Japan | |
+| #.B548 | AS14061 | Singapore | |
+| #.E60E | AS16509 | Japan | |
+| #.5CCE | AS16509 | Japan | |
+| #.109D | AS16509 | Japan | |
+| #.AA48 | AS16509 | Japan | |
+| #.CB8A | AS16509 | Japan | |
+| #.17E2 | AS63949 | United States | |
+| #.0804 | AS16509 | Japan | |
+| #.3530 | AS16509 | Japan | |
+| #.D63F | AS16509 | Japan | |
+| #.748B | AS14061 | United States | |
+| #.D1A6 | AS14061 | United States | |
+| #.B60C | AS14061 | United States | |
+| #.CDA7 | AS63949 | United States | |
+| #.B5A1 | AS14061 | United States | |
+| #.99AD | AS14061 | United States | |
 
