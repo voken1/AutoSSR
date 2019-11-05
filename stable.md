@@ -1,6 +1,6 @@
 # 60 stable servers:
 
-Latest update at: Tue Nov 05 13:10:12 UTC 2019
+Latest update at: Tue Nov 05 14:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -14,20 +14,20 @@ Latest update at: Tue Nov 05 13:10:12 UTC 2019
 | #.EECC | AS63949 | United States | 45 hrs |
 | #.4C5B | AS63949 | United States | 65 hrs |
 | #.7647 | AS63949 | United States | 49 hrs |
-| #.AC62 | AS63949 | United States | 42 hrs |
-| #.9FC3 | AS53889 | United States | 16 hrs |
+| #.AC62 | AS63949 | United States | 43 hrs |
+| #.0690 | AS63949 | United States | 367 hrs |
+| #.A577 | AS63949 | United States | 499 hrs |
+| #.0252 | AS63949 | United States | 545 hrs |
 | #.42A0 | AS63949 | Japan | 1045 hrs |
-| #.76DC | AS63949 | United States | 357 hrs |
-| #.0690 | AS63949 | United States | 366 hrs |
-| #.0252 | AS63949 | United States | 544 hrs |
-| #.D1F4 | AS63949 | United States | 23 hrs |
-| #.9B86 | AS63949 | United States | 360 hrs |
+| #.D1F4 | AS63949 | United States | 24 hrs |
+| #.EC5D | AS63949 | United States | 793 hrs |
+| #.9B86 | AS63949 | United States | 361 hrs |
 | #.3988 | AS63949 | Germany | 44 hrs |
-| #.A577 | AS63949 | United States | 498 hrs |
-| #.EC5D | AS63949 | United States | 792 hrs |
+| #.9FC3 | AS53889 | United States | 17 hrs |
+| #.76DC | AS63949 | United States | 358 hrs |
 | #.7F1D | AS63949 | Singapore | 331 hrs |
 | #.1385 | AS58073 | Netherlands | 1045 hrs |
-| #.1AFA | AS63949 | United States | 355 hrs |
+| #.1AFA | AS63949 | United States | 356 hrs |
 | #.D736 | AS58073 | Netherlands | 597 hrs |
 | #.B7EE | AS58073 | Netherlands | 746 hrs |
 | #.9AC4 | AS58073 | Netherlands | 597 hrs |
@@ -60,7 +60,7 @@ Latest update at: Tue Nov 05 13:10:12 UTC 2019
 | #.AA48 | AS16509 | Japan | 73 hrs |
 | #.CB8A | AS16509 | Japan | 73 hrs |
 | #.3530 | AS16509 | Japan | 73 hrs |
-| #.1373 | AS4760 | Hong Kong | 17 hrs |
+| #.1373 | AS4760 | Hong Kong | 18 hrs |
 | #.CFA5 | AS50340 | Russia | 73 hrs |
 | #.2B3B | AS63949 | Japan | 73 hrs |
 | #.55C5 | AS31798 | United States | 98 hrs |
