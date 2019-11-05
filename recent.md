@@ -1,6 +1,6 @@
-# 127 recent servers:
+# 130 recent servers:
 
-Latest update at: Tue Nov 05 14:10:09 UTC 2019
+Latest update at: Tue Nov 05 15:10:17 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -106,7 +106,6 @@ Latest update at: Tue Nov 05 14:10:09 UTC 2019
 | #.CFA5 | AS50340 | Russia | 73 hrs |
 | #.2B3B | AS63949 | Japan | 73 hrs |
 | #.B548 | AS14061 | Singapore | 60 hrs offline |
-| #.4DCF | AS16509 | Singapore | 6 hrs offline |
 | #.6B8E | AS14061 | United States | 43 hrs offline |
 | #.18EA | AS14061 | United States | 43 hrs offline |
 | #.4E9C | AS14061 | Singapore | 19 hrs offline |
@@ -119,6 +118,7 @@ Latest update at: Tue Nov 05 14:10:09 UTC 2019
 | #.4E6C | AS14061 | United States | 44 hrs offline |
 | #.BE53 | AS14061 | Singapore | |
 | #.3546 | AS14061 | Singapore | 44 hrs offline |
+| #.4DCF | AS16509 | Singapore | 6 hrs offline |
 | #.3A20 | AS14061 | United States | 20 hrs offline |
 | #.351B | AS14061 | United States | 43 hrs offline |
 | #.99AD | AS14061 | United States | 60 hrs offline |
@@ -128,7 +128,10 @@ Latest update at: Tue Nov 05 14:10:09 UTC 2019
 | #.655E | AS63949 | Japan | |
 | #.7949 | AS14061 | United States | |
 | #.452B | AS14061 | United States | |
-| #.A1AF | AS14061 | United States | |
+| #.AF5A | AS3462 | Taiwan | |
+| #.70EF | AS8075 | Hong Kong | |
 | #.55C5 | AS31798 | United States | 98 hrs |
+| #.A1AF | AS14061 | United States | |
 | #.7BD2 | AS14061 | United States | |
+| #.0D4F | AS4760 | Hong Kong | |
 
