@@ -1,6 +1,6 @@
-# 116 recent servers:
+# 133 recent servers:
 
-Latest update at: Wed Nov 06 01:10:10 UTC 2019
+Latest update at: Wed Nov 06 02:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -20,11 +20,11 @@ Latest update at: Wed Nov 06 01:10:10 UTC 2019
 | #.9872 | AS51659 | Russia | 30 hrs |
 | #.E4DA | AS63949 | United States | 3 hrs |
 | #.6DA9 | AS63949 | United States | 21 hrs |
-| #.705F | AS54600 | United States | 30 hrs |
-| #.74DB | AS54600 | United States | 30 hrs |
+| #.74DB | AS54600 | United States | 31 hrs |
+| #.705F | AS54600 | United States | 31 hrs |
 | #.AC62 | AS63949 | United States | 67 hrs |
 | #.7647 | AS63949 | United States | 73 hrs |
-| #.8613 | AS54600 | United States | 30 hrs |
+| #.8613 | AS54600 | United States | 31 hrs |
 | #.3988 | AS63949 | Germany | 68 hrs |
 | #.42A0 | AS63949 | Japan | 1069 hrs |
 | #.76DC | AS63949 | United States | 382 hrs |
@@ -58,6 +58,7 @@ Latest update at: Wed Nov 06 01:10:10 UTC 2019
 | #.14D9 | AS49392 | Russia | 33 hrs |
 | #.8C00 | AS63949 | Japan | 11 hrs offline |
 | #.204D | AS14061 | Singapore | 60 hrs offline |
+| #.5129 | AS63949 | United States | |
 | #.540A | AS4760 | Hong Kong | 21 hrs |
 | #.DC09 | AS20473 | Japan | 28 hrs |
 | #.E655 | AS12876 | Netherlands | 128 hrs |
@@ -96,28 +97,44 @@ Latest update at: Wed Nov 06 01:10:10 UTC 2019
 | #.4DCF | AS16509 | Singapore | 18 hrs |
 | #.6B8E | AS14061 | United States | 60 hrs offline |
 | #.9898 | AS8075 | Hong Kong | 60 hrs offline |
-| #.D961 | AS134520 | United States | 19 hrs |
+| #.BE53 | AS14061 | Singapore | 20 hrs offline |
 | #.B2DD | AS21859 | India | 49 hrs offline |
 | #.4E6C | AS14061 | United States | 60 hrs offline |
 | #.18EA | AS14061 | United States | 60 hrs offline |
-| #.DFA9 | AS63949 | Singapore | 20 hrs offline |
 | #.3546 | AS14061 | Singapore | 60 hrs offline |
 | #.4E9C | AS14061 | Singapore | 43 hrs offline |
 | #.FACF | AS3462 | Taiwan | 9 hrs |
 | #.92AF | AS63949 | United States | 44 hrs offline |
 | #.351B | AS14061 | United States | 60 hrs offline |
-| #.BE53 | AS14061 | Singapore | 19 hrs offline |
+| #.18D1 | AS14061 | Singapore | 20 hrs offline |
 | #.C88D | AS14061 | United States | 60 hrs offline |
-| #.18D1 | AS14061 | Singapore | 19 hrs offline |
+| #.DFA9 | AS63949 | Singapore | 21 hrs offline |
+| #.D961 | AS134520 | United States | 20 hrs |
 | #.2992 | AS63949 | Singapore | 44 hrs offline |
 | #.3A20 | AS14061 | United States | 44 hrs offline |
-| #.A1AF | AS14061 | United States | 20 hrs offline |
-| #.0D4F | AS4760 | Hong Kong | 22 hrs offline |
-| #.70EF | AS8075 | Hong Kong | 22 hrs offline |
-| #.AF5A | AS3462 | Taiwan | 22 hrs offline |
+| #.AF5A | AS3462 | Taiwan | 23 hrs offline |
+| #.7E1D | AS3462 | Taiwan | |
+| #.2772 | AS14061 | United States | |
+| #.95D3 | AS50340 | Russia | |
+| #.BCB4 | AS14061 | United States | |
+| #.655E | AS63949 | Japan | 11 hrs offline |
+| #.ED42 | AS14061 | Singapore | |
+| #.7949 | AS14061 | United States | 20 hrs offline |
+| #.7BD2 | AS14061 | United States | 21 hrs offline |
+| #.DC5C | AS63949 | Singapore | |
+| #.452B | AS14061 | United States | 20 hrs offline |
+| #.A1AF | AS14061 | United States | 21 hrs offline |
+| #.0D4F | AS4760 | Hong Kong | 23 hrs offline |
+| #.70EF | AS8075 | Hong Kong | 23 hrs offline |
+| #.88A1 | AS63949 | Japan | |
+| #.B710 | AS63949 | Japan | |
+| #.0760 | AS63949 | Japan | |
+| #.2284 | AS16509 | Japan | |
+| #.8F19 | AS16509 | Japan | |
+| #.49AF | AS16509 | Japan | |
+| #.894B | AS16509 | Japan | |
+| #.DCA5 | AS16509 | Japan | |
+| #.D72F | AS16509 | Japan | |
+| #.06A8 | AS63949 | United States | |
 | #.55C5 | AS31798 | United States | 122 hrs |
-| #.655E | AS63949 | Japan | 10 hrs offline |
-| #.7949 | AS14061 | United States | 19 hrs offline |
-| #.7BD2 | AS14061 | United States | 20 hrs offline |
-| #.452B | AS14061 | United States | 19 hrs offline |
 

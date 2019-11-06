@@ -1,6 +1,6 @@
 # 54 stable servers:
 
-Latest update at: Wed Nov 06 01:10:10 UTC 2019
+Latest update at: Wed Nov 06 02:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,11 +16,11 @@ Latest update at: Wed Nov 06 01:10:10 UTC 2019
 | #.EECC | AS63949 | United States | 69 hrs |
 | #.9872 | AS51659 | Russia | 30 hrs |
 | #.6DA9 | AS63949 | United States | 21 hrs |
-| #.705F | AS54600 | United States | 30 hrs |
-| #.74DB | AS54600 | United States | 30 hrs |
+| #.74DB | AS54600 | United States | 31 hrs |
+| #.705F | AS54600 | United States | 31 hrs |
 | #.AC62 | AS63949 | United States | 67 hrs |
 | #.7647 | AS63949 | United States | 73 hrs |
-| #.8613 | AS54600 | United States | 30 hrs |
+| #.8613 | AS54600 | United States | 31 hrs |
 | #.3988 | AS63949 | Germany | 68 hrs |
 | #.42A0 | AS63949 | Japan | 1069 hrs |
 | #.76DC | AS63949 | United States | 382 hrs |
@@ -56,6 +56,6 @@ Latest update at: Wed Nov 06 01:10:10 UTC 2019
 | #.5CBD | AS48347 | Russia | 97 hrs |
 | #.EBB7 | AS16509 | Japan | 18 hrs |
 | #.4DCF | AS16509 | Singapore | 18 hrs |
-| #.D961 | AS134520 | United States | 19 hrs |
+| #.D961 | AS134520 | United States | 20 hrs |
 | #.55C5 | AS31798 | United States | 122 hrs |
 
