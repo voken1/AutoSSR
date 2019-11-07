@@ -1,6 +1,6 @@
 # 免费 Free ShadowsocksR
 
-Latest update at: Thu Nov 07 20:10:23 UTC 2019
+Latest update at: Thu Nov 07 21:10:07 UTC 2019
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
@@ -14,7 +14,7 @@ Links for subscription:
 - `https://git.io/autossr_online`
 - `https://raw.githubusercontent.com/voken100g/AutoSSR/master/online`
 
-## 60 stable servers
+## 62 stable servers
 
 [Available more than 12 hours, seems they are more stable.](https://github.com/voken100g/AutoSSR/blob/master/stable.md)
 
