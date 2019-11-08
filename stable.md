@@ -1,25 +1,24 @@
-# 56 stable servers:
+# 55 stable servers:
 
-Latest update at: Fri Nov 08 11:10:08 UTC 2019
+Latest update at: Fri Nov 08 12:10:14 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 44 hrs |
-| #.3C59 | AS63949 | Singapore | 732 hrs |
-| #.2A79 | AS63949 | Japan | 688 hrs |
-| #.140F | AS9009 | Japan | 77 hrs |
-| #.74DB | AS54600 | United States | 149 hrs |
-| #.705F | AS54600 | United States | 149 hrs |
-| #.8613 | AS54600 | United States | 149 hrs |
-| #.3988 | AS63949 | Germany | 187 hrs |
-| #.7F1D | AS63949 | Singapore | 474 hrs |
-| #.42A0 | AS63949 | Japan | 1188 hrs |
-| #.9FC3 | AS53889 | United States | 59 hrs |
-| #.0690 | AS63949 | United States | 96 hrs |
-| #.877A | AS54600 | United States | 149 hrs |
-| #.2633 | AS54600 | United States | 149 hrs |
-| #.E836 | AS54600 | United States | 149 hrs |
-| #.E0CF | AS63949 | Germany | 95 hrs |
+| #.D09B | AS174 | United States | 45 hrs |
+| #.3C59 | AS63949 | Singapore | 733 hrs |
+| #.140F | AS9009 | Japan | 78 hrs |
+| #.74DB | AS54600 | United States | 150 hrs |
+| #.705F | AS54600 | United States | 150 hrs |
+| #.8613 | AS54600 | United States | 150 hrs |
+| #.9FC3 | AS53889 | United States | 60 hrs |
+| #.3988 | AS63949 | Germany | 188 hrs |
+| #.7F1D | AS63949 | Singapore | 475 hrs |
+| #.42A0 | AS63949 | Japan | 1189 hrs |
+| #.0690 | AS63949 | United States | 97 hrs |
+| #.2633 | AS54600 | United States | 150 hrs |
+| #.E836 | AS54600 | United States | 150 hrs |
+| #.877A | AS54600 | United States | 150 hrs |
+| #.E0CF | AS63949 | Germany | 96 hrs |
 | #.C1FE | AS63949 | Japan | 19 hrs |
 | #.E487 | AS63949 | Japan | 19 hrs |
 | #.E169 | AS63949 | Japan | 19 hrs |
@@ -57,7 +56,7 @@ Latest update at: Fri Nov 08 11:10:08 UTC 2019
 | #.89F0 | AS50340 | Russia | 19 hrs |
 | #.9D26 | AS63949 | Japan | 19 hrs |
 | #.861D | AS45102 | China | 444 hrs |
-| #.E655 | AS12876 | Netherlands | 247 hrs |
-| #.7E1D | AS3462 | Taiwan | 119 hrs |
-| #.55C5 | AS31798 | United States | 47 hrs |
+| #.7E1D | AS3462 | Taiwan | 120 hrs |
+| #.4DCF | AS16509 | Singapore | 13 hrs |
+| #.55C5 | AS31798 | United States | 48 hrs |
 
