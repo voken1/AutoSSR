@@ -1,6 +1,6 @@
-# 130 recent servers:
+# 127 recent servers:
 
-Latest update at: Fri Nov 08 20:10:10 UTC 2019
+Latest update at: Fri Nov 08 21:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -11,7 +11,6 @@ Latest update at: Fri Nov 08 20:10:10 UTC 2019
 | #.2B24 | AS58073 | Netherlands | 21 hrs offline |
 | #.F221 | AS58073 | Netherlands | 21 hrs offline |
 | #.2A79 | AS63949 | Japan | 17 hrs |
-| #.DB8E | AS54600 | United States | 60 hrs offline |
 | #.903C | AS58073 | Netherlands | 20 hrs offline |
 | #.140F | AS9009 | Japan | 95 hrs |
 | #.9872 | AS51659 | Russia | 26 hrs |
@@ -26,7 +25,6 @@ Latest update at: Fri Nov 08 20:10:10 UTC 2019
 | #.42A0 | AS63949 | Japan | 1206 hrs |
 | #.A577 | AS63949 | United States | 1 hrs offline |
 | #.877A | AS54600 | United States | 167 hrs |
-| #.C203 | AS54600 | United States | 60 hrs offline |
 | #.E836 | AS54600 | United States | 167 hrs |
 | #.2633 | AS54600 | United States | 167 hrs |
 | #.D1F2 | AS9009 | United States | 2 hrs |
@@ -92,7 +90,6 @@ Latest update at: Fri Nov 08 20:10:10 UTC 2019
 | #.540A | AS4760 | Hong Kong | 6 hrs |
 | #.7FEA | AS36352 | United States | 13 hrs |
 | #.CED5 | AS40676 | United States | 30 hrs offline |
-| #.DC09 | AS20473 | Japan | 60 hrs offline |
 | #.E655 | AS12876 | Netherlands | 17 hrs |
 | #.EBB7 | AS16509 | Japan | 6 hrs |
 | #.D961 | AS134520 | United States | 50 hrs offline |
