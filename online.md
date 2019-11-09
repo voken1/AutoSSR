@@ -1,6 +1,6 @@
-# 74 online servers:
+# 75 online servers:
 
-Latest update at: Sat Nov 09 02:10:10 UTC 2019
+Latest update at: Sat Nov 09 03:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -14,15 +14,15 @@ Latest update at: Sat Nov 09 02:10:10 UTC 2019
 | #.74DB | AS54600 | United States | 179 hrs |
 | #.705F | AS54600 | United States | 179 hrs |
 | #.8613 | AS54600 | United States | 179 hrs |
+| #.0690 | AS63949 | United States | 127 hrs |
 | #.9FC3 | AS53889 | United States | 89 hrs |
-| #.A577 | AS63949 | United States | 1 hrs |
-| #.0690 | AS63949 | United States | 126 hrs |
+| #.A577 | AS63949 | United States | 2 hrs |
 | #.7F1D | AS63949 | Singapore | 504 hrs |
 | #.3988 | AS63949 | Germany | 217 hrs |
 | #.42A0 | AS63949 | Japan | 1218 hrs |
-| #.E836 | AS54600 | United States | 179 hrs |
-| #.2633 | AS54600 | United States | 179 hrs |
-| #.877A | AS54600 | United States | 179 hrs |
+| #.877A | AS54600 | United States | 180 hrs |
+| #.E836 | AS54600 | United States | 180 hrs |
+| #.2633 | AS54600 | United States | 180 hrs |
 | #.D1F2 | AS9009 | United States | 14 hrs |
 | #.8C67 | AS51659 | Russia | 1 hrs |
 | #.E0CF | AS63949 | Germany | 125 hrs |
@@ -75,6 +75,7 @@ Latest update at: Sat Nov 09 02:10:10 UTC 2019
 | #.AE61 | AS63949 | Japan | 2 hrs |
 | #.49AF | AS16509 | Japan | 18 hrs |
 | #.7E1D | AS3462 | Taiwan | 149 hrs |
+| #.7C4E | AS49392 | Russia | 1 hrs |
 | #.11D0 | AS16509 | Singapore | 15 hrs |
 | #.55C5 | AS31798 | United States | 77 hrs |
 | #.14D9 | AS49392 | Russia | 18 hrs |
