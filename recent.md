@@ -1,6 +1,6 @@
-# 95 recent servers:
+# 91 recent servers:
 
-Latest update at: Sun Nov 10 04:10:11 UTC 2019
+Latest update at: Sun Nov 10 05:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -29,12 +29,10 @@ Latest update at: Sun Nov 10 04:10:11 UTC 2019
 | #.E836 | AS54600 | United States | 236 hrs |
 | #.2633 | AS54600 | United States | 236 hrs |
 | #.D1F2 | AS9009 | United States | 24 hrs offline |
-| #.E5F6 | AS45102 | China | 60 hrs offline |
 | #.8C67 | AS51659 | Russia | 3 hrs |
 | #.43FE | AS17511 | Japan | 51 hrs offline |
 | #.E0CF | AS63949 | Germany | 182 hrs |
 | #.98D6 | AS4694 | Japan | 7 hrs |
-| #.FFEA | AS16509 | Japan | 60 hrs offline |
 | #.C1FE | AS63949 | Japan | 106 hrs |
 | #.E487 | AS63949 | Japan | 106 hrs |
 | #.C056 | AS63949 | Japan | 106 hrs |
@@ -75,9 +73,7 @@ Latest update at: Sun Nov 10 04:10:11 UTC 2019
 | #.9D26 | AS63949 | Japan | 106 hrs |
 | #.F50A | AS131921 | Japan | 1 hrs offline |
 | #.6732 | AS63949 | Japan | 7 hrs |
-| #.FDDD | AS138576 | United States | 60 hrs offline |
 | #.6A81 | AS131642 | Taiwan | 55 hrs offline |
-| #.1EF9 | AS4760 | Hong Kong | 60 hrs offline |
 | #.01E0 | AS63949 | United States | 7 hrs |
 | #.9FE9 | AS63949 | Singapore | 7 hrs |
 | #.EF2A | AS14061 | Singapore | 7 hrs |
@@ -96,7 +92,7 @@ Latest update at: Sun Nov 10 04:10:11 UTC 2019
 | #.7C4E | AS49392 | Russia | 6 hrs |
 | #.D43A | AS51659 | Russia | 57 hrs offline |
 | #.11D0 | AS16509 | Singapore | 1 hrs offline |
-| #.4DCF | AS16509 | Singapore | 2 hrs |
 | #.55C5 | AS31798 | United States | 134 hrs |
 | #.14D9 | AS49392 | Russia | 14 hrs |
+| #.4DCF | AS16509 | Singapore | 2 hrs |
 
