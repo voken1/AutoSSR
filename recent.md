@@ -1,20 +1,17 @@
-# 132 recent servers:
+# 128 recent servers:
 
-Latest update at: Mon Nov 11 04:10:11 UTC 2019
+Latest update at: Mon Nov 11 05:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 21 hrs |
 | #.8303 | AS131642 | Taiwan | 52 hrs offline |
 | #.2A27 | AS63949 | Singapore | 27 hrs offline |
-| #.8F12 | AS9009 | United States | 60 hrs offline |
 | #.0613 | AS9009 | United States | 46 hrs |
-| #.B59A | AS63949 | Singapore | 60 hrs offline |
 | #.3C59 | AS63949 | Singapore | 871 hrs |
 | #.2A79 | AS63949 | Japan | 138 hrs |
 | #.140F | AS9009 | Japan | 216 hrs |
 | #.9872 | AS51659 | Russia | 1 hrs |
-| #.2675 | AS14061 | United States | 60 hrs offline |
 | #.705F | AS54600 | United States | 288 hrs |
 | #.74DB | AS54600 | United States | 288 hrs |
 | #.8613 | AS54600 | United States | 288 hrs |
@@ -28,7 +25,6 @@ Latest update at: Mon Nov 11 04:10:11 UTC 2019
 | #.877A | AS54600 | United States | 288 hrs |
 | #.E836 | AS54600 | United States | 288 hrs |
 | #.2633 | AS54600 | United States | 288 hrs |
-| #.D1F2 | AS9009 | United States | 60 hrs offline |
 | #.02F0 | AS14061 | United States | 27 hrs offline |
 | #.8C67 | AS51659 | Russia | 2 hrs |
 | #.C59B | N/A | N/A | 33 hrs offline |
