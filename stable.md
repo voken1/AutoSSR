@@ -1,6 +1,6 @@
 # 32 stable servers:
 
-Latest update at: Mon Nov 11 01:10:12 UTC 2019
+Latest update at: Mon Nov 11 02:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -34,6 +34,6 @@ Latest update at: Mon Nov 11 01:10:12 UTC 2019
 | #.EBB7 | AS16509 | Japan | 22 hrs |
 | #.7E1D | AS3462 | Taiwan | 101 hrs |
 | #.7C4E | AS49392 | Russia | 34 hrs |
-| #.4DCF | AS16509 | Singapore | 24 hrs |
 | #.55C5 | AS31798 | United States | 180 hrs |
+| #.4DCF | AS16509 | Singapore | 24 hrs |
 
