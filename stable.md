@@ -1,6 +1,6 @@
 # 54 stable servers:
 
-Latest update at: Mon Nov 11 14:10:12 UTC 2019
+Latest update at: Mon Nov 11 15:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -20,7 +20,7 @@ Latest update at: Mon Nov 11 14:10:12 UTC 2019
 | #.E0CF | AS63949 | Germany | 253 hrs |
 | #.54F5 | AS16509 | Japan | 25 hrs |
 | #.B3B4 | AS16509 | Japan | 25 hrs |
-| #.712A | AS63949 | Japan | 176 hrs |
+| #.712A | AS63949 | Japan | 177 hrs |
 | #.6E62 | AS16509 | Japan | 25 hrs |
 | #.442C | AS16509 | Japan | 25 hrs |
 | #.955A | AS16509 | Japan | 25 hrs |
