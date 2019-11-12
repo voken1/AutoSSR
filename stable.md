@@ -1,6 +1,6 @@
 # 37 stable servers:
 
-Latest update at: Tue Nov 12 20:10:11 UTC 2019
+Latest update at: Tue Nov 12 21:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -22,22 +22,22 @@ Latest update at: Tue Nov 12 20:10:11 UTC 2019
 | #.E0CF | AS63949 | Germany | 13 hrs |
 | #.B3B4 | AS16509 | Japan | 87 hrs |
 | #.6E62 | AS16509 | Japan | 87 hrs |
-| #.712A | AS63949 | Japan | 238 hrs |
+| #.712A | AS63949 | Japan | 239 hrs |
 | #.418E | AS16509 | Japan | 87 hrs |
 | #.819F | AS51659 | Russia | 13 hrs |
-| #.F50A | AS131921 | Japan | 26 hrs |
+| #.F50A | AS131921 | Japan | 27 hrs |
 | #.E655 | AS12876 | Netherlands | 26 hrs |
-| #.F314 | AS63949 | Japan | 87 hrs |
-| #.0EFB | AS63949 | Japan | 87 hrs |
-| #.404D | AS63949 | Japan | 87 hrs |
-| #.FC67 | AS63949 | Japan | 87 hrs |
-| #.798E | AS63949 | Japan | 87 hrs |
+| #.F314 | AS63949 | Japan | 88 hrs |
+| #.404D | AS63949 | Japan | 88 hrs |
+| #.FC67 | AS63949 | Japan | 88 hrs |
+| #.798E | AS63949 | Japan | 88 hrs |
+| #.0EFB | AS63949 | Japan | 88 hrs |
 | #.55C5 | AS31798 | United States | 267 hrs |
-| #.515A | AS63949 | Japan | 87 hrs |
-| #.7137 | AS63949 | Japan | 87 hrs |
+| #.7137 | AS63949 | Japan | 88 hrs |
+| #.8725 | AS63949 | Japan | 88 hrs |
 | #.14D9 | AS49392 | Russia | 38 hrs |
-| #.3E7E | AS63949 | Japan | 87 hrs |
-| #.8725 | AS63949 | Japan | 87 hrs |
+| #.515A | AS63949 | Japan | 88 hrs |
+| #.3E7E | AS63949 | Japan | 88 hrs |
 | #.6A5D | AS20473 | United States | 81 hrs |
 | #.2311 | AS9009 | Switzerland | 20 hrs |
 | #.89F0 | AS50340 | Russia | 239 hrs |
