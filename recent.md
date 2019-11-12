@@ -1,6 +1,6 @@
-# 90 recent servers:
+# 94 recent servers:
 
-Latest update at: Tue Nov 12 13:10:11 UTC 2019
+Latest update at: Tue Nov 12 14:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -23,6 +23,7 @@ Latest update at: Tue Nov 12 13:10:11 UTC 2019
 | #.877A | AS54600 | United States | 356 hrs |
 | #.2633 | AS54600 | United States | 356 hrs |
 | #.E836 | AS54600 | United States | 356 hrs |
+| #.7283 | AS63949 | Japan | |
 | #.8C67 | AS51659 | Russia | 3 hrs |
 | #.98D6 | AS4694 | Japan | 60 hrs offline |
 | #.E0CF | AS63949 | Germany | 1 hrs offline |
@@ -80,9 +81,9 @@ Latest update at: Tue Nov 12 13:10:11 UTC 2019
 | #.C0D0 | AS16509 | Japan | 9 hrs |
 | #.11D0 | AS16509 | Singapore | 2 hrs offline |
 | #.270E | AS16509 | Japan | 75 hrs |
+| #.FC9B | N/A | N/A | 60 hrs offline |
 | #.97D9 | AS14061 | United States | 60 hrs offline |
 | #.54E3 | AS63949 | United States | 60 hrs offline |
-| #.FC9B | N/A | N/A | 60 hrs offline |
 | #.6A5D | AS20473 | United States | 68 hrs |
 | #.B3BB | AS63949 | Singapore | 46 hrs offline |
 | #.11C4 | AS14061 | Singapore | 46 hrs offline |
@@ -90,8 +91,11 @@ Latest update at: Tue Nov 12 13:10:11 UTC 2019
 | #.2311 | AS9009 | Switzerland | 7 hrs |
 | #.D8D3 | AS14061 | Singapore | 22 hrs offline |
 | #.CEFA | AS14061 | United States | 22 hrs offline |
-| #.D2CD | N/A | N/A | 26 hrs offline |
 | #.2612 | AS9009 | Japan | 4 hrs |
 | #.E22D | AS49392 | Russia | 8 hrs offline |
+| #.D2CD | N/A | N/A | 26 hrs offline |
 | #.4DCF | AS16509 | Singapore | 19 hrs offline |
+| #.17ED | AS14061 | United States | |
+| #.DF90 | AS14061 | Singapore | |
+| #.94E4 | N/A | N/A | |
 
