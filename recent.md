@@ -1,6 +1,6 @@
-# 85 recent servers:
+# 111 recent servers:
 
-Latest update at: Wed Nov 13 01:10:11 UTC 2019
+Latest update at: Wed Nov 13 02:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -37,6 +37,7 @@ Latest update at: Wed Nov 13 01:10:11 UTC 2019
 | #.819F | AS51659 | Russia | 5 hrs |
 | #.F50A | AS131921 | Japan | 1 hrs offline |
 | #.861D | AS45102 | China | 50 hrs offline |
+| #.0523 | N/A | N/A | |
 | #.5D79 | AS35913 | India | 1 hrs |
 | #.540A | AS4760 | Hong Kong | 60 hrs offline |
 | #.E655 | AS12876 | Netherlands | 38 hrs |
@@ -80,13 +81,38 @@ Latest update at: Wed Nov 13 01:10:11 UTC 2019
 | #.2311 | AS9009 | Switzerland | 32 hrs |
 | #.2612 | AS9009 | Japan | 2 hrs |
 | #.E22D | AS49392 | Russia | 32 hrs offline |
-| #.4DCF | AS16509 | Singapore | 19 hrs offline |
 | #.D8D3 | AS14061 | Singapore | 47 hrs offline |
 | #.CEFA | AS14061 | United States | 47 hrs offline |
 | #.D2CD | N/A | N/A | 51 hrs offline |
+| #.4DCF | AS16509 | Singapore | 19 hrs offline |
 | #.17ED | AS14061 | United States | 18 hrs offline |
 | #.DF90 | AS14061 | Singapore | 18 hrs offline |
 | #.94E4 | N/A | N/A | 25 hrs offline |
 | #.8698 | AS64271 | Hong Kong | 13 hrs offline |
 | #.89F0 | AS50340 | Russia | 251 hrs |
+| #.E8FD | AS51659 | Russia | |
+| #.7EB7 | AS63949 | Japan | |
+| #.E5A4 | AS63949 | Japan | |
+| #.21BE | AS63949 | Japan | |
+| #.2995 | AS63949 | Japan | |
+| #.4ABE | AS63949 | Japan | |
+| #.F0BD | AS63949 | Japan | |
+| #.36D7 | AS63949 | Japan | |
+| #.7DD0 | AS63949 | Japan | |
+| #.E9B7 | AS63949 | Japan | |
+| #.393C | AS16509 | Japan | |
+| #.6709 | AS16509 | Japan | |
+| #.8C01 | AS16509 | Japan | |
+| #.F63F | AS16509 | Japan | |
+| #.8B6A | AS16509 | Japan | |
+| #.4A2D | AS16509 | Japan | |
+| #.6449 | AS16509 | Japan | |
+| #.DB95 | AS16509 | Japan | |
+| #.B865 | AS16509 | Japan | |
+| #.365D | AS16509 | Japan | |
+| #.D860 | AS16509 | Japan | |
+| #.D254 | AS16509 | Japan | |
+| #.ECD6 | AS14061 | United States | |
+| #.BF20 | AS16509 | Japan | |
+| #.DB29 | AS14061 | Singapore | |
 
