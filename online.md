@@ -1,38 +1,38 @@
 # 49 online servers:
 
-Latest update at: Wed Nov 13 17:10:11 UTC 2019
+Latest update at: Wed Nov 13 18:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 4 hrs |
-| #.0613 | AS9009 | United States | 24 hrs |
-| #.3C59 | AS63949 | Singapore | 994 hrs |
-| #.140F | AS9009 | Japan | 339 hrs |
-| #.9872 | AS51659 | Russia | 4 hrs |
-| #.74DB | AS54600 | United States | 411 hrs |
-| #.705F | AS54600 | United States | 10 hrs |
-| #.8613 | AS54600 | United States | 13 hrs |
+| #.D09B | AS174 | United States | 5 hrs |
+| #.0613 | AS9009 | United States | 25 hrs |
+| #.3C59 | AS63949 | Singapore | 995 hrs |
+| #.2A79 | AS63949 | Japan | 1 hrs |
+| #.140F | AS9009 | Japan | 340 hrs |
+| #.705F | AS54600 | United States | 11 hrs |
+| #.74DB | AS54600 | United States | 412 hrs |
+| #.8613 | AS54600 | United States | 14 hrs |
 | #.3988 | AS63949 | Germany | 8 hrs |
-| #.42A0 | AS63949 | Japan | 98 hrs |
-| #.9FC3 | AS53889 | United States | 321 hrs |
-| #.7F1D | AS63949 | Singapore | 736 hrs |
-| #.2633 | AS54600 | United States | 411 hrs |
-| #.E836 | AS54600 | United States | 411 hrs |
-| #.877A | AS54600 | United States | 411 hrs |
-| #.8C67 | AS51659 | Russia | 2 hrs |
-| #.E0CF | AS63949 | Germany | 55 hrs |
-| #.54F5 | AS16509 | Japan | 3 hrs |
-| #.2CB6 | AS16509 | Japan | 1 hrs |
-| #.819F | AS51659 | Russia | 7 hrs |
+| #.7F1D | AS63949 | Singapore | 737 hrs |
+| #.42A0 | AS63949 | Japan | 99 hrs |
+| #.9FC3 | AS53889 | United States | 322 hrs |
+| #.877A | AS54600 | United States | 412 hrs |
+| #.E836 | AS54600 | United States | 412 hrs |
+| #.2633 | AS54600 | United States | 412 hrs |
+| #.8C67 | AS51659 | Russia | 3 hrs |
+| #.E0CF | AS63949 | Germany | 56 hrs |
+| #.54F5 | AS16509 | Japan | 4 hrs |
+| #.2CB6 | AS16509 | Japan | 2 hrs |
+| #.5D79 | AS35913 | India | 1 hrs |
 | #.C8CB | AS63949 | Japan | 1 hrs |
 | #.59E0 | AS63949 | Japan | 7 hrs |
-| #.E655 | AS12876 | Netherlands | 20 hrs |
-| #.7E1D | AS3462 | Taiwan | 49 hrs |
+| #.E655 | AS12876 | Netherlands | 21 hrs |
+| #.EBB7 | AS16509 | Japan | 1 hrs |
+| #.7E1D | AS3462 | Taiwan | 50 hrs |
 | #.14D9 | AS49392 | Russia | 80 hrs |
-| #.515A | AS63949 | Japan | 129 hrs |
-| #.55C5 | AS31798 | United States | 309 hrs |
+| #.515A | AS63949 | Japan | 130 hrs |
+| #.55C5 | AS31798 | United States | 310 hrs |
 | #.2311 | AS9009 | Switzerland | 4 hrs |
-| #.2612 | AS9009 | Japan | 3 hrs |
 | #.89F0 | AS50340 | Russia | 281 hrs |
 | #.36D7 | AS63949 | Japan | 31 hrs |
 | #.7DD0 | AS63949 | Japan | 31 hrs |
