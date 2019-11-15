@@ -1,6 +1,6 @@
-# 66 recent servers:
+# 97 recent servers:
 
-Latest update at: Fri Nov 15 01:10:12 UTC 2019
+Latest update at: Fri Nov 15 02:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -63,11 +63,42 @@ Latest update at: Fri Nov 15 01:10:12 UTC 2019
 | #.6449 | AS16509 | Japan | 11 hrs offline |
 | #.DB95 | AS16509 | Japan | 12 hrs offline |
 | #.D254 | AS16509 | Japan | 12 hrs offline |
-| #.0731 | AS14061 | United States | 60 hrs offline |
-| #.F39A | N/A | N/A | 60 hrs offline |
 | #.8D9F | AS14061 | Singapore | 59 hrs offline |
 | #.AC5D | AS14061 | United States | 59 hrs offline |
-| #.D1E9 | N/A | N/A | 34 hrs offline |
+| #.F39A | N/A | N/A | 60 hrs offline |
 | #.1F1B | AS9009 | Singapore | 29 hrs offline |
 | #.7FFD | AS14061 | United States | 28 hrs offline |
+| #.D1E9 | N/A | N/A | 34 hrs offline |
+| #.4888 | AS16509 | Japan | |
+| #.09B1 | AS63949 | Japan | |
+| #.F542 | AS63949 | Japan | |
+| #.F0BB | AS63949 | Japan | |
+| #.DFCE | AS63949 | Japan | |
+| #.68C6 | N/A | N/A | |
+| #.7503 | AS16509 | Japan | |
+| #.85F0 | AS16509 | Japan | |
+| #.728F | AS16509 | Japan | |
+| #.E8DF | AS16509 | Japan | |
+| #.6AE0 | AS16509 | Japan | |
+| #.CD63 | AS16509 | Japan | |
+| #.A354 | AS16509 | Japan | |
+| #.FF14 | AS16509 | Japan | |
+| #.537D | AS16509 | Japan | |
+| #.6450 | AS20473 | Japan | |
+| #.3902 | AS14061 | Singapore | |
+| #.F4A4 | AS63949 | Japan | |
+| #.17C3 | AS63949 | Japan | |
+| #.596D | AS63949 | Japan | |
+| #.14CF | AS63949 | Japan | |
+| #.ED51 | AS63949 | Japan | |
+| #.FFAC | AS63949 | Japan | |
+| #.AA2A | AS63949 | Japan | |
+| #.E0AB | AS63949 | Japan | |
+| #.9A1D | AS63949 | Japan | |
+| #.59BC | AS16509 | Japan | |
+| #.82CA | AS16509 | Japan | |
+| #.F9D1 | AS16509 | Japan | |
+| #.09FB | AS14061 | United States | |
+| #.69D1 | AS16509 | Japan | |
+| #.A19A | AS16509 | Japan | |
 
