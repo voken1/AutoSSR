@@ -1,6 +1,6 @@
 # 100 recent servers:
 
-Latest update at: Fri Nov 15 19:10:11 UTC 2019
+Latest update at: Fri Nov 15 20:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -60,9 +60,10 @@ Latest update at: Fri Nov 15 19:10:11 UTC 2019
 | #.365D | AS16509 | Japan | 54 hrs offline |
 | #.6449 | AS16509 | Japan | 53 hrs offline |
 | #.D254 | AS16509 | Japan | 53 hrs offline |
+| #.D1E9 | N/A | N/A | 60 hrs offline |
 | #.1F1B | AS9009 | Singapore | 60 hrs offline |
 | #.7FFD | AS14061 | United States | 60 hrs offline |
-| #.D1E9 | N/A | N/A | 60 hrs offline |
+| #.68C6 | N/A | N/A | 42 hrs offline |
 | #.3902 | AS14061 | Singapore | 35 hrs offline |
 | #.7503 | AS16509 | Japan | 10 hrs |
 | #.6450 | AS20473 | Japan | 42 hrs offline |
@@ -79,7 +80,6 @@ Latest update at: Fri Nov 15 19:10:11 UTC 2019
 | #.6AE0 | AS16509 | Japan | 42 hrs |
 | #.A354 | AS16509 | Japan | 42 hrs |
 | #.537D | AS16509 | Japan | 7 hrs |
-| #.68C6 | N/A | N/A | 42 hrs offline |
 | #.F4A4 | AS63949 | Japan | 42 hrs |
 | #.17C3 | AS63949 | Japan | 42 hrs |
 | #.596D | AS63949 | Japan | 42 hrs |
@@ -98,9 +98,9 @@ Latest update at: Fri Nov 15 19:10:11 UTC 2019
 | #.FB8F | AS49392 | Russia | 12 hrs |
 | #.D4B2 | AS45102 | China | 7 hrs offline |
 | #.958A | AS7506 | Japan | 21 hrs offline |
-| #.7E9E | N/A | N/A | 21 hrs offline |
 | #.BA9A | AS9009 | Japan | 21 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 74 hrs |
+| #.7E9E | N/A | N/A | 21 hrs offline |
 | #.DC5D | AS14061 | Singapore | 7 hrs offline |
 | #.E131 | AS14061 | United States | 7 hrs offline |
 | #.C450 | AS9009 | Netherlands | 7 hrs |
