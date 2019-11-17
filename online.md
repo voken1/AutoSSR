@@ -1,6 +1,6 @@
 # 51 online servers:
 
-Latest update at: Sun Nov 17 01:10:12 UTC 2019
+Latest update at: Sun Nov 17 02:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
