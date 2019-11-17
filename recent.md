@@ -1,6 +1,6 @@
 # 73 recent servers:
 
-Latest update at: Sun Nov 17 21:10:10 UTC 2019
+Latest update at: Sun Nov 17 22:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -30,7 +30,7 @@ Latest update at: Sun Nov 17 21:10:10 UTC 2019
 | #.56F9 | AS14061 | United States | 60 hrs offline |
 | #.2311 | AS9009 | Switzerland | 17 hrs |
 | #.1316 | AS14061 | Singapore | 60 hrs offline |
-| #.5FA9 | AS4760 | Hong Kong | 16 hrs |
+| #.5FA9 | AS4760 | Hong Kong | 17 hrs |
 | #.059F | AS49392 | Russia | 1 hrs |
 | #.AF33 | AS51659 | Russia | 55 hrs offline |
 | #.11F5 | AS14061 | Singapore | 48 hrs offline |
@@ -41,40 +41,40 @@ Latest update at: Sun Nov 17 21:10:10 UTC 2019
 | #.E06F | AS9009 | United Kingdom | 1 hrs |
 | #.FC4D | AS47196 | Russia | 21 hrs offline |
 | #.09B1 | AS63949 | Japan | 177 hrs |
-| #.4888 | AS16509 | Japan | 15 hrs |
-| #.CD63 | AS16509 | Japan | 16 hrs |
-| #.A354 | AS16509 | Japan | 176 hrs |
-| #.537D | AS16509 | Japan | 20 hrs |
+| #.7503 | AS16509 | Japan | 145 hrs |
+| #.728F | AS16509 | Japan | 18 hrs |
+| #.6AE0 | AS16509 | Japan | 177 hrs |
 | #.6450 | AS20473 | Japan | 21 hrs |
-| #.DFCE | AS63949 | Japan | 54 hrs |
+| #.E8DF | AS16509 | Japan | 9 hrs |
 | #.F542 | AS63949 | Japan | 177 hrs |
-| #.85F0 | AS16509 | Japan | 16 hrs |
+| #.4888 | AS16509 | Japan | 16 hrs |
+| #.CD63 | AS16509 | Japan | 17 hrs |
 | #.F0BB | AS63949 | Japan | 177 hrs |
-| #.FF14 | AS16509 | Japan | 16 hrs |
-| #.7503 | AS16509 | Japan | 144 hrs |
-| #.728F | AS16509 | Japan | 17 hrs |
+| #.A354 | AS16509 | Japan | 177 hrs |
+| #.FF14 | AS16509 | Japan | 17 hrs |
+| #.537D | AS16509 | Japan | 21 hrs |
 | #.9446 | AS40676 | United States | 32 hrs |
-| #.6AE0 | AS16509 | Japan | 176 hrs |
-| #.E8DF | AS16509 | Japan | 8 hrs |
-| #.59BC | AS16509 | Japan | 7 hrs |
-| #.82CA | AS16509 | Japan | 18 hrs |
+| #.DFCE | AS63949 | Japan | 55 hrs |
+| #.85F0 | AS16509 | Japan | 17 hrs |
 | #.F4A4 | AS63949 | Japan | 177 hrs |
 | #.17C3 | AS63949 | Japan | 177 hrs |
 | #.596D | AS63949 | Japan | 177 hrs |
 | #.14CF | AS63949 | Japan | 177 hrs |
 | #.ED51 | AS63949 | Japan | 177 hrs |
 | #.FFAC | AS63949 | Japan | 177 hrs |
-| #.E0AB | AS63949 | Japan | 176 hrs |
+| #.9A1D | AS63949 | Japan | 177 hrs |
+| #.C915 | AS17621 | China | 27 hrs offline |
+| #.59BC | AS16509 | Japan | 8 hrs |
+| #.82CA | AS16509 | Japan | 19 hrs |
 | #.AA2A | AS63949 | Japan | 177 hrs |
-| #.9A1D | AS63949 | Japan | 176 hrs |
-| #.C915 | AS17621 | China | 26 hrs offline |
-| #.73E0 | AS14061 | Singapore | 14 hrs offline |
-| #.DEA9 | AS14061 | United States | 14 hrs offline |
-| #.7736 | AS14061 | United States | 14 hrs offline |
+| #.E0AB | AS63949 | Japan | 177 hrs |
 | #.F9D1 | AS16509 | Japan | 15 hrs |
 | #.69D1 | AS16509 | Japan | 15 hrs |
 | #.A19A | AS16509 | Japan | 13 hrs |
 | #.FB8F | AS49392 | Russia | 1 hrs offline |
+| #.73E0 | AS14061 | Singapore | 15 hrs offline |
+| #.DEA9 | AS14061 | United States | 15 hrs offline |
+| #.7736 | AS14061 | United States | 15 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 57 hrs |
 | #.C450 | AS9009 | Netherlands | 23 hrs |
 
