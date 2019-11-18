@@ -1,6 +1,6 @@
 # 28 stable servers:
 
-Latest update at: Mon Nov 18 16:10:10 UTC 2019
+Latest update at: Mon Nov 18 17:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,9 +12,9 @@ Latest update at: Mon Nov 18 16:10:10 UTC 2019
 | #.E655 | AS12876 | Netherlands | 18 hrs |
 | #.55C5 | AS31798 | United States | 186 hrs |
 | #.14D9 | AS49392 | Russia | 151 hrs |
-| #.95E6 | AS199524 | Israel | 13 hrs |
+| #.95E6 | AS199524 | Israel | 14 hrs |
 | #.89F0 | AS50340 | Russia | 251 hrs |
-| #.E06F | AS9009 | United Kingdom | 36 hrs |
+| #.E06F | AS9009 | United Kingdom | 37 hrs |
 | #.9A1D | AS63949 | Japan | 224 hrs |
 | #.9F69 | AS63949 | Japan | 36 hrs |
 | #.0609 | AS63949 | Japan | 36 hrs |
@@ -31,5 +31,5 @@ Latest update at: Mon Nov 18 16:10:10 UTC 2019
 | #.8C8A | AS63949 | Japan | 36 hrs |
 | #.4496 | AS63949 | Japan | 36 hrs |
 | #.7E1D | AS3462 | Taiwan | 20 hrs |
-| #.1E91 | AS16509 | Japan | 35 hrs |
+| #.1E91 | AS16509 | Japan | 36 hrs |
 
