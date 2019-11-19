@@ -1,6 +1,6 @@
 # 96 recent servers:
 
-Latest update at: Tue Nov 19 14:10:11 UTC 2019
+Latest update at: Tue Nov 19 15:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -44,13 +44,13 @@ Latest update at: Tue Nov 19 14:10:11 UTC 2019
 | #.6A50 | AS51659 | Russia | 25 hrs |
 | #.5A7F | AS14061 | Singapore | 20 hrs offline |
 | #.378A | AS14061 | Singapore | 19 hrs offline |
+| #.277A | AS14061 | United States | 20 hrs offline |
 | #.D77F | AS14061 | United States | 19 hrs offline |
 | #.E4DD | AS14061 | United States | 19 hrs offline |
 | #.7F16 | AS14061 | United States | 20 hrs offline |
 | #.1113 | AS14061 | Singapore | 19 hrs offline |
 | #.A38B | AS14061 | Singapore | 19 hrs offline |
 | #.E340 | AS14061 | United States | 19 hrs offline |
-| #.277A | AS14061 | United States | 20 hrs offline |
 | #.F106 | AS4609 | Macao | 1 hrs |
 | #.E06F | AS9009 | United Kingdom | 3 hrs offline |
 | #.39DC | AS44094 | Russia | 8 hrs offline |
@@ -62,10 +62,10 @@ Latest update at: Tue Nov 19 14:10:11 UTC 2019
 | #.A82D | AS14061 | Singapore | |
 | #.98C7 | AS14061 | Singapore | |
 | #.4D85 | AS14061 | United States | |
+| #.DEB5 | N/A | N/A | |
 | #.DE73 | AS14061 | United States | |
 | #.C4DE | AS14061 | United States | |
 | #.9A1D | AS63949 | Japan | 42 hrs offline |
-| #.DEB5 | N/A | N/A | |
 | #.0004 | AS14061 | United States | |
 | #.FB8F | AS49392 | Russia | 2 hrs |
 | #.4496 | AS63949 | Japan | 42 hrs offline |
@@ -93,11 +93,11 @@ Latest update at: Tue Nov 19 14:10:11 UTC 2019
 | #.52D2 | AS16509 | Japan | 42 hrs |
 | #.1E91 | AS16509 | Japan | 78 hrs |
 | #.8562 | AS16509 | Japan | 1 hrs offline |
-| #.1110 | AS14061 | United States | 60 hrs offline |
 | #.AD4C | AS14061 | United States | 60 hrs offline |
 | #.8D55 | AS16509 | Japan | 4 hrs offline |
 | #.136F | AS16509 | Japan | 1 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 1 hrs offline |
+| #.1110 | AS14061 | United States | 60 hrs offline |
 | #.6569 | AS14061 | Singapore | 60 hrs offline |
 | #.C450 | AS9009 | Netherlands | 2 hrs |
 
