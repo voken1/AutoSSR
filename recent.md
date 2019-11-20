@@ -1,6 +1,6 @@
-# 94 recent servers:
+# 122 recent servers:
 
-Latest update at: Wed Nov 20 01:10:11 UTC 2019
+Latest update at: Wed Nov 20 02:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -26,10 +26,32 @@ Latest update at: Wed Nov 20 01:10:11 UTC 2019
 | #.55C5 | AS31798 | United States | 36 hrs offline |
 | #.14D9 | AS49392 | Russia | 34 hrs |
 | #.F31B | AS20150 | United States | 4 hrs |
-| #.2311 | AS9009 | Switzerland | 60 hrs offline |
+| #.4AFD | AS14061 | Singapore | |
+| #.4BA2 | AS16509 | Japan | |
+| #.1E4D | AS63949 | Japan | |
+| #.798C | AS14061 | Singapore | |
+| #.1F36 | AS63949 | Japan | |
+| #.0696 | AS16509 | Japan | |
+| #.4A3E | AS63949 | Japan | |
+| #.9605 | AS63949 | Japan | |
+| #.5EC8 | AS16509 | Japan | |
+| #.EA5A | AS16509 | Japan | |
+| #.D0FB | AS16509 | Japan | |
+| #.B8B4 | AS16509 | Japan | |
+| #.EF84 | AS16509 | Japan | |
+| #.B3B4 | AS14061 | Singapore | |
+| #.9519 | AS16509 | Japan | |
+| #.84DD | AS16509 | Japan | |
 | #.95E6 | AS199524 | Israel | 24 hrs offline |
 | #.7AF6 | AS23650 | China | 60 hrs offline |
+| #.D68A | AS63949 | Japan | |
+| #.C5A4 | AS63949 | Japan | |
 | #.5FA9 | AS4760 | Hong Kong | 48 hrs offline |
+| #.D7A8 | AS16509 | Japan | |
+| #.3F08 | AS16509 | Japan | |
+| #.2536 | AS16509 | Japan | |
+| #.CEE8 | AS16509 | Japan | |
+| #.6A50 | AS51659 | Russia | 24 hrs offline |
 | #.6F26 | AS14061 | Singapore | 60 hrs offline |
 | #.519C | AS14061 | Singapore | 60 hrs offline |
 | #.C339 | AS14061 | Singapore | 60 hrs offline |
@@ -37,11 +59,17 @@ Latest update at: Wed Nov 20 01:10:11 UTC 2019
 | #.1F71 | AS14061 | United States | 60 hrs offline |
 | #.DE03 | AS14061 | United States | 60 hrs offline |
 | #.7CA5 | AS14061 | United States | 60 hrs offline |
+| #.0781 | AS14061 | United States | |
 | #.36AC | AS14061 | United States | 60 hrs offline |
+| #.05A5 | AS14061 | United States | |
+| #.EA6B | AS14061 | United States | |
+| #.C92A | AS16509 | Japan | |
+| #.5531 | AS14061 | United States | |
+| #.D860 | AS16509 | Japan | |
+| #.2D57 | N/A | N/A | |
 | #.89F0 | AS50340 | Russia | 18 hrs |
 | #.059F | AS49392 | Russia | 1 hrs offline |
 | #.03E7 | AS36352 | United States | 49 hrs offline |
-| #.6A50 | AS51659 | Russia | 24 hrs offline |
 | #.E340 | AS14061 | United States | 43 hrs offline |
 | #.7F16 | AS14061 | United States | 44 hrs offline |
 | #.1113 | AS14061 | Singapore | 43 hrs offline |
