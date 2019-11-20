@@ -1,6 +1,6 @@
-# 29 online servers:
+# 33 online servers:
 
-Latest update at: Wed Nov 20 11:10:10 UTC 2019
+Latest update at: Wed Nov 20 12:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,21 +16,25 @@ Latest update at: Wed Nov 20 11:10:10 UTC 2019
 | #.E655 | AS12876 | Netherlands | 6 hrs |
 | #.14D9 | AS49392 | Russia | 53 hrs |
 | #.F31B | AS20150 | United States | 5 hrs |
-| #.B8B4 | AS16509 | Japan | 2 hrs |
-| #.4A3E | AS63949 | Japan | 19 hrs |
-| #.1E4D | AS63949 | Japan | 19 hrs |
-| #.9605 | AS63949 | Japan | 19 hrs |
-| #.1F36 | AS63949 | Japan | 19 hrs |
-| #.C5A4 | AS63949 | Japan | 19 hrs |
-| #.3F08 | AS16509 | Japan | 3 hrs |
-| #.D7A8 | AS16509 | Japan | 19 hrs |
-| #.2536 | AS16509 | Japan | 19 hrs |
-| #.D68A | AS63949 | Japan | 19 hrs |
+| #.EA5A | AS16509 | Japan | 1 hrs |
+| #.9605 | AS63949 | Japan | 20 hrs |
+| #.1E4D | AS63949 | Japan | 20 hrs |
+| #.1F36 | AS63949 | Japan | 20 hrs |
+| #.84DD | AS16509 | Japan | 1 hrs |
+| #.4A3E | AS63949 | Japan | 20 hrs |
+| #.5EC8 | AS16509 | Japan | 1 hrs |
+| #.B8B4 | AS16509 | Japan | 3 hrs |
+| #.D0FB | AS16509 | Japan | 1 hrs |
+| #.EF84 | AS16509 | Japan | 1 hrs |
+| #.CEE8 | AS16509 | Japan | 1 hrs |
+| #.D68A | AS63949 | Japan | 20 hrs |
+| #.C5A4 | AS63949 | Japan | 20 hrs |
+| #.3F08 | AS16509 | Japan | 4 hrs |
+| #.D7A8 | AS16509 | Japan | 20 hrs |
+| #.2536 | AS16509 | Japan | 20 hrs |
 | #.5352 | AS20473 | Germany | 4 hrs |
 | #.89F0 | AS50340 | Russia | 37 hrs |
-| #.9519 | AS16509 | Japan | 1 hrs |
-| #.95F6 | AS23033 | United States | 55 hrs |
-| #.C215 | AS46844 | United States | 5 hrs |
-| #.FB8F | AS49392 | Russia | 5 hrs |
+| #.95F6 | AS23033 | United States | 56 hrs |
+| #.C215 | AS46844 | United States | 6 hrs |
 | #.7E1D | AS3462 | Taiwan | 11 hrs |
 
