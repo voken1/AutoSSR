@@ -1,6 +1,6 @@
-# 60 recent servers:
+# 61 recent servers:
 
-Latest update at: Thu Nov 21 15:10:10 UTC 2019
+Latest update at: Thu Nov 21 16:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -54,6 +54,7 @@ Latest update at: Thu Nov 21 15:10:10 UTC 2019
 | #.2B0F | AS63949 | Japan | |
 | #.5352 | AS20473 | Germany | 29 hrs offline |
 | #.89F0 | AS50340 | Russia | 2 hrs |
+| #.F48C | AS63949 | Japan | |
 | #.9519 | AS16509 | Japan | 3 hrs offline |
 | #.E06F | AS9009 | United Kingdom | 60 hrs offline |
 | #.A5A6 | AS49392 | Russia | 60 hrs offline |
