@@ -1,6 +1,6 @@
-# 54 recent servers:
+# 65 recent servers:
 
-Latest update at: Fri Nov 22 02:10:10 UTC 2019
+Latest update at: Fri Nov 22 03:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -56,6 +56,17 @@ Latest update at: Fri Nov 22 02:10:10 UTC 2019
 | #.3875 | AS16509 | Japan | |
 | #.A501 | AS14061 | Singapore | |
 | #.C215 | AS46844 | United States | 36 hrs |
+| #.0519 | AS45102 | China | |
+| #.A96D | AS17621 | China | |
+| #.06B1 | AS17621 | China | |
+| #.AEBF | AS17621 | China | |
+| #.F3E5 | AS17621 | China | |
+| #.DF4F | AS17621 | China | |
 | #.7E1D | AS3462 | Taiwan | 32 hrs |
+| #.A981 | AS17621 | China | |
+| #.955C | AS17621 | China | |
+| #.1359 | AS17621 | China | |
 | #.C450 | AS9009 | Netherlands | 4 hrs offline |
+| #.584B | AS17621 | China | |
+| #.9AFE | AS17621 | China | |
 
