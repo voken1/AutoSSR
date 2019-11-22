@@ -1,22 +1,30 @@
-# 15 online servers:
+# 23 online servers:
 
-Latest update at: Fri Nov 22 04:10:07 UTC 2019
+Latest update at: Fri Nov 22 05:10:15 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 30 hrs |
-| #.3C59 | AS63949 | Singapore | 1475 hrs |
-| #.2A79 | AS63949 | Japan | 2 hrs |
-| #.BA1B | AS49392 | Russia | 6 hrs |
-| #.9FC3 | AS53889 | United States | 802 hrs |
-| #.7F1D | AS63949 | Singapore | 216 hrs |
-| #.3988 | AS63949 | Germany | 1 hrs |
-| #.5D79 | AS35913 | India | 2 hrs |
-| #.14D9 | AS49392 | Russia | 9 hrs |
-| #.F48C | AS63949 | Japan | 31 hrs |
-| #.23D2 | AS63949 | Japan | 7 hrs |
-| #.2557 | AS63949 | Japan | 7 hrs |
-| #.95F6 | AS23033 | United States | 84 hrs |
-| #.C215 | AS46844 | United States | 36 hrs |
-| #.7E1D | AS3462 | Taiwan | 32 hrs |
+| #.D09B | AS174 | United States | 3 hrs |
+| #.3C59 | AS63949 | Singapore | 1481 hrs |
+| #.42A0 | AS63949 | Japan | 6 hrs |
+| #.3988 | AS63949 | Germany | 7 hrs |
+| #.9FC3 | AS53889 | United States | 808 hrs |
+| #.7F1D | AS63949 | Singapore | 222 hrs |
+| #.2CB6 | AS16509 | Japan | 1 hrs |
+| #.EBB7 | AS16509 | Japan | 1 hrs |
+| #.F31B | AS20150 | United States | 1 hrs |
+| #.4BA2 | AS16509 | Japan | 4 hrs |
+| #.F48C | AS63949 | Japan | 37 hrs |
+| #.23D2 | AS63949 | Japan | 13 hrs |
+| #.2557 | AS63949 | Japan | 13 hrs |
+| #.8988 | AS50340 | Russia | 4 hrs |
+| #.3875 | AS16509 | Japan | 1 hrs |
+| #.95F6 | AS23033 | United States | 90 hrs |
+| #.C215 | AS46844 | United States | 42 hrs |
+| #.D79C | AS63949 | Japan | 7 hrs |
+| #.D833 | AS63949 | Japan | 7 hrs |
+| #.4C14 | AS50340 | Russia | 1 hrs |
+| #.0189 | AS63949 | Japan | 7 hrs |
+| #.7E1D | AS3462 | Taiwan | 38 hrs |
+| #.C450 | AS9009 | Netherlands | 1 hrs |
 
