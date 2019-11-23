@@ -1,6 +1,6 @@
-# 83 recent servers:
+# 94 recent servers:
 
-Latest update at: Sat Nov 23 01:10:11 UTC 2019
+Latest update at: Sat Nov 23 02:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -33,7 +33,6 @@ Latest update at: Sat Nov 23 01:10:11 UTC 2019
 | #.1F36 | AS63949 | Japan | 60 hrs offline |
 | #.3259 | AS63949 | Japan | 25 hrs |
 | #.D68A | AS63949 | Japan | 60 hrs offline |
-| #.6A50 | AS51659 | Russia | 60 hrs offline |
 | #.C5A4 | AS63949 | Japan | 60 hrs offline |
 | #.3F08 | AS16509 | Japan | 60 hrs offline |
 | #.CEE8 | AS16509 | Japan | 60 hrs offline |
@@ -66,25 +65,37 @@ Latest update at: Sat Nov 23 01:10:11 UTC 2019
 | #.3875 | AS16509 | Japan | 1 hrs offline |
 | #.A501 | AS14061 | Singapore | 49 hrs offline |
 | #.39DC | AS44094 | Russia | 21 hrs offline |
+| #.A485 | AS51659 | Russia | 24 hrs offline |
 | #.71E0 | AS50340 | Russia | 20 hrs |
 | #.95F6 | AS23033 | United States | 38 hrs |
 | #.D79C | AS63949 | Japan | 49 hrs |
-| #.A485 | AS51659 | Russia | 24 hrs offline |
 | #.D833 | AS63949 | Japan | 49 hrs |
 | #.0189 | AS63949 | Japan | 49 hrs |
 | #.4C14 | AS50340 | Russia | 2 hrs offline |
 | #.8988 | AS50340 | Russia | 1 hrs |
+| #.8012 | AS4812 | China | |
 | #.0519 | AS45102 | China | 49 hrs offline |
+| #.0B1E | AS4837 | China | |
+| #.CF22 | AS137443 | United States | |
+| #.A03F | AS4837 | China | |
+| #.194C | AS137443 | United States | |
 | #.06B1 | AS17621 | China | 49 hrs offline |
 | #.AEBF | AS17621 | China | 49 hrs offline |
 | #.F3E5 | AS17621 | China | 49 hrs offline |
+| #.B2AB | AS4837 | China | |
 | #.A96D | AS17621 | China | 49 hrs offline |
+| #.978D | AS4812 | China | |
+| #.A1D7 | AS54574 | United States | |
 | #.7E1D | AS3462 | Taiwan | 19 hrs |
 | #.A981 | AS17621 | China | 49 hrs offline |
 | #.955C | AS17621 | China | 49 hrs offline |
 | #.DF4F | AS17621 | China | 49 hrs offline |
+| #.2CD4 | AS4837 | China | |
+| #.C586 | AS16509 | Japan | |
+| #.8232 | AS16509 | Japan | |
 | #.C450 | AS9009 | Netherlands | 2 hrs |
 | #.584B | AS17621 | China | 49 hrs offline |
 | #.9AFE | AS17621 | China | 49 hrs offline |
 | #.1359 | AS17621 | China | 49 hrs offline |
+| #.2CAD | AS63949 | Japan | |
 
