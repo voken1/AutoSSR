@@ -1,6 +1,6 @@
 # 58 recent servers:
 
-Latest update at: Sun Nov 24 10:10:13 UTC 2019
+Latest update at: Sun Nov 24 11:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
