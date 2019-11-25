@@ -1,6 +1,6 @@
 # 44 online servers:
 
-Latest update at: Mon Nov 25 21:10:15 UTC 2019
+Latest update at: Mon Nov 25 22:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -14,38 +14,38 @@ Latest update at: Mon Nov 25 21:10:15 UTC 2019
 | #.EBB7 | AS16509 | Japan | 8 hrs |
 | #.14D9 | AS49392 | Russia | 13 hrs |
 | #.F31B | AS20150 | United States | 12 hrs |
-| #.B5F1 | AS63949 | Japan | 174 hrs |
-| #.819E | AS16509 | Japan | 11 hrs |
-| #.02B1 | AS16509 | Japan | 14 hrs |
-| #.44CD | AS16509 | Japan | 12 hrs |
-| #.C353 | AS63949 | Japan | 42 hrs |
-| #.0193 | AS63949 | Japan | 42 hrs |
-| #.BDC4 | AS63949 | Japan | 42 hrs |
-| #.4BA3 | AS63949 | Japan | 42 hrs |
-| #.931A | AS63949 | Japan | 42 hrs |
-| #.1A0A | AS63949 | Japan | 42 hrs |
-| #.3937 | AS63949 | Japan | 42 hrs |
-| #.5117 | AS63949 | Japan | 42 hrs |
-| #.92BB | AS63949 | Japan | 42 hrs |
-| #.0554 | AS63949 | Japan | 42 hrs |
-| #.1B52 | AS63949 | Japan | 42 hrs |
-| #.C633 | AS50340 | Russia | 42 hrs |
-| #.9185 | AS50340 | Russia | 42 hrs |
-| #.A29D | AS63949 | Japan | 42 hrs |
+| #.B5F1 | AS63949 | Japan | 175 hrs |
+| #.02B1 | AS16509 | Japan | 15 hrs |
+| #.819E | AS16509 | Japan | 12 hrs |
+| #.1A0A | AS63949 | Japan | 43 hrs |
+| #.5117 | AS63949 | Japan | 43 hrs |
+| #.4BA3 | AS63949 | Japan | 43 hrs |
+| #.3937 | AS63949 | Japan | 43 hrs |
+| #.0554 | AS63949 | Japan | 43 hrs |
+| #.A29D | AS63949 | Japan | 43 hrs |
+| #.92BB | AS63949 | Japan | 43 hrs |
+| #.BDC4 | AS63949 | Japan | 43 hrs |
+| #.1B52 | AS63949 | Japan | 43 hrs |
+| #.C353 | AS63949 | Japan | 43 hrs |
+| #.44CD | AS16509 | Japan | 13 hrs |
+| #.C633 | AS50340 | Russia | 43 hrs |
+| #.9185 | AS50340 | Russia | 43 hrs |
+| #.931A | AS63949 | Japan | 43 hrs |
+| #.0193 | AS63949 | Japan | 43 hrs |
 | #.95F6 | AS23033 | United States | 98 hrs |
-| #.5A1E | AS16509 | Japan | 11 hrs |
+| #.ABDB | AS16509 | Japan | 12 hrs |
+| #.EF41 | AS16509 | Japan | 12 hrs |
 | #.4C14 | AS50340 | Russia | 64 hrs |
-| #.ABDB | AS16509 | Japan | 11 hrs |
+| #.5A1E | AS16509 | Japan | 12 hrs |
 | #.C215 | AS46844 | United States | 41 hrs |
-| #.EF41 | AS16509 | Japan | 11 hrs |
-| #.A012 | AS16509 | Japan | 11 hrs |
-| #.3B92 | AS16509 | Japan | 10 hrs |
-| #.BD5A | AS16509 | Japan | 11 hrs |
-| #.5227 | AS16509 | Japan | 12 hrs |
+| #.A012 | AS16509 | Japan | 12 hrs |
+| #.3B92 | AS16509 | Japan | 11 hrs |
+| #.5227 | AS16509 | Japan | 13 hrs |
+| #.BD5A | AS16509 | Japan | 12 hrs |
 | #.7E1D | AS3462 | Taiwan | 12 hrs |
-| #.F15D | AS16509 | Japan | 12 hrs |
-| #.A869 | AS16509 | Japan | 11 hrs |
-| #.CD4B | AS16509 | Japan | 42 hrs |
-| #.F6E7 | AS16509 | Japan | 11 hrs |
+| #.A869 | AS16509 | Japan | 12 hrs |
+| #.F15D | AS16509 | Japan | 13 hrs |
+| #.CD4B | AS16509 | Japan | 43 hrs |
+| #.F6E7 | AS16509 | Japan | 12 hrs |
 | #.C450 | AS9009 | Netherlands | 11 hrs |
 
