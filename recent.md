@@ -1,6 +1,6 @@
-# 75 recent servers:
+# 74 recent servers:
 
-Latest update at: Mon Nov 25 22:10:12 UTC 2019
+Latest update at: Mon Nov 25 23:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -28,7 +28,6 @@ Latest update at: Mon Nov 25 22:10:12 UTC 2019
 | #.BF42 | AS16509 | Japan | 54 hrs offline |
 | #.4D6B | AS16509 | Japan | 54 hrs offline |
 | #.FB2E | AS16509 | Japan | 54 hrs offline |
-| #.24F0 | AS14061 | Singapore | 60 hrs offline |
 | #.3E9E | AS16509 | Japan | 54 hrs offline |
 | #.02B1 | AS16509 | Japan | 15 hrs |
 | #.819E | AS16509 | Japan | 12 hrs |
