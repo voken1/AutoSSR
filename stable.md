@@ -1,34 +1,33 @@
-# 27 stable servers:
+# 26 stable servers:
 
-Latest update at: Tue Nov 26 07:10:13 UTC 2019
+Latest update at: Tue Nov 26 08:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.3C59 | AS63949 | Singapore | 1691 hrs |
-| #.3988 | AS63949 | Germany | 37 hrs |
-| #.9FC3 | AS53889 | United States | 1018 hrs |
-| #.42A0 | AS63949 | Japan | 216 hrs |
-| #.14D9 | AS49392 | Russia | 16 hrs |
-| #.B5F1 | AS63949 | Japan | 193 hrs |
-| #.819E | AS16509 | Japan | 30 hrs |
-| #.0193 | AS63949 | Japan | 61 hrs |
-| #.3937 | AS63949 | Japan | 61 hrs |
-| #.4BA3 | AS63949 | Japan | 61 hrs |
-| #.1A0A | AS63949 | Japan | 61 hrs |
-| #.5117 | AS63949 | Japan | 61 hrs |
-| #.92BB | AS63949 | Japan | 61 hrs |
-| #.C633 | AS50340 | Russia | 61 hrs |
-| #.1B52 | AS63949 | Japan | 61 hrs |
-| #.A29D | AS63949 | Japan | 61 hrs |
-| #.44CD | AS16509 | Japan | 31 hrs |
-| #.9185 | AS50340 | Russia | 61 hrs |
-| #.931A | AS63949 | Japan | 61 hrs |
-| #.0554 | AS63949 | Japan | 61 hrs |
-| #.C353 | AS63949 | Japan | 61 hrs |
-| #.BDC4 | AS63949 | Japan | 61 hrs |
-| #.4C14 | AS50340 | Russia | 82 hrs |
-| #.95F6 | AS23033 | United States | 116 hrs |
-| #.BD5A | AS16509 | Japan | 30 hrs |
-| #.7E1D | AS3462 | Taiwan | 30 hrs |
-| #.CD4B | AS16509 | Japan | 61 hrs |
+| #.3C59 | AS63949 | Singapore | 1697 hrs |
+| #.9FC3 | AS53889 | United States | 1024 hrs |
+| #.3988 | AS63949 | Germany | 43 hrs |
+| #.42A0 | AS63949 | Japan | 222 hrs |
+| #.B5F1 | AS63949 | Japan | 199 hrs |
+| #.819E | AS16509 | Japan | 36 hrs |
+| #.1A0A | AS63949 | Japan | 67 hrs |
+| #.1B52 | AS63949 | Japan | 67 hrs |
+| #.9185 | AS50340 | Russia | 67 hrs |
+| #.C633 | AS50340 | Russia | 67 hrs |
+| #.3937 | AS63949 | Japan | 67 hrs |
+| #.931A | AS63949 | Japan | 67 hrs |
+| #.A29D | AS63949 | Japan | 67 hrs |
+| #.0554 | AS63949 | Japan | 67 hrs |
+| #.92BB | AS63949 | Japan | 67 hrs |
+| #.C353 | AS63949 | Japan | 67 hrs |
+| #.0193 | AS63949 | Japan | 67 hrs |
+| #.5117 | AS63949 | Japan | 67 hrs |
+| #.BDC4 | AS63949 | Japan | 67 hrs |
+| #.4BA3 | AS63949 | Japan | 67 hrs |
+| #.95F6 | AS23033 | United States | 122 hrs |
+| #.4C14 | AS50340 | Russia | 88 hrs |
+| #.C215 | AS46844 | United States | 14 hrs |
+| #.BD5A | AS16509 | Japan | 36 hrs |
+| #.7E1D | AS3462 | Taiwan | 36 hrs |
+| #.CD4B | AS16509 | Japan | 67 hrs |
 
