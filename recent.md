@@ -1,11 +1,12 @@
-# 47 recent servers:
+# 48 recent servers:
 
-Latest update at: Wed Nov 27 00:10:12 UTC 2019
+Latest update at: Wed Nov 27 01:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 22 hrs offline |
 | #.3C59 | AS63949 | Singapore | 15 hrs |
+| #.9A49 | AS16509 | Japan | |
 | #.BA1B | AS49392 | Russia | 29 hrs |
 | #.7F1D | AS63949 | Singapore | 51 hrs |
 | #.3988 | AS63949 | Germany | 25 hrs |
