@@ -1,15 +1,14 @@
-# 26 stable servers:
+# 25 stable servers:
 
-Latest update at: Fri Nov 29 14:10:10 UTC 2019
+Latest update at: Fri Nov 29 15:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.3C59 | AS63949 | Singapore | 155 hrs |
-| #.2A79 | AS63949 | Japan | 24 hrs |
-| #.9FC3 | AS53889 | United States | 1205 hrs |
-| #.42A0 | AS63949 | Japan | 155 hrs |
-| #.7F1D | AS63949 | Singapore | 191 hrs |
-| #.1943 | AS50340 | Russia | 134 hrs |
+| #.7F1D | AS63949 | Singapore | 192 hrs |
+| #.42A0 | AS63949 | Japan | 156 hrs |
+| #.9FC3 | AS53889 | United States | 1206 hrs |
+| #.1943 | AS50340 | Russia | 135 hrs |
 | #.2D96 | AS63949 | Japan | 25 hrs |
 | #.4B4E | AS63949 | Japan | 25 hrs |
 | #.8C5F | AS63949 | Japan | 25 hrs |
@@ -20,7 +19,7 @@ Latest update at: Fri Nov 29 14:10:10 UTC 2019
 | #.DD28 | AS63949 | Japan | 25 hrs |
 | #.C215 | AS46844 | United States | 27 hrs |
 | #.95F6 | AS23033 | United States | 303 hrs |
-| #.E0CF | AS63949 | Germany | 128 hrs |
+| #.E0CF | AS63949 | Germany | 129 hrs |
 | #.02E6 | AS16509 | Japan | 25 hrs |
 | #.B0DF | AS16509 | Japan | 25 hrs |
 | #.D2A2 | AS50340 | Russia | 25 hrs |
