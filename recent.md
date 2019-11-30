@@ -1,6 +1,6 @@
-# 77 recent servers:
+# 81 recent servers:
 
-Latest update at: Sat Nov 30 00:10:10 UTC 2019
+Latest update at: Sat Nov 30 01:10:16 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,9 +17,11 @@ Latest update at: Sat Nov 30 00:10:10 UTC 2019
 | #.7F1D | AS63949 | Singapore | 215 hrs |
 | #.1943 | AS50340 | Russia | 158 hrs |
 | #.C3E4 | AS16509 | Japan | 60 hrs offline |
+| #.0404 | AS50340 | Russia | |
 | #.37D0 | AS63949 | Japan | 60 hrs offline |
 | #.23C9 | AS63949 | Japan | 60 hrs offline |
 | #.2A34 | AS63949 | Japan | 60 hrs offline |
+| #.8CA8 | AS16509 | Singapore | |
 | #.2D96 | AS63949 | Japan | 49 hrs |
 | #.4B4E | AS63949 | Japan | 49 hrs |
 | #.8C5F | AS63949 | Japan | 49 hrs |
@@ -32,7 +34,6 @@ Latest update at: Sat Nov 30 00:10:10 UTC 2019
 | #.F31B | AS20150 | United States | 3 hrs |
 | #.DD28 | AS63949 | Japan | 49 hrs |
 | #.7DC1 | AS63949 | Japan | 60 hrs offline |
-| #.24F0 | AS14061 | Singapore | 60 hrs offline |
 | #.0193 | AS63949 | Japan | 60 hrs offline |
 | #.C215 | AS46844 | United States | 51 hrs |
 | #.95F6 | AS23033 | United States | 327 hrs |
@@ -81,4 +82,7 @@ Latest update at: Sat Nov 30 00:10:10 UTC 2019
 | #.5249 | AS63949 | Japan | 49 hrs |
 | #.E458 | AS63949 | Japan | 49 hrs |
 | #.934B | AS9009 | Japan | 43 hrs |
+| #.443D | AS63949 | United States | |
+| #.01EE | AS63949 | United States | |
+| #.EFDF | AS63949 | Japan | |
 
