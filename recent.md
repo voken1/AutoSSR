@@ -1,6 +1,6 @@
-# 77 recent servers:
+# 53 recent servers:
 
-Latest update at: Tue Dec 03 08:10:10 UTC 2019
+Latest update at: Tue Dec 03 09:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -13,42 +13,18 @@ Latest update at: Tue Dec 03 08:10:10 UTC 2019
 | #.42A0 | AS63949 | Japan | 363 hrs |
 | #.1943 | AS50340 | Russia | 342 hrs |
 | #.2D96 | AS63949 | Japan | 233 hrs |
-| #.4B4E | AS63949 | Japan | 60 hrs offline |
-| #.8C5F | AS63949 | Japan | 60 hrs offline |
-| #.25DB | AS63949 | Japan | 60 hrs offline |
-| #.EA11 | AS63949 | Japan | 60 hrs offline |
-| #.6832 | AS63949 | Japan | 60 hrs offline |
 | #.7FEA | AS36352 | United States | 100 hrs |
-| #.1145 | AS63949 | Japan | 60 hrs offline |
 | #.EBB7 | AS16509 | Japan | 5 hrs |
 | #.14D9 | AS49392 | Russia | 4 hrs |
 | #.F31B | AS20150 | United States | 2 hrs offline |
-| #.DD28 | AS63949 | Japan | 60 hrs offline |
 | #.E0CF | AS63949 | Germany | 336 hrs |
 | #.4CB8 | AS63949 | Japan | 11 hrs |
 | #.7E1D | AS3462 | Taiwan | 2 hrs |
 | #.0233 | AS63949 | Japan | 1 hrs offline |
 | #.BBAA | AS63949 | Japan | 5 hrs |
 | #.B440 | AS16509 | Japan | 2 hrs offline |
-| #.D2A2 | AS50340 | Russia | 60 hrs offline |
-| #.B5C0 | AS16509 | Japan | 60 hrs offline |
-| #.4AEC | AS16509 | Japan | 60 hrs offline |
 | #.5989 | AS50340 | Russia | 232 hrs |
-| #.1368 | AS16509 | Japan | 60 hrs offline |
-| #.3323 | AS16509 | Japan | 60 hrs offline |
-| #.0189 | AS16509 | Japan | 60 hrs offline |
-| #.CD3A | AS16509 | Japan | 60 hrs offline |
-| #.F3D9 | AS16509 | Japan | 60 hrs offline |
-| #.02E6 | AS16509 | Japan | 60 hrs offline |
-| #.FEA9 | AS63949 | Japan | 60 hrs offline |
-| #.B0DF | AS16509 | Japan | 60 hrs offline |
-| #.06D5 | AS63949 | Japan | 60 hrs offline |
-| #.1311 | AS16509 | Japan | 60 hrs offline |
-| #.5938 | AS16509 | Japan | 60 hrs offline |
 | #.DB11 | AS16509 | Japan | 14 hrs |
-| #.05A7 | AS16509 | Japan | 60 hrs offline |
-| #.5249 | AS63949 | Japan | 60 hrs offline |
-| #.E458 | AS63949 | Japan | 60 hrs offline |
 | #.C450 | AS9009 | Netherlands | 10 hrs offline |
 | #.2A8A | AS49392 | Russia | 60 hrs offline |
 | #.F6C7 | AS16509 | Japan | 68 hrs |
