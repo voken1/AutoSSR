@@ -1,6 +1,6 @@
 # 46 online servers:
 
-Latest update at: Wed Dec 04 05:10:10 UTC 2019
+Latest update at: Wed Dec 04 06:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -23,19 +23,18 @@ Latest update at: Wed Dec 04 05:10:10 UTC 2019
 | #.C2BA | AS16509 | Japan | 2 hrs |
 | #.EB76 | AS9009 | Singapore | 45 hrs |
 | #.7E1D | AS3462 | Taiwan | 1 hrs |
-| #.0F46 | AS63949 | Japan | 9 hrs |
-| #.D6BC | AS16509 | Japan | 9 hrs |
-| #.716E | AS16509 | Japan | 9 hrs |
-| #.8053 | AS16509 | Japan | 9 hrs |
-| #.AE1E | AS16509 | Japan | 9 hrs |
-| #.FA24 | AS16509 | Japan | 9 hrs |
-| #.5B8E | AS16509 | Japan | 9 hrs |
-| #.C361 | AS16509 | Japan | 9 hrs |
-| #.4335 | AS16509 | Japan | 9 hrs |
-| #.1177 | AS16509 | Japan | 9 hrs |
-| #.98E6 | AS16509 | Japan | 9 hrs |
-| #.4781 | AS16509 | Japan | 9 hrs |
-| #.5F63 | AS16509 | Japan | 9 hrs |
+| #.D6BC | AS16509 | Japan | 10 hrs |
+| #.716E | AS16509 | Japan | 10 hrs |
+| #.8053 | AS16509 | Japan | 10 hrs |
+| #.AE1E | AS16509 | Japan | 10 hrs |
+| #.FA24 | AS16509 | Japan | 10 hrs |
+| #.5B8E | AS16509 | Japan | 10 hrs |
+| #.C361 | AS16509 | Japan | 10 hrs |
+| #.4335 | AS16509 | Japan | 10 hrs |
+| #.1177 | AS16509 | Japan | 10 hrs |
+| #.98E6 | AS16509 | Japan | 10 hrs |
+| #.4781 | AS16509 | Japan | 10 hrs |
+| #.5F63 | AS16509 | Japan | 10 hrs |
 | #.51DE | AS63949 | Japan | 10 hrs |
 | #.CD0F | AS63949 | Japan | 10 hrs |
 | #.A376 | AS63949 | Japan | 10 hrs |
@@ -46,8 +45,9 @@ Latest update at: Wed Dec 04 05:10:10 UTC 2019
 | #.CC7E | AS63949 | Japan | 10 hrs |
 | #.9667 | AS63949 | Japan | 10 hrs |
 | #.DC16 | AS63949 | Japan | 10 hrs |
-| #.2297 | AS16509 | Japan | 9 hrs |
-| #.1602 | AS35916 | United States | 8 hrs |
+| #.0F46 | AS63949 | Japan | 10 hrs |
 | #.7433 | AS63949 | Japan | 10 hrs |
 | #.95F8 | AS63949 | Japan | 10 hrs |
+| #.2297 | AS16509 | Japan | 10 hrs |
+| #.1602 | AS35916 | United States | 9 hrs |
 
