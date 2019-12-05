@@ -1,32 +1,28 @@
-# 25 stable servers:
+# 21 stable servers:
 
-Latest update at: Thu Dec 05 21:10:09 UTC 2019
+Latest update at: Thu Dec 05 22:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 38 hrs |
-| #.3C59 | AS63949 | Singapore | 493 hrs |
-| #.2A79 | AS63949 | Japan | 113 hrs |
-| #.42A0 | AS63949 | Japan | 493 hrs |
-| #.1943 | AS50340 | Russia | 13 hrs |
-| #.9FC3 | AS53889 | United States | 1543 hrs |
-| #.D827 | AS20150 | United States | 31 hrs |
-| #.F31B | AS20150 | United States | 14 hrs |
-| #.2D2C | AS63949 | Japan | 19 hrs |
-| #.F976 | AS63949 | Japan | 15 hrs |
-| #.49C0 | AS63949 | Japan | 15 hrs |
-| #.0233 | AS63949 | Japan | 109 hrs |
-| #.DB9E | AS63949 | Japan | 15 hrs |
-| #.7786 | AS63949 | Japan | 15 hrs |
-| #.6211 | AS63949 | Japan | 15 hrs |
-| #.F516 | AS63949 | Japan | 15 hrs |
-| #.F3AC | AS63949 | Japan | 15 hrs |
-| #.E0CF | AS63949 | Germany | 47 hrs |
-| #.5989 | AS50340 | Russia | 57 hrs |
-| #.C2BA | AS16509 | Japan | 17 hrs |
-| #.EB76 | AS9009 | Singapore | 26 hrs |
-| #.98E6 | AS16509 | Japan | 59 hrs |
-| #.4781 | AS16509 | Japan | 15 hrs |
-| #.DC16 | AS63949 | Japan | 90 hrs |
-| #.C361 | AS16509 | Japan | 13 hrs |
+| #.D09B | AS174 | United States | 42 hrs |
+| #.3C59 | AS63949 | Singapore | 497 hrs |
+| #.2A79 | AS63949 | Japan | 117 hrs |
+| #.7F1D | AS63949 | Singapore | 16 hrs |
+| #.42A0 | AS63949 | Japan | 497 hrs |
+| #.1943 | AS50340 | Russia | 17 hrs |
+| #.9FC3 | AS53889 | United States | 1547 hrs |
+| #.D827 | AS20150 | United States | 36 hrs |
+| #.EBB7 | AS16509 | Japan | 16 hrs |
+| #.F31B | AS20150 | United States | 19 hrs |
+| #.2D2C | AS63949 | Japan | 24 hrs |
+| #.DB9E | AS63949 | Japan | 20 hrs |
+| #.7786 | AS63949 | Japan | 20 hrs |
+| #.E0CF | AS63949 | Germany | 51 hrs |
+| #.F3AC | AS63949 | Japan | 20 hrs |
+| #.5989 | AS50340 | Russia | 61 hrs |
+| #.C450 | AS9009 | Netherlands | 14 hrs |
+| #.653A | AS50340 | Russia | 13 hrs |
+| #.EB76 | AS9009 | Singapore | 30 hrs |
+| #.7E1D | AS3462 | Taiwan | 15 hrs |
+| #.DC16 | AS63949 | Japan | 94 hrs |
 
