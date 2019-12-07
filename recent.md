@@ -1,6 +1,6 @@
-# 77 recent servers:
+# 53 recent servers:
 
-Latest update at: Sat Dec 07 09:10:10 UTC 2019
+Latest update at: Sat Dec 07 10:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -19,20 +19,10 @@ Latest update at: Sat Dec 07 09:10:10 UTC 2019
 | #.14D9 | AS49392 | Russia | 3 hrs |
 | #.F31B | AS20150 | United States | 1 hrs offline |
 | #.2D2C | AS63949 | Japan | 102 hrs |
-| #.F976 | AS63949 | Japan | 60 hrs offline |
-| #.E58A | AS63949 | Japan | 60 hrs offline |
-| #.49C0 | AS63949 | Japan | 60 hrs offline |
-| #.046D | AS63949 | Japan | 60 hrs offline |
-| #.69DA | AS63949 | Japan | 60 hrs offline |
-| #.0233 | AS63949 | Japan | 60 hrs offline |
-| #.88BF | AS63949 | Japan | 60 hrs offline |
 | #.DB9E | AS63949 | Japan | 98 hrs |
 | #.7786 | AS63949 | Japan | 98 hrs |
 | #.E0CF | AS63949 | Germany | 129 hrs |
 | #.F3AC | AS63949 | Japan | 98 hrs |
-| #.F516 | AS63949 | Japan | 60 hrs offline |
-| #.6211 | AS63949 | Japan | 60 hrs offline |
-| #.BBAA | AS63949 | Japan | 60 hrs offline |
 | #.B440 | AS16509 | Japan | 1 hrs offline |
 | #.D5E2 | AS63949 | Japan | 73 hrs |
 | #.F1E2 | AS16509 | Japan | 1 hrs |
@@ -63,22 +53,8 @@ Latest update at: Sat Dec 07 09:10:10 UTC 2019
 | #.2321 | AS51659 | Russia | 19 hrs offline |
 | #.C450 | AS9009 | Netherlands | 40 hrs offline |
 | #.653A | AS50340 | Russia | 91 hrs |
-| #.C2BA | AS16509 | Japan | 60 hrs offline |
 | #.EB76 | AS9009 | Singapore | 38 hrs |
 | #.7E1D | AS3462 | Taiwan | 16 hrs |
-| #.D6BC | AS16509 | Japan | 60 hrs offline |
-| #.716E | AS16509 | Japan | 60 hrs offline |
 | #.DC16 | AS63949 | Japan | 172 hrs |
-| #.AE1E | AS16509 | Japan | 60 hrs offline |
-| #.1177 | AS16509 | Japan | 60 hrs offline |
-| #.98E6 | AS16509 | Japan | 60 hrs offline |
-| #.5B8E | AS16509 | Japan | 60 hrs offline |
-| #.C361 | AS16509 | Japan | 60 hrs offline |
-| #.4335 | AS16509 | Japan | 60 hrs offline |
-| #.8053 | AS16509 | Japan | 60 hrs offline |
-| #.4781 | AS16509 | Japan | 60 hrs offline |
-| #.5F63 | AS16509 | Japan | 60 hrs offline |
-| #.FA24 | AS16509 | Japan | 60 hrs offline |
 | #.1602 | AS35916 | United States | 1 hrs offline |
-| #.2297 | AS16509 | Japan | 60 hrs offline |
 
