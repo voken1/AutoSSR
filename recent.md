@@ -1,6 +1,6 @@
 # 52 recent servers:
 
-Latest update at: Sun Dec 08 05:10:10 UTC 2019
+Latest update at: Sun Dec 08 06:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -40,19 +40,19 @@ Latest update at: Sun Dec 08 05:10:10 UTC 2019
 | #.F7E0 | AS16509 | Japan | 3 hrs offline |
 | #.A3EB | AS16509 | Japan | 7 hrs |
 | #.6192 | AS16509 | Japan | 1 hrs offline |
-| #.B6CD | AS16509 | Japan | 2 hrs |
-| #.3593 | AS16509 | Japan | 8 hrs |
 | #.806F | AS16509 | Japan | 11 hrs |
+| #.B6CD | AS16509 | Japan | 3 hrs |
+| #.3593 | AS16509 | Japan | 1 hrs offline |
 | #.228B | AS63949 | Japan | 84 hrs |
 | #.BE53 | AS16509 | Japan | 1 hrs offline |
 | #.5989 | AS50340 | Russia | 187 hrs |
-| #.C8DF | AS3462 | Taiwan | 53 hrs offline |
-| #.43E4 | AS3462 | Taiwan | 53 hrs offline |
+| #.C8DF | AS3462 | Taiwan | 54 hrs offline |
+| #.43E4 | AS3462 | Taiwan | 54 hrs offline |
 | #.2321 | AS51659 | Russia | 60 hrs offline |
-| #.7CC5 | AS16509 | Japan | 42 hrs offline |
+| #.7CC5 | AS16509 | Japan | 43 hrs offline |
 | #.653A | AS50340 | Russia | 139 hrs |
 | #.7E1D | AS3462 | Taiwan | 64 hrs |
-| #.66E8 | AS9009 | Japan | 42 hrs |
+| #.66E8 | AS9009 | Japan | 43 hrs |
 | #.EB76 | AS9009 | Singapore | 1 hrs offline |
 | #.DC16 | AS63949 | Japan | 220 hrs |
 | #.1602 | AS35916 | United States | 3 hrs |
