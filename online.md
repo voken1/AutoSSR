@@ -1,30 +1,28 @@
-# 23 online servers:
+# 21 online servers:
 
-Latest update at: Mon Dec 09 01:10:10 UTC 2019
+Latest update at: Mon Dec 09 02:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 27 hrs |
-| #.2A79 | AS63949 | Japan | 4 hrs |
-| #.7F1D | AS63949 | Singapore | 22 hrs |
-| #.42A0 | AS63949 | Japan | 665 hrs |
-| #.1943 | AS50340 | Russia | 18 hrs |
-| #.9FC3 | AS53889 | United States | 131 hrs |
-| #.D827 | AS20150 | United States | 17 hrs |
-| #.EBB7 | AS16509 | Japan | 18 hrs |
-| #.14D9 | AS49392 | Russia | 19 hrs |
-| #.F31B | AS20150 | United States | 11 hrs |
-| #.2D2C | AS63949 | Japan | 192 hrs |
-| #.E0CF | AS63949 | Germany | 2 hrs |
-| #.F3AC | AS63949 | Japan | 188 hrs |
-| #.6C97 | AS63949 | Japan | 163 hrs |
-| #.B440 | AS16509 | Japan | 15 hrs |
-| #.68D3 | AS63949 | Japan | 163 hrs |
-| #.5989 | AS50340 | Russia | 229 hrs |
-| #.653A | AS50340 | Russia | 181 hrs |
-| #.EB76 | AS9009 | Singapore | 19 hrs |
-| #.7E1D | AS3462 | Taiwan | 29 hrs |
-| #.66E8 | AS9009 | Japan | 85 hrs |
-| #.DC16 | AS63949 | Japan | 262 hrs |
-| #.1602 | AS35916 | United States | 18 hrs |
+| #.D09B | AS174 | United States | 33 hrs |
+| #.7F1D | AS63949 | Singapore | 28 hrs |
+| #.42A0 | AS63949 | Japan | 671 hrs |
+| #.1943 | AS50340 | Russia | 24 hrs |
+| #.9FC3 | AS53889 | United States | 137 hrs |
+| #.D827 | AS20150 | United States | 2 hrs |
+| #.14D9 | AS49392 | Russia | 5 hrs |
+| #.F31B | AS20150 | United States | 3 hrs |
+| #.2D2C | AS63949 | Japan | 198 hrs |
+| #.E0CF | AS63949 | Germany | 8 hrs |
+| #.F3AC | AS63949 | Japan | 194 hrs |
+| #.68D3 | AS63949 | Japan | 169 hrs |
+| #.B440 | AS16509 | Japan | 1 hrs |
+| #.6C97 | AS63949 | Japan | 169 hrs |
+| #.5989 | AS50340 | Russia | 235 hrs |
+| #.653A | AS50340 | Russia | 187 hrs |
+| #.7E1D | AS3462 | Taiwan | 35 hrs |
+| #.66E8 | AS9009 | Japan | 91 hrs |
+| #.EB76 | AS9009 | Singapore | 25 hrs |
+| #.DC16 | AS63949 | Japan | 268 hrs |
+| #.1602 | AS35916 | United States | 1 hrs |
 
