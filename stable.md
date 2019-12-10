@@ -1,6 +1,6 @@
-# 38 stable servers:
+# 25 stable servers:
 
-Latest update at: Tue Dec 10 22:10:10 UTC 2019
+Latest update at: Tue Dec 10 23:10:18 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -19,27 +19,14 @@ Latest update at: Tue Dec 10 22:10:10 UTC 2019
 | #.6C97 | AS63949 | Japan | 267 hrs |
 | #.CDF1 | AS35908 | United States | 26 hrs |
 | #.5989 | AS50340 | Russia | 333 hrs |
-| #.123B | AS16509 | Japan | 14 hrs |
-| #.D691 | AS63949 | Japan | 98 hrs |
-| #.3BAA | AS16509 | Japan | 17 hrs |
-| #.1A68 | AS16509 | Japan | 13 hrs |
 | #.81B0 | AS63949 | Japan | 99 hrs |
-| #.7942 | AS63949 | Japan | 98 hrs |
-| #.5052 | AS16509 | Japan | 13 hrs |
 | #.B239 | AS63949 | Japan | 99 hrs |
-| #.3008 | AS16509 | Japan | 13 hrs |
 | #.653A | AS50340 | Russia | 285 hrs |
 | #.7E1D | AS3462 | Taiwan | 17 hrs |
 | #.70FC | AS63949 | Japan | 99 hrs |
 | #.23AF | AS63949 | Japan | 99 hrs |
 | #.EB76 | AS9009 | Singapore | 37 hrs |
-| #.9FB7 | AS16509 | Japan | 13 hrs |
-| #.D095 | AS63949 | Japan | 98 hrs |
 | #.3F53 | AS63949 | Japan | 99 hrs |
 | #.0ABD | AS63949 | Japan | 99 hrs |
 | #.DC16 | AS63949 | Japan | 366 hrs |
-| #.0A65 | AS16509 | Japan | 14 hrs |
-| #.5F14 | AS16509 | Japan | 14 hrs |
-| #.7B66 | AS16509 | Japan | 14 hrs |
-| #.8B42 | AS16509 | Japan | 13 hrs |
 
