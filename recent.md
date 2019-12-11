@@ -1,14 +1,14 @@
 # 103 recent servers:
 
-Latest update at: Wed Dec 11 19:10:12 UTC 2019
+Latest update at: Wed Dec 11 20:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 2 hrs |
-| #.E82C | AS9009 | Japan | 12 hrs |
+| #.E82C | AS9009 | Japan | 13 hrs |
 | #.46A5 | AS131622 | Taiwan | 9 hrs |
-| #.7CC2 | AS20473 | Japan | 12 hrs offline |
-| #.57BA | AS15169 |  | 12 hrs offline |
+| #.57BA | AS15169 |  | 13 hrs offline |
+| #.7CC2 | AS20473 | Japan | 13 hrs offline |
 | #.2A79 | AS63949 | Japan | 9 hrs |
 | #.42A0 | AS63949 | Japan | 817 hrs |
 | #.7F1D | AS63949 | Singapore | 10 hrs |
@@ -56,21 +56,21 @@ Latest update at: Wed Dec 11 19:10:12 UTC 2019
 | #.A554 | AS51659 | Russia | 14 hrs |
 | #.7FD8 | AS51659 | Russia | 30 hrs |
 | #.5989 | AS50340 | Russia | 48 hrs offline |
-| #.54B2 | AS14061 | Canada | 24 hrs |
+| #.10C6 | AS14061 | United Kingdom | 25 hrs |
+| #.70C4 | AS20473 | Japan | 25 hrs |
+| #.1E0A | AS20473 | Japan | 12 hrs offline |
 | #.9ED9 | AS20473 | United States | 25 hrs |
-| #.E941 | AS14061 | United Kingdom | 24 hrs |
 | #.61D7 | AS14061 | United States | 25 hrs |
 | #.2DBF | AS20473 | United States | 25 hrs |
 | #.8C9F | AS20473 | Singapore | 25 hrs |
 | #.7CF6 | AS14061 | Canada | 25 hrs |
-| #.10C6 | AS14061 | United Kingdom | 24 hrs |
-| #.70C4 | AS20473 | Japan | 24 hrs |
-| #.1E0A | AS20473 | Japan | 11 hrs offline |
+| #.54B2 | AS14061 | Canada | 25 hrs |
+| #.E941 | AS14061 | United Kingdom | 25 hrs |
 | #.2F4F | AS20473 | Japan | 25 hrs |
 | #.07A9 | AS20473 | Netherlands | 25 hrs |
 | #.2C3D | AS20473 | Netherlands | 25 hrs |
 | #.81B0 | AS63949 | Japan | 48 hrs offline |
-| #.8BDB | AS20473 | Australia | 24 hrs |
+| #.8BDB | AS20473 | Australia | 25 hrs |
 | #.123B | AS16509 | Japan | 48 hrs offline |
 | #.28B6 | AS14061 | India | 25 hrs |
 | #.1A68 | AS16509 | Japan | 48 hrs offline |
@@ -100,11 +100,11 @@ Latest update at: Wed Dec 11 19:10:12 UTC 2019
 | #.1602 | AS35916 | United States | 7 hrs |
 | #.5F14 | AS16509 | Japan | 48 hrs offline |
 | #.ADD2 | AS16509 | Japan | 48 hrs offline |
-| #.CF05 | AS20473 | Australia | 24 hrs |
 | #.7B66 | AS16509 | Japan | 48 hrs offline |
-| #.1843 | AS20473 | France | 24 hrs |
 | #.8B42 | AS16509 | Japan | 48 hrs offline |
-| #.7B41 | AS20473 | France | 24 hrs |
-| #.2504 | AS14061 | United Kingdom | 24 hrs |
+| #.CF05 | AS20473 | Australia | 25 hrs |
+| #.1843 | AS20473 | France | 25 hrs |
+| #.7B41 | AS20473 | France | 25 hrs |
+| #.2504 | AS14061 | United Kingdom | 25 hrs |
 | #.063E | AS16509 | Japan | 48 hrs offline |
 

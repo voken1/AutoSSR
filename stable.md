@@ -1,9 +1,10 @@
-# 46 stable servers:
+# 47 stable servers:
 
-Latest update at: Wed Dec 11 19:10:12 UTC 2019
+Latest update at: Wed Dec 11 20:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
+| #.E82C | AS9009 | Japan | 13 hrs |
 | #.42A0 | AS63949 | Japan | 817 hrs |
 | #.9FC3 | AS53889 | United States | 283 hrs |
 | #.14D9 | AS49392 | Russia | 14 hrs |
@@ -25,19 +26,19 @@ Latest update at: Wed Dec 11 19:10:12 UTC 2019
 | #.BD7D | AS63949 | Japan | 38 hrs |
 | #.A554 | AS51659 | Russia | 14 hrs |
 | #.7FD8 | AS51659 | Russia | 30 hrs |
-| #.54B2 | AS14061 | Canada | 24 hrs |
+| #.10C6 | AS14061 | United Kingdom | 25 hrs |
+| #.70C4 | AS20473 | Japan | 25 hrs |
 | #.9ED9 | AS20473 | United States | 25 hrs |
-| #.E941 | AS14061 | United Kingdom | 24 hrs |
 | #.61D7 | AS14061 | United States | 25 hrs |
 | #.2DBF | AS20473 | United States | 25 hrs |
 | #.8C9F | AS20473 | Singapore | 25 hrs |
 | #.7CF6 | AS14061 | Canada | 25 hrs |
-| #.10C6 | AS14061 | United Kingdom | 24 hrs |
-| #.70C4 | AS20473 | Japan | 24 hrs |
+| #.54B2 | AS14061 | Canada | 25 hrs |
+| #.E941 | AS14061 | United Kingdom | 25 hrs |
 | #.2F4F | AS20473 | Japan | 25 hrs |
 | #.07A9 | AS20473 | Netherlands | 25 hrs |
 | #.2C3D | AS20473 | Netherlands | 25 hrs |
-| #.8BDB | AS20473 | Australia | 24 hrs |
+| #.8BDB | AS20473 | Australia | 25 hrs |
 | #.28B6 | AS14061 | India | 25 hrs |
 | #.03E7 | AS14061 | India | 25 hrs |
 | #.49D4 | AS20473 | Netherlands | 25 hrs |
@@ -46,8 +47,8 @@ Latest update at: Wed Dec 11 19:10:12 UTC 2019
 | #.7E1D | AS3462 | Taiwan | 13 hrs |
 | #.EB76 | AS9009 | Singapore | 21 hrs |
 | #.DC16 | AS63949 | Japan | 414 hrs |
-| #.CF05 | AS20473 | Australia | 24 hrs |
-| #.1843 | AS20473 | France | 24 hrs |
-| #.7B41 | AS20473 | France | 24 hrs |
-| #.2504 | AS14061 | United Kingdom | 24 hrs |
+| #.CF05 | AS20473 | Australia | 25 hrs |
+| #.1843 | AS20473 | France | 25 hrs |
+| #.7B41 | AS20473 | France | 25 hrs |
+| #.2504 | AS14061 | United Kingdom | 25 hrs |
 
