@@ -1,12 +1,13 @@
-# 102 recent servers:
+# 103 recent servers:
 
-Latest update at: Wed Dec 11 15:10:09 UTC 2019
+Latest update at: Wed Dec 11 16:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 51 hrs |
 | #.E82C | AS9009 | Japan | |
 | #.46A5 | AS131622 | Taiwan | 5 hrs |
+| #.7CC2 | AS20473 | Japan | |
 | #.57BA | AS15169 |  | |
 | #.2A79 | AS63949 | Japan | 133 hrs |
 | #.42A0 | AS63949 | Japan | 805 hrs |
@@ -55,6 +56,7 @@ Latest update at: Wed Dec 11 15:10:09 UTC 2019
 | #.A554 | AS51659 | Russia | 2 hrs |
 | #.7FD8 | AS51659 | Russia | 18 hrs |
 | #.5989 | AS50340 | Russia | 36 hrs offline |
+| #.2DBF | AS20473 | United States | 13 hrs |
 | #.8C9F | AS20473 | Singapore | 13 hrs |
 | #.7CF6 | AS14061 | Canada | 13 hrs |
 | #.9ED9 | AS20473 | United States | 13 hrs |
@@ -62,7 +64,6 @@ Latest update at: Wed Dec 11 15:10:09 UTC 2019
 | #.E941 | AS14061 | United Kingdom | 13 hrs |
 | #.61D7 | AS14061 | United States | 13 hrs |
 | #.10C6 | AS14061 | United Kingdom | 13 hrs |
-| #.2DBF | AS20473 | United States | 13 hrs |
 | #.70C4 | AS20473 | Japan | 13 hrs |
 | #.1E0A | AS20473 | Japan | 13 hrs |
 | #.2F4F | AS20473 | Japan | 13 hrs |

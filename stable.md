@@ -1,6 +1,6 @@
 # 47 stable servers:
 
-Latest update at: Wed Dec 11 15:10:09 UTC 2019
+Latest update at: Wed Dec 11 16:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -27,6 +27,7 @@ Latest update at: Wed Dec 11 15:10:09 UTC 2019
 | #.959E | AS63949 | Japan | 26 hrs |
 | #.BD7D | AS63949 | Japan | 26 hrs |
 | #.7FD8 | AS51659 | Russia | 18 hrs |
+| #.2DBF | AS20473 | United States | 13 hrs |
 | #.8C9F | AS20473 | Singapore | 13 hrs |
 | #.7CF6 | AS14061 | Canada | 13 hrs |
 | #.9ED9 | AS20473 | United States | 13 hrs |
@@ -34,7 +35,6 @@ Latest update at: Wed Dec 11 15:10:09 UTC 2019
 | #.E941 | AS14061 | United Kingdom | 13 hrs |
 | #.61D7 | AS14061 | United States | 13 hrs |
 | #.10C6 | AS14061 | United Kingdom | 13 hrs |
-| #.2DBF | AS20473 | United States | 13 hrs |
 | #.70C4 | AS20473 | Japan | 13 hrs |
 | #.1E0A | AS20473 | Japan | 13 hrs |
 | #.2F4F | AS20473 | Japan | 13 hrs |
