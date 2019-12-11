@@ -1,6 +1,6 @@
-# 43 online servers:
+# 57 online servers:
 
-Latest update at: Wed Dec 11 09:10:11 UTC 2019
+Latest update at: Wed Dec 11 10:10:20 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -44,6 +44,20 @@ Latest update at: Wed Dec 11 09:10:11 UTC 2019
 | #.CDF1 | AS35908 | United States | 1 hrs |
 | #.A554 | AS51659 | Russia | 2 hrs |
 | #.7FD8 | AS51659 | Russia | 6 hrs |
+| #.54B2 | AS14061 | Canada | 1 hrs |
+| #.9ED9 | AS20473 | United States | 1 hrs |
+| #.61D7 | AS14061 | United States | 1 hrs |
+| #.2DBF | AS20473 | United States | 1 hrs |
+| #.8C9F | AS20473 | Singapore | 1 hrs |
+| #.7CF6 | AS14061 | Canada | 1 hrs |
+| #.2F4F | AS20473 | Japan | 1 hrs |
+| #.07A9 | AS20473 | Netherlands | 1 hrs |
+| #.49D4 | AS20473 | Netherlands | 1 hrs |
+| #.28B6 | AS14061 | India | 1 hrs |
+| #.03E7 | AS14061 | India | 1 hrs |
+| #.B427 | AS14061 | Germany | 1 hrs |
+| #.7E05 | AS14061 | Germany | 1 hrs |
+| #.2C3D | AS20473 | Netherlands | 1 hrs |
 | #.EB76 | AS9009 | Singapore | 8 hrs |
 | #.7E1D | AS3462 | Taiwan | 15 hrs |
 | #.DC16 | AS63949 | Japan | 390 hrs |
