@@ -1,6 +1,6 @@
-# 84 recent servers:
+# 93 recent servers:
 
-Latest update at: Sat Dec 14 01:10:09 UTC 2019
+Latest update at: Sat Dec 14 02:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -41,7 +41,6 @@ Latest update at: Sat Dec 14 01:10:09 UTC 2019
 | #.B440 | AS16509 | Japan | 22 hrs offline |
 | #.959E | AS63949 | Japan | 60 hrs offline |
 | #.BD7D | AS63949 | Japan | 60 hrs offline |
-| #.D9FF | AS51659 | Russia | 54 hrs offline |
 | #.F55C | AS16509 | Japan | 12 hrs |
 | #.EA4E | AS16509 | Japan | 19 hrs |
 | #.BB03 | AS16509 | Japan | 16 hrs |
@@ -51,6 +50,7 @@ Latest update at: Sat Dec 14 01:10:09 UTC 2019
 | #.3430 | AS16509 | Japan | 23 hrs |
 | #.4C8C | AS63949 | Japan | 54 hrs |
 | #.C806 | AS63949 | Japan | 54 hrs |
+| #.D9FF | AS51659 | Russia | 54 hrs offline |
 | #.B06B | AS63949 | Japan | 54 hrs |
 | #.FEC8 | AS63949 | Japan | 54 hrs |
 | #.53F0 | AS63949 | Japan | 54 hrs |
@@ -68,11 +68,20 @@ Latest update at: Sat Dec 14 01:10:09 UTC 2019
 | #.8C9F | AS20473 | Singapore | 139 hrs |
 | #.7CF6 | AS14061 | Canada | 51 hrs offline |
 | #.10C6 | AS14061 | United Kingdom | 60 hrs offline |
+| #.8A20 | AS16509 | Japan | |
 | #.54B2 | AS14061 | Canada | 60 hrs offline |
 | #.E941 | AS14061 | United Kingdom | 30 hrs offline |
 | #.70C4 | AS20473 | Japan | 26 hrs offline |
+| #.C30F | AS16509 | Japan | |
+| #.33BB | AS16509 | Japan | |
+| #.4651 | AS16509 | Japan | |
+| #.D9FC | AS16509 | Japan | |
+| #.CD10 | AS16509 | Japan | |
 | #.2F4F | AS20473 | Japan | 25 hrs offline |
 | #.07A9 | AS20473 | Netherlands | 139 hrs |
+| #.3F99 | AS16509 | Japan | |
+| #.696B | AS16509 | Japan | |
+| #.7884 | AS16509 | Japan | |
 | #.28B6 | AS14061 | India | 42 hrs offline |
 | #.03E7 | AS14061 | India | 60 hrs offline |
 | #.2C3D | AS20473 | Netherlands | 139 hrs |
