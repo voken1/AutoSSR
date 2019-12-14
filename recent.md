@@ -1,6 +1,6 @@
-# 93 recent servers:
+# 88 recent servers:
 
-Latest update at: Sat Dec 14 04:10:08 UTC 2019
+Latest update at: Sat Dec 14 05:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -67,9 +67,7 @@ Latest update at: Sat Dec 14 04:10:08 UTC 2019
 | #.E941 | AS14061 | United Kingdom | 36 hrs offline |
 | #.70C4 | AS20473 | Japan | 32 hrs offline |
 | #.4651 | AS16509 | Japan | 2 hrs offline |
-| #.10C6 | AS14061 | United Kingdom | 60 hrs offline |
 | #.33BB | AS16509 | Japan | 3 hrs |
-| #.54B2 | AS14061 | Canada | 60 hrs offline |
 | #.8A20 | AS16509 | Japan | 7 hrs |
 | #.C30F | AS16509 | Japan | 2 hrs offline |
 | #.9ED9 | AS20473 | United States | 145 hrs |
@@ -83,11 +81,8 @@ Latest update at: Sat Dec 14 04:10:08 UTC 2019
 | #.3F99 | AS16509 | Japan | 7 hrs |
 | #.696B | AS16509 | Japan | 7 hrs |
 | #.8BDB | AS20473 | Australia | 58 hrs |
-| #.03E7 | AS14061 | India | 60 hrs offline |
 | #.49D4 | AS20473 | Netherlands | 27 hrs offline |
 | #.28B6 | AS14061 | India | 48 hrs offline |
-| #.B427 | AS14061 | Germany | 60 hrs offline |
-| #.7E05 | AS14061 | Germany | 60 hrs offline |
 | #.2C3D | AS20473 | Netherlands | 145 hrs |
 | #.EB76 | AS9009 | Singapore | 88 hrs |
 | #.7E1D | AS3462 | Taiwan | 133 hrs |
