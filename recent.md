@@ -1,6 +1,6 @@
 # 73 recent servers:
 
-Latest update at: Mon Dec 16 03:10:09 UTC 2019
+Latest update at: Mon Dec 16 04:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,53 +16,53 @@ Latest update at: Mon Dec 16 03:10:09 UTC 2019
 | #.14D9 | AS49392 | Russia | 7 hrs |
 | #.30AA | AS4760 | Hong Kong | 1 hrs offline |
 | #.7CAC | AS63949 | Japan | 12 hrs offline |
-| #.8DB9 | AS63949 | Japan | |
+| #.8DB9 | AS63949 | Japan | 1 hrs |
 | #.2D2C | AS63949 | Japan | 12 hrs offline |
-| #.4E02 | AS16509 | Japan | |
 | #.F3AC | AS63949 | Japan | 12 hrs offline |
 | #.E139 | AS16509 | Japan | 12 hrs offline |
-| #.3CF2 | AS16509 | Japan | 12 hrs offline |
+| #.4E02 | AS16509 | Japan | 1 hrs |
 | #.E0CF | AS63949 | Germany | 291 hrs |
-| #.F8B9 | AS63949 | Japan | |
-| #.C5DC | AS63949 | Japan | |
-| #.6EF8 | AS63949 | Japan | |
-| #.831C | AS63949 | Japan | |
-| #.84B2 | AS63949 | Japan | |
-| #.4A84 | AS63949 | Japan | |
-| #.B06F | AS63949 | Japan | |
-| #.070D | AS63949 | Japan | |
-| #.415E | AS63949 | Japan | |
-| #.8D09 | AS63949 | Japan | |
-| #.4A15 | AS63949 | Japan | |
-| #.0D73 | AS16509 | Japan | |
-| #.A6D2 | AS16509 | Japan | |
-| #.31C9 | AS16509 | Japan | |
-| #.9407 | AS16509 | Japan | |
-| #.2348 | AS16509 | Japan | |
-| #.BA3E | AS16509 | Japan | |
-| #.1F34 | AS63949 | Japan | 12 hrs offline |
-| #.B4BA | AS16509 | Japan | 12 hrs offline |
-| #.EA4E | AS16509 | Japan | 12 hrs offline |
-| #.53F0 | AS63949 | Japan | 12 hrs offline |
-| #.73F4 | AS63949 | Japan | 167 hrs |
-| #.6A4C | AS16509 | Japan | 12 hrs offline |
-| #.5E6B | AS63949 | Japan | 12 hrs offline |
-| #.BB03 | AS16509 | Japan | 12 hrs offline |
-| #.3430 | AS16509 | Japan | 12 hrs offline |
-| #.C806 | AS63949 | Japan | 12 hrs offline |
-| #.FEC8 | AS63949 | Japan | 12 hrs offline |
-| #.4C8C | AS63949 | Japan | 12 hrs offline |
-| #.B06B | AS63949 | Japan | 12 hrs offline |
-| #.6B57 | AS63949 | Japan | 12 hrs offline |
-| #.82CA | AS16509 | Japan | |
-| #.55A9 | AS16509 | Japan | |
-| #.217C | AS16509 | Japan | |
-| #.9824 | AS16509 | Japan | |
-| #.4DE7 | AS16509 | Japan | |
-| #.7827 | AS16509 | Japan | |
-| #.0BF7 | AS63949 | Japan | 12 hrs offline |
-| #.6BE9 | AS16509 | Japan | |
+| #.3CF2 | AS16509 | Japan | 13 hrs offline |
+| #.F8B9 | AS63949 | Japan | 1 hrs |
+| #.4A84 | AS63949 | Japan | 1 hrs |
+| #.070D | AS63949 | Japan | 1 hrs |
+| #.84B2 | AS63949 | Japan | 1 hrs |
+| #.B06F | AS63949 | Japan | 1 hrs |
+| #.4A15 | AS63949 | Japan | 1 hrs |
+| #.415E | AS63949 | Japan | 1 hrs |
+| #.0D73 | AS16509 | Japan | 1 hrs |
+| #.8D09 | AS63949 | Japan | 1 hrs |
+| #.C5DC | AS63949 | Japan | 1 hrs |
+| #.A6D2 | AS16509 | Japan | 1 hrs |
+| #.31C9 | AS16509 | Japan | 1 hrs |
+| #.9407 | AS16509 | Japan | 1 hrs |
+| #.2348 | AS16509 | Japan | 1 hrs |
+| #.BA3E | AS16509 | Japan | 1 hrs |
+| #.831C | AS63949 | Japan | 1 hrs |
+| #.B06B | AS63949 | Japan | 13 hrs offline |
+| #.EA4E | AS16509 | Japan | 13 hrs offline |
+| #.BB03 | AS16509 | Japan | 13 hrs offline |
+| #.1F34 | AS63949 | Japan | 13 hrs offline |
+| #.5E6B | AS63949 | Japan | 13 hrs offline |
+| #.3430 | AS16509 | Japan | 13 hrs offline |
+| #.FEC8 | AS63949 | Japan | 13 hrs offline |
+| #.6A4C | AS16509 | Japan | 13 hrs offline |
+| #.4C8C | AS63949 | Japan | 13 hrs offline |
+| #.C806 | AS63949 | Japan | 13 hrs offline |
+| #.53F0 | AS63949 | Japan | 13 hrs offline |
+| #.6B57 | AS63949 | Japan | 13 hrs offline |
+| #.B4BA | AS16509 | Japan | 13 hrs offline |
+| #.73F4 | AS63949 | Japan | 168 hrs |
+| #.9824 | AS16509 | Japan | 1 hrs |
+| #.4DE7 | AS16509 | Japan | 1 hrs |
+| #.7827 | AS16509 | Japan | 1 hrs |
+| #.6BE9 | AS16509 | Japan | 1 hrs |
+| #.82CA | AS16509 | Japan | 1 hrs |
+| #.55A9 | AS16509 | Japan | 1 hrs |
+| #.217C | AS16509 | Japan | 1 hrs |
+| #.0BF7 | AS63949 | Japan | 13 hrs offline |
 | #.CDF1 | AS35908 | United States | 42 hrs offline |
+| #.6EF8 | AS63949 | Japan | 1 hrs |
 | #.D9FC | AS16509 | Japan | 12 hrs offline |
 | #.8A20 | AS16509 | Japan | 1 hrs |
 | #.C30F | AS16509 | Japan | 12 hrs offline |
