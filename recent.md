@@ -1,6 +1,6 @@
-# 45 recent servers:
+# 46 recent servers:
 
-Latest update at: Tue Dec 17 11:10:10 UTC 2019
+Latest update at: Tue Dec 17 12:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -46,6 +46,7 @@ Latest update at: Tue Dec 17 11:10:10 UTC 2019
 | #.0747 | AS3462 | Taiwan | 49 hrs offline |
 | #.F7AC | AS63930 | Singapore | 10 hrs offline |
 | #.3F99 | AS16509 | Japan | 1 hrs |
+| #.40C4 | AS45102 | China | |
 | #.EB76 | AS9009 | Singapore | 44 hrs |
 | #.7E1D | AS3462 | Taiwan | 45 hrs |
 | #.1602 | AS35916 | United States | 3 hrs |
