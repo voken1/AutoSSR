@@ -1,6 +1,6 @@
-# 38 online servers:
+# 39 online servers:
 
-Latest update at: Wed Dec 18 16:10:08 UTC 2019
+Latest update at: Wed Dec 18 17:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -39,6 +39,7 @@ Latest update at: Wed Dec 18 16:10:08 UTC 2019
 | #.E6AC | AS16509 | Japan | 1 hrs |
 | #.59EB | AS16509 | Japan | 31 hrs |
 | #.B5BA | AS16509 | Japan | 31 hrs |
+| #.5E9F | AS16509 | Singapore | 1 hrs |
 | #.EB76 | AS9009 | Singapore | 23 hrs |
 | #.7E1D | AS3462 | Taiwan | 7 hrs |
 | #.1602 | AS35916 | United States | 1 hrs |
