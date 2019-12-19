@@ -1,6 +1,6 @@
-# 91 recent servers:
+# 84 recent servers:
 
-Latest update at: Thu Dec 19 12:10:11 UTC 2019
+Latest update at: Thu Dec 19 13:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -27,17 +27,14 @@ Latest update at: Thu Dec 19 12:10:11 UTC 2019
 | #.14D9 | AS49392 | Russia | 5 hrs |
 | #.F31B | AS20150 | United States | 18 hrs offline |
 | #.02F6 | AS4760 | Hong Kong | 36 hrs offline |
-| #.8DB9 | AS63949 | Japan | 60 hrs offline |
 | #.E92D | AS16509 | Japan | 1 hrs |
 | #.E0CF | AS63949 | Germany | 39 hrs |
-| #.4E02 | AS16509 | Japan | 60 hrs offline |
 | #.0D73 | AS16509 | Japan | 60 hrs offline |
 | #.831C | AS63949 | Japan | 60 hrs offline |
 | #.BA3E | AS16509 | Japan | 60 hrs offline |
 | #.415E | AS63949 | Japan | 60 hrs offline |
 | #.4A15 | AS63949 | Japan | 60 hrs offline |
 | #.C5DC | AS63949 | Japan | 60 hrs offline |
-| #.F8B9 | AS63949 | Japan | 60 hrs offline |
 | #.4A84 | AS63949 | Japan | 60 hrs offline |
 | #.8D09 | AS63949 | Japan | 60 hrs offline |
 | #.A6D2 | AS16509 | Japan | 60 hrs offline |
@@ -47,7 +44,6 @@ Latest update at: Thu Dec 19 12:10:11 UTC 2019
 | #.B06F | AS63949 | Japan | 60 hrs offline |
 | #.9407 | AS16509 | Japan | 60 hrs offline |
 | #.2348 | AS16509 | Japan | 60 hrs offline |
-| #.73F4 | AS63949 | Japan | 60 hrs offline |
 | #.7827 | AS16509 | Japan | 60 hrs offline |
 | #.82CA | AS16509 | Japan | 60 hrs offline |
 | #.217C | AS16509 | Japan | 60 hrs offline |
@@ -83,15 +79,12 @@ Latest update at: Thu Dec 19 12:10:11 UTC 2019
 | #.DBAB | AS16509 | Japan | 3 hrs |
 | #.DDA0 | AS16509 | Japan | 67 hrs |
 | #.DBD2 | AS16509 | Japan | 3 hrs |
-| #.8A20 | AS16509 | Japan | 60 hrs offline |
 | #.EF1E | AS3462 | Taiwan | 1 hrs |
 | #.B5BA | AS16509 | Japan | 3 hrs |
 | #.9242 | AS63949 | Japan | 6 hrs |
-| #.3F99 | AS16509 | Japan | 60 hrs offline |
 | #.5E9F | AS16509 | Singapore | 36 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 6 hrs |
 | #.EB76 | AS9009 | Singapore | 2 hrs |
-| #.2AED | AS16509 | Japan | 60 hrs offline |
 | #.48C3 | AS4760 | Hong Kong | 38 hrs offline |
 | #.1602 | AS35916 | United States | 1 hrs |
 | #.CF05 | AS20473 | Australia | 2 hrs |
