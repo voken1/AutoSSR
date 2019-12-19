@@ -1,6 +1,6 @@
-# 65 recent servers:
+# 66 recent servers:
 
-Latest update at: Thu Dec 19 19:10:11 UTC 2019
+Latest update at: Thu Dec 19 20:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -60,6 +60,7 @@ Latest update at: Thu Dec 19 19:10:11 UTC 2019
 | #.DBD2 | AS16509 | Japan | 6 hrs |
 | #.E6AC | AS16509 | Japan | 2 hrs offline |
 | #.1E0A | AS20473 | Japan | 13 hrs |
+| #.2DBF | AS20473 | United States | 1 hrs |
 | #.EF1E | AS3462 | Taiwan | 4 hrs |
 | #.B5BA | AS16509 | Japan | 3 hrs |
 | #.9242 | AS63949 | Japan | 1 hrs |
