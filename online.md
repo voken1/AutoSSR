@@ -1,6 +1,6 @@
-# 43 online servers:
+# 45 online servers:
 
-Latest update at: Thu Dec 19 11:10:11 UTC 2019
+Latest update at: Thu Dec 19 12:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -13,10 +13,12 @@ Latest update at: Thu Dec 19 11:10:11 UTC 2019
 | #.7F1D | AS63949 | Singapore | 2 hrs |
 | #.3988 | AS63949 | Germany | 267 hrs |
 | #.7E83 | AS63949 | Japan | 12 hrs |
-| #.EAA5 | AS63949 | Japan | 5 hrs |
+| #.EAA5 | AS63949 | Japan | 6 hrs |
 | #.9FC3 | AS53889 | United States | 10 hrs |
-| #.EF09 | AS63949 | United States | 7 hrs |
-| #.FB89 | AS63949 | United States | 1 hrs |
+| #.36E7 | AS63949 | Japan | 1 hrs |
+| #.C571 | AS63949 | Japan | 1 hrs |
+| #.EF09 | AS63949 | United States | 8 hrs |
+| #.FB89 | AS63949 | United States | 2 hrs |
 | #.EBB7 | AS16509 | Japan | 1 hrs |
 | #.14D9 | AS49392 | Russia | 5 hrs |
 | #.E92D | AS16509 | Japan | 1 hrs |
@@ -40,11 +42,11 @@ Latest update at: Thu Dec 19 11:10:11 UTC 2019
 | #.DBAB | AS16509 | Japan | 3 hrs |
 | #.DDA0 | AS16509 | Japan | 67 hrs |
 | #.DBD2 | AS16509 | Japan | 3 hrs |
-| #.9242 | AS63949 | Japan | 5 hrs |
 | #.EF1E | AS3462 | Taiwan | 1 hrs |
 | #.B5BA | AS16509 | Japan | 3 hrs |
+| #.9242 | AS63949 | Japan | 6 hrs |
 | #.7E1D | AS3462 | Taiwan | 6 hrs |
 | #.EB76 | AS9009 | Singapore | 2 hrs |
 | #.1602 | AS35916 | United States | 1 hrs |
-| #.CF05 | AS20473 | Australia | 1 hrs |
+| #.CF05 | AS20473 | Australia | 2 hrs |
 
