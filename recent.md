@@ -1,6 +1,6 @@
-# 68 recent servers:
+# 100 recent servers:
 
-Latest update at: Fri Dec 20 01:10:10 UTC 2019
+Latest update at: Fri Dec 20 02:10:18 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -21,11 +21,19 @@ Latest update at: Fri Dec 20 01:10:10 UTC 2019
 | #.36E7 | AS63949 | Japan | 10 hrs offline |
 | #.C571 | AS63949 | Japan | 10 hrs offline |
 | #.EF09 | AS63949 | United States | 10 hrs offline |
+| #.743C | AS63949 | Japan | |
 | #.FB89 | AS63949 | United States | 10 hrs offline |
+| #.7876 | AS16509 | Japan | |
 | #.D827 | AS20150 | United States | 30 hrs |
+| #.978F | AS63949 | Japan | |
+| #.18BB | AS63949 | Japan | |
+| #.026A | AS16509 | Japan | |
 | #.EBB7 | AS16509 | Japan | 1 hrs |
 | #.14D9 | AS49392 | Russia | 13 hrs |
 | #.F31B | AS20150 | United States | 48 hrs offline |
+| #.CE75 | AS63949 | Japan | |
+| #.453F | AS63949 | Japan | |
+| #.BD70 | AS63949 | Japan | |
 | #.02F6 | AS4760 | Hong Kong | 60 hrs offline |
 | #.E92D | AS16509 | Japan | 9 hrs offline |
 | #.E0CF | AS63949 | Germany | 69 hrs |
@@ -63,7 +71,14 @@ Latest update at: Fri Dec 20 01:10:10 UTC 2019
 | #.2DBF | AS20473 | United States | 13 hrs |
 | #.B5BA | AS16509 | Japan | 10 hrs offline |
 | #.9242 | AS63949 | Japan | 10 hrs offline |
+| #.4EBC | AS63949 | Japan | |
+| #.ED57 | AS63949 | Japan | |
+| #.50AB | AS63949 | Japan | |
 | #.EF1E | AS3462 | Taiwan | 16 hrs |
+| #.32B9 | AS63949 | Japan | |
+| #.E02E | AS63949 | Japan | |
+| #.6403 | AS63949 | Japan | |
+| #.92F5 | AS16509 | Japan | |
 | #.5E9F | AS16509 | Singapore | 24 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 36 hrs |
 | #.EB76 | AS9009 | Singapore | 24 hrs |
@@ -72,4 +87,21 @@ Latest update at: Fri Dec 20 01:10:10 UTC 2019
 | #.7B41 | AS20473 | France | 7 hrs |
 | #.1602 | AS35916 | United States | 4 hrs |
 | #.CF05 | AS20473 | Australia | 32 hrs |
+| #.8806 | AS16509 | Japan | |
+| #.D3FA | AS16509 | Japan | |
+| #.A431 | AS16509 | Japan | |
+| #.53C6 | AS16509 | Japan | |
+| #.D756 | AS16509 | Japan | |
+| #.339A | AS16509 | Japan | |
+| #.8DC5 | AS63949 | United States | |
+| #.321C | AS16509 | Japan | |
+| #.1175 | AS16509 | Japan | |
+| #.6AED | AS16509 | Japan | |
+| #.5DF0 | AS16509 | Japan | |
+| #.C4F7 | AS16509 | Japan | |
+| #.A3D0 | AS16509 | Japan | |
+| #.75E3 | AS16509 | Japan | |
+| #.17F9 | AS63949 | United States | |
+| #.4017 | AS63949 | United States | |
+| #.8BD3 | AS63949 | United States | |
 
