@@ -1,6 +1,6 @@
 # 88 recent servers:
 
-Latest update at: Fri Dec 20 12:10:11 UTC 2019
+Latest update at: Fri Dec 20 13:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -90,6 +90,6 @@ Latest update at: Fri Dec 20 12:10:11 UTC 2019
 | #.BD70 | AS63949 | Japan | 25 hrs |
 | #.E02E | AS63949 | Japan | 25 hrs |
 | #.8806 | AS16509 | Japan | 6 hrs |
-| #.E0CF | AS63949 | Germany | 93 hrs |
 | #.743C | AS63949 | Japan | 25 hrs |
+| #.E0CF | AS63949 | Germany | 93 hrs |
 
