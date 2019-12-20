@@ -1,6 +1,6 @@
 # 88 recent servers:
 
-Latest update at: Fri Dec 20 10:10:09 UTC 2019
+Latest update at: Fri Dec 20 11:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -29,7 +29,6 @@ Latest update at: Fri Dec 20 10:10:09 UTC 2019
 | #.CE75 | AS63949 | Japan | 19 hrs |
 | #.453F | AS63949 | Japan | 19 hrs |
 | #.E92D | AS16509 | Japan | 27 hrs offline |
-| #.E0CF | AS63949 | Germany | 87 hrs |
 | #.852C | AS63949 | United States | 28 hrs offline |
 | #.8F12 | AS63949 | United States | 28 hrs offline |
 | #.C0E9 | AS16509 | Japan | 26 hrs offline |
@@ -43,12 +42,12 @@ Latest update at: Fri Dec 20 10:10:09 UTC 2019
 | #.86EC | AS63949 | Japan | 28 hrs offline |
 | #.DDA0 | AS16509 | Japan | 26 hrs offline |
 | #.EB0E | AS16509 | Japan | 27 hrs offline |
-| #.DBD2 | AS16509 | Japan | 26 hrs offline |
 | #.59EB | AS16509 | Japan | 28 hrs offline |
 | #.8169 | AS16509 | Japan | 26 hrs offline |
 | #.DBAB | AS16509 | Japan | 28 hrs offline |
 | #.E6AC | AS16509 | Japan | 26 hrs offline |
 | #.42FE | AS16509 | Japan | 26 hrs offline |
+| #.DBD2 | AS16509 | Japan | 27 hrs offline |
 | #.2DBF | AS20473 | United States | 1 hrs offline |
 | #.1E0A | AS20473 | Japan | 1 hrs |
 | #.9ED9 | AS20473 | United States | 7 hrs |
@@ -61,9 +60,9 @@ Latest update at: Fri Dec 20 10:10:09 UTC 2019
 | #.32B9 | AS63949 | Japan | 19 hrs |
 | #.6403 | AS63949 | Japan | 19 hrs |
 | #.9242 | AS63949 | Japan | 28 hrs offline |
-| #.7E1D | AS3462 | Taiwan | 54 hrs |
-| #.5E9F | AS16509 | Singapore | 42 hrs offline |
 | #.EB76 | AS9009 | Singapore | 42 hrs |
+| #.5E9F | AS16509 | Singapore | 42 hrs offline |
+| #.7E1D | AS3462 | Taiwan | 54 hrs |
 | #.1602 | AS35916 | United States | 2 hrs |
 | #.CF05 | AS20473 | Australia | 50 hrs |
 | #.1843 | AS20473 | France | 1 hrs |
@@ -92,4 +91,5 @@ Latest update at: Fri Dec 20 10:10:09 UTC 2019
 | #.8BD3 | AS63949 | United States | 19 hrs |
 | #.C4F7 | AS16509 | Japan | 3 hrs offline |
 | #.743C | AS63949 | Japan | 19 hrs |
+| #.E0CF | AS63949 | Germany | 87 hrs |
 
