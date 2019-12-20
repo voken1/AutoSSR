@@ -1,38 +1,36 @@
-# 51 online servers:
+# 50 online servers:
 
-Latest update at: Fri Dec 20 13:10:13 UTC 2019
+Latest update at: Fri Dec 20 14:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 18 hrs |
-| #.46A5 | AS131622 | Taiwan | 1 hrs |
-| #.2A79 | AS63949 | Japan | 6 hrs |
-| #.42A0 | AS63949 | Japan | 69 hrs |
-| #.3988 | AS63949 | Germany | 321 hrs |
-| #.7F1D | AS63949 | Singapore | 18 hrs |
-| #.9FC3 | AS53889 | United States | 64 hrs |
-| #.D827 | AS20150 | United States | 6 hrs |
+| #.D09B | AS174 | United States | 19 hrs |
+| #.46A5 | AS131622 | Taiwan | 2 hrs |
+| #.2A79 | AS63949 | Japan | 7 hrs |
+| #.7F1D | AS63949 | Singapore | 19 hrs |
+| #.3988 | AS63949 | Germany | 322 hrs |
+| #.42A0 | AS63949 | Japan | 70 hrs |
+| #.9FC3 | AS53889 | United States | 65 hrs |
+| #.D827 | AS20150 | United States | 7 hrs |
 | #.978F | AS63949 | Japan | 25 hrs |
-| #.EBB7 | AS16509 | Japan | 1 hrs |
-| #.14D9 | AS49392 | Russia | 5 hrs |
 | #.CE75 | AS63949 | Japan | 25 hrs |
 | #.453F | AS63949 | Japan | 25 hrs |
-| #.9D28 | AS63949 | Japan | 122 hrs |
+| #.9D28 | AS63949 | Japan | 123 hrs |
 | #.9ED9 | AS20473 | United States | 13 hrs |
 | #.2DBF | AS20473 | United States | 1 hrs |
 | #.1E0A | AS20473 | Japan | 2 hrs |
 | #.32B9 | AS63949 | Japan | 25 hrs |
-| #.EF1E | AS3462 | Taiwan | 2 hrs |
 | #.50AB | AS63949 | Japan | 25 hrs |
 | #.6403 | AS63949 | Japan | 25 hrs |
 | #.4EBC | AS63949 | Japan | 25 hrs |
 | #.ED57 | AS63949 | Japan | 25 hrs |
 | #.92F5 | AS16509 | Japan | 25 hrs |
-| #.7E1D | AS3462 | Taiwan | 60 hrs |
-| #.EB76 | AS9009 | Singapore | 48 hrs |
+| #.EB76 | AS9009 | Singapore | 49 hrs |
+| #.7E1D | AS3462 | Taiwan | 61 hrs |
 | #.CF05 | AS20473 | Australia | 56 hrs |
 | #.1843 | AS20473 | France | 7 hrs |
 | #.7B41 | AS20473 | France | 31 hrs |
+| #.1602 | AS35916 | United States | 1 hrs |
 | #.53C6 | AS16509 | Japan | 25 hrs |
 | #.D756 | AS16509 | Japan | 25 hrs |
 | #.339A | AS16509 | Japan | 25 hrs |
@@ -54,5 +52,6 @@ Latest update at: Fri Dec 20 13:10:13 UTC 2019
 | #.E02E | AS63949 | Japan | 25 hrs |
 | #.8806 | AS16509 | Japan | 6 hrs |
 | #.743C | AS63949 | Japan | 25 hrs |
-| #.E0CF | AS63949 | Germany | 93 hrs |
+| #.CC70 | AS36352 | United States | 1 hrs |
+| #.E0CF | AS63949 | Germany | 94 hrs |
 
