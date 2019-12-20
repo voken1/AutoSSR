@@ -1,6 +1,6 @@
-# 89 recent servers:
+# 91 recent servers:
 
-Latest update at: Fri Dec 20 15:10:10 UTC 2019
+Latest update at: Fri Dec 20 16:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,6 +17,7 @@ Latest update at: Fri Dec 20 15:10:10 UTC 2019
 | #.3988 | AS63949 | Germany | 327 hrs |
 | #.7E83 | AS63949 | Japan | 40 hrs offline |
 | #.EAA5 | AS63949 | Japan | 40 hrs offline |
+| #.8E68 | AS25820 | United States | |
 | #.9FC3 | AS53889 | United States | 70 hrs |
 | #.36E7 | AS63949 | Japan | 40 hrs offline |
 | #.C571 | AS63949 | Japan | 40 hrs offline |
@@ -90,6 +91,7 @@ Latest update at: Fri Dec 20 15:10:10 UTC 2019
 | #.339A | AS16509 | Japan | 31 hrs |
 | #.8DC5 | AS63949 | United States | 31 hrs |
 | #.8806 | AS16509 | Japan | 1 hrs offline |
+| #.06FE | N/A | N/A | |
 | #.E0CF | AS63949 | Germany | 99 hrs |
 | #.743C | AS63949 | Japan | 31 hrs |
 | #.CC70 | AS36352 | United States | 7 hrs |
