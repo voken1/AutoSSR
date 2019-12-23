@@ -1,6 +1,6 @@
-# 18 online servers:
+# 19 online servers:
 
-Latest update at: Mon Dec 23 05:10:09 UTC 2019
+Latest update at: Mon Dec 23 06:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -11,15 +11,16 @@ Latest update at: Mon Dec 23 05:10:09 UTC 2019
 | #.7F1D | AS63949 | Singapore | 32 hrs |
 | #.9FC3 | AS53889 | United States | 213 hrs |
 | #.D827 | AS20150 | United States | 6 hrs |
-| #.14D9 | AS49392 | Russia | 11 hrs |
-| #.8E06 | AS16509 | Japan | 2 hrs |
+| #.14D9 | AS49392 | Russia | 12 hrs |
+| #.8E06 | AS16509 | Japan | 3 hrs |
 | #.9ED9 | AS20473 | United States | 4 hrs |
-| #.2DBF | AS20473 | United States | 4 hrs |
-| #.7E1D | AS3462 | Taiwan | 92 hrs |
+| #.1E0A | AS20473 | Japan | 1 hrs |
+| #.2DBF | AS20473 | United States | 5 hrs |
 | #.EB76 | AS9009 | Singapore | 41 hrs |
-| #.1602 | AS35916 | United States | 8 hrs |
-| #.CF05 | AS20473 | Australia | 9 hrs |
-| #.7B41 | AS20473 | France | 1 hrs |
+| #.7E1D | AS3462 | Taiwan | 93 hrs |
+| #.1602 | AS35916 | United States | 9 hrs |
+| #.CF05 | AS20473 | Australia | 10 hrs |
+| #.7B41 | AS20473 | France | 2 hrs |
 | #.06FE |  |  | 2 hrs |
 | #.E0CF | AS63949 | Germany | 242 hrs |
 

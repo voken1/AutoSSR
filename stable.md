@@ -1,6 +1,6 @@
 # 9 stable servers:
 
-Latest update at: Mon Dec 23 05:10:09 UTC 2019
+Latest update at: Mon Dec 23 06:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -10,7 +10,7 @@ Latest update at: Mon Dec 23 05:10:09 UTC 2019
 | #.3988 | AS63949 | Germany | 470 hrs |
 | #.7F1D | AS63949 | Singapore | 32 hrs |
 | #.9FC3 | AS53889 | United States | 213 hrs |
-| #.7E1D | AS3462 | Taiwan | 92 hrs |
 | #.EB76 | AS9009 | Singapore | 41 hrs |
+| #.7E1D | AS3462 | Taiwan | 93 hrs |
 | #.E0CF | AS63949 | Germany | 242 hrs |
 
