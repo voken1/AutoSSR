@@ -1,6 +1,6 @@
 # 66 recent servers:
 
-Latest update at: Tue Dec 24 15:10:08 UTC 2019
+Latest update at: Tue Dec 24 16:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -63,11 +63,11 @@ Latest update at: Tue Dec 24 15:10:08 UTC 2019
 | #.DCDA | AS16509 | Japan | 2 hrs |
 | #.8420 | AS63949 | United States | 55 hrs |
 | #.573E | AS63949 | United States | 55 hrs |
-| #.F618 | AS17621 | China | |
 | #.D790 | AS3462 | Taiwan | |
 | #.3BD4 | AS4837 | China | |
 | #.DBBF | AS4837 | China | |
-| #.110E | AS9269 | Hong Kong | |
+| #.F618 | AS9009 | Japan | 1 hrs |
 | #.DC2B | AS37963 | China | |
 | #.AB45 | AS37963 | China | |
+| #.110E | AS9269 | Hong Kong | 1 hrs |
 
