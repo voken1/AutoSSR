@@ -1,6 +1,6 @@
-# 99 recent servers:
+# 100 recent servers:
 
-Latest update at: Wed Dec 25 03:10:07 UTC 2019
+Latest update at: Wed Dec 25 04:10:13 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -103,4 +103,5 @@ Latest update at: Wed Dec 25 03:10:07 UTC 2019
 | #.FB4A | AS63949 | Japan | 5 hrs |
 | #.0415 | AS63949 | Japan | 5 hrs |
 | #.81C2 | AS63949 | Japan | 5 hrs |
+| #.B2EA | AS9009 | Japan | |
 
