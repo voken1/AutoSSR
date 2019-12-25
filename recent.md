@@ -1,6 +1,6 @@
-# 105 recent servers:
+# 109 recent servers:
 
-Latest update at: Wed Dec 25 16:10:11 UTC 2019
+Latest update at: Wed Dec 25 17:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -109,4 +109,8 @@ Latest update at: Wed Dec 25 16:10:11 UTC 2019
 | #.5A45 | AS16509 | Japan | 2 hrs |
 | #.35C5 | AS4760 | Hong Kong | |
 | #.B0BE | AS4760 | Hong Kong | |
+| #.566A | AS137872 | Hong Kong | |
+| #.2B69 | AS4760 | Hong Kong | |
+| #.F804 | AS4760 | Hong Kong | |
+| #.98D8 | AS4760 | Hong Kong | |
 
