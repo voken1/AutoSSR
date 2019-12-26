@@ -1,30 +1,30 @@
 # 106 recent servers:
 
-Latest update at: Thu Dec 26 13:10:11 UTC 2019
+Latest update at: Thu Dec 26 14:10:10 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 1 hrs offline |
+| #.D09B | AS174 | United States | 1 hrs |
 | #.46A5 | AS131622 | Taiwan | 11 hrs |
-| #.2A79 | AS63949 | Japan | 45 hrs offline |
+| #.2A79 | AS63949 | Japan | 46 hrs offline |
+| #.7F1D | AS63949 | Singapore | 5 hrs |
 | #.42A0 | AS63949 | Japan | 18 hrs offline |
 | #.3988 | AS63949 | Germany | 60 hrs offline |
-| #.7F1D | AS63949 | Singapore | 4 hrs |
 | #.9FC3 | AS53889 | United States | 2 hrs |
 | #.7545 | AS16509 | Japan | 60 hrs offline |
-| #.EBB7 | AS16509 | Japan | 2 hrs |
-| #.14D9 | AS49392 | Russia | 6 hrs |
+| #.EBB7 | AS16509 | Japan | 1 hrs offline |
+| #.14D9 | AS49392 | Russia | 1 hrs offline |
 | #.E97C | AS16509 | Japan | 60 hrs offline |
 | #.DD17 | AS63949 | Japan | 60 hrs offline |
 | #.1E0A | AS20473 | Japan | 3 hrs |
 | #.9ED9 | AS20473 | United States | 2 hrs offline |
 | #.2DBF | AS20473 | United States | 1 hrs offline |
 | #.EF1E | AS3462 | Taiwan | 45 hrs offline |
-| #.7E1D | AS3462 | Taiwan | 7 hrs |
-| #.CF05 | AS20473 | Australia | 1 hrs offline |
+| #.7E1D | AS3462 | Taiwan | 8 hrs |
 | #.7B41 | AS20473 | France | 5 hrs |
+| #.1602 | AS35916 | United States | 1 hrs |
+| #.CF05 | AS20473 | Australia | 2 hrs offline |
 | #.1843 | AS20473 | France | 1 hrs offline |
-| #.1602 | AS35916 | United States | 1 hrs offline |
 | #.E0CF | AS63949 | Germany | 35 hrs |
 | #.B096 | AS16509 | Japan | 60 hrs offline |
 | #.30F8 | AS63949 | Japan | 153 hrs |
@@ -105,7 +105,7 @@ Latest update at: Thu Dec 26 13:10:11 UTC 2019
 | #.CF9B | AS3462 | Taiwan | 56 hrs offline |
 | #.FC19 | AS63949 | United States | 73 hrs |
 | #.98D8 | AS4760 | Hong Kong | 1 hrs offline |
-| #.045C | AS47196 | Russia | 28 hrs offline |
+| #.045C | AS47196 | Russia | 29 hrs offline |
 | #.30AA | AS4760 | Hong Kong | 44 hrs |
 | #.D58E | AS16509 | Japan | 45 hrs offline |
 | #.2B69 | AS4760 | Hong Kong | 1 hrs offline |
