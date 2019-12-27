@@ -1,6 +1,6 @@
-# 71 recent servers:
+# 102 recent servers:
 
-Latest update at: Fri Dec 27 01:10:09 UTC 2019
+Latest update at: Fri Dec 27 02:10:17 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -75,4 +75,35 @@ Latest update at: Fri Dec 27 01:10:09 UTC 2019
 | #.D58E | AS16509 | Japan | 60 hrs offline |
 | #.98D8 | AS4760 | Hong Kong | 18 hrs offline |
 | #.045C | AS47196 | Russia | 53 hrs offline |
+| #.44AC | AS63949 | Japan | |
+| #.A7A3 | AS16509 | Japan | |
+| #.F755 | AS51659 | Russia | |
+| #.D8E1 | AS63949 | Japan | |
+| #.F499 | AS63949 | Japan | |
+| #.B4A7 | AS63949 | Japan | |
+| #.F565 | AS63949 | Japan | |
+| #.4A58 | AS63949 | Japan | |
+| #.B130 | AS63949 | Japan | |
+| #.AE58 | AS63949 | Japan | |
+| #.CCD4 | AS63949 | Japan | |
+| #.5BE2 | AS16509 | Japan | |
+| #.2E0B | AS16509 | Japan | |
+| #.B19A | AS16509 | Japan | |
+| #.AD82 | AS16509 | Japan | |
+| #.4191 | AS16509 | Japan | |
+| #.A7F5 | AS16509 | Japan | |
+| #.F3B7 | AS16509 | Japan | |
+| #.7437 | AS16509 | Japan | |
+| #.0D90 | AS16509 | Japan | |
+| #.A378 | AS63949 | United States | |
+| #.64C3 | AS16509 | Japan | |
+| #.5646 | AS16509 | Japan | |
+| #.8E98 | AS16509 | Japan | |
+| #.765D | AS16509 | Japan | |
+| #.B4FD | AS16509 | Japan | |
+| #.4E2A | AS16509 | Japan | |
+| #.227F | AS16509 | Japan | |
+| #.D536 | AS63949 | United States | |
+| #.AEE9 | AS63949 | United States | |
+| #.0172 | AS63949 | United States | |
 
