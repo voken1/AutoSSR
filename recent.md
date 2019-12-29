@@ -1,6 +1,6 @@
-# 60 recent servers:
+# 61 recent servers:
 
-Latest update at: Sun Dec 29 05:10:10 UTC 2019
+Latest update at: Sun Dec 29 06:10:11 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -64,4 +64,5 @@ Latest update at: Sun Dec 29 05:10:10 UTC 2019
 | #.B139 | AS8075 | Hong Kong | 26 hrs |
 | #.E069 | AS40065 | United States | 25 hrs |
 | #.46B2 | AS51659 | Russia | 10 hrs offline |
+| #.0738 | AS4609 | Macao | |
 
