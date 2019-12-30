@@ -1,11 +1,12 @@
-# 51 online servers:
+# 52 online servers:
 
-Latest update at: Mon Dec 30 09:10:19 UTC 2019
+Latest update at: Mon Dec 30 10:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 2 hrs |
 | #.7F1D | AS63949 | Singapore | 40 hrs |
+| #.42A0 | AS63949 | Japan | 1 hrs |
 | #.9FC3 | AS53889 | United States | 56 hrs |
 | #.EBB7 | AS16509 | Japan | 1 hrs |
 | #.5CBD | AS48347 | Russia | 43 hrs |
