@@ -1,6 +1,6 @@
-# 49 online servers:
+# 48 online servers:
 
-Latest update at: Mon Dec 30 13:10:08 UTC 2019
+Latest update at: Mon Dec 30 14:10:09 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -18,7 +18,6 @@ Latest update at: Mon Dec 30 13:10:08 UTC 2019
 | #.48C3 | AS4760 | Hong Kong | 2 hrs |
 | #.1843 | AS20473 | France | 1 hrs |
 | #.E0CF | AS63949 | Germany | 142 hrs |
-| #.2B69 | AS4760 | Hong Kong | 3 hrs |
 | #.0D90 | AS16509 | Japan | 12 hrs |
 | #.9752 | AS63949 | Japan | 24 hrs |
 | #.6775 | AS63949 | Japan | 24 hrs |
