@@ -1,49 +1,50 @@
-# 98 recent servers:
+# 99 recent servers:
 
-Latest update at: Mon Dec 30 10:10:08 UTC 2019
+Latest update at: Mon Dec 30 11:10:08 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 2 hrs |
-| #.46A5 | AS131622 | Taiwan | 48 hrs offline |
-| #.7F1D | AS63949 | Singapore | 40 hrs |
+| #.D09B | AS174 | United States | 3 hrs |
+| #.46A5 | AS131622 | Taiwan | 49 hrs offline |
+| #.2A79 | AS63949 | Japan | 1 hrs |
+| #.7F1D | AS63949 | Singapore | 41 hrs |
 | #.42A0 | AS63949 | Japan | 1 hrs |
-| #.9FC3 | AS53889 | United States | 56 hrs |
-| #.EBB7 | AS16509 | Japan | 1 hrs |
+| #.9FC3 | AS53889 | United States | 57 hrs |
+| #.EBB7 | AS16509 | Japan | 2 hrs |
 | #.5CBD | AS48347 | Russia | 43 hrs |
-| #.14D9 | AS49392 | Russia | 5 hrs |
+| #.14D9 | AS49392 | Russia | 1 hrs offline |
 | #.02F6 | AS4760 | Hong Kong | 2 hrs offline |
 | #.2DBF | AS20473 | United States | 1 hrs |
-| #.9ED9 | AS20473 | United States | 1 hrs |
+| #.9ED9 | AS20473 | United States | 2 hrs |
 | #.1E0A | AS20473 | Japan | 1 hrs offline |
-| #.7E1D | AS3462 | Taiwan | 3 hrs |
-| #.CF05 | AS20473 | Australia | 2 hrs |
+| #.7E1D | AS3462 | Taiwan | 4 hrs |
+| #.CF05 | AS20473 | Australia | 3 hrs |
 | #.7B41 | AS20473 | France | 2 hrs |
 | #.48C3 | AS4760 | Hong Kong | 7 hrs |
 | #.1843 | AS20473 | France | 2 hrs |
-| #.1602 | AS35916 | United States | 1 hrs |
-| #.E0CF | AS63949 | Germany | 136 hrs |
+| #.1602 | AS35916 | United States | 1 hrs offline |
+| #.E0CF | AS63949 | Germany | 137 hrs |
 | #.DC2B | AS45102 | China | 37 hrs offline |
 | #.2E74 | AS63949 | Japan | 25 hrs offline |
 | #.DE59 | AS63949 | Japan | 25 hrs offline |
-| #.566A | AS137872 | Hong Kong | 37 hrs offline |
-| #.A7A3 | AS16509 | Japan | 24 hrs offline |
+| #.566A | AS137872 | Hong Kong | 38 hrs offline |
+| #.D8E1 | AS63949 | Japan | 26 hrs offline |
+| #.2B69 | AS4760 | Hong Kong | 3 hrs |
 | #.AD82 | AS16509 | Japan | 24 hrs offline |
 | #.CCD4 | AS63949 | Japan | 26 hrs offline |
-| #.98D8 | AS4760 | Hong Kong | 36 hrs offline |
+| #.F499 | AS63949 | Japan | 26 hrs offline |
 | #.AE58 | AS63949 | Japan | 25 hrs offline |
 | #.2E0B | AS16509 | Japan | 24 hrs offline |
-| #.2B69 | AS4760 | Hong Kong | 2 hrs |
+| #.F804 | AS4760 | Hong Kong | 37 hrs offline |
 | #.B19A | AS16509 | Japan | 24 hrs offline |
-| #.F499 | AS63949 | Japan | 25 hrs offline |
-| #.F804 | AS4760 | Hong Kong | 36 hrs offline |
-| #.B4A7 | AS63949 | Japan | 25 hrs offline |
-| #.D8E1 | AS63949 | Japan | 25 hrs offline |
+| #.44AC | AS63949 | Japan | 26 hrs offline |
+| #.98D8 | AS4760 | Hong Kong | 37 hrs offline |
+| #.F565 | AS63949 | Japan | 26 hrs offline |
 | #.B130 | AS63949 | Japan | 26 hrs offline |
-| #.F565 | AS63949 | Japan | 25 hrs offline |
-| #.4A58 | AS63949 | Japan | 25 hrs offline |
+| #.4A58 | AS63949 | Japan | 26 hrs offline |
+| #.B4A7 | AS63949 | Japan | 26 hrs offline |
 | #.5BE2 | AS16509 | Japan | 24 hrs offline |
-| #.44AC | AS63949 | Japan | 25 hrs offline |
+| #.A7A3 | AS16509 | Japan | 25 hrs offline |
 | #.64C3 | AS16509 | Japan | 25 hrs offline |
 | #.5646 | AS16509 | Japan | 25 hrs offline |
 | #.8E98 | AS16509 | Japan | 25 hrs offline |
