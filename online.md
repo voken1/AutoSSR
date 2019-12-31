@@ -1,34 +1,36 @@
-# 48 online servers:
+# 50 online servers:
 
-Latest update at: Tue Dec 31 12:10:16 UTC 2019
+Latest update at: Tue Dec 31 13:10:12 UTC 2019
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 1 hrs |
-| #.E987 | AS4766 | South Korea | 8 hrs |
+| #.7809 | AS45102 | China | 1 hrs |
+| #.E987 | AS4766 | South Korea | 9 hrs |
 | #.2A79 | AS63949 | Japan | 16 hrs |
-| #.15CF | AS49392 | Russia | 15 hrs |
+| #.15CF | AS49392 | Russia | 16 hrs |
 | #.7F1D | AS63949 | Singapore | 55 hrs |
 | #.42A0 | AS63949 | Japan | 58 hrs |
 | #.9FC3 | AS53889 | United States | 114 hrs |
 | #.EBB7 | AS16509 | Japan | 1 hrs |
 | #.5CBD | AS48347 | Russia | 101 hrs |
 | #.14D9 | AS49392 | Russia | 4 hrs |
-| #.1E0A | AS20473 | Japan | 5 hrs |
 | #.7E1D | AS3462 | Taiwan | 61 hrs |
 | #.CF05 | AS20473 | Australia | 9 hrs |
-| #.1843 | AS20473 | France | 2 hrs |
+| #.7B41 | AS20473 | France | 1 hrs |
+| #.1843 | AS20473 | France | 3 hrs |
 | #.1602 | AS35916 | United States | 4 hrs |
 | #.E0CF | AS63949 | Germany | 194 hrs |
 | #.2B69 | AS4760 | Hong Kong | 3 hrs |
-| #.B4FD | AS16509 | Japan | 1 hrs |
 | #.0D90 | AS16509 | Japan | 17 hrs |
-| #.ADE5 | AS63949 | Singapore | 43 hrs |
-| #.9752 | AS63949 | Japan | 75 hrs |
-| #.6775 | AS63949 | Japan | 75 hrs |
-| #.6E0E | AS16509 | Japan | 1 hrs |
-| #.353D | AS63949 | Japan | 75 hrs |
-| #.D0BB | AS63949 | Japan | 75 hrs |
+| #.B4FD | AS16509 | Japan | 2 hrs |
+| #.30AA | AS4760 | Hong Kong | 1 hrs |
+| #.ADE5 | AS63949 | Singapore | 44 hrs |
+| #.9752 | AS63949 | Japan | 76 hrs |
+| #.6775 | AS63949 | Japan | 76 hrs |
+| #.6E0E | AS16509 | Japan | 2 hrs |
+| #.353D | AS63949 | Japan | 76 hrs |
+| #.D0BB | AS63949 | Japan | 76 hrs |
 | #.5D75 | AS63949 | Japan | 75 hrs |
 | #.A784 | AS63949 | Japan | 75 hrs |
 | #.D71F | AS63949 | Japan | 75 hrs |
