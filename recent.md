@@ -1,6 +1,6 @@
-# 66 recent servers:
+# 96 recent servers:
 
-Latest update at: Wed Jan 01 01:10:11 UTC 2020
+Latest update at: Wed Jan 01 02:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,11 +12,41 @@ Latest update at: Wed Jan 01 01:10:11 UTC 2020
 | #.1DBA | AS36352 | United States | 42 hrs offline |
 | #.7F1D | AS63949 | Singapore | 25 hrs |
 | #.42A0 | AS63949 | Japan | 88 hrs |
+| #.488C | AS63949 | Japan | |
+| #.7F01 | AS63949 | Japan | |
+| #.B494 | AS16509 | Japan | |
+| #.7A00 | AS63949 | Japan | |
+| #.6FE1 | AS63949 | Japan | |
 | #.9FC3 | AS53889 | United States | 144 hrs |
+| #.6B8B | AS63949 | Japan | |
+| #.9719 | AS63949 | Japan | |
+| #.5B41 | AS63949 | Japan | |
+| #.6E31 | AS63949 | Japan | |
+| #.A57E | AS63949 | Japan | |
+| #.3326 | AS63949 | Japan | |
+| #.3C33 | AS63949 | Japan | |
+| #.3144 | AS63949 | Japan | |
+| #.B5B0 | AS16509 | Japan | |
+| #.C755 | AS16509 | Japan | |
+| #.EF67 | AS16509 | Japan | |
+| #.B31D | AS16509 | Japan | |
 | #.EBB7 | AS16509 | Japan | 2 hrs offline |
+| #.E924 | AS16509 | Japan | |
 | #.5CBD | AS48347 | Russia | 25 hrs |
+| #.DFB8 | AS16509 | Japan | |
 | #.14D9 | AS49392 | Russia | 17 hrs |
+| #.6271 | AS16509 | Japan | |
+| #.17D8 | AS16509 | Japan | |
 | #.02F6 | AS4760 | Hong Kong | 57 hrs offline |
+| #.A466 | AS63949 | United States | |
+| #.AC34 | AS16509 | Japan | |
+| #.2B64 | AS16509 | Japan | |
+| #.A36B | AS16509 | Japan | |
+| #.86C4 | AS16509 | Japan | |
+| #.2576 | AS16509 | Japan | |
+| #.8FC6 | AS63949 | United States | |
+| #.B661 | AS16509 | Japan | |
+| #.6C99 | AS63949 | United States | |
 | #.2DBF | AS20473 | United States | 24 hrs offline |
 | #.9ED9 | AS20473 | United States | 8 hrs |
 | #.1E0A | AS20473 | Japan | 6 hrs |
