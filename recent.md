@@ -1,6 +1,6 @@
-# 92 recent servers:
+# 89 recent servers:
 
-Latest update at: Wed Jan 01 15:10:10 UTC 2020
+Latest update at: Wed Jan 01 16:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -25,11 +25,10 @@ Latest update at: Wed Jan 01 15:10:10 UTC 2020
 | #.14D9 | AS49392 | Russia | 2 hrs offline |
 | #.6271 | AS16509 | Japan | 2 hrs offline |
 | #.17D8 | AS16509 | Japan | 1 hrs |
-| #.02F6 | AS4760 | Hong Kong | 60 hrs offline |
 | #.AC34 | AS16509 | Japan | 31 hrs |
 | #.2B64 | AS16509 | Japan | 1 hrs |
-| #.B661 | AS16509 | Japan | 30 hrs |
-| #.6C99 | AS63949 | United States | 30 hrs |
+| #.B661 | AS16509 | Japan | 31 hrs |
+| #.6C99 | AS63949 | United States | 31 hrs |
 | #.6B8B | AS63949 | Japan | 31 hrs |
 | #.6E31 | AS63949 | Japan | 31 hrs |
 | #.3C33 | AS63949 | Japan | 31 hrs |
@@ -38,7 +37,7 @@ Latest update at: Wed Jan 01 15:10:10 UTC 2020
 | #.2DBF | AS20473 | United States | 54 hrs offline |
 | #.1E0A | AS20473 | Japan | 1 hrs offline |
 | #.A36B | AS16509 | Japan | 3 hrs |
-| #.8FC6 | AS63949 | United States | 30 hrs |
+| #.8FC6 | AS63949 | United States | 31 hrs |
 | #.3E62 | AS38001 | Singapore | 60 hrs offline |
 | #.488C | AS63949 | Japan | 31 hrs |
 | #.7E1D | AS3462 | Taiwan | 1 hrs |
@@ -46,18 +45,17 @@ Latest update at: Wed Jan 01 15:10:10 UTC 2020
 | #.A57E | AS63949 | Japan | 31 hrs |
 | #.1602 | AS35916 | United States | 24 hrs offline |
 | #.5B41 | AS63949 | Japan | 31 hrs |
-| #.48C3 | AS4760 | Hong Kong | 60 hrs offline |
 | #.7B41 | AS20473 | France | 1 hrs offline |
 | #.CF05 | AS20473 | Australia | 2 hrs |
 | #.1843 | AS20473 | France | 2 hrs offline |
 | #.E0CF | AS63949 | Germany | 254 hrs |
 | #.B31D | AS16509 | Japan | 1 hrs |
-| #.86C4 | AS16509 | Japan | 1 hrs offline |
-| #.2576 | AS16509 | Japan | 1 hrs offline |
 | #.7F01 | AS63949 | Japan | 31 hrs |
 | #.C755 | AS16509 | Japan | 3 hrs |
 | #.B5B0 | AS16509 | Japan | 1 hrs offline |
 | #.A466 | AS63949 | United States | 31 hrs |
+| #.86C4 | AS16509 | Japan | 2 hrs offline |
+| #.2576 | AS16509 | Japan | 1 hrs |
 | #.2B69 | AS4760 | Hong Kong | 25 hrs offline |
 | #.B4FD | AS16509 | Japan | 2 hrs |
 | #.0D90 | AS16509 | Japan | 37 hrs offline |
@@ -95,5 +93,4 @@ Latest update at: Wed Jan 01 15:10:10 UTC 2020
 | #.5A27 | AS16509 | Japan | 38 hrs offline |
 | #.F076 | AS63949 | United States | 39 hrs offline |
 | #.2EF3 | AS45753 | Hong Kong | 60 hrs offline |
-| #.C300 | AS51659 | Russia | 60 hrs offline |
 
