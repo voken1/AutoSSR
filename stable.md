@@ -1,6 +1,6 @@
 # 24 stable servers:
 
-Latest update at: Sun Jan 05 12:10:11 UTC 2020
+Latest update at: Sun Jan 05 13:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
