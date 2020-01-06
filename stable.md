@@ -1,13 +1,15 @@
-# 6 stable servers:
+# 8 stable servers:
 
-Latest update at: Mon Jan 06 10:10:11 UTC 2020
+Latest update at: Mon Jan 06 11:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.42A0 | AS63949 | Japan | 390 hrs |
-| #.9FC3 | AS53889 | United States | 129 hrs |
-| #.8FC6 | AS63949 | United States | 252 hrs |
-| #.7E1D | AS3462 | Taiwan | 52 hrs |
-| #.E0CF | AS63949 | Germany | 78 hrs |
-| #.62DA | AS63949 | Japan | 187 hrs |
+| #.D09B | AS174 | United States | 14 hrs |
+| #.7F1D | AS63949 | Singapore | 13 hrs |
+| #.42A0 | AS63949 | Japan | 396 hrs |
+| #.9FC3 | AS53889 | United States | 135 hrs |
+| #.8FC6 | AS63949 | United States | 258 hrs |
+| #.7E1D | AS3462 | Taiwan | 58 hrs |
+| #.E0CF | AS63949 | Germany | 84 hrs |
+| #.62DA | AS63949 | Japan | 193 hrs |
 
