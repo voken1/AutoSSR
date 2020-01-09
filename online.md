@@ -1,6 +1,6 @@
 # 38 online servers:
 
-Latest update at: Thu Jan 09 01:10:11 UTC 2020
+Latest update at: Thu Jan 09 02:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,23 +17,23 @@ Latest update at: Thu Jan 09 01:10:11 UTC 2020
 | #.7E1D | AS3462 | Taiwan | 42 hrs |
 | #.E0CF | AS63949 | Germany | 20 hrs |
 | #.BB07 | AS16509 | Japan | 55 hrs |
+| #.EF72 | AS63949 | Japan | 55 hrs |
 | #.748D | AS16509 | Japan | 6 hrs |
 | #.1706 | AS16509 | Japan | 2 hrs |
-| #.EF72 | AS63949 | Japan | 55 hrs |
 | #.6AD4 | AS16509 | Japan | 54 hrs |
-| #.8E48 | AS63949 | Japan | 55 hrs |
 | #.0EBF | AS63949 | Japan | 55 hrs |
 | #.975E | AS63949 | Japan | 55 hrs |
+| #.8E48 | AS63949 | Japan | 55 hrs |
 | #.51BE | AS63949 | Japan | 146 hrs |
 | #.77ED | AS63949 | Japan | 146 hrs |
-| #.C1B7 | AS63949 | Japan | 55 hrs |
+| #.3F5E | AS63949 | Japan | 55 hrs |
 | #.D8AB | AS16509 | Japan | 21 hrs |
 | #.BE76 | AS16509 | Japan | 55 hrs |
 | #.A998 | AS16509 | Japan | 55 hrs |
 | #.639D | AS16509 | Japan | 22 hrs |
 | #.DC6A | AS16509 | Japan | 2 hrs |
 | #.DC6E | AS63949 | Japan | 55 hrs |
-| #.3F5E | AS63949 | Japan | 55 hrs |
+| #.C1B7 | AS63949 | Japan | 55 hrs |
 | #.512F | AS16509 | Japan | 5 hrs |
 | #.1AA0 | AS16509 | Japan | 16 hrs |
 | #.494B | AS16509 | Japan | 17 hrs |
