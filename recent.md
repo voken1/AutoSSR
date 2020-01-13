@@ -1,6 +1,6 @@
-# 52 recent servers:
+# 53 recent servers:
 
-Latest update at: Mon Jan 13 00:10:10 UTC 2020
+Latest update at: Mon Jan 13 01:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -9,6 +9,7 @@ Latest update at: Mon Jan 13 00:10:10 UTC 2020
 | #.15CF | AS49392 | Russia | 4 hrs |
 | #.42A0 | AS63949 | Japan | 135 hrs |
 | #.7F1D | AS63949 | Singapore | 85 hrs |
+| #.32B3 | AS47196 | Russia | |
 | #.75B9 | AS3462 | Taiwan | 60 hrs offline |
 | #.9FC3 | AS53889 | United States | 16 hrs |
 | #.D827 | AS20150 | United States | 31 hrs |
