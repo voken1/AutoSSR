@@ -1,6 +1,6 @@
 # 85 recent servers:
 
-Latest update at: Thu Jan 16 10:10:09 UTC 2020
+Latest update at: Thu Jan 16 11:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -73,20 +73,20 @@ Latest update at: Thu Jan 16 10:10:09 UTC 2020
 | #.9EF2 | AS8075 | Singapore | 60 hrs offline |
 | #.2EF2 | AS8075 | South Korea | 60 hrs offline |
 | #.907E | AS16509 | Japan | 8 hrs |
-| #.AAC6 | AS16509 | Japan | 4 hrs |
-| #.B6D6 | AS16509 | Japan | 23 hrs offline |
-| #.C565 | AS16509 | Japan | 24 hrs offline |
-| #.544A | AS45102 | China | 16 hrs |
-| #.528A | AS45102 | China | 18 hrs |
+| #.85AE | AS16509 | Japan | 8 hrs |
+| #.DDCB | AS45102 | China | 1 hrs |
+| #.544A | AS45102 | China | 17 hrs |
 | #.DF83 | AS16509 | Japan | 24 hrs offline |
-| #.040A | AS16509 | Japan | 23 hrs offline |
-| #.C127 | AS16509 | Japan | 23 hrs offline |
+| #.C127 | AS16509 | Japan | 24 hrs offline |
+| #.12E0 | AS16509 | Japan | 5 hrs |
 | #.0D35 | AS16509 | Japan | 15 hrs |
-| #.C3D3 | AS16509 | Japan | 23 hrs offline |
+| #.AAC6 | AS16509 | Japan | 5 hrs |
+| #.B6D6 | AS16509 | Japan | 24 hrs offline |
 | #.6DFE | AS16509 | Japan | 24 hrs offline |
-| #.12E0 | AS16509 | Japan | 4 hrs |
-| #.DDCB | AS45102 | China | 2 hrs offline |
+| #.528A | AS45102 | China | 19 hrs |
 | #.0AAE | AS63949 | Japan | 76 hrs |
-| #.85AE | AS16509 | Japan | 7 hrs |
-| #.AE35 | AS51659 | Russia | 24 hrs offline |
+| #.040A | AS16509 | Japan | 24 hrs offline |
+| #.C3D3 | AS16509 | Japan | 24 hrs offline |
+| #.C565 | AS16509 | Japan | 25 hrs offline |
+| #.AE35 | AS51659 | Russia | 25 hrs offline |
 
