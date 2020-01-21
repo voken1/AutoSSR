@@ -1,6 +1,6 @@
-# 12 stable servers:
+# 13 stable servers:
 
-Latest update at: Tue Jan 21 19:10:13 UTC 2020
+Latest update at: Tue Jan 21 20:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,4 +16,5 @@ Latest update at: Tue Jan 21 19:10:13 UTC 2020
 | #.CA3E | AS63949 | Japan | 55 hrs |
 | #.3CE6 | AS63949 | Japan | 37 hrs |
 | #.BDD8 | AS41378 | United States | 13 hrs |
+| #.20B0 | AS25820 | United States | 13 hrs |
 

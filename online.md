@@ -1,6 +1,6 @@
 # 38 online servers:
 
-Latest update at: Tue Jan 21 19:10:13 UTC 2020
+Latest update at: Tue Jan 21 20:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -41,5 +41,5 @@ Latest update at: Tue Jan 21 19:10:13 UTC 2020
 | #.BDD8 | AS41378 | United States | 13 hrs |
 | #.DBA1 | AS63949 | Japan | 5 hrs |
 | #.A435 | AS63949 | Japan | 1 hrs |
-| #.20B0 | AS25820 | United States | 12 hrs |
+| #.20B0 | AS25820 | United States | 13 hrs |
 
