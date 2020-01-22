@@ -1,6 +1,6 @@
-# 62 recent servers:
+# 89 recent servers:
 
-Latest update at: Wed Jan 22 01:10:09 UTC 2020
+Latest update at: Wed Jan 22 02:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -22,6 +22,7 @@ Latest update at: Wed Jan 22 01:10:09 UTC 2020
 | #.CC96 | AS63949 | Japan | 60 hrs offline |
 | #.C819 | AS16509 | Japan | 8 hrs offline |
 | #.7066 | AS63949 | Japan | 60 hrs offline |
+| #.9710 | AS16509 | Japan | |
 | #.7A4B | AS16509 | Japan | 8 hrs offline |
 | #.FA84 | AS16509 | Japan | 9 hrs offline |
 | #.7371 | AS16509 | Japan | 9 hrs offline |
@@ -44,6 +45,7 @@ Latest update at: Wed Jan 22 01:10:09 UTC 2020
 | #.7A43 | AS16509 | Japan | 8 hrs offline |
 | #.D5D7 | AS16509 | Japan | 9 hrs offline |
 | #.42CD | AS16509 | Japan | 8 hrs offline |
+| #.82B0 | AS16509 | Japan | |
 | #.8A1D | AS4760 | Hong Kong | 51 hrs offline |
 | #.62DA | AS3462 | Taiwan | 51 hrs offline |
 | #.3CFB | AS63949 | Japan | 10 hrs offline |
@@ -63,7 +65,32 @@ Latest update at: Wed Jan 22 01:10:09 UTC 2020
 | #.3CE6 | AS63949 | Japan | 10 hrs offline |
 | #.A435 | AS63949 | Japan | 11 hrs offline |
 | #.6938 | AS43092 | Japan | 51 hrs offline |
-| #.5CBD | AS48347 | Russia | 19 hrs |
-| #.36ED | AS51659 | Russia | 49 hrs offline |
+| #.2BE9 | AS63949 | Japan | |
 | #.20B0 | AS25820 | United States | 6 hrs offline |
+| #.3313 | AS63949 | Japan | |
+| #.5CBD | AS48347 | Russia | 19 hrs |
+| #.59A3 | AS63949 | Japan | |
+| #.E94F | AS63949 | Japan | |
+| #.AC8C | AS63949 | Japan | |
+| #.98BD | AS63949 | Japan | |
+| #.2996 | AS63949 | Japan | |
+| #.A4FA | AS63949 | Japan | |
+| #.0A2A | AS63949 | Japan | |
+| #.B0AB | AS16509 | Japan | |
+| #.2DE7 | AS63949 | Japan | |
+| #.ACF0 | AS16509 | Japan | |
+| #.7BA0 | AS16509 | Japan | |
+| #.21C5 | AS16509 | Japan | |
+| #.0655 | AS16509 | Japan | |
+| #.333C | AS16509 | Japan | |
+| #.69F2 | AS16509 | Japan | |
+| #.0B6A | AS16509 | Japan | |
+| #.8B9E | AS16509 | Japan | |
+| #.CA79 | AS16509 | Japan | |
+| #.0CD6 | AS16509 | Japan | |
+| #.75DF | AS16509 | Japan | |
+| #.8A1E | AS14061 | United Kingdom | |
+| #.39CD | N/A | N/A | |
+| #.07F7 | AS14061 | United Kingdom | |
+| #.36ED | AS51659 | Russia | 49 hrs offline |
 
