@@ -1,6 +1,6 @@
 # 98 recent servers:
 
-Latest update at: Fri Jan 24 14:10:11 UTC 2020
+Latest update at: Fri Jan 24 15:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -52,6 +52,7 @@ Latest update at: Fri Jan 24 14:10:11 UTC 2020
 | #.A9B4 | AS63949 | Japan | 2 hrs offline |
 | #.2E2C | AS63949 | Japan | 6 hrs offline |
 | #.F2BF | AS63949 | Japan | 25 hrs |
+| #.285D | AS51659 | Russia | 60 hrs offline |
 | #.8885 | AS16509 | Japan | 6 hrs offline |
 | #.29DD | AS63949 | Japan | 2 hrs offline |
 | #.6E16 | AS63949 | Japan | 25 hrs |
@@ -64,7 +65,6 @@ Latest update at: Fri Jan 24 14:10:11 UTC 2020
 | #.900C | AS8075 | Ireland | 2 hrs |
 | #.37D0 | AS3462 | Taiwan | 6 hrs offline |
 | #.0084 | AS4760 | Hong Kong | 1 hrs offline |
-| #.285D | AS51659 | Russia | 60 hrs offline |
 | #.DBB4 | AS16509 | Japan | 6 hrs offline |
 | #.6463 | AS16509 | Japan | 6 hrs offline |
 | #.477B | AS16509 | Japan | 6 hrs offline |
@@ -99,7 +99,7 @@ Latest update at: Fri Jan 24 14:10:11 UTC 2020
 | #.E846 | AS16509 | Japan | |
 | #.3D32 | AS16509 | Japan | |
 | #.5421 | AS16509 | Japan | |
+| #.84C2 | N/A | N/A | |
 | #.CAA2 | AS63949 | United States | |
 | #.A91A | AS14061 | United Kingdom | |
-| #.84C2 | N/A | N/A | |
 
