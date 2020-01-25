@@ -1,6 +1,6 @@
 # 112 recent servers:
 
-Latest update at: Sat Jan 25 03:10:09 UTC 2020
+Latest update at: Sat Jan 25 04:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -87,33 +87,33 @@ Latest update at: Sat Jan 25 03:10:09 UTC 2020
 | #.818D | AS16509 | Japan | 30 hrs offline |
 | #.F6D9 | AS16509 | Japan | 1 hrs |
 | #.471C | AS16509 | Japan | 25 hrs |
-| #.CAA2 | AS63949 | United States | 24 hrs offline |
-| #.E846 | AS16509 | Japan | 2 hrs offline |
-| #.3D32 | AS16509 | Japan | 5 hrs offline |
-| #.84C2 | AS14061 | United Kingdom | 24 hrs |
-| #.A91A | AS14061 | United Kingdom | 24 hrs |
-| #.C2F3 | AS63949 | Japan | 3 hrs |
-| #.F341 | AS63949 | Japan | 3 hrs |
-| #.4FA9 | AS16509 | Japan | 3 hrs |
-| #.B200 | AS63949 | Japan | 3 hrs |
+| #.84C2 | AS14061 | United Kingdom | 25 hrs |
+| #.3D32 | AS16509 | Japan | 1 hrs |
+| #.0721 | AS16509 | Japan | 21 hrs offline |
+| #.A91A | AS14061 | United Kingdom | 25 hrs |
+| #.5B97 | AS16509 | Japan | 6 hrs offline |
+| #.F341 | AS63949 | Japan | 4 hrs |
+| #.4FA9 | AS16509 | Japan | 4 hrs |
+| #.7DE3 | AS63949 | Japan | 4 hrs |
+| #.586F | AS63949 | Japan | 4 hrs |
 | #.2FD0 | AS16509 | Japan | 25 hrs |
 | #.4A53 | AS16509 | Japan | 24 hrs offline |
-| #.0721 | AS16509 | Japan | 20 hrs offline |
-| #.5421 | AS16509 | Japan | 11 hrs |
-| #.5B97 | AS16509 | Japan | 5 hrs offline |
+| #.5421 | AS16509 | Japan | 1 hrs offline |
+| #.CAA2 | AS63949 | United States | 25 hrs offline |
+| #.C2F3 | AS63949 | Japan | 4 hrs |
 | #.3019 | AS16509 | Japan | 24 hrs offline |
-| #.586F | AS63949 | Japan | 3 hrs |
-| #.7DE3 | AS63949 | Japan | 3 hrs |
+| #.E846 | AS16509 | Japan | 1 hrs |
+| #.B200 | AS63949 | Japan | 4 hrs |
 | #.E945 | AS63949 | Japan | 25 hrs |
 | #.734E | AS63949 | Japan | 24 hrs offline |
 | #.2012 | AS63949 | Japan | 25 hrs |
-| #.86A1 | AS16509 | Japan | 3 hrs |
-| #.7039 | AS63949 | United States | 3 hrs |
 | #.5C80 | AS14061 | United Kingdom | 30 hrs offline |
-| #.1209 | AS16509 | Japan | 3 hrs |
-| #.758B | AS16509 | Japan | 3 hrs |
-| #.09BA | AS16509 | Japan | 3 hrs |
-| #.5B4A | AS16509 | Japan | 3 hrs |
-| #.2E1B | AS16509 | Japan | 3 hrs |
-| #.C5BB | AS16509 | Japan | 3 hrs |
+| #.1209 | AS16509 | Japan | 4 hrs |
+| #.758B | AS16509 | Japan | 4 hrs |
+| #.09BA | AS16509 | Japan | 4 hrs |
+| #.5B4A | AS16509 | Japan | 4 hrs |
+| #.2E1B | AS16509 | Japan | 4 hrs |
+| #.C5BB | AS16509 | Japan | 4 hrs |
+| #.86A1 | AS16509 | Japan | 4 hrs |
+| #.7039 | AS63949 | United States | 4 hrs |
 
