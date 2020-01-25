@@ -1,6 +1,6 @@
-# 118 recent servers:
+# 107 recent servers:
 
-Latest update at: Sat Jan 25 20:10:11 UTC 2020
+Latest update at: Sat Jan 25 21:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,17 +17,11 @@ Latest update at: Sat Jan 25 20:10:11 UTC 2020
 | #.E0CF | AS63949 | Germany | 129 hrs |
 | #.2A0F | AS63949 | United States | 24 hrs offline |
 | #.0C1C | AS24961 | Germany | 5 hrs offline |
-| #.9710 | AS16509 | Japan | 60 hrs offline |
-| #.CA3E | AS63949 | Japan | 60 hrs offline |
 | #.82B0 | AS16509 | Japan | 60 hrs offline |
 | #.3344 | AS63949 | Germany | 12 hrs |
 | #.BDD8 | AS41378 | United States | 6 hrs |
 | #.21C5 | AS16509 | Japan | 60 hrs offline |
-| #.3313 | AS63949 | Japan | 60 hrs offline |
-| #.AC8C | AS63949 | Japan | 60 hrs offline |
-| #.59A3 | AS63949 | Japan | 60 hrs offline |
 | #.333C | AS16509 | Japan | 60 hrs offline |
-| #.98BD | AS63949 | Japan | 60 hrs offline |
 | #.A4FA | AS63949 | Japan | 60 hrs offline |
 | #.69F2 | AS16509 | Japan | 60 hrs offline |
 | #.2DE7 | AS63949 | Japan | 60 hrs offline |
@@ -38,12 +32,7 @@ Latest update at: Sat Jan 25 20:10:11 UTC 2020
 | #.CA79 | AS16509 | Japan | 60 hrs offline |
 | #.0CD6 | AS16509 | Japan | 60 hrs offline |
 | #.5CBD | AS48347 | Russia | 89 hrs |
-| #.E94F | AS63949 | Japan | 60 hrs offline |
 | #.0655 | AS16509 | Japan | 60 hrs offline |
-| #.2996 | AS63949 | Japan | 60 hrs offline |
-| #.0A2A | AS63949 | Japan | 60 hrs offline |
-| #.B0AB | AS16509 | Japan | 60 hrs offline |
-| #.2BE9 | AS63949 | Japan | 60 hrs offline |
 | #.75DF | AS16509 | Japan | 60 hrs offline |
 | #.39CD | AS14061 | United Kingdom | 60 hrs offline |
 | #.8A1E | AS14061 | United Kingdom | 60 hrs offline |
