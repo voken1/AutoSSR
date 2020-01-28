@@ -1,10 +1,10 @@
 # 31 stable servers:
 
-Latest update at: Tue Jan 28 04:10:10 UTC 2020
+Latest update at: Tue Jan 28 05:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.42A0 | AS63949 | Japan | 105 hrs |
+| #.42A0 | AS63949 | Japan | 106 hrs |
 | #.E0CF | AS63949 | Germany | 71 hrs |
 | #.3344 | AS63949 | Germany | 22 hrs |
 | #.165A | AS37963 | China | 136 hrs |

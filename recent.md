@@ -1,22 +1,22 @@
 # 82 recent servers:
 
-Latest update at: Tue Jan 28 04:10:10 UTC 2020
+Latest update at: Tue Jan 28 05:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 60 hrs offline |
-| #.15CF | AS49392 | Russia | 1 hrs |
-| #.42A0 | AS63949 | Japan | 105 hrs |
-| #.7F1D | AS63949 | Singapore | 5 hrs |
+| #.15CF | AS49392 | Russia | 1 hrs offline |
+| #.42A0 | AS63949 | Japan | 106 hrs |
+| #.7F1D | AS63949 | Singapore | 6 hrs |
 | #.9FC3 | AS53889 | United States | 60 hrs offline |
 | #.D827 | AS20150 | United States | 5 hrs |
-| #.EBB7 | AS16509 | Japan | 7 hrs offline |
-| #.7E1D | AS3462 | Taiwan | 1 hrs offline |
+| #.EBB7 | AS16509 | Japan | 8 hrs offline |
+| #.7E1D | AS3462 | Taiwan | 1 hrs |
 | #.E0CF | AS63949 | Germany | 71 hrs |
 | #.0C1C | AS24961 | Germany | 14 hrs offline |
 | #.BDD8 | AS41378 | United States | 1 hrs |
 | #.3344 | AS63949 | Germany | 22 hrs |
-| #.5CBD | AS48347 | Russia | 2 hrs |
+| #.5CBD | AS48347 | Russia | 3 hrs |
 | #.165A | AS37963 | China | 136 hrs |
 | #.6E16 | AS63949 | Japan | 60 hrs offline |
 | #.900C | AS8075 | Ireland | 3 hrs |
@@ -49,7 +49,7 @@ Latest update at: Tue Jan 28 04:10:10 UTC 2020
 | #.7039 | AS63949 | United States | 60 hrs offline |
 | #.4734 | AS63949 | Japan | 60 hrs offline |
 | #.73C0 | AS63949 | Japan | 60 hrs |
-| #.C5BB | AS16509 | Japan | 1 hrs |
+| #.C5BB | AS16509 | Japan | 2 hrs |
 | #.1209 | AS16509 | Japan | 60 hrs offline |
 | #.5B4A | AS16509 | Japan | 60 hrs offline |
 | #.2E1B | AS16509 | Japan | 60 hrs offline |
