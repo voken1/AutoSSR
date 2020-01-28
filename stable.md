@@ -1,35 +1,43 @@
-# 28 stable servers:
+# 36 stable servers:
 
-Latest update at: Mon Jan 27 23:10:13 UTC 2020
+Latest update at: Tue Jan 28 00:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.42A0 | AS63949 | Japan | 93 hrs |
-| #.E0CF | AS63949 | Germany | 59 hrs |
-| #.5CBD | AS48347 | Russia | 18 hrs |
-| #.165A | AS37963 | China | 124 hrs |
-| #.73C0 | AS63949 | Japan | 48 hrs |
-| #.5650 | AS63949 | Japan | 48 hrs |
-| #.51E6 | AS63949 | Japan | 48 hrs |
-| #.7971 | AS63949 | Japan | 48 hrs |
-| #.9EDD | AS63949 | Japan | 48 hrs |
-| #.C5BB | AS16509 | Japan | 16 hrs |
-| #.7E8D | AS63949 | Japan | 48 hrs |
-| #.2A27 | AS63949 | Japan | 48 hrs |
-| #.322F | AS63949 | Japan | 48 hrs |
-| #.CA85 | AS16509 | Japan | 14 hrs |
-| #.7351 | AS63949 | Japan | 48 hrs |
-| #.2974 | AS63949 | Japan | 48 hrs |
-| #.99BE | AS63949 | Japan | 48 hrs |
-| #.E910 | AS63949 | Japan | 48 hrs |
-| #.D38E | AS63949 | Japan | 48 hrs |
-| #.DDCB | AS63949 | Japan | 48 hrs |
-| #.6D69 | AS63949 | Japan | 48 hrs |
-| #.E8E0 | AS16509 | Japan | 48 hrs |
-| #.B7FE | AS16509 | Japan | 13 hrs |
-| #.CB95 | AS16509 | Japan | 13 hrs |
-| #.944A | AS16509 | Japan | 13 hrs |
-| #.72F6 | AS63949 | United States | 48 hrs |
-| #.6065 | AS63949 | Japan | 14 hrs |
-| #.73FE | AS16509 | Japan | 13 hrs |
+| #.7F1D | AS63949 | Singapore | 14 hrs |
+| #.42A0 | AS63949 | Japan | 97 hrs |
+| #.D827 | AS20150 | United States | 15 hrs |
+| #.E0CF | AS63949 | Germany | 63 hrs |
+| #.3344 | AS63949 | Germany | 14 hrs |
+| #.5CBD | AS48347 | Russia | 22 hrs |
+| #.165A | AS37963 | China | 128 hrs |
+| #.73C0 | AS63949 | Japan | 52 hrs |
+| #.C5BB | AS16509 | Japan | 20 hrs |
+| #.9EDD | AS63949 | Japan | 52 hrs |
+| #.51E6 | AS63949 | Japan | 52 hrs |
+| #.7971 | AS63949 | Japan | 52 hrs |
+| #.5650 | AS63949 | Japan | 52 hrs |
+| #.7351 | AS63949 | Japan | 52 hrs |
+| #.2974 | AS63949 | Japan | 52 hrs |
+| #.99BE | AS63949 | Japan | 52 hrs |
+| #.E910 | AS63949 | Japan | 52 hrs |
+| #.D38E | AS63949 | Japan | 52 hrs |
+| #.DDCB | AS63949 | Japan | 52 hrs |
+| #.6D69 | AS63949 | Japan | 51 hrs |
+| #.6950 | AS16509 | Japan | 13 hrs |
+| #.E8E0 | AS16509 | Japan | 51 hrs |
+| #.3FB0 | AS16509 | Japan | 15 hrs |
+| #.B7FE | AS16509 | Japan | 16 hrs |
+| #.CB95 | AS16509 | Japan | 16 hrs |
+| #.966B | AS16509 | Japan | 13 hrs |
+| #.DFEB | AS16509 | Japan | 15 hrs |
+| #.944A | AS16509 | Japan | 16 hrs |
+| #.1B31 | AS16509 | Japan | 15 hrs |
+| #.7E8D | AS63949 | Japan | 52 hrs |
+| #.2A27 | AS63949 | Japan | 52 hrs |
+| #.322F | AS63949 | Japan | 52 hrs |
+| #.CA85 | AS16509 | Japan | 18 hrs |
+| #.72F6 | AS63949 | United States | 51 hrs |
+| #.6065 | AS63949 | Japan | 18 hrs |
+| #.73FE | AS16509 | Japan | 17 hrs |
 
