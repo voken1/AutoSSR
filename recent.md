@@ -1,6 +1,6 @@
-# 53 recent servers:
+# 86 recent servers:
 
-Latest update at: Thu Jan 30 22:10:08 UTC 2020
+Latest update at: Thu Jan 30 23:10:21 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -35,7 +35,6 @@ Latest update at: Thu Jan 30 22:10:08 UTC 2020
 | #.BA03 | AS4760 | Hong Kong | 18 hrs offline |
 | #.0A34 | AS63949 | Japan | 1 hrs offline |
 | #.8485 | AS63949 | Japan | 2 hrs offline |
-| #.6DBD | AS51659 | Russia | 60 hrs offline |
 | #.7535 | AS63949 | Japan | 100 hrs |
 | #.FD9D | AS63949 | Japan | 1 hrs offline |
 | #.3EA2 | AS63949 | Japan | 1 hrs offline |
@@ -47,14 +46,48 @@ Latest update at: Thu Jan 30 22:10:08 UTC 2020
 | #.EE14 | AS4760 | Hong Kong | 30 hrs offline |
 | #.B5B0 | AS16509 | Japan | 6 hrs |
 | #.9393 | AS4760 | Hong Kong | 14 hrs |
+| #.0E4F | AS63949 | Japan | |
 | #.0FFA | AS16509 | Japan | 5 hrs |
 | #.7288 | AS16509 | Japan | 6 hrs |
 | #.5401 | AS16509 | Japan | 1 hrs offline |
 | #.A9DE | AS45102 | China | 14 hrs |
 | #.DA9E | AS4837 | China | 25 hrs offline |
+| #.B874 | AS63949 | Japan | |
 | #.5FEF | AS16509 | Japan | 8 hrs |
 | #.1FD7 | AS63949 | United States | 2 hrs offline |
 | #.6C09 | AS45102 | Hong Kong | 30 hrs offline |
 | #.CF1C | AS16509 | Japan | 6 hrs |
 | #.98AF | AS45102 | China | 30 hrs offline |
+| #.EAD8 | AS63949 | Japan | |
+| #.9BDB | AS63949 | Japan | |
+| #.30A0 | AS63949 | Japan | |
+| #.E52A | AS63949 | Japan | |
+| #.AFAB | AS63949 | Japan | |
+| #.5A9D | AS63949 | Japan | |
+| #.AA97 | AS16509 | Japan | |
+| #.B99D | AS16509 | Japan | |
+| #.291D | AS16509 | Japan | |
+| #.4168 | AS63949 | Japan | |
+| #.1458 | AS63949 | Japan | |
+| #.142C | AS63949 | Japan | |
+| #.8844 | AS63949 | Japan | |
+| #.C5F5 | AS63949 | Japan | |
+| #.8487 | AS63949 | Japan | |
+| #.196F | AS63949 | Japan | |
+| #.147E | AS63949 | Japan | |
+| #.06EE | AS63949 | Japan | |
+| #.A816 | AS63949 | Japan | |
+| #.E6BA | AS16509 | Japan | |
+| #.50CF | AS16509 | Japan | |
+| #.DB98 | AS16509 | Japan | |
+| #.018D | AS16509 | Japan | |
+| #.ABDE | AS16509 | Japan | |
+| #.7C22 | AS16509 | Japan | |
+| #.E250 | AS16509 | Japan | |
+| #.69B0 | AS16509 | Japan | |
+| #.22B1 | AS16509 | Japan | |
+| #.656F | AS16509 | Japan | |
+| #.51DA | AS16509 | Japan | |
+| #.285A | AS16509 | Japan | |
+| #.F11B | AS63949 | United States | |
 
