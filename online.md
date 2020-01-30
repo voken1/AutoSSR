@@ -1,17 +1,21 @@
-# 32 online servers:
+# 36 online servers:
 
-Latest update at: Thu Jan 30 13:10:12 UTC 2020
+Latest update at: Thu Jan 30 14:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.15CF | AS49392 | Russia | 79 hrs |
-| #.42A0 | AS63949 | Japan | 231 hrs |
-| #.E0CF | AS63949 | Germany | 197 hrs |
+| #.15CF | AS49392 | Russia | 80 hrs |
+| #.7F1D | AS63949 | Singapore | 1 hrs |
+| #.42A0 | AS63949 | Japan | 232 hrs |
+| #.D827 | AS20150 | United States | 1 hrs |
+| #.7E1D | AS3462 | Taiwan | 1 hrs |
+| #.E0CF | AS63949 | Germany | 198 hrs |
 | #.E069 | AS40065 | United States | 6 hrs |
-| #.BDD8 | AS41378 | United States | 5 hrs |
-| #.3344 | AS63949 | Germany | 4 hrs |
-| #.5CBD | AS48347 | Russia | 4 hrs |
-| #.900C | AS8075 | Ireland | 2 hrs |
+| #.BDD8 | AS41378 | United States | 6 hrs |
+| #.5CBD | AS48347 | Russia | 5 hrs |
+| #.DDA9 | AS8075 | United Kingdom | 1 hrs |
+| #.165A | AS37963 | China | 1 hrs |
+| #.900C | AS8075 | Ireland | 3 hrs |
 | #.73C0 | AS63949 | Japan | 186 hrs |
 | #.7351 | AS63949 | Japan | 186 hrs |
 | #.99BE | AS63949 | Japan | 186 hrs |
