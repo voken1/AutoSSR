@@ -1,6 +1,6 @@
 # 20 stable servers:
 
-Latest update at: Thu Jan 30 12:10:11 UTC 2020
+Latest update at: Thu Jan 30 13:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -11,17 +11,17 @@ Latest update at: Thu Jan 30 12:10:11 UTC 2020
 | #.7351 | AS63949 | Japan | 186 hrs |
 | #.99BE | AS63949 | Japan | 186 hrs |
 | #.3FB0 | AS16509 | Japan | 17 hrs |
-| #.2A3D | AS63949 | Japan | 75 hrs |
-| #.E012 | AS63949 | Japan | 75 hrs |
-| #.0E7C | AS63949 | Japan | 75 hrs |
-| #.87F7 | AS63949 | Japan | 75 hrs |
+| #.E012 | AS63949 | Japan | 76 hrs |
+| #.0E7C | AS63949 | Japan | 76 hrs |
+| #.7323 | AS63949 | Japan | 76 hrs |
 | #.E206 | AS63949 | Japan | 76 hrs |
 | #.7535 | AS63949 | Japan | 76 hrs |
 | #.D235 | AS63949 | Japan | 76 hrs |
+| #.87F7 | AS63949 | Japan | 76 hrs |
 | #.3EA2 | AS63949 | Japan | 76 hrs |
-| #.7323 | AS63949 | Japan | 75 hrs |
+| #.2A3D | AS63949 | Japan | 76 hrs |
 | #.8485 | AS63949 | Japan | 76 hrs |
 | #.0A34 | AS63949 | Japan | 76 hrs |
 | #.FD9D | AS63949 | Japan | 76 hrs |
-| #.1FD7 | AS63949 | United States | 75 hrs |
+| #.1FD7 | AS63949 | United States | 76 hrs |
 
