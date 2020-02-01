@@ -1,6 +1,6 @@
-# 96 recent servers:
+# 93 recent servers:
 
-Latest update at: Sat Feb 01 05:10:19 UTC 2020
+Latest update at: Sat Feb 01 06:10:15 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -10,6 +10,7 @@ Latest update at: Sat Feb 01 05:10:19 UTC 2020
 | #.D827 | AS20150 | United States | 1 hrs offline |
 | #.EBB7 | AS16509 | Japan | 60 hrs offline |
 | #.14D9 | AS49392 | Russia | 2 hrs |
+| #.FFEA | AS3462 | Taiwan | 1 hrs |
 | #.7E1D | AS3462 | Taiwan | 3 hrs |
 | #.E0CF | AS63949 | Germany | 31 hrs offline |
 | #.E069 | AS40065 | United States | 48 hrs offline |
@@ -19,8 +20,8 @@ Latest update at: Sat Feb 01 05:10:19 UTC 2020
 | #.3344 | AS63949 | Germany | 1 hrs |
 | #.5CBD | AS48347 | Russia | 7 hrs |
 | #.900C | AS8075 | Ireland | 1 hrs offline |
-| #.165A | AS37963 | China | 3 hrs |
 | #.DDA9 | AS8075 | United Kingdom | 2 hrs offline |
+| #.165A | AS37963 | China | 3 hrs |
 | #.73C0 | AS63949 | Japan | 60 hrs offline |
 | #.7351 | AS63949 | Japan | 60 hrs offline |
 | #.99BE | AS63949 | Japan | 60 hrs offline |
@@ -43,7 +44,6 @@ Latest update at: Sat Feb 01 05:10:19 UTC 2020
 | #.0A34 | AS63949 | Japan | 60 hrs offline |
 | #.15E1 | AS16509 | Japan | 60 hrs offline |
 | #.7D2B | AS16509 | Japan | 60 hrs offline |
-| #.0060 | AS9009 | Japan | 60 hrs offline |
 | #.5FEF | AS16509 | Japan | 60 hrs offline |
 | #.EAD8 | AS63949 | Japan | 61 hrs |
 | #.A9DE | AS45102 | China | 54 hrs offline |
@@ -61,8 +61,6 @@ Latest update at: Sat Feb 01 05:10:19 UTC 2020
 | #.0DBB | AS16509 | Japan | 60 hrs offline |
 | #.0FFA | AS16509 | Japan | 60 hrs offline |
 | #.7288 | AS16509 | Japan | 60 hrs offline |
-| #.98AF | AS45102 | China | 60 hrs offline |
-| #.EE14 | AS4760 | Hong Kong | 60 hrs offline |
 | #.A816 | AS63949 | Japan | 61 hrs |
 | #.E6BA | AS16509 | Japan | 6 hrs offline |
 | #.50CF | AS16509 | Japan | 6 hrs offline |
@@ -96,7 +94,6 @@ Latest update at: Sat Feb 01 05:10:19 UTC 2020
 | #.414A | AS4760 | Hong Kong | 35 hrs |
 | #.DCCA | AS9009 | Singapore | 19 hrs offline |
 | #.291D | AS16509 | Japan | 6 hrs offline |
-| #.6C09 | AS45102 | Hong Kong | 60 hrs offline |
 | #.5481 | AS3462 | Taiwan | 19 hrs offline |
 | #.EBF1 | AS4760 | Hong Kong | 2 hrs |
 | #.ABDE | AS16509 | Japan | 6 hrs offline |
