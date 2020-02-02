@@ -1,6 +1,6 @@
-# 122 recent servers:
+# 94 recent servers:
 
-Latest update at: Sun Feb 02 00:10:15 UTC 2020
+Latest update at: Sun Feb 02 01:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -8,7 +8,6 @@ Latest update at: Sun Feb 02 00:10:15 UTC 2020
 | #.42A0 | AS63949 | Japan | 60 hrs offline |
 | #.7F1D | AS63949 | Singapore | 52 hrs |
 | #.D827 | AS20150 | United States | 15 hrs |
-| #.EBB7 | AS16509 | Japan | 60 hrs offline |
 | #.14D9 | AS49392 | Russia | 8 hrs |
 | #.FFEA | AS3462 | Taiwan | 18 hrs offline |
 | #.7E1D | AS3462 | Taiwan | 1 hrs offline |
@@ -22,43 +21,16 @@ Latest update at: Sun Feb 02 00:10:15 UTC 2020
 | #.165A | AS37963 | China | 33 hrs offline |
 | #.DDA9 | AS8075 | United Kingdom | 2 hrs |
 | #.900C | AS8075 | Ireland | 1 hrs |
-| #.73C0 | AS63949 | Japan | 60 hrs offline |
-| #.7351 | AS63949 | Japan | 60 hrs offline |
 | #.3FB0 | AS16509 | Japan | 39 hrs offline |
-| #.99BE | AS63949 | Japan | 60 hrs offline |
-| #.FD9D | AS63949 | Japan | 60 hrs offline |
 | #.BA03 | AS4760 | Hong Kong | 29 hrs offline |
-| #.0141 | AS16509 | Japan | 60 hrs offline |
-| #.2A3D | AS63949 | Japan | 60 hrs offline |
-| #.7323 | AS63949 | Japan | 60 hrs offline |
-| #.E012 | AS63949 | Japan | 60 hrs offline |
-| #.0E7C | AS63949 | Japan | 60 hrs offline |
-| #.87F7 | AS63949 | Japan | 60 hrs offline |
 | #.7535 | AS63949 | Japan | 39 hrs offline |
-| #.9A85 | AS16509 | Japan | 60 hrs offline |
-| #.D494 | AS16509 | Japan | 60 hrs offline |
-| #.8485 | AS63949 | Japan | 60 hrs offline |
-| #.D235 | AS63949 | Japan | 60 hrs offline |
-| #.3EA2 | AS63949 | Japan | 60 hrs offline |
-| #.E206 | AS63949 | Japan | 60 hrs offline |
-| #.0A34 | AS63949 | Japan | 60 hrs offline |
-| #.15E1 | AS16509 | Japan | 60 hrs offline |
-| #.7D2B | AS16509 | Japan | 60 hrs offline |
-| #.5FEF | AS16509 | Japan | 60 hrs offline |
 | #.A9DE | AS45102 | China | 60 hrs offline |
 | #.30A0 | AS63949 | Japan | 94 hrs |
-| #.B5B0 | AS16509 | Japan | 60 hrs offline |
 | #.E52A | AS63949 | Japan | 39 hrs offline |
-| #.1FD7 | AS63949 | United States | 60 hrs offline |
 | #.3E77 | AS63949 | Japan | 19 hrs |
 | #.9BDB | AS63949 | Japan | 39 hrs offline |
 | #.0E4F | AS63949 | Japan | 39 hrs offline |
-| #.CF1C | AS16509 | Japan | 60 hrs offline |
 | #.9393 | AS4760 | Hong Kong | 60 hrs offline |
-| #.5401 | AS16509 | Japan | 60 hrs offline |
-| #.0DBB | AS16509 | Japan | 60 hrs offline |
-| #.0FFA | AS16509 | Japan | 60 hrs offline |
-| #.7288 | AS16509 | Japan | 60 hrs offline |
 | #.B874 | AS63949 | Japan | 39 hrs offline |
 | #.EAD8 | AS63949 | Japan | 94 hrs |
 | #.656F | AS16509 | Japan | 39 hrs offline |
