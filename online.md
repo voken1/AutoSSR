@@ -1,20 +1,19 @@
-# 13 online servers:
+# 12 online servers:
 
-Latest update at: Mon Feb 03 06:10:15 UTC 2020
+Latest update at: Mon Feb 03 07:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.15CF | AS49392 | Russia | 27 hrs |
-| #.7F1D | AS63949 | Singapore | 99 hrs |
-| #.D827 | AS20150 | United States | 7 hrs |
-| #.7E1D | AS3462 | Taiwan | 4 hrs |
-| #.5CBD | AS48347 | Russia | 87 hrs |
-| #.4DA9 | AS14061 | Singapore | 2 hrs |
-| #.4804 | AS63949 | Japan | 1 hrs |
-| #.CAE8 | AS63949 | Japan | 7 hrs |
-| #.BA30 | AS63949 | Japan | 7 hrs |
-| #.D0AA | AS16509 | Japan | 7 hrs |
-| #.4F11 | AS63949 | Japan | 7 hrs |
-| #.300D | AS16509 | Japan | 2 hrs |
-| #.7AE1 | AS16509 | Japan | 1 hrs |
+| #.15CF | AS49392 | Russia | 28 hrs |
+| #.7F1D | AS63949 | Singapore | 100 hrs |
+| #.D827 | AS20150 | United States | 8 hrs |
+| #.14D9 | AS49392 | Russia | 1 hrs |
+| #.7E1D | AS3462 | Taiwan | 5 hrs |
+| #.5CBD | AS48347 | Russia | 88 hrs |
+| #.4DA9 | AS14061 | Singapore | 3 hrs |
+| #.BA30 | AS63949 | Japan | 9 hrs |
+| #.4F11 | AS63949 | Japan | 9 hrs |
+| #.300D | AS16509 | Japan | 4 hrs |
+| #.4804 | AS63949 | Japan | 3 hrs |
+| #.CAE8 | AS63949 | Japan | 9 hrs |
 
