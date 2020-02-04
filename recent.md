@@ -1,6 +1,6 @@
-# 84 recent servers:
+# 83 recent servers:
 
-Latest update at: Tue Feb 04 05:10:14 UTC 2020
+Latest update at: Tue Feb 04 06:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -23,7 +23,6 @@ Latest update at: Tue Feb 04 05:10:14 UTC 2020
 | #.3F64 | AS63949 | Japan | 60 hrs offline |
 | #.43B5 | AS4760 | Hong Kong | 60 hrs offline |
 | #.05ED | AS16509 | Japan | 2 hrs offline |
-| #.8424 | AS63949 | United States | 60 hrs offline |
 | #.1B9F | AS63949 | Japan | 60 hrs offline |
 | #.8BAC | AS63949 | Japan | 60 hrs offline |
 | #.252A | AS16509 | Japan | 60 hrs offline |
