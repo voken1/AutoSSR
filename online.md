@@ -1,10 +1,11 @@
-# 8 online servers:
+# 9 online servers:
 
-Latest update at: Tue Feb 04 11:10:08 UTC 2020
+Latest update at: Tue Feb 04 12:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.15CF | AS49392 | Russia | 13 hrs |
+| #.42A0 | AS63949 | Japan | 1 hrs |
 | #.7F1D | AS63949 | Singapore | 154 hrs |
 | #.D827 | AS20150 | United States | 26 hrs |
 | #.14D9 | AS49392 | Russia | 1 hrs |
