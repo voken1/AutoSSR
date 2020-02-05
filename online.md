@@ -1,18 +1,16 @@
-# 11 online servers:
+# 9 online servers:
 
-Latest update at: Wed Feb 05 08:10:23 UTC 2020
+Latest update at: Wed Feb 05 09:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 25 hrs |
-| #.2A79 | AS63949 | Japan | 25 hrs |
-| #.15CF | AS49392 | Russia | 55 hrs |
-| #.42A0 | AS63949 | Japan | 2 hrs |
-| #.7F1D | AS63949 | Singapore | 196 hrs |
-| #.9FC3 | AS53889 | United States | 43 hrs |
-| #.D827 | AS20150 | United States | 68 hrs |
-| #.14D9 | AS49392 | Russia | 3 hrs |
-| #.BDD8 | AS41378 | United States | 1 hrs |
-| #.5CBD | AS48347 | Russia | 25 hrs |
-| #.05ED | AS16509 | Japan | 1 hrs |
+| #.D09B | AS174 | United States | 31 hrs |
+| #.2A79 | AS63949 | Japan | 31 hrs |
+| #.15CF | AS49392 | Russia | 61 hrs |
+| #.7F1D | AS63949 | Singapore | 202 hrs |
+| #.9FC3 | AS53889 | United States | 49 hrs |
+| #.D827 | AS20150 | United States | 74 hrs |
+| #.5CBD | AS48347 | Russia | 31 hrs |
+| #.6915 | AS63949 | Singapore | 7 hrs |
+| #.F095 | AS23930 | Philippines | 7 hrs |
 
