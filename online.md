@@ -1,20 +1,24 @@
-# 13 online servers:
+# 17 online servers:
 
-Latest update at: Thu Feb 06 18:10:17 UTC 2020
+Latest update at: Thu Feb 06 19:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 103 hrs |
-| #.2A79 | AS63949 | Japan | 103 hrs |
-| #.15CF | AS49392 | Russia | 133 hrs |
-| #.7F1D | AS63949 | Singapore | 274 hrs |
-| #.9FC3 | AS53889 | United States | 121 hrs |
-| #.D827 | AS20150 | United States | 146 hrs |
-| #.BDD8 | AS41378 | United States | 2 hrs |
-| #.5CBD | AS48347 | Russia | 103 hrs |
-| #.DDA9 | AS8075 | United Kingdom | 2 hrs |
-| #.05ED | AS16509 | Japan | 5 hrs |
-| #.4DA9 | AS14061 | Singapore | 5 hrs |
-| #.0B10 | AS63949 | Japan | 8 hrs |
-| #.D2D2 | AS131642 | Taiwan | 6 hrs |
+| #.D09B | AS174 | United States | 108 hrs |
+| #.2A79 | AS63949 | Japan | 108 hrs |
+| #.15CF | AS49392 | Russia | 138 hrs |
+| #.7F1D | AS63949 | Singapore | 279 hrs |
+| #.42A0 | AS63949 | Japan | 4 hrs |
+| #.9FC3 | AS53889 | United States | 126 hrs |
+| #.D827 | AS20150 | United States | 151 hrs |
+| #.14D9 | AS49392 | Russia | 1 hrs |
+| #.5CBD | AS48347 | Russia | 108 hrs |
+| #.DDA9 | AS8075 | United Kingdom | 3 hrs |
+| #.900C | AS8075 | Ireland | 3 hrs |
+| #.05ED | AS16509 | Japan | 2 hrs |
+| #.4DA9 | AS14061 | Singapore | 10 hrs |
+| #.95C9 | AS63949 | Japan | 4 hrs |
+| #.0B10 | AS63949 | Japan | 13 hrs |
+| #.A186 | AS16509 | Japan | 5 hrs |
+| #.D2D2 | AS131642 | Taiwan | 11 hrs |
 
