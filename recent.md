@@ -1,6 +1,6 @@
-# 68 recent servers:
+# 73 recent servers:
 
-Latest update at: Thu Feb 06 23:10:12 UTC 2020
+Latest update at: Fri Feb 07 00:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -46,9 +46,9 @@ Latest update at: Thu Feb 06 23:10:12 UTC 2020
 | #.77EC | AS63949 | Japan | 41 hrs offline |
 | #.ABA1 | AS63949 | Germany | 16 hrs offline |
 | #.87AE | AS63949 | Germany | 15 hrs offline |
-| #.7553 | AS8075 | Hong Kong | 16 hrs offline |
 | #.DC72 | AS63949 | Singapore | 35 hrs offline |
 | #.8827 | AS63949 | United States | 35 hrs offline |
+| #.7553 | AS8075 | Hong Kong | 16 hrs offline |
 | #.F23D | AS63949 | United States | 34 hrs offline |
 | #.4B26 | AS63949 | United Kingdom | 34 hrs offline |
 | #.AF1B | AS63949 | United Kingdom | 34 hrs offline |
@@ -67,9 +67,14 @@ Latest update at: Thu Feb 06 23:10:12 UTC 2020
 | #.5505 | AS16509 | Japan | 16 hrs offline |
 | #.4764 | AS16509 | Japan | 16 hrs offline |
 | #.2CFA | AS16509 | Japan | 16 hrs offline |
+| #.532B | AS17621 | China | |
+| #.9E40 | AS17621 | China | |
+| #.56E6 | AS17621 | China | |
 | #.E362 | AS17621 | China | 17 hrs offline |
 | #.D2D2 | AS131642 | Taiwan | 17 hrs |
-| #.1B32 | AS4837 | China | 17 hrs offline |
 | #.240C | AS4808 | China | 13 hrs offline |
+| #.AFA2 | AS17621 | China | |
+| #.9E74 | AS17621 | China | |
+| #.1B32 | AS4837 | China | 17 hrs offline |
 | #.9D06 | AS8075 | Hong Kong | 12 hrs offline |
 
