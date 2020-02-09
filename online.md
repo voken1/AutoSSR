@@ -1,6 +1,6 @@
 # 15 online servers:
 
-Latest update at: Sat Feb 08 23:10:09 UTC 2020
+Latest update at: Sun Feb 09 00:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -18,5 +18,5 @@ Latest update at: Sat Feb 08 23:10:09 UTC 2020
 | #.94EF | AS45102 | United States | 11 hrs |
 | #.9D06 | AS8075 | Hong Kong | 16 hrs |
 | #.9E40 | AS4760 | Hong Kong | 2 hrs |
-| #.F87E | AS63949 | India | 1 hrs |
+| #.F87E | AS63949 | India | 2 hrs |
 
