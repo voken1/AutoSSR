@@ -1,6 +1,6 @@
-# 95 recent servers:
+# 89 recent servers:
 
-Latest update at: Tue Feb 11 10:10:13 UTC 2020
+Latest update at: Tue Feb 11 11:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -31,12 +31,7 @@ Latest update at: Tue Feb 11 10:10:13 UTC 2020
 | #.7BA6 | AS35916 | United States | 42 hrs offline |
 | #.690B | AS63949 | Singapore | 60 hrs offline |
 | #.41C5 | AS63949 | Japan | 60 hrs offline |
-| #.C157 | AS16509 | Japan | 60 hrs offline |
-| #.4254 | AS16509 | Japan | 60 hrs offline |
 | #.F87E | AS63949 | India | 60 hrs offline |
-| #.916D | AS16509 | Japan | 60 hrs offline |
-| #.335D | AS63949 | Singapore | 60 hrs offline |
-| #.E73F | AS63949 | Singapore | 60 hrs offline |
 | #.3607 | AS16509 | Japan | 60 hrs offline |
 | #.9D06 | AS8075 | Hong Kong | 1 hrs offline |
 | #.4ECB | AS63949 | Singapore | 60 hrs offline |
@@ -52,7 +47,6 @@ Latest update at: Tue Feb 11 10:10:13 UTC 2020
 | #.1437 | AS9304 | Hong Kong | 60 hrs offline |
 | #.E973 | AS63949 | Singapore | 60 hrs offline |
 | #.B994 | AS16509 | Japan | 55 hrs offline |
-| #.C828 | AS16509 | Japan | 60 hrs offline |
 | #.43A1 | AS16509 | Japan | 60 hrs offline |
 | #.9532 | AS63949 | Singapore | 60 hrs offline |
 | #.5E72 | AS16509 | Japan | 60 hrs offline |
