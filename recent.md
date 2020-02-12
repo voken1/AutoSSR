@@ -1,12 +1,11 @@
-# 109 recent servers:
+# 103 recent servers:
 
-Latest update at: Wed Feb 12 07:10:15 UTC 2020
+Latest update at: Wed Feb 12 08:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
 | #.D09B | AS174 | United States | 335 hrs |
 | #.2A79 | AS63949 | Japan | 335 hrs |
-| #.15CF | AS49392 | Russia | 60 hrs offline |
 | #.42A0 | AS63949 | Japan | 1 hrs |
 | #.7F1D | AS63949 | Singapore | 506 hrs |
 | #.9FC3 | AS53889 | United States | 353 hrs |
@@ -16,22 +15,16 @@ Latest update at: Wed Feb 12 07:10:15 UTC 2020
 | #.4DA9 | AS14061 | Singapore | 1 hrs |
 | #.94EF | AS45102 | United States | 11 hrs offline |
 | #.9E74 | AS8075 | Hong Kong | 60 hrs offline |
-| #.CBF2 | AS16509 | Japan | 60 hrs offline |
 | #.7F6C | AS20473 | Singapore | 60 hrs offline |
-| #.211A | AS14061 | Singapore | 60 hrs offline |
 | #.4625 | AS16509 | Singapore | 60 hrs offline |
 | #.56E6 | AS9269 | Hong Kong | 60 hrs offline |
-| #.201E | AS35916 | United States | 60 hrs offline |
 | #.641D | AS35916 | United States | 60 hrs offline |
 | #.7BA6 | AS35916 | United States | 60 hrs offline |
-| #.79CA | AS8075 | Hong Kong | 60 hrs offline |
 | #.9332 | AS35916 | United States | 60 hrs offline |
 | #.9D06 | AS8075 | Hong Kong | 13 hrs offline |
 | #.551C | AS16509 | Japan | 31 hrs offline |
-| #.D361 | AS63949 | Singapore | 60 hrs offline |
 | #.B994 | AS16509 | Japan | 60 hrs offline |
 | #.EB18 | AS16509 | Japan | 60 hrs offline |
-| #.5E72 | AS16509 | Japan | 60 hrs offline |
 | #.C911 | AS16509 | Japan | 60 hrs offline |
 | #.63C6 | AS35916 | United States | 60 hrs offline |
 | #.FA6C | AS16509 | Japan | 60 hrs offline |
@@ -106,6 +99,7 @@ Latest update at: Wed Feb 12 07:10:15 UTC 2020
 | #.3341 | AS16509 | Japan | 7 hrs offline |
 | #.576D | AS16509 | Japan | 1 hrs offline |
 | #.4175 | AS16509 | Japan | 7 hrs offline |
+| #.3953 | AS45102 | Singapore | |
 | #.1BE8 | AS16509 | Japan | 7 hrs offline |
 | #.1BF5 | AS16509 | Japan | 7 hrs offline |
 | #.27B5 | AS16509 | Japan | 7 hrs |
