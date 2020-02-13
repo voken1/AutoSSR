@@ -1,6 +1,6 @@
-# 91 recent servers:
+# 107 recent servers:
 
-Latest update at: Thu Feb 13 11:10:08 UTC 2020
+Latest update at: Thu Feb 13 12:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -85,7 +85,13 @@ Latest update at: Thu Feb 13 11:10:08 UTC 2020
 | #.576D | AS16509 | Japan | 48 hrs offline |
 | #.B085 | AS16509 | Japan | 1 hrs offline |
 | #.49CB | AS9371 | Japan | 46 hrs offline |
+| #.F9FE | AS37963 | China | |
+| #.70FC | AS37963 | China | |
+| #.3948 | AS37963 | China | |
 | #.4FC2 | AS16509 | Japan | 36 hrs offline |
+| #.74C4 | AS37963 | China | |
+| #.E5AF | AS37963 | China | |
+| #.3FA1 | AS37963 | China | |
 | #.D2DC | AS16509 | Japan | 33 hrs offline |
 | #.1597 | AS16509 | Japan | 36 hrs offline |
 | #.79F6 | AS63949 | Canada | 36 hrs offline |
@@ -95,4 +101,14 @@ Latest update at: Thu Feb 13 11:10:08 UTC 2020
 | #.298F | AS16509 | Japan | 12 hrs offline |
 | #.3953 | AS45102 | Singapore | 8 hrs offline |
 | #.F8F1 | AS63949 | United States | 13 hrs offline |
+| #.29E1 | AS37963 | China | |
+| #.EC36 | AS37963 | China | |
+| #.DA21 | AS37963 | China | |
+| #.C381 | AS37963 | China | |
+| #.71A8 | AS37963 | China | |
+| #.BB70 | AS37963 | China | |
+| #.DA4F | AS37963 | China | |
+| #.2E5C | AS37963 | China | |
+| #.6DF1 | AS37963 | China | |
+| #.7F27 | AS37963 | China | |
 
