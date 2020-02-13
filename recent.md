@@ -1,6 +1,6 @@
-# 114 recent servers:
+# 108 recent servers:
 
-Latest update at: Thu Feb 13 14:10:08 UTC 2020
+Latest update at: Thu Feb 13 15:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,26 +17,19 @@ Latest update at: Thu Feb 13 14:10:08 UTC 2020
 | #.94EF | AS45102 | China | 15 hrs offline |
 | #.9D06 | AS8075 | Hong Kong | 60 hrs offline |
 | #.551C | AS16509 | Japan | 60 hrs offline |
-| #.CAC8 | AS63949 | India | 60 hrs offline |
 | #.BCA3 | AS16509 | Japan | 60 hrs offline |
-| #.7FA2 | AS16509 | Japan | 60 hrs offline |
 | #.F550 | AS16509 | Japan | 60 hrs offline |
 | #.7016 | AS16509 | Japan | 60 hrs offline |
 | #.2C62 | AS63949 | Japan | 60 hrs offline |
 | #.A9DF | AS16509 | Japan | 60 hrs offline |
-| #.4C2E | AS63949 | India | 60 hrs offline |
 | #.8E54 | AS16509 | Japan | 60 hrs offline |
 | #.5A5E | AS63949 | Germany | 60 hrs offline |
 | #.533F | AS51659 | Russia | 60 hrs offline |
 | #.C4D2 | AS25820 | United States | 60 hrs offline |
 | #.31C0 | AS63949 | India | 60 hrs offline |
-| #.50DD | AS16509 | Japan | 60 hrs offline |
 | #.A619 | AS63949 | Singapore | 60 hrs offline |
-| #.B9F3 | AS16509 | Japan | 60 hrs offline |
 | #.F269 | AS16509 | Japan | 60 hrs offline |
-| #.7171 | AS16509 | Japan | 60 hrs offline |
 | #.5829 | AS16509 | Japan | 60 hrs offline |
-| #.4F5A | AS16509 | Japan | 60 hrs offline |
 | #.C255 | AS16509 | Japan | 60 hrs offline |
 | #.866D | AS16509 | Japan | 60 hrs offline |
 | #.DC04 | AS16509 | Japan | 60 hrs offline |
@@ -102,9 +95,9 @@ Latest update at: Thu Feb 13 14:10:08 UTC 2020
 | #.1597 | AS16509 | Japan | 42 hrs offline |
 | #.79F6 | AS63949 | Canada | 42 hrs offline |
 | #.679D | AS63949 | Singapore | 1 hrs |
-| #.C381 | AS137872 | Hong Kong | 4 hrs offline |
 | #.71A8 | AS37963 | China | 7 hrs offline |
 | #.BB70 | AS37963 | China | 7 hrs offline |
+| #.C381 | AS137872 | Hong Kong | 4 hrs offline |
 | #.DA4F | AS54574 | United States | 5 hrs offline |
 | #.2E5C | AS9269 | Hong Kong | 4 hrs offline |
 | #.AF8D | AS16509 | Japan | |
@@ -118,4 +111,5 @@ Latest update at: Thu Feb 13 14:10:08 UTC 2020
 | #.BF5C | AS16509 | Japan | |
 | #.6DF1 | AS37963 | China | 7 hrs offline |
 | #.7F27 | AS54574 | United States | 5 hrs offline |
+| #.806D | AS37963 | China | |
 
