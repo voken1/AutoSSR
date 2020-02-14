@@ -1,6 +1,6 @@
-# 93 recent servers:
+# 91 recent servers:
 
-Latest update at: Fri Feb 14 14:10:08 UTC 2020
+Latest update at: Fri Feb 14 15:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -24,14 +24,12 @@ Latest update at: Fri Feb 14 14:10:08 UTC 2020
 | #.FD5A | AS63949 | Singapore | 60 hrs offline |
 | #.9B8F | AS20473 | Japan | 60 hrs offline |
 | #.D652 | AS63949 | Japan | 60 hrs offline |
-| #.1BF5 | AS16509 | Japan | 60 hrs offline |
 | #.1340 | AS16509 | Japan | 60 hrs offline |
 | #.B85D | AS16509 | Japan | 60 hrs offline |
 | #.576D | AS16509 | Japan | 60 hrs offline |
 | #.4D95 | AS3462 | Taiwan | 60 hrs offline |
 | #.859B | AS63949 | Japan | 60 hrs offline |
 | #.5FC7 | AS16509 | Japan | 60 hrs offline |
-| #.1BE8 | AS16509 | Japan | 60 hrs offline |
 | #.B085 | AS16509 | Japan | 30 hrs offline |
 | #.27B5 | AS16509 | Japan | 60 hrs offline |
 | #.D90E | AS16509 | Japan | 60 hrs offline |
@@ -77,7 +75,7 @@ Latest update at: Fri Feb 14 14:10:08 UTC 2020
 | #.7D57 | AS16509 | Japan | |
 | #.F81D | AS17621 | China | 19 hrs offline |
 | #.AC52 | AS51659 | Russia | 21 hrs offline |
-| #.A586 | N/A | N/A | |
+| #.1BDA | N/A | N/A | |
 | #.6F61 | AS63949 | Singapore | 21 hrs offline |
 | #.9A32 | AS17621 | China | 7 hrs offline |
 | #.4F5A | AS61046 | Netherlands | 7 hrs offline |
@@ -93,8 +91,8 @@ Latest update at: Fri Feb 14 14:10:08 UTC 2020
 | #.2BA3 | AS16509 | Japan | |
 | #.0CBE | AS16509 | Japan | 5 hrs offline |
 | #.A8BA | AS16509 | Japan | |
+| #.A586 | N/A | N/A | |
 | #.24E0 | AS51659 | Russia | 21 hrs offline |
-| #.9425 | N/A | N/A | |
-| #.1BDA | N/A | N/A | |
 | #.A044 | AS16509 | Japan | |
+| #.9425 | N/A | N/A | |
 
