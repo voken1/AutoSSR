@@ -1,6 +1,6 @@
-# 135 recent servers:
+# 128 recent servers:
 
-Latest update at: Sat Feb 15 16:10:11 UTC 2020
+Latest update at: Sat Feb 15 17:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -10,11 +10,9 @@ Latest update at: Sat Feb 15 16:10:11 UTC 2020
 | #.7F1D | AS63949 | Singapore | 650 hrs |
 | #.9FC3 | AS53889 | United States | 497 hrs |
 | #.D827 | AS20150 | United States | 155 hrs |
-| #.14D9 | AS49392 | Russia | 60 hrs offline |
 | #.05ED | AS16509 | Japan | 105 hrs |
 | #.4DA9 | AS14061 | Singapore | 102 hrs |
 | #.1CDF | AS16509 | Japan | 7 hrs |
-| #.94EF | AS45102 | China | 60 hrs offline |
 | #.240C | AS202053 | Germany | 19 hrs offline |
 | #.13E3 | AS15169 |  | 54 hrs offline |
 | #.9E40 | AS4760 | Hong Kong | 18 hrs offline |
@@ -30,16 +28,12 @@ Latest update at: Sat Feb 15 16:10:11 UTC 2020
 | #.EC36 | AS9269 | Hong Kong | 60 hrs offline |
 | #.74C4 | AS4760 | Hong Kong | 60 hrs offline |
 | #.DA21 | AS63949 | Singapore | 60 hrs offline |
-| #.3953 | AS45102 | Singapore | 60 hrs offline |
 | #.E5AF | AS54574 | United States | 60 hrs offline |
 | #.3FA1 | AS63949 | Japan | 60 hrs offline |
 | #.29E1 | AS137872 | Hong Kong | 60 hrs offline |
 | #.3948 | AS9269 | Hong Kong | 55 hrs offline |
-| #.ACFF | AS16509 | Japan | 60 hrs offline |
 | #.679D | AS63949 | Singapore | 60 hrs offline |
-| #.BB70 | AS37963 | China | 60 hrs offline |
 | #.C381 | AS137872 | Hong Kong | 54 hrs offline |
-| #.71A8 | AS37963 | China | 60 hrs offline |
 | #.DA4F | AS54574 | United States | 60 hrs offline |
 | #.2E5C | AS9269 | Hong Kong | 60 hrs offline |
 | #.B928 | AS16509 | Japan | 60 hrs offline |
@@ -50,7 +44,6 @@ Latest update at: Sat Feb 15 16:10:11 UTC 2020
 | #.3F90 | AS16509 | Japan | 60 hrs offline |
 | #.0F3C | AS63949 | United States | 60 hrs offline |
 | #.806D | AS137872 | Hong Kong | 54 hrs offline |
-| #.6DF1 | AS37963 | China | 60 hrs offline |
 | #.86C5 | AS16509 | Japan | 60 hrs offline |
 | #.AF8D | AS16509 | Japan | 60 hrs offline |
 | #.455C | AS63949 | India | 7 hrs |
