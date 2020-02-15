@@ -1,21 +1,21 @@
 # 76 recent servers:
 
-Latest update at: Sat Feb 15 00:10:11 UTC 2020
+Latest update at: Sat Feb 15 01:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 449 hrs |
-| #.2A79 | AS63949 | Japan | 449 hrs |
-| #.42A0 | AS63949 | Japan | 27 hrs |
-| #.7F1D | AS63949 | Singapore | 620 hrs |
-| #.9FC3 | AS53889 | United States | 467 hrs |
-| #.D827 | AS20150 | United States | 125 hrs |
+| #.D09B | AS174 | United States | 450 hrs |
+| #.2A79 | AS63949 | Japan | 450 hrs |
+| #.7F1D | AS63949 | Singapore | 621 hrs |
+| #.42A0 | AS63949 | Japan | 28 hrs |
+| #.9FC3 | AS53889 | United States | 468 hrs |
+| #.D827 | AS20150 | United States | 126 hrs |
 | #.14D9 | AS49392 | Russia | 60 hrs offline |
-| #.05ED | AS16509 | Japan | 75 hrs |
-| #.4DA9 | AS14061 | Singapore | 72 hrs |
+| #.05ED | AS16509 | Japan | 76 hrs |
+| #.4DA9 | AS14061 | Singapore | 73 hrs |
 | #.240C | AS202053 | Germany | 1 hrs |
 | #.94EF | AS45102 | China | 60 hrs offline |
-| #.13E3 | AS15169 |  | 24 hrs offline |
+| #.13E3 | AS15169 |  | 25 hrs offline |
 | #.9E40 | AS4760 | Hong Kong | 9 hrs offline |
 | #.56E6 | AS9269 | Hong Kong | 6 hrs |
 | #.79CA | AS9304 | Hong Kong | 18 hrs offline |
@@ -23,24 +23,24 @@ Latest update at: Sat Feb 15 00:10:11 UTC 2020
 | #.37DB | AS63949 | Singapore | 60 hrs offline |
 | #.FD5A | AS63949 | Singapore | 60 hrs offline |
 | #.9B8F | AS20473 | Japan | 1 hrs |
+| #.B085 | AS16509 | Japan | 49 hrs offline |
 | #.859B | AS63949 | Japan | 60 hrs offline |
 | #.5FC7 | AS16509 | Japan | 60 hrs offline |
-| #.B085 | AS16509 | Japan | 48 hrs offline |
 | #.F9FE | AS54574 | United States | 60 hrs offline |
 | #.D2DC | AS16509 | Japan | 60 hrs offline |
 | #.EC36 | AS9269 | Hong Kong | 60 hrs offline |
 | #.74C4 | AS4760 | Hong Kong | 60 hrs offline |
-| #.679D | AS63949 | Singapore | 49 hrs offline |
+| #.3948 | AS9269 | Hong Kong | 26 hrs offline |
 | #.3953 | AS45102 | Singapore | 60 hrs offline |
 | #.E5AF | AS54574 | United States | 60 hrs offline |
 | #.3FA1 | AS63949 | Japan | 60 hrs offline |
 | #.29E1 | AS137872 | Hong Kong | 60 hrs offline |
 | #.C56A | AS16509 | Japan | 60 hrs offline |
 | #.298F | AS16509 | Japan | 60 hrs offline |
-| #.3948 | AS9269 | Hong Kong | 25 hrs offline |
 | #.F8F1 | AS63949 | United States | 60 hrs offline |
 | #.ACFF | AS16509 | Japan | 60 hrs offline |
 | #.DA21 | AS63949 | Singapore | 54 hrs offline |
+| #.679D | AS63949 | Singapore | 50 hrs offline |
 | #.BB70 | AS37963 | China | 60 hrs offline |
 | #.C381 | AS137872 | Hong Kong | 24 hrs offline |
 | #.71A8 | AS37963 | China | 60 hrs offline |
