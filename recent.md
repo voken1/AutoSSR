@@ -1,6 +1,6 @@
 # 86 recent servers:
 
-Latest update at: Sat Feb 15 03:10:09 UTC 2020
+Latest update at: Sat Feb 15 04:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -87,7 +87,7 @@ Latest update at: Sat Feb 15 03:10:09 UTC 2020
 | #.671D | AS16509 | Japan | |
 | #.ABEC | AS63949 | Singapore | |
 | #.FFC5 | AS16509 | Japan | |
-| #.9CF7 | N/A | N/A | |
 | #.254E | AS16509 | Japan | |
 | #.F8EB | AS16509 | Japan | |
+| #.9CF7 | N/A | N/A | |
 
