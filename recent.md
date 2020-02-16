@@ -1,6 +1,6 @@
 # 116 recent servers:
 
-Latest update at: Sun Feb 16 20:10:10 UTC 2020
+Latest update at: Sun Feb 16 21:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -13,9 +13,9 @@ Latest update at: Sun Feb 16 20:10:10 UTC 2020
 | #.4DA9 | AS14061 | Singapore | 144 hrs |
 | #.1CDF | AS16509 | Japan | 30 hrs offline |
 | #.13E3 | AS15169 |  | 60 hrs offline |
-| #.9E74 | AS8075 | Hong Kong | 11 hrs offline |
 | #.9E40 | AS4760 | Hong Kong | 3 hrs offline |
 | #.240C | AS202053 | Germany | 14 hrs offline |
+| #.9E74 | AS8075 | Hong Kong | 12 hrs offline |
 | #.F04C | AS16509 | Japan | 42 hrs offline |
 | #.4625 | AS16509 | Singapore | 9 hrs |
 | #.79CA | AS9304 | Hong Kong | 7 hrs |
@@ -61,24 +61,24 @@ Latest update at: Sun Feb 16 20:10:10 UTC 2020
 | #.B146 | AS45102 | United States | 1 hrs offline |
 | #.1625 | AS16509 | United States | 47 hrs |
 | #.1192 | AS63949 | India | 42 hrs offline |
-| #.C0C7 | AS8075 | Hong Kong | 6 hrs |
-| #.3BE0 | AS51659 | Russia | 1 hrs |
+| #.7F5F | AS3462 | Taiwan | 39 hrs offline |
+| #.3CC5 | AS137443 | United States | 5 hrs |
 | #.AC4E | AS63949 | Japan | 3 hrs offline |
 | #.FBFE | AS16509 | Japan | 49 hrs offline |
-| #.015E | AS63949 | Japan | 2 hrs offline |
-| #.7F5F | AS3462 | Taiwan | 38 hrs offline |
-| #.3CC5 | AS137443 | United States | 4 hrs |
+| #.A09E | AS63949 | Japan | 1 hrs offline |
+| #.084A | AS8075 | South Korea | 5 hrs offline |
+| #.C0C7 | AS8075 | Hong Kong | 7 hrs |
 | #.9A32 | AS17621 | China | 60 hrs offline |
 | #.C952 | AS8075 | Hong Kong | 1 hrs |
 | #.5875 | AS16509 | Japan | 48 hrs offline |
 | #.4F81 | AS63949 | Japan | 18 hrs offline |
-| #.084A | AS8075 | South Korea | 4 hrs offline |
+| #.3BE0 | AS51659 | Russia | 2 hrs |
 | #.56E6 | AS9269 | Hong Kong | 13 hrs offline |
 | #.AEC8 |  |  | 36 hrs offline |
 | #.D5FF | AS63949 | India | 42 hrs offline |
 | #.4E47 | AS63949 | United States | 49 hrs |
 | #.31B9 | AS16509 | Japan | 23 hrs offline |
-| #.A09E | AS63949 | Japan | 1 hrs |
+| #.015E | AS63949 | Japan | 3 hrs offline |
 | #.EE0E | AS58879 | United States | 17 hrs offline |
 | #.354A | AS58879 | United States | 17 hrs offline |
 | #.5901 | AS54574 | Hong Kong | 17 hrs offline |
