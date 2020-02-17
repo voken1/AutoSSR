@@ -1,6 +1,6 @@
-# 129 recent servers:
+# 128 recent servers:
 
-Latest update at: Mon Feb 17 21:10:10 UTC 2020
+Latest update at: Mon Feb 17 22:10:18 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -26,7 +26,6 @@ Latest update at: Mon Feb 17 21:10:10 UTC 2020
 | #.455C | AS63949 | India | 60 hrs offline |
 | #.A586 |  | Australia | 60 hrs offline |
 | #.A8BA | AS16509 | Japan | 33 hrs offline |
-| #.1BDA | AS63949 | Australia | 60 hrs offline |
 | #.C12D | AS16509 | Japan | 60 hrs offline |
 | #.21B5 | AS4760 | Hong Kong | 60 hrs offline |
 | #.4F9C | AS63949 | Singapore | 60 hrs offline |
@@ -117,7 +116,6 @@ Latest update at: Mon Feb 17 21:10:10 UTC 2020
 | #.7714 | AS16509 | Japan | 28 hrs offline |
 | #.64F0 | AS63949 | Germany | 27 hrs offline |
 | #.4EE7 | AS63949 | United Kingdom | 28 hrs offline |
-| #.7DC3 | N/A | N/A | 10 hrs offline |
 | #.5BF8 | AS16509 | Japan | 6 hrs |
 | #.1B69 | AS16509 | Japan | 10 hrs offline |
 | #.84F7 | AS134763 | China | 10 hrs offline |
@@ -131,6 +129,7 @@ Latest update at: Mon Feb 17 21:10:10 UTC 2020
 | #.6098 | AS16509 | Japan | 10 hrs offline |
 | #.92FD | AS16509 | Japan | 10 hrs offline |
 | #.1E8C | AS20473 | United States | 2 hrs offline |
+| #.7DC3 | N/A | N/A | 10 hrs offline |
 | #.2297 | AS63949 | Germany | 28 hrs offline |
 | #.DE3C | AS16509 | Japan | 10 hrs offline |
 
