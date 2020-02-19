@@ -1,6 +1,6 @@
 # 10 stable servers:
 
-Latest update at: Tue Feb 18 23:10:11 UTC 2020
+Latest update at: Wed Feb 19 00:10:08 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -13,5 +13,5 @@ Latest update at: Tue Feb 18 23:10:11 UTC 2020
 | #.1625 | AS16509 | United States | 122 hrs |
 | #.2A79 | AS63949 | Japan | 596 hrs |
 | #.05ED | AS16509 | Japan | 222 hrs |
-| #.CA8A | AS49392 | Russia | 16 hrs |
+| #.CA8A | AS49392 | Russia | 17 hrs |
 
