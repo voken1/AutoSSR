@@ -1,6 +1,6 @@
-# 129 recent servers:
+# 117 recent servers:
 
-Latest update at: Wed Feb 19 04:10:08 UTC 2020
+Latest update at: Wed Feb 19 05:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -19,11 +19,9 @@ Latest update at: Wed Feb 19 04:10:08 UTC 2020
 | #.11BC | AS8075 | Hong Kong | 58 hrs offline |
 | #.6780 | AS14061 | Singapore | 35 hrs offline |
 | #.A8BA | AS16509 | Japan | 60 hrs offline |
-| #.0C2F | AS63949 | Singapore | 60 hrs offline |
 | #.B146 | AS45102 | United States | 60 hrs offline |
 | #.F81D | AS8075 | Hong Kong | 58 hrs offline |
 | #.BD3E | AS63888 | Hong Kong | 132 hrs |
-| #.4F81 | AS63949 | Japan | 60 hrs offline |
 | #.3BE0 | AS51659 | Russia | 60 hrs offline |
 | #.AC4E | AS63949 | Japan | 36 hrs offline |
 | #.4E47 | AS63949 | United States | 60 hrs offline |
@@ -37,12 +35,6 @@ Latest update at: Wed Feb 19 04:10:08 UTC 2020
 | #.C952 | AS8075 | Hong Kong | 60 hrs offline |
 | #.8133 | AS4760 | Hong Kong | 60 hrs offline |
 | #.7580 | AS4760 | Hong Kong | 60 hrs offline |
-| #.5B5E | AS63949 | Japan | 60 hrs offline |
-| #.D360 | AS63949 | Japan | 60 hrs offline |
-| #.CA4B | AS63949 | Japan | 60 hrs offline |
-| #.1CD7 | AS63949 | Japan | 60 hrs offline |
-| #.EE0E | AS58879 | United States | 60 hrs offline |
-| #.354A | AS58879 | United States | 60 hrs offline |
 | #.5901 | AS54574 | Hong Kong | 60 hrs offline |
 | #.89A4 | AS137872 | Hong Kong | 60 hrs offline |
 | #.3E33 | AS9269 | Hong Kong | 60 hrs offline |
@@ -52,16 +44,12 @@ Latest update at: Wed Feb 19 04:10:08 UTC 2020
 | #.4B04 | AS4760 | Hong Kong | 60 hrs offline |
 | #.3858 | AS4760 | Hong Kong | 60 hrs offline |
 | #.9565 | AS54574 | Hong Kong | 60 hrs offline |
-| #.DF53 | AS58879 | United States | 60 hrs offline |
 | #.9529 | AS4760 | Hong Kong | 60 hrs offline |
 | #.A76D | AS137443 | United States | 18 hrs offline |
 | #.9D06 | AS8075 | Hong Kong | 13 hrs offline |
 | #.AB24 | AS4760 | Hong Kong | 60 hrs offline |
 | #.F3A3 | AS137443 | United States | 18 hrs offline |
-| #.5657 | AS63949 | Japan | 60 hrs offline |
-| #.E366 | AS137872 | Hong Kong | 60 hrs offline |
 | #.3983 | AS63949 | United States | 12 hrs offline |
-| #.02BF | AS37963 | China | 60 hrs offline |
 | #.1019 | AS63949 | Germany | 60 hrs offline |
 | #.FC76 | AS16509 | Japan | 60 hrs offline |
 | #.BE93 | AS16509 | Japan | 60 hrs offline |
@@ -79,7 +67,6 @@ Latest update at: Wed Feb 19 04:10:08 UTC 2020
 | #.7DC3 | N/A | N/A | 58 hrs offline |
 | #.2297 | AS63949 | Germany | 60 hrs offline |
 | #.93DA | AS63949 | Australia | 25 hrs offline |
-| #.A6A7 | N/A | N/A | 43 hrs offline |
 | #.84F7 | AS134763 | China | 58 hrs offline |
 | #.6098 | AS16509 | Japan | 58 hrs offline |
 | #.1E8C | AS20473 | United States | 50 hrs offline |
@@ -97,6 +84,7 @@ Latest update at: Wed Feb 19 04:10:08 UTC 2020
 | #.DE3C | AS16509 | Japan | 58 hrs offline |
 | #.8847 |  |  | 30 hrs offline |
 | #.7D97 | AS51659 | Russia | 60 hrs offline |
+| #.A6A7 | N/A | N/A | 43 hrs offline |
 | #.4F05 | AS63949 | Germany | 36 hrs offline |
 | #.0777 | AS63949 | Germany | 43 hrs offline |
 | #.BD22 | AS63949 | Australia | 23 hrs offline |
