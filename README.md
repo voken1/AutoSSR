@@ -1,6 +1,6 @@
 # 免费 Free ShadowsocksR
 
-Latest update at: Wed Feb 19 18:10:15 UTC 2020
+Latest update at: Wed Feb 19 19:10:25 UTC 2020
 
 - [Introduction (English)](https://voken.io/en/latest/services/autossr.html)
 - [中文说明](https://voken.io/zh_CN/latest/services/autossr.html)
