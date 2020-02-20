@@ -1,6 +1,6 @@
-# 94 recent servers:
+# 88 recent servers:
 
-Latest update at: Thu Feb 20 00:10:10 UTC 2020
+Latest update at: Thu Feb 20 01:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -19,7 +19,6 @@ Latest update at: Thu Feb 20 00:10:10 UTC 2020
 | #.BD3E | AS63888 | Hong Kong | 167 hrs |
 | #.F81D | AS8075 | Hong Kong | 60 hrs offline |
 | #.015E | AS63949 | Japan | 60 hrs offline |
-| #.3BE0 | AS51659 | Russia | 60 hrs offline |
 | #.1625 | AS16509 | United States | 163 hrs |
 | #.084A | AS8075 | South Korea | 60 hrs offline |
 | #.A09E | AS63949 | Japan | 60 hrs offline |
@@ -31,12 +30,9 @@ Latest update at: Thu Feb 20 00:10:10 UTC 2020
 | #.9D06 | AS8075 | Hong Kong | 48 hrs offline |
 | #.05ED | AS16509 | Japan | 12 hrs offline |
 | #.2A79 | AS63949 | Japan | 637 hrs |
-| #.BE93 | AS16509 | Japan | 60 hrs offline |
 | #.3983 | AS63949 | United States | 47 hrs offline |
 | #.9C9F | AS20473 | Japan | 60 hrs offline |
-| #.D2A2 | AS16509 | Japan | 60 hrs offline |
 | #.7AC7 | AS138576 | United States | 60 hrs offline |
-| #.5E02 | AS16509 | Japan | 60 hrs offline |
 | #.7DC3 | N/A | N/A | 60 hrs offline |
 | #.DE3C | AS16509 | Japan | 60 hrs offline |
 | #.C929 | AS16509 | Japan | 60 hrs offline |
@@ -48,7 +44,6 @@ Latest update at: Thu Feb 20 00:10:10 UTC 2020
 | #.A4D8 | AS16509 | Japan | 60 hrs offline |
 | #.6098 | AS16509 | Japan | 60 hrs offline |
 | #.92FD | AS16509 | Japan | 60 hrs offline |
-| #.6ABC | AS16509 | Japan | 60 hrs offline |
 | #.5BF8 | AS16509 | Japan | 47 hrs offline |
 | #.C79E | AS16509 | Japan | 60 hrs offline |
 | #.B986 | AS16509 | Japan | 60 hrs offline |
@@ -63,7 +58,6 @@ Latest update at: Thu Feb 20 00:10:10 UTC 2020
 | #.ECF5 | AS63949 | Germany | 56 hrs offline |
 | #.18A9 | AS63949 | United States | 53 hrs offline |
 | #.174F | AS16509 | Singapore | 53 hrs offline |
-| #.A5FF | AS20473 | United States | 60 hrs offline |
 | #.8B5C | AS16509 | Japan | 53 hrs offline |
 | #.6049 | AS3462 | Taiwan | 56 hrs offline |
 | #.605A | AS20473 | United Kingdom | 60 hrs offline |
