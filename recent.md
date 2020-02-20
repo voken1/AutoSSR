@@ -1,6 +1,6 @@
 # 98 recent servers:
 
-Latest update at: Thu Feb 20 04:10:20 UTC 2020
+Latest update at: Thu Feb 20 05:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -71,27 +71,27 @@ Latest update at: Thu Feb 20 04:10:20 UTC 2020
 | #.26FF | AS16509 | Japan | 60 hrs offline |
 | #.B837 | AS63949 | United States | 60 hrs offline |
 | #.09E7 | AS16509 | Japan | 23 hrs offline |
-| #.1558 | AS16509 | Japan | 40 hrs offline |
-| #.91F5 | AS16509 | Japan | 40 hrs offline |
+| #.91F5 | AS16509 | Japan | 41 hrs offline |
+| #.E254 | AS63949 | United States | 44 hrs |
 | #.77CD | AS16509 | Japan | 22 hrs offline |
 | #.CD47 | AS23033 | United States | 23 hrs |
 | #.B207 | AS16509 | Japan | 22 hrs offline |
 | #.3770 | AS51659 | Russia | 3 hrs offline |
-| #.65AE | AS16509 | Singapore | 40 hrs offline |
+| #.A7F0 | AS63949 | Canada | 41 hrs offline |
+| #.E038 | AS16509 | Singapore | 41 hrs offline |
 | #.0AB9 | AS16509 | Japan | 23 hrs offline |
-| #.E038 | AS16509 | Singapore | 40 hrs offline |
-| #.2192 | AS16509 | Japan | 34 hrs offline |
+| #.2192 | AS16509 | Japan | 35 hrs offline |
+| #.1BD3 | AS16509 | Japan | 41 hrs offline |
 | #.22CF | AS16509 | Japan | 22 hrs offline |
-| #.1BD3 | AS16509 | Japan | 40 hrs offline |
-| #.2130 | AS16509 | Japan | 40 hrs offline |
+| #.2130 | AS16509 | Japan | 41 hrs offline |
+| #.9700 | AS16509 | Japan | 41 hrs offline |
 | #.770C | AS51659 | Russia | 12 hrs offline |
-| #.9700 | AS16509 | Japan | 40 hrs offline |
-| #.E254 | AS63949 | United States | 43 hrs |
+| #.1558 | AS16509 | Japan | 41 hrs offline |
+| #.217F | AS16509 | Japan | 35 hrs offline |
 | #.C76D | AS16509 | Japan | 22 hrs offline |
-| #.217F | AS16509 | Japan | 34 hrs offline |
 | #.331C | AS63930 | Singapore | 2 hrs offline |
 | #.8615 | AS58779 | Hong Kong | 60 hrs offline |
-| #.A7F0 | AS63949 | Canada | 40 hrs offline |
+| #.65AE | AS16509 | Singapore | 41 hrs offline |
 | #.9929 | AS16509 | Japan | 3 hrs |
 | #.0530 | AS16509 | Japan | 3 hrs |
 | #.7D26 | AS16509 | Japan | 3 hrs |
