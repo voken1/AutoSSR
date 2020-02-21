@@ -1,6 +1,6 @@
 # 57 recent servers:
 
-Latest update at: Fri Feb 21 14:10:13 UTC 2020
+Latest update at: Fri Feb 21 15:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -31,6 +31,7 @@ Latest update at: Fri Feb 21 14:10:13 UTC 2020
 | #.770C | AS51659 | Russia | 60 hrs offline |
 | #.86DB | AS16509 | Japan | 60 hrs offline |
 | #.EF35 | AS63949 | India | 44 hrs offline |
+| #.1D54 | AS16509 | Japan | 25 hrs offline |
 | #.E3B0 | AS16509 | Japan | 49 hrs offline |
 | #.2278 | AS16509 | Japan | 42 hrs offline |
 | #.769A | AS16509 | Japan | 45 hrs offline |
@@ -47,18 +48,17 @@ Latest update at: Fri Feb 21 14:10:13 UTC 2020
 | #.0B0B | AS16509 | Japan | 60 hrs offline |
 | #.5904 | AS16509 | Japan | 45 hrs offline |
 | #.7E05 | AS63949 | United Kingdom | 60 hrs offline |
-| #.8196 | AS16509 | Japan | 20 hrs offline |
 | #.7D26 | AS16509 | Japan | 58 hrs offline |
-| #.1D54 | AS16509 | Japan | 24 hrs offline |
+| #.8196 | AS16509 | Japan | 21 hrs offline |
 | #.3770 | AS51659 | Russia | 60 hrs offline |
-| #.8CCF | AS16509 | Japan | 22 hrs offline |
-| #.D4B4 | AS16509 | Japan | 17 hrs offline |
-| #.74D9 | AS63949 | India | 11 hrs offline |
-| #.F42A | AS63949 | India | 17 hrs offline |
-| #.D0AC | AS63949 | India | 24 hrs offline |
-| #.AAFD | AS63949 | India | 17 hrs offline |
-| #.5DCD | AS63949 | India | 24 hrs offline |
-| #.DD10 | AS63949 | United States | 24 hrs |
-| #.4725 | AS16509 | Japan | 24 hrs offline |
-| #.5D15 | AS4837 | China | 24 hrs offline |
+| #.D4B4 | AS16509 | Japan | 18 hrs offline |
+| #.74D9 | AS63949 | India | 12 hrs offline |
+| #.F42A | AS63949 | India | 18 hrs offline |
+| #.8CCF | AS16509 | Japan | 23 hrs offline |
+| #.5D15 | AS4837 | China | 25 hrs offline |
+| #.D0AC | AS63949 | India | 25 hrs offline |
+| #.AAFD | AS63949 | India | 18 hrs offline |
+| #.5DCD | AS63949 | India | 25 hrs offline |
+| #.DD10 | AS63949 | United States | 25 hrs |
+| #.4725 | AS16509 | Japan | 25 hrs offline |
 
