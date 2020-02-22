@@ -1,6 +1,6 @@
-# 57 recent servers:
+# 67 recent servers:
 
-Latest update at: Sat Feb 22 13:10:11 UTC 2020
+Latest update at: Sat Feb 22 14:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -18,7 +18,6 @@ Latest update at: Sat Feb 22 13:10:11 UTC 2020
 | #.CA8A | AS49392 | Russia | 10 hrs |
 | #.CD47 | AS23033 | United States | 6 hrs offline |
 | #.331C | AS63930 | Singapore | 10 hrs offline |
-| #.9929 | AS16509 | Japan | 60 hrs offline |
 | #.E254 | AS63949 | United States | 60 hrs offline |
 | #.872D | AS16509 | Japan | 60 hrs offline |
 | #.1D54 | AS16509 | Japan | 60 hrs offline |
@@ -32,13 +31,11 @@ Latest update at: Sat Feb 22 13:10:11 UTC 2020
 | #.E3B0 | AS16509 | Japan | 60 hrs offline |
 | #.8196 | AS16509 | Japan | 60 hrs offline |
 | #.769A | AS16509 | Japan | 60 hrs offline |
-| #.7D26 | AS16509 | Japan | 60 hrs offline |
 | #.D4B4 | AS16509 | Japan | 60 hrs offline |
 | #.F42A | AS63949 | India | 60 hrs offline |
 | #.8CCF | AS16509 | Japan | 60 hrs offline |
 | #.74D9 | AS63949 | India | 60 hrs offline |
 | #.BE3A | AS16509 | Japan | 25 hrs offline |
-| #.D40E | AS51659 | Russia | 25 hrs offline |
 | #.887A | AS16509 | Japan | 25 hrs offline |
 | #.FD27 | AS16509 | Japan | 6 hrs offline |
 | #.FE7E | AS16509 | Japan | 21 hrs offline |
@@ -58,7 +55,20 @@ Latest update at: Sat Feb 22 13:10:11 UTC 2020
 | #.DC49 | AS63949 | United Kingdom | 21 hrs offline |
 | #.5D0C | AS63949 | United Kingdom | 21 hrs offline |
 | #.E546 | AS16509 | Japan | 18 hrs offline |
+| #.D40E | AS51659 | Russia | 25 hrs offline |
 | #.DD10 | AS63949 | United States | 73 hrs |
+| #.F0F6 | AS16509 | Japan | |
+| #.BEDC | AS16509 | Japan | |
+| #.39B8 | AS16509 | Japan | |
+| #.0512 | AS16509 | Japan | |
+| #.3460 | AS16509 | Japan | |
+| #.B1B0 | AS16509 | Japan | |
+| #.DDF8 | AS16509 | Japan | |
 | #.0E13 | AS20473 | United States | 6 hrs offline |
+| #.EAA1 | AS16509 | Japan | |
+| #.9FE4 | AS16509 | Japan | |
+| #.18A0 | AS16509 | Japan | |
+| #.97E4 | AS16509 | Japan | |
 | #.FB8E | AS20473 | United States | 7 hrs |
+| #.120C | AS63949 | United States | |
 
