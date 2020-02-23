@@ -1,6 +1,6 @@
 # 52 recent servers:
 
-Latest update at: Sun Feb 23 05:10:11 UTC 2020
+Latest update at: Sun Feb 23 06:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
