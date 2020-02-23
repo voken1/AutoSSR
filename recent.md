@@ -1,6 +1,6 @@
-# 52 recent servers:
+# 50 recent servers:
 
-Latest update at: Sun Feb 23 06:10:11 UTC 2020
+Latest update at: Sun Feb 23 07:10:16 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -18,15 +18,10 @@ Latest update at: Sun Feb 23 06:10:11 UTC 2020
 | #.CA8A | AS49392 | Russia | 3 hrs |
 | #.CD47 | AS23033 | United States | 36 hrs offline |
 | #.331C | AS63930 | Singapore | 9 hrs offline |
-| #.8196 | AS16509 | Japan | 60 hrs offline |
-| #.D4B4 | AS16509 | Japan | 60 hrs offline |
-| #.F42A | AS63949 | India | 60 hrs offline |
-| #.8CCF | AS16509 | Japan | 60 hrs offline |
 | #.74D9 | AS63949 | India | 60 hrs offline |
 | #.5101 | AS16509 | Japan | 52 hrs offline |
 | #.5D0C | AS63949 | United Kingdom | 51 hrs offline |
 | #.DC49 | AS63949 | United Kingdom | 51 hrs offline |
-| #.AAFD | AS63949 | India | 60 hrs offline |
 | #.FD27 | AS16509 | Japan | 36 hrs offline |
 | #.FE7E | AS16509 | Japan | 51 hrs offline |
 | #.6929 | AS16509 | Japan | 48 hrs offline |
@@ -52,8 +47,11 @@ Latest update at: Sun Feb 23 06:10:11 UTC 2020
 | #.9FE4 | AS16509 | Japan | 29 hrs offline |
 | #.18A0 | AS16509 | Japan | 29 hrs offline |
 | #.97E4 | AS16509 | Japan | 29 hrs offline |
+| #.A732 | AS17621 | China | |
+| #.F60C | AS17621 | China | |
 | #.39B8 | AS16509 | Japan | 31 hrs offline |
 | #.0512 | AS16509 | Japan | 31 hrs offline |
 | #.120C | AS63949 | Germany | 28 hrs offline |
+| #.3E19 | AS17621 | China | |
 | #.3460 | AS16509 | Japan | 29 hrs offline |
 
