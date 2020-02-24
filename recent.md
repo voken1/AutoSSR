@@ -1,6 +1,6 @@
 # 61 recent servers:
 
-Latest update at: Mon Feb 24 10:10:08 UTC 2020
+Latest update at: Mon Feb 24 11:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,9 +12,9 @@ Latest update at: Mon Feb 24 10:10:08 UTC 2020
 | #.1475 | AS16509 | Japan | 16 hrs offline |
 | #.3808 | AS16509 | Japan | 13 hrs offline |
 | #.27D8 | AS16509 | Japan | 12 hrs offline |
-| #.3E6A | AS16509 | Japan | 11 hrs offline |
-| #.E064 | AS16509 | Japan | 18 hrs offline |
-| #.31A2 | AS63949 | Germany | 14 hrs offline |
+| #.3E6A | AS16509 | Japan | 12 hrs offline |
+| #.E064 | AS16509 | Japan | 19 hrs offline |
+| #.31A2 | AS63949 | Germany | 15 hrs offline |
 | #.CABA | AS16509 | Japan | 4 hrs |
 | #.B052 | AS16509 | Japan | 12 hrs offline |
 | #.9A86 | AS16509 | Japan | 12 hrs offline |
@@ -24,7 +24,7 @@ Latest update at: Mon Feb 24 10:10:08 UTC 2020
 | #.F2B5 | AS63949 | Germany | 12 hrs offline |
 | #.9FC3 | AS53889 | United States | 865 hrs |
 | #.D6CF | AS16509 | Japan | 12 hrs offline |
-| #.F569 | AS20473 | United States | 12 hrs |
+| #.F569 | AS20473 | United States | 13 hrs |
 | #.4DA9 | AS14061 | Singapore | 14 hrs |
 | #.4625 | AS16509 | Singapore | 8 hrs offline |
 | #.1625 | AS16509 | United States | 373 hrs |
