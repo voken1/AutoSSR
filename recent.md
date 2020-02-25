@@ -1,6 +1,6 @@
-# 77 recent servers:
+# 84 recent servers:
 
-Latest update at: Tue Feb 25 13:10:10 UTC 2020
+Latest update at: Tue Feb 25 14:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -50,30 +50,37 @@ Latest update at: Tue Feb 25 13:10:10 UTC 2020
 | #.48A7 | AS16509 | Japan | 19 hrs offline |
 | #.8710 | AS16509 | Japan | 19 hrs offline |
 | #.475D | AS16509 | Japan | 19 hrs offline |
-| #.9C72 | N/A | N/A | 19 hrs offline |
 | #.C0A6 | AS16509 | Japan | 12 hrs offline |
 | #.A6D5 | AS16509 | Japan | 19 hrs offline |
 | #.244E | AS16509 | Japan | 12 hrs offline |
 | #.D8A4 | AS16509 | Japan | 19 hrs offline |
 | #.1674 | AS16509 | Japan | 19 hrs offline |
 | #.961B | AS16509 | Japan | 19 hrs offline |
+| #.9C72 | N/A | N/A | 19 hrs offline |
 | #.D3E0 | AS20473 | United States | 4 hrs |
+| #.4BB9 | AS16509 | Japan | |
+| #.9BAB | N/A | N/A | |
+| #.12E5 | N/A | N/A | |
+| #.DB20 | AS16509 | Japan | |
+| #.AE09 | AS16509 | Japan | |
+| #.9EE7 | AS16509 | Japan | |
+| #.1E51 | AS16509 | Japan | |
+| #.526C | AS16509 | Japan | |
+| #.789A | AS16509 | Japan | |
+| #.50A0 | AS16509 | Japan | |
+| #.2B19 | AS16509 | Japan | |
 | #.4DA9 | AS14061 | Singapore | 38 hrs offline |
 | #.4625 | AS16509 | Singapore | 56 hrs offline |
 | #.1625 | AS16509 | United States | 421 hrs |
 | #.2A79 | AS63949 | Japan | 895 hrs |
 | #.CA8A | AS49392 | Russia | 11 hrs |
 | #.2B8F | AS16509 | Japan | 60 hrs offline |
-| #.331C | AS63930 | Singapore | 60 hrs offline |
 | #.DD10 | AS63949 | United States | 116 hrs |
 | #.D40E | AS51659 | Russia | 60 hrs offline |
 | #.CCB4 | AS16509 | Japan | 60 hrs offline |
 | #.FA61 | AS16509 | Japan | 60 hrs offline |
-| #.A732 | AS8075 | Japan | 60 hrs offline |
 | #.5560 | AS20473 | United States | 60 hrs offline |
 | #.63CB | AS16509 | Japan | 60 hrs offline |
-| #.F60C | AS3462 | Taiwan | 60 hrs offline |
-| #.3E19 | AS3462 | Taiwan | 60 hrs offline |
 | #.7EC1 | AS63949 | United States | 60 hrs offline |
 | #.2758 | AS16509 | Japan | 60 hrs offline |
 | #.148D | AS16509 | Japan | 60 hrs offline |
