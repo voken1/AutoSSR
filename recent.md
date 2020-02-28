@@ -1,18 +1,18 @@
 # 80 recent servers:
 
-Latest update at: Fri Feb 28 17:10:13 UTC 2020
+Latest update at: Fri Feb 28 18:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 1033 hrs |
-| #.E0F1 | AS16509 | Japan | 7 hrs |
-| #.42A0 | AS63949 | Japan | 21 hrs |
-| #.7F1D | AS63949 | Singapore | 1204 hrs |
-| #.9FC3 | AS53889 | United States | 1051 hrs |
-| #.BDBC | AS16509 | Japan | 33 hrs offline |
-| #.1948 | AS63949 | United States | 35 hrs offline |
-| #.F016 | AS16509 | Japan | 34 hrs offline |
-| #.9DEE | AS51659 | Russia | 35 hrs offline |
+| #.D09B | AS174 | United States | 1036 hrs |
+| #.E0F1 | AS16509 | Japan | 2 hrs offline |
+| #.42A0 | AS63949 | Japan | 24 hrs |
+| #.7F1D | AS63949 | Singapore | 1207 hrs |
+| #.9FC3 | AS53889 | United States | 1054 hrs |
+| #.F016 | AS16509 | Japan | 37 hrs offline |
+| #.BDBC | AS16509 | Japan | 36 hrs offline |
+| #.1948 | AS63949 | United States | 38 hrs offline |
+| #.9DEE | AS51659 | Russia | 38 hrs offline |
 | #.BD47 | AS20473 | United States | 60 hrs offline |
 | #.AE87 | AS20473 | Japan | 60 hrs offline |
 | #.0307 | AS16509 | Japan | 60 hrs offline |
@@ -30,7 +30,7 @@ Latest update at: Fri Feb 28 17:10:13 UTC 2020
 | #.6CF8 | AS16509 | Japan | 60 hrs offline |
 | #.3BCF | AS63949 | Australia | 60 hrs offline |
 | #.AA36 | AS16509 | Japan | 60 hrs offline |
-| #.B4DF | AS63949 | United Kingdom | 97 hrs |
+| #.B4DF | AS63949 | United Kingdom | 100 hrs |
 | #.A4D4 | AS16509 | Japan | 60 hrs offline |
 | #.125C | AS16509 | Japan | 60 hrs offline |
 | #.1D8D | AS16509 | Japan | 60 hrs offline |
@@ -38,50 +38,50 @@ Latest update at: Fri Feb 28 17:10:13 UTC 2020
 | #.60E1 | N/A | N/A | 60 hrs offline |
 | #.CE05 | N/A | N/A | 60 hrs offline |
 | #.1713 | N/A | N/A | 60 hrs offline |
-| #.1F9B | AS16509 | Japan | 60 hrs offline |
 | #.DA94 | N/A | N/A | 60 hrs offline |
-| #.3C8A | AS20473 | United States | 54 hrs offline |
-| #.3BC3 | AS16509 | Japan | 35 hrs offline |
-| #.B0A6 | AS16509 | Japan | 48 hrs offline |
-| #.51A4 | AS16509 | Japan | 48 hrs offline |
-| #.3C3C | AS16509 | Japan | 45 hrs offline |
-| #.0887 | AS63949 | United Kingdom | 47 hrs offline |
-| #.7230 | AS63949 | United Kingdom | 47 hrs offline |
-| #.5ADA | AS63949 | United Kingdom | 47 hrs offline |
-| #.1F88 | AS63949 | United Kingdom | 47 hrs offline |
-| #.4BBB | AS16509 | Japan | 48 hrs offline |
-| #.7F2B | AS16509 | Japan | 49 hrs offline |
-| #.DBC4 | AS16509 | Japan | 49 hrs offline |
-| #.6FD6 | AS63949 | United Kingdom | 47 hrs offline |
-| #.6D4F | AS63949 | United Kingdom | 48 hrs offline |
-| #.7C58 | AS16509 | Japan | 48 hrs offline |
-| #.7730 | AS16509 | Japan | 44 hrs offline |
-| #.5807 | AS16509 | Japan | 48 hrs offline |
-| #.53E1 | AS63949 | United Kingdom | 47 hrs offline |
-| #.A1F0 | AS16509 | Japan | 48 hrs offline |
-| #.FD95 | AS16509 | Japan | 48 hrs offline |
-| #.D2B1 | AS16509 | Japan | 25 hrs offline |
+| #.1F9B | AS16509 | Japan | 60 hrs offline |
+| #.3C8A | AS20473 | United States | 57 hrs offline |
+| #.3BC3 | AS16509 | Japan | 38 hrs offline |
+| #.B0A6 | AS16509 | Japan | 51 hrs offline |
+| #.51A4 | AS16509 | Japan | 50 hrs offline |
+| #.3C3C | AS16509 | Japan | 47 hrs offline |
+| #.0887 | AS63949 | United Kingdom | 50 hrs offline |
+| #.7230 | AS63949 | United Kingdom | 50 hrs offline |
+| #.5ADA | AS63949 | United Kingdom | 50 hrs offline |
+| #.1F88 | AS63949 | United Kingdom | 50 hrs offline |
+| #.4BBB | AS16509 | Japan | 51 hrs offline |
+| #.7F2B | AS16509 | Japan | 51 hrs offline |
+| #.DBC4 | AS16509 | Japan | 51 hrs offline |
+| #.6FD6 | AS63949 | United Kingdom | 50 hrs offline |
+| #.6D4F | AS63949 | United Kingdom | 51 hrs offline |
+| #.7C58 | AS16509 | Japan | 50 hrs offline |
+| #.7730 | AS16509 | Japan | 46 hrs offline |
+| #.5807 | AS16509 | Japan | 50 hrs offline |
+| #.53E1 | AS63949 | United Kingdom | 50 hrs offline |
+| #.A1F0 | AS16509 | Japan | 51 hrs offline |
+| #.FD95 | AS16509 | Japan | 51 hrs offline |
+| #.D2B1 | AS16509 | Japan | 27 hrs offline |
 | #.1625 | AS16509 | United States | 60 hrs offline |
-| #.8AB8 | AS16509 | Japan | 25 hrs offline |
-| #.70AF | AS16509 | Japan | 3 hrs offline |
-| #.4E2E | AS16509 | Japan | 18 hrs offline |
-| #.61BD | AS16509 | Japan | 18 hrs offline |
-| #.E0EA | AS16509 | Japan | 25 hrs offline |
-| #.0B5E | AS16509 | Japan | 10 hrs offline |
-| #.2A79 | AS63949 | Japan | 1033 hrs |
-| #.043A | AS16509 | Japan | 25 hrs offline |
-| #.F937 | AS63949 | United States | 25 hrs |
-| #.30DA | AS63949 | United Kingdom | 18 hrs offline |
-| #.4E46 | AS63949 | United Kingdom | 21 hrs offline |
-| #.995F | AS63949 | United Kingdom | 25 hrs offline |
-| #.88C0 | AS63949 | United Kingdom | 18 hrs offline |
-| #.CA8A | AS49392 | Russia | 1 hrs offline |
-| #.80C9 | AS51659 | Russia | 25 hrs offline |
-| #.E9ED | AS16509 | Japan | 25 hrs offline |
-| #.A3AB | AS16509 | Japan | 7 hrs |
-| #.0FD7 | AS16509 | Japan | 7 hrs |
-| #.1033 | AS16509 | Japan | 5 hrs offline |
-| #.F815 | AS16509 | Japan | 3 hrs offline |
-| #.0E1F | AS16509 | Japan | 7 hrs |
-| #.60DC | AS63949 | Germany | 1 hrs |
+| #.70AF | AS16509 | Japan | 1 hrs |
+| #.8AB8 | AS16509 | Japan | 27 hrs offline |
+| #.4E2E | AS16509 | Japan | 20 hrs offline |
+| #.0B5E | AS16509 | Japan | 1 hrs |
+| #.61BD | AS16509 | Japan | 20 hrs offline |
+| #.E0EA | AS16509 | Japan | 27 hrs offline |
+| #.F937 | AS63949 | United States | 27 hrs |
+| #.2A79 | AS63949 | Japan | 1036 hrs |
+| #.043A | AS16509 | Japan | 27 hrs offline |
+| #.30DA | AS63949 | United Kingdom | 20 hrs offline |
+| #.4E46 | AS63949 | United Kingdom | 23 hrs offline |
+| #.995F | AS63949 | United Kingdom | 27 hrs offline |
+| #.88C0 | AS63949 | United Kingdom | 20 hrs offline |
+| #.CA8A | AS49392 | Russia | 1 hrs |
+| #.80C9 | AS51659 | Russia | 27 hrs offline |
+| #.E9ED | AS16509 | Japan | 27 hrs offline |
+| #.A3AB | AS16509 | Japan | 2 hrs offline |
+| #.0FD7 | AS16509 | Japan | 1 hrs |
+| #.1033 | AS16509 | Japan | 7 hrs offline |
+| #.F815 | AS16509 | Japan | 5 hrs offline |
+| #.0E1F | AS16509 | Japan | 2 hrs offline |
+| #.60DC | AS63949 | Germany | 2 hrs offline |
 

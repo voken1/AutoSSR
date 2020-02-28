@@ -1,19 +1,18 @@
-# 12 online servers:
+# 11 online servers:
 
-Latest update at: Fri Feb 28 17:10:13 UTC 2020
+Latest update at: Fri Feb 28 18:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 1033 hrs |
-| #.E0F1 | AS16509 | Japan | 7 hrs |
-| #.42A0 | AS63949 | Japan | 21 hrs |
-| #.7F1D | AS63949 | Singapore | 1204 hrs |
-| #.9FC3 | AS53889 | United States | 1051 hrs |
-| #.B4DF | AS63949 | United Kingdom | 97 hrs |
-| #.2A79 | AS63949 | Japan | 1033 hrs |
-| #.F937 | AS63949 | United States | 25 hrs |
-| #.A3AB | AS16509 | Japan | 7 hrs |
-| #.0FD7 | AS16509 | Japan | 7 hrs |
-| #.0E1F | AS16509 | Japan | 7 hrs |
-| #.60DC | AS63949 | Germany | 1 hrs |
+| #.D09B | AS174 | United States | 1036 hrs |
+| #.42A0 | AS63949 | Japan | 24 hrs |
+| #.7F1D | AS63949 | Singapore | 1207 hrs |
+| #.9FC3 | AS53889 | United States | 1054 hrs |
+| #.B4DF | AS63949 | United Kingdom | 100 hrs |
+| #.70AF | AS16509 | Japan | 1 hrs |
+| #.0B5E | AS16509 | Japan | 1 hrs |
+| #.F937 | AS63949 | United States | 27 hrs |
+| #.2A79 | AS63949 | Japan | 1036 hrs |
+| #.CA8A | AS49392 | Russia | 1 hrs |
+| #.0FD7 | AS16509 | Japan | 1 hrs |
 
