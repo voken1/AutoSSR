@@ -1,6 +1,6 @@
 # 95 recent servers:
 
-Latest update at: Sun Mar 01 03:10:09 UTC 2020
+Latest update at: Sun Mar 01 04:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -27,11 +27,11 @@ Latest update at: Sun Mar 01 03:10:09 UTC 2020
 | #.1D38 | AS16509 | Japan | 4 hrs offline |
 | #.0F65 | AS63949 | United States | 3 hrs offline |
 | #.CFBC | AS16509 | Japan | 4 hrs |
-| #.72CA | N/A | N/A | 4 hrs offline |
 | #.2F3C | AS16509 | Singapore | 4 hrs |
 | #.2631 | AS16509 | Japan | 4 hrs |
 | #.79FD | AS63949 | United States | 4 hrs |
 | #.EDB6 | AS63949 | United States | 4 hrs |
+| #.72CA | N/A | N/A | 4 hrs offline |
 | #.AEE1 | AS16509 | Japan | 4 hrs offline |
 | #.14DA | AS4837 | China | 35 hrs offline |
 | #.88F0 | AS20473 | Japan | 28 hrs offline |
@@ -42,6 +42,7 @@ Latest update at: Sun Mar 01 03:10:09 UTC 2020
 | #.4648 | AS20473 | Japan | 28 hrs offline |
 | #.1731 | AS20473 | Japan | 28 hrs offline |
 | #.BDF3 | AS4760 | Hong Kong | 28 hrs offline |
+| #.7C33 | AS4837 | China | |
 | #.A75A | AS20473 | Japan | 28 hrs offline |
 | #.4381 | AS20473 | Japan | 28 hrs offline |
 | #.1948 | AS63949 | United States | 60 hrs offline |
@@ -61,10 +62,8 @@ Latest update at: Sun Mar 01 03:10:09 UTC 2020
 | #.63C4 | AS16509 | Japan | 23 hrs offline |
 | #.573F | AS63949 | United States | 11 hrs offline |
 | #.3BC3 | AS16509 | Japan | 60 hrs offline |
-| #.3C3C | AS16509 | Japan | 60 hrs offline |
 | #.45E8 | AS63949 | United States | 22 hrs offline |
 | #.F110 | AS16509 | Singapore | 22 hrs offline |
-| #.7730 | AS16509 | Japan | 60 hrs offline |
 | #.E2F3 | AS16509 | Japan | 22 hrs offline |
 | #.075B | AS16509 | Japan | 22 hrs offline |
 | #.597C | AS63949 | United States | 22 hrs offline |
@@ -89,6 +88,7 @@ Latest update at: Sun Mar 01 03:10:09 UTC 2020
 | #.88C0 | AS63949 | United Kingdom | 60 hrs offline |
 | #.995F | AS63949 | United Kingdom | 60 hrs offline |
 | #.CA8A | AS49392 | Russia | 2 hrs |
+| #.F9FE | AS54574 | United States | 1 hrs |
 | #.9F1F | AS37963 | China | 22 hrs offline |
 | #.E9ED | AS16509 | Japan | 60 hrs offline |
 | #.0125 | AS54574 | United States | 2 hrs |
