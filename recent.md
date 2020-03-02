@@ -1,6 +1,6 @@
-# 113 recent servers:
+# 114 recent servers:
 
-Latest update at: Mon Mar 02 15:10:11 UTC 2020
+Latest update at: Mon Mar 02 16:10:21 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -50,6 +50,7 @@ Latest update at: Mon Mar 02 15:10:11 UTC 2020
 | #.983A | AS16509 | Japan | 55 hrs offline |
 | #.D842 | AS36352 | United States | 60 hrs offline |
 | #.14DA | AS4837 | China | 60 hrs offline |
+| #.43CF | AS37963 | China | |
 | #.4648 | AS20473 | Japan | 60 hrs offline |
 | #.1731 | AS20473 | Japan | 60 hrs offline |
 | #.C481 | AS36352 | United States | 60 hrs offline |
@@ -63,9 +64,9 @@ Latest update at: Mon Mar 02 15:10:11 UTC 2020
 | #.6F3A | AS20473 | United States | 55 hrs offline |
 | #.F890 | AS16509 | Japan | 36 hrs offline |
 | #.CCB1 | AS16509 | Japan | 36 hrs offline |
-| #.78F1 | N/A | N/A | 44 hrs offline |
-| #.E702 | AS63949 | United Kingdom | 36 hrs offline |
 | #.09DE | N/A | N/A | 44 hrs offline |
+| #.E702 | AS63949 | United Kingdom | 36 hrs offline |
+| #.78F1 | N/A | N/A | 44 hrs offline |
 | #.7A54 | AS16509 | Japan | 38 hrs offline |
 | #.6202 | AS63949 | Australia | 36 hrs offline |
 | #.19EC | AS16509 | Japan | 38 hrs offline |
