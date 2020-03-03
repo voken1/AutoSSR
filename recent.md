@@ -1,6 +1,6 @@
-# 109 recent servers:
+# 95 recent servers:
 
-Latest update at: Tue Mar 03 20:10:10 UTC 2020
+Latest update at: Tue Mar 03 21:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -22,20 +22,8 @@ Latest update at: Tue Mar 03 20:10:10 UTC 2020
 | #.3380 | AS16509 | Japan | 55 hrs offline |
 | #.6BA1 | AS16509 | Japan | 55 hrs offline |
 | #.3AC4 | AS16509 | Japan | 55 hrs offline |
-| #.5438 | AS16509 | Japan | 60 hrs offline |
-| #.1D38 | AS16509 | Japan | 60 hrs offline |
-| #.56A8 | AS16509 | Japan | 60 hrs offline |
-| #.CFBC | AS16509 | Japan | 60 hrs offline |
-| #.0F65 | AS63949 | United States | 60 hrs offline |
-| #.2631 | AS16509 | Japan | 60 hrs offline |
-| #.EDB6 | AS63949 | United States | 60 hrs offline |
-| #.72CA | N/A | N/A | 60 hrs offline |
-| #.2F3C | AS16509 | Singapore | 60 hrs offline |
-| #.79FD | AS63949 | United States | 60 hrs offline |
 | #.DDAC | AS17621 | China | 55 hrs offline |
-| #.AEE1 | AS16509 | Japan | 60 hrs offline |
 | #.F893 | AS8075 | Hong Kong | 55 hrs offline |
-| #.983A | AS16509 | Japan | 60 hrs offline |
 | #.5484 | AS4808 | China | 7 hrs offline |
 | #.43CF | AS137872 | Hong Kong | 39 hrs offline |
 | #.E93F | AS9269 | Hong Kong | 7 hrs |
@@ -43,10 +31,8 @@ Latest update at: Tue Mar 03 20:10:10 UTC 2020
 | #.0B24 | AS17621 | China | 55 hrs offline |
 | #.7C33 | AS20473 | Japan | 60 hrs offline |
 | #.E2C4 | AS8075 | Singapore | 30 hrs offline |
-| #.DA97 | AS20473 | Singapore | 60 hrs offline |
 | #.A613 | AS16509 | Japan | 31 hrs offline |
 | #.2865 | AS16509 | Japan | 30 hrs offline |
-| #.6F3A | AS20473 | United States | 60 hrs offline |
 | #.CFE9 | AS16509 | Japan | 31 hrs offline |
 | #.ED46 | AS16509 | Japan | 31 hrs offline |
 | #.5016 | AS16509 | Japan | 31 hrs offline |
@@ -59,14 +45,14 @@ Latest update at: Tue Mar 03 20:10:10 UTC 2020
 | #.5C3B | AS16509 | Japan | 18 hrs offline |
 | #.41C5 | AS63949 | Japan | 31 hrs offline |
 | #.2F36 | N/A | N/A | 31 hrs offline |
-| #.9030 | AS63949 | United Kingdom | 60 hrs offline |
 | #.78F1 | N/A | N/A | 60 hrs offline |
+| #.9030 | AS63949 | United Kingdom | 60 hrs offline |
+| #.09DE | N/A | N/A | 60 hrs offline |
 | #.19EC | AS16509 | Japan | 60 hrs offline |
 | #.6202 | AS63949 | Australia | 60 hrs offline |
 | #.F890 | AS16509 | Japan | 60 hrs offline |
 | #.7A54 | AS16509 | Japan | 60 hrs offline |
 | #.CCB1 | AS16509 | Japan | 60 hrs offline |
-| #.09DE | N/A | N/A | 60 hrs offline |
 | #.3EB2 | AS16509 | Japan | 60 hrs offline |
 | #.E702 | AS63949 | United Kingdom | 60 hrs offline |
 | #.B4DF | AS63949 | United Kingdom | 60 hrs offline |
