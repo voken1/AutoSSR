@@ -1,6 +1,6 @@
 # 91 recent servers:
 
-Latest update at: Tue Mar 03 10:10:10 UTC 2020
+Latest update at: Tue Mar 03 11:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -55,23 +55,23 @@ Latest update at: Tue Mar 03 10:10:10 UTC 2020
 | #.ED46 | AS16509 | Japan | 13 hrs offline |
 | #.85E5 | AS16509 | Japan | 6 hrs offline |
 | #.2F36 | N/A | N/A | 13 hrs offline |
-| #.78F1 | N/A | N/A | 60 hrs offline |
 | #.9030 | AS63949 | United Kingdom | 60 hrs offline |
 | #.19EC | AS16509 | Japan | 60 hrs offline |
 | #.6202 | AS63949 | Australia | 60 hrs offline |
 | #.F890 | AS16509 | Japan | 60 hrs offline |
 | #.7A54 | AS16509 | Japan | 60 hrs offline |
 | #.CCB1 | AS16509 | Japan | 60 hrs offline |
-| #.09DE | N/A | N/A | 60 hrs offline |
+| #.78F1 | N/A | N/A | 60 hrs offline |
 | #.3EB2 | AS16509 | Japan | 60 hrs offline |
 | #.E702 | AS63949 | United Kingdom | 60 hrs offline |
+| #.09DE | N/A | N/A | 60 hrs offline |
 | #.1244 | AS16509 | Japan | 60 hrs offline |
 | #.B4DF | AS63949 | United Kingdom | 60 hrs offline |
 | #.9896 | AS16509 | Japan | 60 hrs offline |
 | #.2FF3 | AS16509 | Japan | 60 hrs offline |
 | #.FD00 | AS20473 | United States | 13 hrs |
-| #.1F64 | N/A | N/A | 60 hrs offline |
 | #.573F | AS63949 | United States | 60 hrs offline |
+| #.1F64 | N/A | N/A | 60 hrs offline |
 | #.43B5 | AS45102 | Hong Kong | 42 hrs offline |
 | #.3910 | N/A | N/A | 60 hrs offline |
 | #.6F51 | AS54574 | United States | 24 hrs offline |
