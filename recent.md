@@ -1,6 +1,6 @@
-# 112 recent servers:
+# 114 recent servers:
 
-Latest update at: Wed Mar 04 14:10:14 UTC 2020
+Latest update at: Wed Mar 04 15:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -24,6 +24,7 @@ Latest update at: Wed Mar 04 14:10:14 UTC 2020
 | #.E069 | AS40065 | United States | 146 hrs |
 | #.F893 | AS8075 | Hong Kong | 60 hrs offline |
 | #.DDAC | AS17621 | China | 60 hrs offline |
+| #.FBAD | AS20473 | United States | |
 | #.B151 | AS37963 | China | 5 hrs offline |
 | #.43CF | AS137872 | Hong Kong | 60 hrs offline |
 | #.EEAE | AS9808 | China | 37 hrs offline |
@@ -85,30 +86,31 @@ Latest update at: Wed Mar 04 14:10:14 UTC 2020
 | #.50F3 | AS137872 | Hong Kong | 1 hrs offline |
 | #.E661 | AS16509 | Japan | 42 hrs offline |
 | #.8F45 | AS37963 | China | 7 hrs offline |
+| #.EC1C | AS16509 | Japan | |
+| #.CD61 | AS16509 | Japan | |
 | #.CA8A | AS49392 | Russia | 16 hrs |
-| #.3596 | AS16509 | Japan | 60 hrs offline |
-| #.9525 | AS16509 | Japan | 60 hrs offline |
 | #.F08B | AS137872 | Hong Kong | 5 hrs offline |
-| #.CB3C | AS16509 | Japan | 60 hrs offline |
-| #.D143 | AS63949 | United Kingdom | 60 hrs offline |
-| #.6562 | AS63949 | United Kingdom | 60 hrs offline |
-| #.BCFA | AS63949 | United Kingdom | 60 hrs offline |
 | #.D74A | AS63949 | United States | 6 hrs offline |
 | #.7542 | AS16509 | Japan | 60 hrs offline |
 | #.8616 | AS63949 | United Kingdom | 6 hrs offline |
 | #.C850 | AS16509 | Japan | 42 hrs offline |
-| #.A5B9 | AS16509 | Japan | 60 hrs offline |
-| #.F192 | AS16509 | Singapore | 60 hrs offline |
-| #.6B05 | AS16509 | Japan | 60 hrs offline |
 | #.4454 | AS16509 | Japan | 60 hrs offline |
+| #.8685 | AS16509 | Japan | |
+| #.EE0B | AS16509 | Japan | |
+| #.F621 | AS16509 | Japan | |
+| #.F64B | AS63949 | United States | |
+| #.7C0F | AS63949 | United States | |
 | #.83EA | AS9269 | Hong Kong | 18 hrs offline |
 | #.0125 | AS54574 | United States | 60 hrs offline |
 | #.D195 | AS63949 | Japan | 2 hrs offline |
 | #.F9FE | AS54574 | United States | 60 hrs offline |
 | #.14F2 | AS9808 | China | 37 hrs offline |
+| #.C82A | AS63949 | United States | |
 | #.0AC0 | AS9808 | China | 37 hrs offline |
 | #.B9A8 | AS37963 | China | 37 hrs offline |
 | #.5739 | AS4760 | Hong Kong | 18 hrs offline |
+| #.FC45 | AS16509 | Japan | |
+| #.9F9E | AS63949 | United States | |
 | #.0008 | AS9808 | China | 37 hrs offline |
 | #.1BF2 | AS4808 | China | 37 hrs offline |
 | #.A8F1 | AS63949 | Japan | 2 hrs |
