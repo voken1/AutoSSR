@@ -1,6 +1,6 @@
-# 133 recent servers:
+# 126 recent servers:
 
-Latest update at: Fri Mar 06 09:10:08 UTC 2020
+Latest update at: Fri Mar 06 10:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -54,7 +54,6 @@ Latest update at: Fri Mar 06 09:10:08 UTC 2020
 | #.D71D | AS16509 | Japan | 6 hrs offline |
 | #.50AD | AS37963 | China | 60 hrs offline |
 | #.63C1 | AS63949 | Singapore | 60 hrs offline |
-| #.FD00 | AS20473 | United States | 60 hrs offline |
 | #.4DA9 | AS14061 | Singapore | 19 hrs |
 | #.FCFE | AS4760 | Hong Kong | 60 hrs offline |
 | #.A481 | AS58879 | United States | 60 hrs offline |
@@ -71,24 +70,18 @@ Latest update at: Fri Mar 06 09:10:08 UTC 2020
 | #.5B5E | AS63949 | Japan | 6 hrs offline |
 | #.9052 | AS4760 | Hong Kong | 6 hrs offline |
 | #.8133 | AS4760 | Hong Kong | 6 hrs offline |
-| #.D630 | AS16509 | Japan | 60 hrs offline |
 | #.5657 | AS63949 | Japan | 29 hrs offline |
-| #.971E | AS16509 | Japan | 60 hrs offline |
 | #.2A79 | AS63949 | Japan | 1304 hrs |
-| #.F270 | AS16509 | Japan | 60 hrs offline |
 | #.8F45 | AS37963 | China | 60 hrs offline |
 | #.700A | AS63949 | United Kingdom | 60 hrs offline |
 | #.CD61 | AS16509 | Japan | 60 hrs offline |
 | #.50F3 | AS137872 | Hong Kong | 60 hrs offline |
 | #.EC1C | AS16509 | Japan | 60 hrs offline |
-| #.E661 | AS16509 | Japan | 60 hrs offline |
-| #.3CFA | AS63949 | Germany | 60 hrs offline |
 | #.CA8A | AS49392 | Russia | 82 hrs |
 | #.D74A | AS63949 | United States | 60 hrs offline |
 | #.F08B | AS137872 | Hong Kong | 60 hrs offline |
 | #.8616 | AS63949 | United Kingdom | 60 hrs offline |
 | #.8685 | AS16509 | Japan | 60 hrs offline |
-| #.C850 | AS16509 | Japan | 60 hrs offline |
 | #.EE0B | AS16509 | Japan | 60 hrs offline |
 | #.F64B | AS63949 | United States | 60 hrs offline |
 | #.5739 | AS4760 | Hong Kong | 60 hrs offline |
@@ -121,20 +114,20 @@ Latest update at: Fri Mar 06 09:10:08 UTC 2020
 | #.1068 | AS4760 | Hong Kong | 6 hrs offline |
 | #.DAAD | AS16509 | Japan | 28 hrs offline |
 | #.BC5F | AS45102 | Hong Kong | 21 hrs offline |
-| #.102B | AS16509 | Japan | 8 hrs offline |
+| #.6FB5 | AS16509 | Japan | 8 hrs offline |
+| #.71F0 | AS16509 | Japan | 9 hrs offline |
 | #.C80B | AS20473 | Japan | 11 hrs offline |
 | #.BB18 | AS16509 | Japan | 11 hrs offline |
-| #.F9FF | AS16509 | Japan | 9 hrs offline |
+| #.A425 | AS16509 | Japan | 6 hrs offline |
 | #.C47E | AS16509 | Japan | 13 hrs offline |
 | #.F1B0 | AS63949 | Japan | 8 hrs offline |
 | #.96C9 | AS63949 | Japan | 60 hrs offline |
 | #.5342 | AS63949 | Japan | 11 hrs offline |
 | #.DD03 | AS63949 | Japan | 6 hrs offline |
-| #.6FB5 | AS16509 | Japan | 7 hrs offline |
-| #.71F0 | AS16509 | Japan | 8 hrs offline |
-| #.A425 | AS16509 | Japan | 5 hrs offline |
-| #.13D7 | AS16509 | Japan | 11 hrs offline |
-| #.096F | AS63949 | Singapore | 5 hrs offline |
-| #.FD1D | AS20473 | United States | 1 hrs |
+| #.102B | AS16509 | Japan | 9 hrs offline |
+| #.F9FF | AS16509 | Japan | 10 hrs offline |
+| #.13D7 | AS16509 | Japan | 12 hrs offline |
+| #.096F | AS63949 | Singapore | 6 hrs offline |
+| #.FD1D | AS20473 | United States | 2 hrs |
 | #.700F | N/A | N/A | 31 hrs offline |
 
