@@ -1,6 +1,6 @@
-# 121 recent servers:
+# 136 recent servers:
 
-Latest update at: Fri Mar 06 01:10:11 UTC 2020
+Latest update at: Fri Mar 06 02:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -33,7 +33,6 @@ Latest update at: Fri Mar 06 01:10:11 UTC 2020
 | #.6B9B | AS4760 | Hong Kong | 22 hrs offline |
 | #.BD5C | AS16509 | Japan | 60 hrs offline |
 | #.0D1A | AS16509 | Japan | 60 hrs offline |
-| #.C80B | AS20473 | Japan | 1 hrs offline |
 | #.D195 | AS63949 | Japan | 52 hrs offline |
 | #.1E51 | AS16509 | Japan | 60 hrs offline |
 | #.FC15 | AS16509 | Japan | 30 hrs offline |
@@ -41,6 +40,7 @@ Latest update at: Fri Mar 06 01:10:11 UTC 2020
 | #.067A | AS16509 | Japan | 60 hrs offline |
 | #.5FFA | AS4760 | Hong Kong | 54 hrs offline |
 | #.7363 | AS16509 | Japan | 60 hrs offline |
+| #.1A34 | AS63949 | Japan | |
 | #.CCC3 | AS16509 | Japan | 31 hrs offline |
 | #.D3F9 | AS16509 | Japan | 60 hrs offline |
 | #.A8F1 | AS63949 | Japan | 52 hrs offline |
@@ -53,8 +53,11 @@ Latest update at: Fri Mar 06 01:10:11 UTC 2020
 | #.1013 | AS37963 | China | 60 hrs offline |
 | #.3B3F | AS9381 | Hong Kong | 60 hrs offline |
 | #.D6A2 | AS16509 | Japan | 31 hrs offline |
+| #.BB18 | AS16509 | Japan | |
+| #.DA2B | AS16509 | Japan | |
 | #.96C9 | AS63949 | Japan | 55 hrs offline |
 | #.33B8 | AS37963 | China | 60 hrs offline |
+| #.D71D | AS16509 | Japan | |
 | #.50AD | AS37963 | China | 60 hrs offline |
 | #.63C1 | AS63949 | Singapore | 54 hrs offline |
 | #.30D4 | AS58879 | United States | 54 hrs offline |
@@ -125,4 +128,16 @@ Latest update at: Fri Mar 06 01:10:11 UTC 2020
 | #.1068 | AS4760 | Hong Kong | 15 hrs offline |
 | #.DAAD | AS16509 | Japan | 16 hrs offline |
 | #.BC5F | AS45102 | Hong Kong | 9 hrs offline |
+| #.C47E | AS16509 | Japan | |
+| #.F1B0 | AS63949 | Japan | |
+| #.5342 | AS63949 | Japan | |
+| #.DD03 | AS63949 | Japan | |
+| #.C80B | AS20473 | Japan | 1 hrs offline |
+| #.102B | AS16509 | Japan | |
+| #.F9FF | AS16509 | Japan | |
+| #.6FB5 | AS16509 | Japan | |
+| #.71F0 | AS16509 | Japan | |
+| #.A425 | AS16509 | Japan | |
+| #.13D7 | AS16509 | Japan | |
+| #.096F | AS63949 | Singapore | |
 
