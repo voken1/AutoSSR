@@ -1,20 +1,20 @@
 # 125 recent servers:
 
-Latest update at: Sat Mar 07 15:10:10 UTC 2020
+Latest update at: Sat Mar 07 16:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 81 hrs |
-| #.15CF | AS49392 | Russia | 269 hrs |
+| #.D09B | AS174 | United States | 82 hrs |
+| #.15CF | AS49392 | Russia | 270 hrs |
+| #.7F1D | AS63949 | Singapore | 1518 hrs |
 | #.42A0 | AS63949 | Japan | 60 hrs offline |
-| #.7F1D | AS63949 | Singapore | 1517 hrs |
 | #.4F5C | AS16509 | Japan | 60 hrs offline |
 | #.75EB | N/A | N/A | 60 hrs offline |
-| #.9FC3 | AS53889 | United States | 1364 hrs |
+| #.9FC3 | AS53889 | United States | 1365 hrs |
 | #.4AAA | AS16509 | Japan | 60 hrs offline |
 | #.5265 | AS16509 | Japan | 60 hrs offline |
-| #.E069 | AS40065 | United States | 254 hrs |
-| #.5034 | AS63949 | Japan | 48 hrs offline |
+| #.E069 | AS40065 | United States | 255 hrs |
+| #.5034 | AS63949 | Japan | 49 hrs offline |
 | #.B151 | AS63949 | Japan | 60 hrs offline |
 | #.0E18 | AS16509 | Japan | 60 hrs offline |
 | #.F621 | AS16509 | Japan | 60 hrs offline |
@@ -39,13 +39,13 @@ Latest update at: Sat Mar 07 15:10:10 UTC 2020
 | #.5556 | AS9269 | Hong Kong | 60 hrs offline |
 | #.722C | AS16509 | Japan | 60 hrs offline |
 | #.CFD6 | AS16509 | Japan | 60 hrs offline |
-| #.8133 | AS4760 | Hong Kong | 48 hrs offline |
-| #.5B5E | AS63949 | Japan | 48 hrs offline |
-| #.9052 | AS4760 | Hong Kong | 48 hrs offline |
+| #.5B5E | AS63949 | Japan | 49 hrs offline |
+| #.9052 | AS4760 | Hong Kong | 49 hrs offline |
+| #.8133 | AS4760 | Hong Kong | 49 hrs offline |
 | #.5657 | AS63949 | Japan | 60 hrs offline |
-| #.2A79 | AS63949 | Japan | 1346 hrs |
+| #.2A79 | AS63949 | Japan | 1347 hrs |
 | #.CD61 | AS16509 | Japan | 60 hrs offline |
-| #.CA8A | AS49392 | Russia | 12 hrs offline |
+| #.CA8A | AS49392 | Russia | 13 hrs offline |
 | #.F64B | AS63949 | United States | 60 hrs offline |
 | #.1F57 | AS16509 | Japan | 60 hrs offline |
 | #.FC45 | AS16509 | Japan | 60 hrs offline |
@@ -67,8 +67,8 @@ Latest update at: Sat Mar 07 15:10:10 UTC 2020
 | #.BC5F | AS45102 | Hong Kong | 60 hrs offline |
 | #.DD03 | AS63949 | Japan | 48 hrs offline |
 | #.102B | AS16509 | Japan | 51 hrs offline |
+| #.C80B | AS20473 | Japan | 54 hrs offline |
 | #.F9FF | AS16509 | Japan | 52 hrs offline |
-| #.C80B | AS20473 | Japan | 53 hrs offline |
 | #.6FB5 | AS16509 | Japan | 50 hrs offline |
 | #.71F0 | AS16509 | Japan | 51 hrs offline |
 | #.A425 | AS16509 | Japan | 48 hrs offline |
@@ -84,10 +84,10 @@ Latest update at: Sat Mar 07 15:10:10 UTC 2020
 | #.F350 | AS4760 | Hong Kong | 35 hrs offline |
 | #.0F30 | AS4760 | Hong Kong | 35 hrs offline |
 | #.A558 | AS9269 | Hong Kong | 35 hrs offline |
+| #.700F | N/A | N/A | 60 hrs offline |
 | #.373E | AS63949 | Japan | 35 hrs offline |
 | #.A512 | AS63949 | Singapore | 35 hrs offline |
 | #.8DF6 | AS58879 | United States | 35 hrs offline |
-| #.700F | N/A | N/A | 60 hrs offline |
 | #.B22E | AS4760 | Hong Kong | 35 hrs offline |
 | #.DB9E | AS63949 | Japan | 34 hrs offline |
 | #.9166 | AS16509 | Japan | 30 hrs offline |
@@ -114,19 +114,19 @@ Latest update at: Sat Mar 07 15:10:10 UTC 2020
 | #.04C6 | AS63949 | United States | 18 hrs |
 | #.CFE7 | AS16509 | Japan | 19 hrs offline |
 | #.085C | AS20473 | United States | 8 hrs offline |
+| #.7A50 | AS63949 | Japan | 1 hrs |
 | #.E7D1 | AS16509 | Japan | 18 hrs offline |
 | #.A3F6 | N/A | N/A | 19 hrs offline |
 | #.DAB1 | AS16509 | Japan | 15 hrs offline |
 | #.8C5E | AS16509 | Japan | 15 hrs offline |
 | #.EA81 | AS16509 | Japan | 16 hrs offline |
 | #.6A57 | AS16509 | Japan | 13 hrs offline |
-| #.7A50 | AS37963 | China | |
 | #.0BFC | AS16509 | Japan | 17 hrs offline |
-| #.A376 | AS37963 | China | |
-| #.8289 | AS37963 | China | |
-| #.1D07 | AS37963 | China | |
-| #.5DED | AS37963 | China | |
-| #.C5C1 | AS37963 | China | |
-| #.48C0 | AS37963 | China | |
-| #.1D3B | AS37963 | China | |
+| #.A376 | AS63949 | Singapore | 1 hrs |
+| #.8289 | AS63949 | Japan | 1 hrs |
+| #.5DED | AS4760 | Hong Kong | 1 hrs |
+| #.1D07 | AS4760 | Hong Kong | 1 hrs |
+| #.C5C1 | AS4760 | Hong Kong | 1 hrs |
+| #.48C0 | AS9269 | Hong Kong | 1 hrs |
+| #.1D3B | AS4760 | Hong Kong | 1 hrs |
 
