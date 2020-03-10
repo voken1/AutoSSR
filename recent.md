@@ -1,6 +1,6 @@
-# 16 recent servers:
+# 15 recent servers:
 
-Latest update at: Tue Mar 10 06:10:09 UTC 2020
+Latest update at: Tue Mar 10 07:10:15 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,7 +17,6 @@ Latest update at: Tue Mar 10 06:10:09 UTC 2020
 | #.CEDE | AS20473 | Japan | 60 hrs offline |
 | #.04C6 | AS63949 | United States | 60 hrs offline |
 | #.C96E | AS4760 | Hong Kong | 6 hrs offline |
-| #.6ADB | AS20473 | United States | 60 hrs offline |
 | #.FECC | AS20473 | Japan | 18 hrs offline |
 | #.0C4A | AS4760 | Hong Kong | 7 hrs |
 
