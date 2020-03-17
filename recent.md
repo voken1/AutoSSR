@@ -1,6 +1,6 @@
-# 10 recent servers:
+# 11 recent servers:
 
-Latest update at: Tue Mar 17 14:10:21 UTC 2020
+Latest update at: Tue Mar 17 15:10:08 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -14,4 +14,5 @@ Latest update at: Tue Mar 17 14:10:21 UTC 2020
 | #.F7DA | AS45102 | United States | 142 hrs |
 | #.084A | AS51659 | Russia | 48 hrs offline |
 | #.7E6F | AS51659 | Russia | 31 hrs |
+| #.E88F | AS17621 | China | |
 
