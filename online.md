@@ -1,17 +1,17 @@
 # 10 online servers:
 
-Latest update at: Wed Mar 18 17:10:10 UTC 2020
+Latest update at: Wed Mar 18 18:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 751 hrs |
-| #.15CF | AS49392 | Russia | 939 hrs |
-| #.7F1D | AS63949 | Singapore | 2187 hrs |
-| #.9FC3 | AS53889 | United States | 2034 hrs |
-| #.E069 | AS40065 | United States | 924 hrs |
-| #.BD3E | AS63888 | Hong Kong | 67 hrs |
-| #.2A79 | AS63949 | Japan | 2016 hrs |
-| #.F7DA | AS45102 | United States | 214 hrs |
-| #.7E6F | AS51659 | Russia | 18 hrs |
-| #.30D4 |  | Russian Federation | 13 hrs |
+| #.D09B | AS174 | United States | 757 hrs |
+| #.15CF | AS49392 | Russia | 945 hrs |
+| #.7F1D | AS63949 | Singapore | 2193 hrs |
+| #.9FC3 | AS53889 | United States | 2040 hrs |
+| #.E069 | AS40065 | United States | 930 hrs |
+| #.BD3E | AS63888 | Hong Kong | 73 hrs |
+| #.2A79 | AS63949 | Japan | 2022 hrs |
+| #.F7DA | AS45102 | United States | 220 hrs |
+| #.7E6F | AS51659 | Russia | 24 hrs |
+| #.30D4 |  | Russian Federation | 5 hrs |
 
