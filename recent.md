@@ -1,6 +1,6 @@
-# 18 recent servers:
+# 19 recent servers:
 
-Latest update at: Fri Mar 20 12:10:10 UTC 2020
+Latest update at: Fri Mar 20 13:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,6 +17,7 @@ Latest update at: Fri Mar 20 12:10:10 UTC 2020
 | #.79CC | AS56971 | Russia | 60 hrs offline |
 | #.A34E | AS20473 | Germany | 13 hrs |
 | #.DE3F | AS20473 | Japan | 7 hrs |
+| #.926E | AS4837 | China | |
 | #.30D4 | AS56971 | Russia | 60 hrs offline |
 | #.AF8D | AS56046 | China | 31 hrs offline |
 | #.0F08 | AS56046 | China | 31 hrs offline |
