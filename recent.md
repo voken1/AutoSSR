@@ -1,6 +1,6 @@
-# 12 recent servers:
+# 13 recent servers:
 
-Latest update at: Sun Mar 22 00:10:13 UTC 2020
+Latest update at: Sun Mar 22 01:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -15,5 +15,6 @@ Latest update at: Sun Mar 22 00:10:13 UTC 2020
 | #.A34E | AS20473 | Germany | 60 hrs offline |
 | #.926E | AS4837 | China | 60 hrs offline |
 | #.7E71 | AS20473 | France | 1 hrs offline |
+| #.0A93 | AS20473 | France | |
 | #.DE3F | AS20473 | Japan | 60 hrs offline |
 
