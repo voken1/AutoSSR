@@ -1,6 +1,6 @@
-# 13 recent servers:
+# 14 recent servers:
 
-Latest update at: Thu Mar 26 11:10:11 UTC 2020
+Latest update at: Thu Mar 26 12:10:17 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -17,4 +17,5 @@ Latest update at: Thu Mar 26 11:10:11 UTC 2020
 | #.C461 | AS20473 | United States | 60 hrs offline |
 | #.4B0A | AS20473 | Canada | 1 hrs offline |
 | #.1E8E | AS20473 | United States | 1 hrs offline |
+| #.CE6B | AS36352 | United States | |
 
