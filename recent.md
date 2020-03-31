@@ -1,6 +1,6 @@
-# 11 recent servers:
+# 12 recent servers:
 
-Latest update at: Tue Mar 31 14:10:11 UTC 2020
+Latest update at: Tue Mar 31 15:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -15,4 +15,5 @@ Latest update at: Tue Mar 31 14:10:11 UTC 2020
 | #.8122 | AS9009 | United States | 60 hrs offline |
 | #.0C6B | AS47196 | Russia | 4 hrs offline |
 | #.B8A0 | AS14061 | Singapore | 49 hrs offline |
+| #.06F7 | AS20473 | Singapore | |
 
