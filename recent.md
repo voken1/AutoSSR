@@ -1,6 +1,6 @@
-# 23 recent servers:
+# 24 recent servers:
 
-Latest update at: Sun Apr 12 00:10:10 UTC 2020
+Latest update at: Sun Apr 12 01:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -27,4 +27,5 @@ Latest update at: Sun Apr 12 00:10:10 UTC 2020
 | #.CF63 | AS8075 | Hong Kong | 19 hrs |
 | #.060A | AS8075 | Hong Kong | 19 hrs |
 | #.1770 | AS138576 | United States | 19 hrs |
+| #.3A44 | AS20473 | Singapore | |
 
