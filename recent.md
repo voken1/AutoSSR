@@ -1,6 +1,6 @@
-# 23 recent servers:
+# 22 recent servers:
 
-Latest update at: Tue Apr 14 10:10:08 UTC 2020
+Latest update at: Tue Apr 14 11:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -10,7 +10,6 @@ Latest update at: Tue Apr 14 10:10:08 UTC 2020
 | #.C133 | AS51659 | Russia | 6 hrs offline |
 | #.0B84 | AS35913 | United States | 60 hrs offline |
 | #.C348 | AS35913 | United States | 252 hrs |
-| #.E7A4 | AS53667 | United States | 60 hrs offline |
 | #.E069 | AS40065 | United States | 2515 hrs |
 | #.54C3 | AS25820 | United States | 14 hrs offline |
 | #.2A79 | AS63949 | Japan | 1195 hrs |
