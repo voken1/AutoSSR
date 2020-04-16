@@ -1,9 +1,10 @@
-# 14 recent servers:
+# 15 recent servers:
 
-Latest update at: Thu Apr 16 05:10:12 UTC 2020
+Latest update at: Thu Apr 16 06:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
+| #.D09B | AS174 | United States | 1 hrs |
 | #.7F1D | AS63949 | Singapore | 66 hrs |
 | #.9FC3 | AS53889 | United States | 1095 hrs |
 | #.1F2B | AS49392 | Russia | 27 hrs |
@@ -14,8 +15,8 @@ Latest update at: Thu Apr 16 05:10:12 UTC 2020
 | #.F7DA | AS45102 | United States | 167 hrs |
 | #.1770 | AS138576 | United States | 1 hrs |
 | #.0E4C |  | France | 60 hrs offline |
+| #.68AB | N/A | N/A | 13 hrs offline |
 | #.457D |  | France | 37 hrs offline |
 | #.1B33 | AS25820 | United States | 60 hrs offline |
 | #.4397 |  | France | 36 hrs offline |
-| #.68AB | N/A | N/A | 13 hrs offline |
 
