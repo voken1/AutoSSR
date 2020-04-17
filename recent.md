@@ -1,6 +1,6 @@
 # 14 recent servers:
 
-Latest update at: Thu Apr 16 23:10:29 UTC 2020
+Latest update at: Fri Apr 17 00:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -15,7 +15,7 @@ Latest update at: Thu Apr 16 23:10:29 UTC 2020
 | #.F7DA | AS45102 | United States | 215 hrs |
 | #.1770 | AS138576 | United States | 15 hrs |
 | #.68AB |  | France | 25 hrs offline |
-| #.4A45 | N/A | N/A | 25 hrs offline |
 | #.457D |  | France | 60 hrs offline |
+| #.4A45 | N/A | N/A | 25 hrs offline |
 | #.4397 |  | France | 60 hrs offline |
 
