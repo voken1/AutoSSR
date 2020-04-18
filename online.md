@@ -1,17 +1,18 @@
-# 10 online servers:
+# 11 online servers:
 
-Latest update at: Sat Apr 18 17:10:10 UTC 2020
+Latest update at: Sat Apr 18 18:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 129 hrs |
-| #.7F1D | AS63949 | Singapore | 216 hrs |
-| #.9FC3 | AS53889 | United States | 144 hrs |
-| #.1F2B | AS49392 | Russia | 1 hrs |
-| #.C133 | AS51659 | Russia | 72 hrs |
-| #.C348 | AS35913 | United States | 510 hrs |
-| #.E069 | AS40065 | United States | 2773 hrs |
-| #.2A79 | AS63949 | Japan | 1453 hrs |
-| #.F7DA | AS45102 | United States | 317 hrs |
+| #.D09B | AS174 | United States | 134 hrs |
+| #.7F1D | AS63949 | Singapore | 221 hrs |
+| #.9FC3 | AS53889 | United States | 149 hrs |
+| #.1F2B | AS49392 | Russia | 6 hrs |
+| #.C133 | AS51659 | Russia | 77 hrs |
+| #.C348 | AS35913 | United States | 515 hrs |
+| #.E069 | AS40065 | United States | 2778 hrs |
+| #.2A79 | AS63949 | Japan | 1458 hrs |
+| #.F7DA | AS45102 | United States | 322 hrs |
 | #.4A45 |  | France | 1 hrs |
+| #.F5E6 | AS16509 | Japan | 5 hrs |
 
