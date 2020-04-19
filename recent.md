@@ -1,6 +1,6 @@
-# 58 recent servers:
+# 59 recent servers:
 
-Latest update at: Sun Apr 19 08:10:20 UTC 2020
+Latest update at: Sun Apr 19 09:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -62,4 +62,5 @@ Latest update at: Sun Apr 19 08:10:20 UTC 2020
 | #.4AE1 | AS37963 | China | 2 hrs offline |
 | #.87BA | AS37963 | China | 2 hrs offline |
 | #.09A8 | AS37963 | China | |
+| #.1216 | AS37963 | China | |
 
