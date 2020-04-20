@@ -1,25 +1,25 @@
 # 57 recent servers:
 
-Latest update at: Mon Apr 20 07:10:14 UTC 2020
+Latest update at: Mon Apr 20 08:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 213 hrs |
-| #.7F1D | AS63949 | Singapore | 300 hrs |
-| #.9FC3 | AS53889 | United States | 228 hrs |
-| #.1F2B | AS49392 | Russia | 7 hrs |
-| #.C133 | AS51659 | Russia | 156 hrs |
-| #.C348 | AS35913 | United States | 594 hrs |
-| #.E069 | AS40065 | United States | 2857 hrs |
+| #.D09B | AS174 | United States | 219 hrs |
+| #.7F1D | AS63949 | Singapore | 306 hrs |
+| #.9FC3 | AS53889 | United States | 234 hrs |
+| #.1F2B | AS49392 | Russia | 13 hrs |
+| #.C133 | AS51659 | Russia | 162 hrs |
+| #.C348 | AS35913 | United States | 600 hrs |
+| #.E069 | AS40065 | United States | 2863 hrs |
 | #.8CBE | AS15169 |  | 60 hrs offline |
-| #.2A79 | AS63949 | Japan | 1537 hrs |
-| #.F7DA | AS45102 | United States | 401 hrs |
+| #.2A79 | AS63949 | Japan | 1543 hrs |
+| #.F7DA | AS45102 | United States | 407 hrs |
 | #.1770 | AS138576 | United States | 60 hrs offline |
-| #.4A45 |  | France | 1 hrs |
+| #.4A45 |  | France | 2 hrs offline |
 | #.EE39 | AS37963 | China | 60 hrs offline |
 | #.ABA2 | AS37963 | China | 60 hrs offline |
 | #.8C53 | AS37963 | China | 60 hrs offline |
-| #.F5E6 | AS16509 | Japan | 42 hrs offline |
+| #.F5E6 | AS16509 | Japan | 48 hrs offline |
 | #.502C | AS37963 | China | 60 hrs offline |
 | #.50D2 | AS37963 | China | 60 hrs offline |
 | #.D194 | AS37963 | China | 60 hrs offline |
@@ -44,21 +44,21 @@ Latest update at: Mon Apr 20 07:10:14 UTC 2020
 | #.F6A4 | AS58593 | China | 60 hrs offline |
 | #.DB84 | AS37963 | China | 60 hrs offline |
 | #.64A7 | AS58593 | China | 60 hrs offline |
-| #.60CE | AS37963 | China | 50 hrs offline |
-| #.0499 | AS58593 | China | 43 hrs offline |
+| #.0499 | AS58593 | China | 49 hrs offline |
+| #.D80B | AS37963 | China | 56 hrs offline |
 | #.9A3F | AS58593 | China | 60 hrs offline |
 | #.E7E8 | AS37963 | China | 60 hrs offline |
 | #.3E44 | AS58593 | China | 60 hrs offline |
 | #.5CBB | AS58593 | China | 60 hrs offline |
-| #.87BA | AS37963 | China | 50 hrs offline |
-| #.09A8 | AS37963 | China | 49 hrs offline |
-| #.0E64 | AS58593 | China | 49 hrs offline |
-| #.1216 | AS37963 | China | 49 hrs offline |
+| #.1216 | AS37963 | China | 55 hrs offline |
+| #.4AE1 | AS37963 | China | 56 hrs offline |
+| #.87BA | AS37963 | China | 56 hrs offline |
+| #.60CE | AS37963 | China | 56 hrs offline |
+| #.78E8 | AS37963 | China | 55 hrs offline |
 | #.31BD | AS58593 | China | 60 hrs offline |
 | #.429E | AS58593 | China | 60 hrs offline |
-| #.4AE1 | AS37963 | China | 50 hrs offline |
+| #.0E64 | AS58593 | China | 55 hrs offline |
 | #.4DC3 | AS37963 | China | 60 hrs offline |
-| #.D80B | AS37963 | China | 50 hrs offline |
-| #.4F16 | AS37963 | China | 50 hrs offline |
-| #.78E8 | AS37963 | China | 49 hrs offline |
+| #.09A8 | AS37963 | China | 55 hrs offline |
+| #.4F16 | AS37963 | China | 56 hrs offline |
 
