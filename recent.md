@@ -1,6 +1,6 @@
 # 44 recent servers:
 
-Latest update at: Sun Apr 26 02:10:10 UTC 2020
+Latest update at: Sun Apr 26 03:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -27,6 +27,7 @@ Latest update at: Sun Apr 26 02:10:10 UTC 2020
 | #.4FFB | AS63949 | Japan | 54 hrs offline |
 | #.A35F | AS17621 | China | 60 hrs offline |
 | #.4155 | AS17621 | China | 60 hrs offline |
+| #.240A | AS37963 | China | 7 hrs offline |
 | #.290F | AS17621 | China | 60 hrs offline |
 | #.E586 | AS56046 | China | 60 hrs offline |
 | #.2CBD | AS4837 | China | 60 hrs offline |
@@ -35,7 +36,6 @@ Latest update at: Sun Apr 26 02:10:10 UTC 2020
 | #.1FD0 | AS4808 | China | 60 hrs offline |
 | #.6DBB | AS17621 | China | 60 hrs offline |
 | #.CCF8 | AS23650 | China | 60 hrs offline |
-| #.240A | AS37963 | China | 7 hrs offline |
 | #.54FE | AS23650 | China | 60 hrs offline |
 | #.1F8F | AS8075 | Singapore | 60 hrs offline |
 | #.D4B5 | AS56046 | China | 60 hrs offline |
@@ -44,8 +44,8 @@ Latest update at: Sun Apr 26 02:10:10 UTC 2020
 | #.B384 | AS37963 | China | 7 hrs offline |
 | #.E947 | AS37963 | China | 7 hrs offline |
 | #.3202 | AS37963 | China | 7 hrs offline |
-| #.1D64 | AS37963 | China | 7 hrs offline |
-| #.2C27 | AS37963 | China | 7 hrs offline |
 | #.9990 | AS37963 | China | 7 hrs offline |
 | #.0342 | AS37963 | China | 7 hrs offline |
+| #.1D64 | AS37963 | China | 7 hrs offline |
+| #.2C27 | AS37963 | China | 7 hrs offline |
 
