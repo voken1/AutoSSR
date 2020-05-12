@@ -1,18 +1,18 @@
 # 11 recent servers:
 
-Latest update at: Tue May 12 01:10:09 UTC 2020
+Latest update at: Tue May 12 02:10:15 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 296 hrs |
+| #.D09B | AS174 | United States | 298 hrs |
 | #.BA6D | AS35913 | United States | 60 hrs offline |
-| #.7F1D | AS63949 | Singapore | 296 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 46 hrs |
-| #.1F2B | AS49392 | Russia | 8 hrs |
-| #.BD3E | AS63888 | Hong Kong | 1114 hrs |
-| #.2A79 | AS63949 | Japan | 296 hrs |
-| #.33B9 | AS63888 | Hong Kong | 21 hrs |
-| #.A797 | AS51659 | Russia | 13 hrs offline |
+| #.7F1D | AS63949 | Singapore | 298 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 49 hrs |
+| #.1F2B | AS49392 | Russia | 11 hrs |
+| #.BD3E | AS63888 | Hong Kong | 1117 hrs |
+| #.2A79 | AS63949 | Japan | 298 hrs |
+| #.33B9 | AS63888 | Hong Kong | 24 hrs |
+| #.A797 | AS51659 | Russia | 16 hrs offline |
+| #.79C6 | AS4760 | Hong Kong | 13 hrs offline |
 | #.E140 | AS8100 | United States | 60 hrs offline |
-| #.79C6 | AS4760 | Hong Kong | 10 hrs offline |
 
