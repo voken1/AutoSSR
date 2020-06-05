@@ -1,6 +1,6 @@
-# 29 recent servers:
+# 39 recent servers:
 
-Latest update at: Fri Jun 05 11:10:10 UTC 2020
+Latest update at: Fri Jun 05 12:10:15 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -11,6 +11,7 @@ Latest update at: Fri Jun 05 11:10:10 UTC 2020
 | #.B6F8 | AS63888 | Hong Kong | 1623 hrs |
 | #.CCEF | AS63949 | United States | 60 hrs offline |
 | #.3EC2 | AS63949 | Singapore | 60 hrs offline |
+| #.717D | AS20473 | United States | |
 | #.BD3E | AS63888 | Hong Kong | 2692 hrs |
 | #.2A79 | AS63949 | Japan | 1532 hrs |
 | #.250B | AS49392 | Russia | 60 hrs offline |
@@ -33,4 +34,13 @@ Latest update at: Fri Jun 05 11:10:10 UTC 2020
 | #.5815 | AS14061 | United States | 31 hrs offline |
 | #.A197 | AS63949 | United States | 31 hrs offline |
 | #.C931 | AS14061 | United States | 31 hrs offline |
+| #.876E | AS14061 | United States | |
+| #.5A4B | AS20473 | United States | |
+| #.18A4 | AS14061 | United States | |
+| #.2DFE | AS63949 | Singapore | |
+| #.265E | AS63949 | Singapore | |
+| #.FB64 | AS14061 | Singapore | |
+| #.A6DA | AS49392 | Russia | |
+| #.19D1 | AS20473 | Netherlands | |
+| #.CB8A | AS14061 | Singapore | |
 
