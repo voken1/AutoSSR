@@ -1,6 +1,6 @@
-# 30 recent servers:
+# 28 recent servers:
 
-Latest update at: Fri Jun 05 01:10:11 UTC 2020
+Latest update at: Fri Jun 05 02:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,22 +16,20 @@ Latest update at: Fri Jun 05 01:10:11 UTC 2020
 | #.250B | AS49392 | Russia | 60 hrs offline |
 | #.33B9 | AS63888 | Hong Kong | 19 hrs |
 | #.4928 | AS20473 | Japan | 22 hrs |
-| #.1521 | AS23650 | China | 60 hrs offline |
-| #.C64A | AS23650 | China | 60 hrs offline |
 | #.8744 | AS49392 | Russia | 18 hrs |
 | #.0EBB | AS63949 | United States | 60 hrs offline |
 | #.9906 | AS63949 | United States | 60 hrs offline |
 | #.D903 | AS63949 | Singapore | 60 hrs offline |
-| #.6FBD | AS37963 | China | 42 hrs offline |
-| #.7177 | AS63949 | Singapore | 6 hrs offline |
-| #.8F1F | AS14061 | Singapore | 6 hrs offline |
-| #.482D | AS63949 | Singapore | 6 hrs offline |
-| #.4A30 | AS63949 | Singapore | 6 hrs offline |
-| #.69F6 | AS14061 | United States | 6 hrs offline |
-| #.5EF9 | AS63949 | United States | 6 hrs offline |
-| #.130E | AS63949 | United States | 6 hrs offline |
-| #.5815 | AS14061 | United States | 6 hrs offline |
-| #.A197 | AS63949 | United States | 6 hrs offline |
-| #.C931 | AS14061 | United States | 6 hrs offline |
-| #.FE4B | AS14061 | Singapore | 6 hrs offline |
+| #.6FBD | AS37963 | China | 43 hrs offline |
+| #.482D | AS63949 | Singapore | 7 hrs offline |
+| #.4A30 | AS63949 | Singapore | 7 hrs offline |
+| #.69F6 | AS14061 | United States | 7 hrs offline |
+| #.5EF9 | AS63949 | United States | 7 hrs offline |
+| #.130E | AS63949 | United States | 7 hrs offline |
+| #.5815 | AS14061 | United States | 7 hrs offline |
+| #.A197 | AS63949 | United States | 7 hrs offline |
+| #.C931 | AS14061 | United States | 7 hrs offline |
+| #.FE4B | AS14061 | Singapore | 7 hrs offline |
+| #.7177 | AS63949 | Singapore | 7 hrs offline |
+| #.8F1F | AS14061 | Singapore | 7 hrs offline |
 
