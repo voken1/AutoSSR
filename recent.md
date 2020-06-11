@@ -1,39 +1,39 @@
 # 32 recent servers:
 
-Latest update at: Thu Jun 11 10:10:16 UTC 2020
+Latest update at: Thu Jun 11 11:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 348 hrs |
-| #.C831 | AS12301 | Hungary | 530 hrs |
-| #.7F1D | AS63949 | Singapore | 2252 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 2002 hrs |
-| #.9FC3 | AS53889 | United States | 133 hrs |
-| #.988D | AS133752 | Hong Kong | 12 hrs offline |
+| #.D09B | AS174 | United States | 354 hrs |
+| #.C831 | AS12301 | Hungary | 536 hrs |
+| #.7F1D | AS63949 | Singapore | 2258 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 2008 hrs |
+| #.9FC3 | AS53889 | United States | 139 hrs |
+| #.988D | AS133752 | Hong Kong | 18 hrs offline |
 | #.9B52 | AS49392 | Russia | 60 hrs offline |
 | #.9D03 | AS35913 | India | 60 hrs offline |
-| #.BD3E | AS63888 | Hong Kong | 3071 hrs |
-| #.2A79 | AS63949 | Japan | 1911 hrs |
+| #.BD3E | AS63888 | Hong Kong | 3077 hrs |
+| #.2A79 | AS63949 | Japan | 1917 hrs |
 | #.84D5 | AS51659 | Russia | 60 hrs offline |
 | #.0B96 | AS14061 | United States | 60 hrs offline |
 | #.2250 | AS14061 | United States | 60 hrs offline |
 | #.EA06 | AS14061 | Singapore | 60 hrs offline |
 | #.2CC7 | AS20473 | United States | 60 hrs offline |
 | #.A428 | AS20473 | Netherlands | 60 hrs offline |
-| #.F4D0 | AS49392 | Russia | 19 hrs offline |
-| #.F50C | AS63949 | Singapore | 19 hrs offline |
-| #.4FBE | AS63949 | Singapore | 19 hrs offline |
-| #.9413 | AS14061 | Singapore | 19 hrs offline |
-| #.2E6D | AS14061 | Singapore | 19 hrs offline |
-| #.9220 | AS20473 | United States | 19 hrs offline |
-| #.246A | AS14061 | United States | 19 hrs offline |
-| #.FA75 | AS20473 | Netherlands | 19 hrs offline |
-| #.7B67 | AS63949 | United States | 19 hrs offline |
-| #.8EF0 | AS14061 | United States | 19 hrs offline |
-| #.E7D4 | AS63949 | United States | 19 hrs offline |
-| #.C5D2 | AS20473 | United States | 19 hrs offline |
-| #.59B1 | AS63949 | United States | 19 hrs offline |
-| #.FEA1 | AS63949 | Singapore | 19 hrs offline |
-| #.33B9 | AS63888 | Hong Kong | 3 hrs |
-| #.FC14 | AS64271 | Hong Kong | 1 hrs offline |
+| #.246A | AS14061 | United States | 25 hrs offline |
+| #.FA75 | AS20473 | Netherlands | 25 hrs offline |
+| #.F4D0 | AS49392 | Russia | 25 hrs offline |
+| #.F50C | AS63949 | Singapore | 25 hrs offline |
+| #.4FBE | AS63949 | Singapore | 25 hrs offline |
+| #.9413 | AS14061 | Singapore | 25 hrs offline |
+| #.2E6D | AS14061 | Singapore | 25 hrs offline |
+| #.9220 | AS20473 | United States | 25 hrs offline |
+| #.7B67 | AS63949 | United States | 25 hrs offline |
+| #.8EF0 | AS14061 | United States | 25 hrs offline |
+| #.C5D2 | AS20473 | United States | 25 hrs offline |
+| #.59B1 | AS63949 | United States | 25 hrs offline |
+| #.E7D4 | AS63949 | United States | 25 hrs offline |
+| #.FEA1 | AS63949 | Singapore | 25 hrs offline |
+| #.33B9 | AS63888 | Hong Kong | 9 hrs |
+| #.FC14 | AS64271 | Hong Kong | 6 hrs |
 
