@@ -1,6 +1,6 @@
-# 30 recent servers:
+# 24 recent servers:
 
-Latest update at: Fri Jun 12 02:10:11 UTC 2020
+Latest update at: Fri Jun 12 03:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,12 +12,6 @@ Latest update at: Fri Jun 12 02:10:11 UTC 2020
 | #.988D | AS133752 | Hong Kong | 56 hrs offline |
 | #.BD3E | AS63888 | Hong Kong | 3115 hrs |
 | #.2A79 | AS63949 | Japan | 1955 hrs |
-| #.84D5 | AS51659 | Russia | 60 hrs offline |
-| #.0B96 | AS14061 | United States | 60 hrs offline |
-| #.2250 | AS14061 | United States | 60 hrs offline |
-| #.EA06 | AS14061 | Singapore | 60 hrs offline |
-| #.2CC7 | AS20473 | United States | 60 hrs offline |
-| #.A428 | AS20473 | Netherlands | 60 hrs offline |
 | #.9220 | AS20473 | United States | 60 hrs offline |
 | #.246A | AS14061 | United States | 60 hrs offline |
 | #.2E6D | AS14061 | Singapore | 60 hrs offline |
