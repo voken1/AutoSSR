@@ -1,17 +1,17 @@
 # 26 recent servers:
 
-Latest update at: Fri Jun 12 12:10:12 UTC 2020
+Latest update at: Fri Jun 12 13:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 416 hrs |
-| #.C831 | AS12301 | Hungary | 598 hrs |
-| #.7F1D | AS63949 | Singapore | 2320 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 2070 hrs |
+| #.D09B | AS174 | United States | 422 hrs |
+| #.C831 | AS12301 | Hungary | 604 hrs |
+| #.7F1D | AS63949 | Singapore | 2326 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 2076 hrs |
 | #.9FC3 | AS53889 | United States | 60 hrs offline |
 | #.988D | AS133752 | Hong Kong | 60 hrs offline |
-| #.BD3E | AS63888 | Hong Kong | 3139 hrs |
-| #.2A79 | AS63949 | Japan | 1979 hrs |
+| #.BD3E | AS63888 | Hong Kong | 3145 hrs |
+| #.2A79 | AS63949 | Japan | 1985 hrs |
 | #.9220 | AS20473 | United States | 60 hrs offline |
 | #.246A | AS14061 | United States | 60 hrs offline |
 | #.2E6D | AS14061 | Singapore | 60 hrs offline |
@@ -26,8 +26,8 @@ Latest update at: Fri Jun 12 12:10:12 UTC 2020
 | #.8EF0 | AS14061 | United States | 60 hrs offline |
 | #.7B67 | AS63949 | United States | 60 hrs offline |
 | #.FEA1 | AS63949 | Singapore | 60 hrs offline |
-| #.7D30 | AS51659 | Russia | 13 hrs |
-| #.7417 | AS51659 | Russia | 13 hrs |
-| #.33B9 | AS63888 | Hong Kong | 1 hrs offline |
-| #.FC14 | AS64271 | Hong Kong | 51 hrs offline |
+| #.7D30 | AS51659 | Russia | 19 hrs |
+| #.7417 | AS51659 | Russia | 19 hrs |
+| #.33B9 | AS63888 | Hong Kong | 3 hrs offline |
+| #.FC14 | AS64271 | Hong Kong | 57 hrs offline |
 
