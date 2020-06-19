@@ -1,19 +1,17 @@
-# 12 recent servers:
+# 10 recent servers:
 
-Latest update at: Fri Jun 19 22:10:10 UTC 2020
+Latest update at: Fri Jun 19 23:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 78 hrs |
-| #.7F1D | AS63949 | Singapore | 158 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 2562 hrs |
-| #.BD3E | AS63888 | Hong Kong | 3631 hrs |
-| #.2A79 | AS63949 | Japan | 14 hrs |
-| #.1278 | AS23033 | United States | 47 hrs |
-| #.B49D | AS56040 | China | 60 hrs offline |
-| #.0DA4 | AS9808 | China | 60 hrs offline |
-| #.435D | AS14061 | United States | 19 hrs offline |
-| #.EDC2 | AS14061 | United States | 19 hrs offline |
-| #.33B9 | AS63888 | Hong Kong | 12 hrs |
-| #.1F2B | AS49392 | Russia | 11 hrs |
+| #.D09B | AS174 | United States | 84 hrs |
+| #.7F1D | AS63949 | Singapore | 5 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 2568 hrs |
+| #.BD3E | AS63888 | Hong Kong | 3637 hrs |
+| #.2A79 | AS63949 | Japan | 20 hrs |
+| #.1278 | AS23033 | United States | 53 hrs |
+| #.435D | AS14061 | United States | 25 hrs offline |
+| #.EDC2 | AS14061 | United States | 25 hrs offline |
+| #.33B9 | AS63888 | Hong Kong | 18 hrs |
+| #.1F2B | AS49392 | Russia | 4 hrs |
 
