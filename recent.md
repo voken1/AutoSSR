@@ -1,6 +1,6 @@
 # 15 recent servers:
 
-Latest update at: Thu Jun 25 18:10:15 UTC 2020
+Latest update at: Thu Jun 25 19:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -16,7 +16,7 @@ Latest update at: Thu Jun 25 18:10:15 UTC 2020
 | #.1DC3 | AS4760 | Hong Kong | 25 hrs |
 | #.C4BB | AS9304 | Hong Kong | 25 hrs |
 | #.08AA | AS9269 | Hong Kong | 2 hrs |
-| #.E885 | AS136959 | China | 12 hrs offline |
-| #.59AB | AS136959 | China | 12 hrs offline |
-| #.205E | AS56040 | China | 12 hrs offline |
+| #.E885 | AS136959 | China | 13 hrs offline |
+| #.59AB | AS136959 | China | 13 hrs offline |
+| #.205E | AS56040 | China | 13 hrs offline |
 
