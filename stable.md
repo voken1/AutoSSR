@@ -1,11 +1,12 @@
-# 4 stable servers:
+# 5 stable servers:
 
-Latest update at: Fri Jun 26 17:10:11 UTC 2020
+Latest update at: Fri Jun 26 18:10:15 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.7F1D | AS63949 | Singapore | 447 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 3010 hrs |
-| #.BD3E | AS63888 | Hong Kong | 4079 hrs |
-| #.1278 | AS23033 | United States | 495 hrs |
+| #.7F1D | AS63949 | Singapore | 455 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 3018 hrs |
+| #.BD3E | AS63888 | Hong Kong | 4087 hrs |
+| #.1278 | AS23033 | United States | 503 hrs |
+| #.1DC3 | AS4760 | Hong Kong | 13 hrs |
 
