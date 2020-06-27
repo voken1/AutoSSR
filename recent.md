@@ -1,21 +1,21 @@
 # 16 recent servers:
 
-Latest update at: Sat Jun 27 00:10:11 UTC 2020
+Latest update at: Sat Jun 27 01:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 24 hrs |
-| #.7F1D | AS63949 | Singapore | 467 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 3030 hrs |
-| #.BD3E | AS63888 | Hong Kong | 4099 hrs |
+| #.D09B | AS174 | United States | 2 hrs |
+| #.7F1D | AS63949 | Singapore | 473 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 3036 hrs |
+| #.BD3E | AS63888 | Hong Kong | 4105 hrs |
 | #.2A79 | AS63949 | Japan | 60 hrs offline |
-| #.1278 | AS23033 | United States | 515 hrs |
-| #.33B9 | AS63888 | Hong Kong | 24 hrs |
+| #.1278 | AS23033 | United States | 521 hrs |
+| #.33B9 | AS63888 | Hong Kong | 30 hrs |
+| #.1F2B | AS49392 | Russia | 6 hrs offline |
 | #.02A3 | AS49392 | Russia | 60 hrs offline |
-| #.1F2B | AS49392 | Russia | 7 hrs |
-| #.1DC3 | AS4760 | Hong Kong | 25 hrs |
-| #.C4BB | AS9304 | Hong Kong | 8 hrs |
-| #.08AA | AS9269 | Hong Kong | 24 hrs |
+| #.1DC3 | AS4760 | Hong Kong | 31 hrs |
+| #.C4BB | AS9304 | Hong Kong | 14 hrs |
+| #.08AA | AS9269 | Hong Kong | 30 hrs |
 | #.E885 | AS136959 | China | 60 hrs offline |
 | #.59AB | AS136959 | China | 60 hrs offline |
 | #.205E | AS56040 | China | 60 hrs offline |
