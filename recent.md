@@ -1,6 +1,6 @@
-# 10 recent servers:
+# 11 recent servers:
 
-Latest update at: Sat Jul 04 03:10:12 UTC 2020
+Latest update at: Sat Jul 04 04:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -14,4 +14,5 @@ Latest update at: Sat Jul 04 03:10:12 UTC 2020
 | #.1F2B | AS49392 | Russia | 3 hrs |
 | #.08AA | AS9269 | Hong Kong | 30 hrs offline |
 | #.770F | AS202425 | Netherlands | 24 hrs |
+| #.5B65 | N/A | N/A | |
 
