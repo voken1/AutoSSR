@@ -1,19 +1,18 @@
-# 12 recent servers:
+# 11 recent servers:
 
-Latest update at: Mon Jul 06 20:10:11 UTC 2020
+Latest update at: Mon Jul 06 21:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 37 hrs |
+| #.D09B | AS174 | United States | 43 hrs |
 | #.980B | AS35913 | United States | 60 hrs offline |
-| #.91E8 | AS49392 | Russia | 55 hrs |
-| #.7F1D | AS63949 | Singapore | 12 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 3678 hrs |
-| #.5CA3 | AS56040 | China | 7 hrs offline |
-| #.BD3E | AS63888 | Hong Kong | 4747 hrs |
-| #.2A79 | AS63949 | Japan | 31 hrs |
-| #.1278 | AS23033 | United States | 1163 hrs |
-| #.33B9 | AS63888 | Hong Kong | 12 hrs |
-| #.1F2B | AS49392 | Russia | 60 hrs offline |
-| #.770F | AS202425 | Netherlands | 11 hrs offline |
+| #.91E8 | AS49392 | Russia | 61 hrs |
+| #.7F1D | AS63949 | Singapore | 18 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 3684 hrs |
+| #.5CA3 | AS56040 | China | 13 hrs offline |
+| #.BD3E | AS63888 | Hong Kong | 4753 hrs |
+| #.2A79 | AS63949 | Japan | 37 hrs |
+| #.1278 | AS23033 | United States | 1169 hrs |
+| #.33B9 | AS63888 | Hong Kong | 18 hrs |
+| #.770F | AS202425 | Netherlands | 1 hrs |
 
