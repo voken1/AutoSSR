@@ -1,21 +1,21 @@
 # 14 recent servers:
 
-Latest update at: Tue Jul 07 20:10:14 UTC 2020
+Latest update at: Tue Jul 07 21:10:09 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 24 hrs |
-| #.91E8 | AS49392 | Russia | 121 hrs |
-| #.7F1D | AS63949 | Singapore | 78 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 3744 hrs |
+| #.D09B | AS174 | United States | 30 hrs |
+| #.91E8 | AS49392 | Russia | 127 hrs |
+| #.7F1D | AS63949 | Singapore | 84 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 3750 hrs |
 | #.5CA3 | AS56040 | China | 60 hrs offline |
-| #.0B9E | AS134763 | China | 13 hrs offline |
-| #.B937 | AS4760 | Hong Kong | 7 hrs offline |
-| #.151D | AS134763 | China | 13 hrs offline |
-| #.4823 | AS134763 | China | 13 hrs offline |
-| #.BD3E | AS63888 | Hong Kong | 4813 hrs |
-| #.2A79 | AS63949 | Japan | 3 hrs |
-| #.1278 | AS23033 | United States | 1229 hrs |
-| #.33B9 | AS63888 | Hong Kong | 29 hrs |
-| #.770F | AS202425 | Netherlands | 12 hrs offline |
+| #.0B9E | AS134763 | China | 19 hrs offline |
+| #.B937 | AS4760 | Hong Kong | 13 hrs offline |
+| #.151D | AS134763 | China | 19 hrs offline |
+| #.4823 | AS134763 | China | 19 hrs offline |
+| #.BD3E | AS63888 | Hong Kong | 4819 hrs |
+| #.2A79 | AS63949 | Japan | 9 hrs |
+| #.1278 | AS23033 | United States | 1235 hrs |
+| #.33B9 | AS63888 | Hong Kong | 35 hrs |
+| #.770F | AS202425 | Netherlands | 18 hrs offline |
 
