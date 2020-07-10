@@ -1,19 +1,17 @@
-# 12 stable servers:
+# 10 stable servers:
 
-Latest update at: Fri Jul 10 00:10:11 UTC 2020
+Latest update at: Fri Jul 10 01:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 44 hrs |
-| #.7F1D | AS63949 | Singapore | 25 hrs |
-| #.B6F8 | AS63888 | Hong Kong | 3888 hrs |
-| #.BD3E | AS63888 | Hong Kong | 4957 hrs |
-| #.AC9E | AS20473 | Japan | 25 hrs |
-| #.A753 | AS20473 | Japan | 18 hrs |
-| #.B704 | AS20473 | Japan | 16 hrs |
-| #.CE05 | AS20473 | Japan | 25 hrs |
-| #.5E8A | AS20473 | Japan | 15 hrs |
-| #.1278 | AS23033 | United States | 1373 hrs |
-| #.33B9 | AS63888 | Hong Kong | 17 hrs |
-| #.FC14 | AS64271 | Hong Kong | 22 hrs |
+| #.D09B | AS174 | United States | 48 hrs |
+| #.7F1D | AS63949 | Singapore | 29 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 3892 hrs |
+| #.BD3E | AS63888 | Hong Kong | 4961 hrs |
+| #.B704 | AS20473 | Japan | 19 hrs |
+| #.CE05 | AS20473 | Japan | 28 hrs |
+| #.AC9E | AS20473 | Japan | 28 hrs |
+| #.1278 | AS23033 | United States | 1377 hrs |
+| #.33B9 | AS63888 | Hong Kong | 21 hrs |
+| #.FC14 | AS64271 | Hong Kong | 26 hrs |
 
