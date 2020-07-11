@@ -1,10 +1,10 @@
 # 3 stable servers:
 
-Latest update at: Sat Jul 11 20:10:11 UTC 2020
+Latest update at: Sat Jul 11 21:10:07 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.B6F8 | AS63888 | Hong Kong | 4008 hrs |
-| #.BD3E | AS63888 | Hong Kong | 5077 hrs |
-| #.5AD7 | AS8075 | Hong Kong | 79 hrs |
+| #.D09B | AS174 | United States | 18 hrs |
+| #.B6F8 | AS63888 | Hong Kong | 4014 hrs |
+| #.BD3E | AS63888 | Hong Kong | 5083 hrs |
 
