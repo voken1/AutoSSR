@@ -1,9 +1,10 @@
-# 2 stable servers:
+# 3 stable servers:
 
-Latest update at: Tue Jul 14 17:10:11 UTC 2020
+Latest update at: Tue Jul 14 18:10:14 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 75 hrs |
-| #.2A79 | AS63949 | Japan | 67 hrs |
+| #.D09B | AS174 | United States | 79 hrs |
+| #.2A79 | AS63949 | Japan | 71 hrs |
+| #.BEB0 | AS20473 | United States | 14 hrs |
 
