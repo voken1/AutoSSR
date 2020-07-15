@@ -1,6 +1,6 @@
-# 22 recent servers:
+# 21 recent servers:
 
-Latest update at: Wed Jul 15 01:10:11 UTC 2020
+Latest update at: Wed Jul 15 02:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,7 +12,6 @@ Latest update at: Wed Jul 15 01:10:11 UTC 2020
 | #.CBC4 | AS56040 | China | 25 hrs offline |
 | #.78DA | AS56040 | China | 25 hrs offline |
 | #.5AD7 | AS8075 | Hong Kong | 6 hrs offline |
-| #.125B | AS16913 | United States | 60 hrs offline |
 | #.820A | AS49392 | Russia | 60 hrs offline |
 | #.3A2A | AS20473 | Japan | 1 hrs offline |
 | #.8DA5 | AS20473 | Japan | 1 hrs |
