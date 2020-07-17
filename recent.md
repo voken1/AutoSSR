@@ -1,28 +1,28 @@
 # 21 recent servers:
 
-Latest update at: Fri Jul 17 05:10:09 UTC 2020
+Latest update at: Fri Jul 17 06:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 10 hrs |
-| #.7F1D | AS63949 | Singapore | 25 hrs |
-| #.59DE | AS16509 | United States | 41 hrs offline |
-| #.0000 | AS20473 | Japan | 2 hrs |
-| #.7070 | AS16913 | United States | 1 hrs offline |
-| #.5AD7 | AS8075 | Hong Kong | 1 hrs |
-| #.CAA8 | AS9009 | United States | 79 hrs |
-| #.9CEE | AS10103 | Hong Kong | 1 hrs offline |
-| #.6616 | AS10103 | Hong Kong | 2 hrs offline |
-| #.BA2F | AS20473 | Japan | 37 hrs offline |
-| #.8073 | AS20473 | Japan | 4 hrs offline |
+| #.D09B | AS174 | United States | 3 hrs |
+| #.7F1D | AS63949 | Singapore | 31 hrs |
+| #.59DE | AS16509 | United States | 47 hrs offline |
+| #.0000 | AS20473 | Japan | 2 hrs offline |
+| #.7070 | AS16913 | United States | 4 hrs |
+| #.5AD7 | AS8075 | Hong Kong | 3 hrs offline |
+| #.CAA8 | AS9009 | United States | 85 hrs |
+| #.6616 | AS10103 | Hong Kong | 8 hrs offline |
+| #.9CEE | AS10103 | Hong Kong | 7 hrs offline |
+| #.BA2F | AS20473 | Japan | 43 hrs offline |
+| #.8073 | AS20473 | Japan | 3 hrs |
+| #.D4EC | AS10103 | Hong Kong | 4 hrs |
 | #.3A2A | AS20473 | Japan | 60 hrs offline |
+| #.2BA6 | AS16509 | Hong Kong | 4 hrs offline |
 | #.A4A8 | AS20473 | Japan | 60 hrs offline |
 | #.8DA5 | AS20473 | Japan | 60 hrs offline |
 | #.A8ED | AS20473 | Japan | 60 hrs offline |
-| #.D4EC | AS56040 | China | |
-| #.2BA6 | AS56040 | China | |
-| #.BEB0 | AS20473 | United States | 18 hrs offline |
-| #.33B9 | AS63888 | Hong Kong | 3 hrs |
+| #.BEB0 | AS20473 | United States | 24 hrs offline |
+| #.33B9 | AS63888 | Hong Kong | 2 hrs |
 | #.1F2B | AS49392 | Russia | 60 hrs offline |
-| #.770F | AS202425 | Netherlands | 8 hrs offline |
+| #.770F | AS202425 | Netherlands | 1 hrs |
 
