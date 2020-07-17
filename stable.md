@@ -1,9 +1,10 @@
-# 2 stable servers:
+# 3 stable servers:
 
-Latest update at: Fri Jul 17 20:10:13 UTC 2020
+Latest update at: Fri Jul 17 21:10:20 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.CAA8 | AS9009 | United States | 121 hrs |
-| #.73F9 | AS20473 | United States | 13 hrs |
+| #.CAA8 | AS9009 | United States | 127 hrs |
+| #.73F9 | AS20473 | United States | 19 hrs |
+| #.33B9 | AS63888 | Hong Kong | 13 hrs |
 
