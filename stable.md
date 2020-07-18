@@ -1,8 +1,9 @@
-# 1 stable servers:
+# 2 stable servers:
 
-Latest update at: Sat Jul 18 20:10:14 UTC 2020
+Latest update at: Sat Jul 18 21:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.66FA | AS9009 | United States | 55 hrs |
+| #.73F9 | AS20473 | United States | 14 hrs |
+| #.66FA | AS9009 | United States | 61 hrs |
 
