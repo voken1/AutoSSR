@@ -1,10 +1,12 @@
-# 3 online servers:
+# 5 online servers:
 
-Latest update at: Sun Jul 19 18:10:17 UTC 2020
+Latest update at: Sun Jul 19 19:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.66FA | AS9009 | United States | 22 hrs |
+| #.73F9 | AS20473 | United States | 1 hrs |
+| #.66FA | AS9009 | United States | 23 hrs |
 | #.33B9 | AS63888 | Hong Kong | 6 hrs |
-| #.7261 | AS20473 | Japan | 5 hrs |
+| #.B5C2 | AS20473 | Japan | 1 hrs |
+| #.7261 | AS20473 | Japan | 6 hrs |
 
