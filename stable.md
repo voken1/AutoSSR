@@ -1,8 +1,9 @@
-# 1 stable servers:
+# 2 stable servers:
 
-Latest update at: Mon Jul 20 20:10:10 UTC 2020
+Latest update at: Mon Jul 20 21:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.AA0D | AS9009 | United States | 55 hrs |
+| #.AA0D | AS9009 | United States | 61 hrs |
+| #.C4BB | AS9304 | Hong Kong | 16 hrs |
 
