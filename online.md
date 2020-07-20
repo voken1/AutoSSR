@@ -1,11 +1,10 @@
-# 4 online servers:
+# 3 online servers:
 
-Latest update at: Mon Jul 20 13:10:13 UTC 2020
+Latest update at: Mon Jul 20 14:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.33B9 | AS63888 | Hong Kong | 3 hrs |
-| #.7261 | AS20473 | Japan | 6 hrs |
-| #.AA0D | AS9009 | United States | 37 hrs |
-| #.C4BB | AS9304 | Hong Kong | 15 hrs |
+| #.7F1D | AS63949 | Singapore | 3 hrs |
+| #.AA0D | AS9009 | United States | 43 hrs |
+| #.C4BB | AS9304 | Hong Kong | 1 hrs |
 
