@@ -1,21 +1,21 @@
 # 34 recent servers:
 
-Latest update at: Wed Jul 22 10:10:10 UTC 2020
+Latest update at: Wed Jul 22 11:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.7F1D | AS63949 | Singapore | 6 hrs |
-| #.2A79 | AS63949 | Japan | 79 hrs |
+| #.7F1D | AS63949 | Singapore | 1 hrs |
+| #.2A79 | AS63949 | Japan | 85 hrs |
 | #.5AD7 | AS8075 | Hong Kong | 60 hrs offline |
-| #.33B9 | AS63888 | Hong Kong | 1 hrs offline |
-| #.B5C2 | AS20473 | Japan | 30 hrs offline |
-| #.7261 | AS20473 | Japan | 13 hrs offline |
-| #.AA0D | AS9009 | United States | 30 hrs offline |
-| #.7867 | AS8075 | Hong Kong | 1 hrs |
+| #.33B9 | AS63888 | Hong Kong | 4 hrs offline |
+| #.B5C2 | AS20473 | Japan | 36 hrs offline |
+| #.7261 | AS20473 | Japan | 19 hrs offline |
+| #.AA0D | AS9009 | United States | 36 hrs offline |
+| #.7867 | AS8075 | Hong Kong | 3 hrs |
 | #.D5CE | AS4837 | China | 60 hrs offline |
 | #.E7A0 | AS4837 | China | 60 hrs offline |
-| #.C4BB | AS9304 | Hong Kong | 1 hrs |
 | #.BF76 | AS4837 | China | 60 hrs offline |
+| #.C4BB | AS9304 | Hong Kong | 1 hrs offline |
 | #.4CFE | AS56040 | China | 60 hrs offline |
 | #.82DE | AS56040 | China | 60 hrs offline |
 | #.A64A | AS56040 | China | 60 hrs offline |
@@ -36,6 +36,6 @@ Latest update at: Wed Jul 22 10:10:10 UTC 2020
 | #.32F6 | AS56040 | China | 60 hrs offline |
 | #.46CD | AS56040 | China | 60 hrs offline |
 | #.2345 | AS16509 | Singapore | 60 hrs offline |
-| #.543E | AS51659 | Russia | 25 hrs |
-| #.770F | AS202425 | Netherlands | 12 hrs offline |
+| #.770F | AS202425 | Netherlands | 18 hrs offline |
+| #.543E | AS51659 | Russia | 6 hrs offline |
 
