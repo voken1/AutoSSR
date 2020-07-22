@@ -1,6 +1,6 @@
-# 34 recent servers:
+# 35 recent servers:
 
-Latest update at: Tue Jul 21 23:10:11 UTC 2020
+Latest update at: Wed Jul 22 00:10:13 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -38,4 +38,5 @@ Latest update at: Tue Jul 21 23:10:11 UTC 2020
 | #.F461 | AS4837 | China | 55 hrs offline |
 | #.2345 | AS16509 | Singapore | 45 hrs offline |
 | #.770F | AS202425 | Netherlands | 6 hrs |
+| #.543E | N/A | N/A | |
 
