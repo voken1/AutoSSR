@@ -1,9 +1,10 @@
-# 5 online servers:
+# 6 online servers:
 
-Latest update at: Mon Jul 27 08:10:12 UTC 2020
+Latest update at: Mon Jul 27 09:10:12 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
+| #.D09B | AS174 | United States | 1 hrs |
 | #.7F1D | AS63949 | Singapore | 52 hrs |
 | #.0322 | AS45102 | Singapore | 193 hrs |
 | #.6740 | AS20473 | Japan | 1 hrs |
