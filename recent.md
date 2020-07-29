@@ -1,14 +1,14 @@
 # 37 recent servers:
 
-Latest update at: Wed Jul 29 20:10:13 UTC 2020
+Latest update at: Wed Jul 29 21:10:10 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.D09B | AS174 | United States | 13 hrs |
-| #.7F1D | AS63949 | Singapore | 191 hrs |
+| #.D09B | AS174 | United States | 19 hrs |
+| #.7F1D | AS63949 | Singapore | 197 hrs |
 | #.0322 | AS45102 | Singapore | 60 hrs offline |
-| #.2A79 | AS63949 | Japan | 13 hrs |
-| #.4974 | AS51659 | Russia | 12 hrs offline |
+| #.2A79 | AS63949 | Japan | 19 hrs |
+| #.4974 | AS51659 | Russia | 18 hrs offline |
 | #.9704 | AS56040 | China | 60 hrs offline |
 | #.EFFF | AS4837 | China | 60 hrs offline |
 | #.D3E2 | AS4837 | China | 60 hrs offline |
@@ -37,8 +37,8 @@ Latest update at: Wed Jul 29 20:10:13 UTC 2020
 | #.88FC | AS56040 | China | 60 hrs offline |
 | #.CEB0 | AS24445 | China | 60 hrs offline |
 | #.7CC5 | AS4837 | China | 60 hrs offline |
-| #.44BA | AS56630 | Russia | 13 hrs offline |
-| #.33B9 | AS63888 | Hong Kong | 10 hrs |
-| #.1F2B | AS49392 | Russia | 12 hrs offline |
-| #.770F | AS202425 | Netherlands | 14 hrs offline |
+| #.44BA | AS56630 | Russia | 19 hrs offline |
+| #.33B9 | AS63888 | Hong Kong | 16 hrs |
+| #.1F2B | AS49392 | Russia | 18 hrs offline |
+| #.770F | AS202425 | Netherlands | 20 hrs offline |
 
