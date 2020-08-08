@@ -1,5 +1,8 @@
-# 0 stable servers:
+# 1 stable servers:
 
-Latest update at: Sat Aug 08 20:10:13 UTC 2020
+Latest update at: Sat Aug 08 21:10:12 UTC 2020
 
-No stable servers for now.
+| ID | ASN | Server Country | Online |
+| -- | --- | -------------- | ------ |
+| #.33B9 | AS63888 | Hong Kong | 13 hrs |
+
