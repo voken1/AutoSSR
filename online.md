@@ -1,5 +1,10 @@
-# 0 online servers:
+# 3 online servers:
 
-Latest update at: Sun Aug 09 11:10:10 UTC 2020
+Latest update at: Sun Aug 09 12:10:15 UTC 2020
 
-No online servers for now.
+| ID | ASN | Server Country | Online |
+| -- | --- | -------------- | ------ |
+| #.7F1D | AS63949 | Singapore | 6 hrs |
+| #.D369 | AS16509 | Japan | 3 hrs |
+| #.33B9 | AS63888 | Hong Kong | 2 hrs |
+
