@@ -1,8 +1,5 @@
-# 1 stable servers:
+# 0 stable servers:
 
-Latest update at: Mon Aug 10 04:10:08 UTC 2020
+Latest update at: Mon Aug 10 05:10:08 UTC 2020
 
-| ID | ASN | Server Country | Online |
-| -- | --- | -------------- | ------ |
-| #.7F1D | AS63949 | Singapore | 48 hrs |
-
+No stable servers for now.

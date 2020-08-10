@@ -1,11 +1,11 @@
 # 4 online servers:
 
-Latest update at: Mon Aug 10 04:10:08 UTC 2020
+Latest update at: Mon Aug 10 05:10:08 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.7F1D | AS63949 | Singapore | 48 hrs |
-| #.2A79 | AS63949 | Japan | 2 hrs |
-| #.D369 | AS16509 | Japan | 3 hrs |
-| #.770F | AS202425 | Netherlands | 2 hrs |
+| #.7F1D | AS63949 | Singapore | 2 hrs |
+| #.2A79 | AS63949 | Japan | 1 hrs |
+| #.33B9 | AS63888 | Hong Kong | 1 hrs |
+| #.1F2B | AS49392 | Russia | 6 hrs |
 
