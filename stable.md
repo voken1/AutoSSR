@@ -1,5 +1,9 @@
-# 0 stable servers:
+# 2 stable servers:
 
-Latest update at: Wed Aug 12 20:10:12 UTC 2020
+Latest update at: Wed Aug 12 21:10:11 UTC 2020
 
-No stable servers for now.
+| ID | ASN | Server Country | Online |
+| -- | --- | -------------- | ------ |
+| #.D09B | AS174 | United States | 18 hrs |
+| #.7F1D | AS63949 | Singapore | 17 hrs |
+
