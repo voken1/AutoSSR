@@ -1,6 +1,6 @@
-# 8 recent servers:
+# 9 recent servers:
 
-Latest update at: Thu Aug 13 03:10:09 UTC 2020
+Latest update at: Thu Aug 13 04:10:16 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
@@ -12,4 +12,5 @@ Latest update at: Thu Aug 13 03:10:09 UTC 2020
 | #.1F2B | AS49392 | Russia | 2 hrs offline |
 | #.3D3D | N/A | N/A | 60 hrs offline |
 | #.770F | AS202425 | Netherlands | 19 hrs |
+| #.623A | N/A | N/A | |
 
