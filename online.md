@@ -1,6 +1,6 @@
 # 4 online servers:
 
-Latest update at: Tue Aug 18 07:10:14 UTC 2020
+Latest update at: Tue Aug 18 08:10:22 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
