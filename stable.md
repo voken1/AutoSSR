@@ -1,11 +1,11 @@
 # 4 stable servers:
 
-Latest update at: Sun Aug 23 05:10:09 UTC 2020
+Latest update at: Sun Aug 23 06:10:11 UTC 2020
 
 | ID | ASN | Server Country | Online |
 | -- | --- | -------------- | ------ |
-| #.95A7 | AS51659 | Russia | 65 hrs |
-| #.7F1D | AS63949 | Singapore | 35 hrs |
-| #.FEBE | AS51659 | Russia | 65 hrs |
-| #.8AE5 | AS49392 | Russia | 35 hrs |
+| #.95A7 | AS51659 | Russia | 67 hrs |
+| #.7F1D | AS63949 | Singapore | 36 hrs |
+| #.FEBE | AS51659 | Russia | 67 hrs |
+| #.8AE5 | AS49392 | Russia | 37 hrs |
 
